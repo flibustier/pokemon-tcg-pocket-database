@@ -1,0 +1,31 @@
+{
+  "name": "pokemon-tcg-pocket-database",
+  "version": "1.0.1",
+  "description": "Pokemon TCG Pocket complete cards and sets JSON database",
+  "files": [
+    "dist/cards.json",
+    "dist/sets.json"
+  ],
+  "scripts": {
+    "generate": "deno --allow-read --allow-write --allow-env ./scripts/create-db.js"
+  },
+  "keywords": [
+    "pokemon",
+    "pokemon tcg",
+    "pokemon pocket",
+    "pokemon cards"
+  ],
+  "author": "flibustier",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flibustier/pokemon-tcg-pocket-database.git"
+  },
+  "bugs": {
+    "url": "https://github.com/flibustier/pokemon-tcg-pocket-database/issues"
+  },
+  "homepage": "https://github.com/flibustier/pokemon-tcg-pocket-database#readme",
+  "devDependencies": {
+    "cheerio": "1.0.0"
+  }
+}
