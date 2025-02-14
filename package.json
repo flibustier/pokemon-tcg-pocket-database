@@ -1,10 +1,11 @@
 {
   "name": "pokemon-tcg-pocket-database",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Pokemon TCG Pocket complete cards and sets JSON database",
   "files": [
     "dist/cards.json",
-    "dist/sets.json"
+    "dist/sets.json",
+    "dist/rarity.json"
   ],
   "scripts": {
     "generate": "deno --allow-read --allow-write --allow-env ./scripts/create-db.js"
