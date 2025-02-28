@@ -1,6 +1,6 @@
 import fs from "node:fs";
 import * as cheerio from "cheerio";
-import rarityMap from "./dist/rarity.json" assert { type: "json" };
+import rarityMap from "../dist/rarity.json" with { type: "json" };
 
 const html = fs.readFileSync("./scraps.html", "utf8");
 
@@ -25,7 +25,7 @@ $(".card-grid__cell").each((index, element) => {
 
   const cardData = {
     set: hrefParts[1].toUpperCase(),
-    number: hrefParts[2],
+    number: parseInt(hrefParts[2]),
     rarity: rarityMap[rarityCode],
     rarityCode,
     imageName: imageName,
@@ -40,10 +40,16 @@ $(".card-grid__cell").each((index, element) => {
 
 const result = JSON.stringify(cards, null, 2);
 
-fs.writeFileSync("dist/cards.json", result);
+fs.writeFileSync("./dist/cards.json", result);
 
-/*
 const sets = [...new Set(cards.map((card) => card.set))];
 
-fs.writeFileSync("dist/sets.json", JSON.stringify(sets, null, 2));
-*/
+for (const set of sets) {
+  const setCards = cards.filter((card) => card.set === set);
+
+  for (let i = 1; i <= setCards.length; i++) {
+    if (!setCards.find((card) => card.number === i)) {
+      console.error(`Missing card number ${i} in set ${set}`);
+    }
+  }
+}

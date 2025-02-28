@@ -1,7 +1,7 @@
 [
   {
     "set": "A1",
-    "number": "1",
+    "number": 1,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000010_00_FUSHIGIDANE_C.webp",
@@ -12,7 +12,7 @@
   },
   {
     "set": "A1",
-    "number": "2",
+    "number": 2,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_000020_00_FUSHIGISOU_U.webp",
@@ -23,7 +23,7 @@
   },
   {
     "set": "A1",
-    "number": "3",
+    "number": 3,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_000030_00_FUSHIGIBANA_R.webp",
@@ -34,7 +34,7 @@
   },
   {
     "set": "A1",
-    "number": "4",
+    "number": 4,
     "rarity": "Double Rare",
     "rarityCode": "RR",
     "imageName": "cPK_10_000040_00_FUSHIGIBANAex_RR.webp",
@@ -45,7 +45,7 @@
   },
   {
     "set": "A1",
-    "number": "5",
+    "number": 5,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000050_00_CATERPIE_C.webp",
@@ -56,7 +56,7 @@
   },
   {
     "set": "A1",
-    "number": "6",
+    "number": 6,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000060_00_TRANSEL_C.webp",
@@ -67,7 +67,7 @@
   },
   {
     "set": "A1",
-    "number": "7",
+    "number": 7,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_000070_00_BUTTERFREE_R.webp",
@@ -78,7 +78,7 @@
   },
   {
     "set": "A1",
-    "number": "8",
+    "number": 8,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000080_00_BEEDLE_C.webp",
@@ -89,7 +89,7 @@
   },
   {
     "set": "A1",
-    "number": "9",
+    "number": 9,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000090_00_COCOON_C.webp",
@@ -100,7 +100,7 @@
   },
   {
     "set": "A1",
-    "number": "10",
+    "number": 10,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_000100_00_SPEAR_R.webp",
@@ -111,7 +111,7 @@
   },
   {
     "set": "A1",
-    "number": "11",
+    "number": 11,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000110_00_NAZONOKUSA_C.webp",
@@ -122,7 +122,7 @@
   },
   {
     "set": "A1",
-    "number": "12",
+    "number": 12,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_000120_00_KUSAIHANA_U.webp",
@@ -133,7 +133,7 @@
   },
   {
     "set": "A1",
-    "number": "13",
+    "number": 13,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_000130_00_RUFFRESIA_R.webp",
@@ -144,7 +144,7 @@
   },
   {
     "set": "A1",
-    "number": "14",
+    "number": 14,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000140_00_PARAS_C.webp",
@@ -155,7 +155,7 @@
   },
   {
     "set": "A1",
-    "number": "15",
+    "number": 15,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_000150_00_PARASECT_U.webp",
@@ -166,7 +166,7 @@
   },
   {
     "set": "A1",
-    "number": "16",
+    "number": 16,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000160_00_KONGPANG_C.webp",
@@ -177,7 +177,7 @@
   },
   {
     "set": "A1",
-    "number": "17",
+    "number": 17,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_000170_00_MORPHON_U.webp",
@@ -188,7 +188,7 @@
   },
   {
     "set": "A1",
-    "number": "18",
+    "number": 18,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000180_00_MADATSUBOMI_C.webp",
@@ -199,7 +199,7 @@
   },
   {
     "set": "A1",
-    "number": "19",
+    "number": 19,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_000190_00_UTSUDON_U.webp",
@@ -210,7 +210,7 @@
   },
   {
     "set": "A1",
-    "number": "20",
+    "number": 20,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_000200_00_UTSUBOT_R.webp",
@@ -221,7 +221,7 @@
   },
   {
     "set": "A1",
-    "number": "21",
+    "number": 21,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000210_00_TAMATAMA_C.webp",
@@ -232,7 +232,7 @@
   },
   {
     "set": "A1",
-    "number": "22",
+    "number": 22,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_000220_00_NASSY_R.webp",
@@ -243,7 +243,7 @@
   },
   {
     "set": "A1",
-    "number": "23",
+    "number": 23,
     "rarity": "Double Rare",
     "rarityCode": "RR",
     "imageName": "cPK_10_000230_00_NASSYex_RR.webp",
@@ -254,7 +254,7 @@
   },
   {
     "set": "A1",
-    "number": "24",
+    "number": 24,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000240_00_MONJARA_C.webp",
@@ -265,7 +265,7 @@
   },
   {
     "set": "A1",
-    "number": "25",
+    "number": 25,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000250_00_STRIKE_C.webp",
@@ -276,7 +276,7 @@
   },
   {
     "set": "A1",
-    "number": "26",
+    "number": 26,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_000260_00_KAILIOS_U.webp",
@@ -287,7 +287,7 @@
   },
   {
     "set": "A1",
-    "number": "27",
+    "number": 27,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000270_00_MONMEN_C.webp",
@@ -298,7 +298,7 @@
   },
   {
     "set": "A1",
-    "number": "28",
+    "number": 28,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_000280_00_ELFUUN_U.webp",
@@ -309,7 +309,7 @@
   },
   {
     "set": "A1",
-    "number": "29",
+    "number": 29,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000290_00_CHURINE_C.webp",
@@ -320,7 +320,7 @@
   },
   {
     "set": "A1",
-    "number": "30",
+    "number": 30,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_000300_00_DREDEAR_U.webp",
@@ -331,7 +331,7 @@
   },
   {
     "set": "A1",
-    "number": "31",
+    "number": 31,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000310_00_MEECLE_C.webp",
@@ -342,7 +342,7 @@
   },
   {
     "set": "A1",
-    "number": "32",
+    "number": 32,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000320_00_GOGOAT_C.webp",
@@ -353,7 +353,7 @@
   },
   {
     "set": "A1",
-    "number": "33",
+    "number": 33,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000330_00_HITOKAGE_C.webp",
@@ -364,7 +364,7 @@
   },
   {
     "set": "A1",
-    "number": "34",
+    "number": 34,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_000340_00_LIZARDO_U.webp",
@@ -375,7 +375,7 @@
   },
   {
     "set": "A1",
-    "number": "35",
+    "number": 35,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_000350_00_LIZARDON_R.webp",
@@ -386,7 +386,7 @@
   },
   {
     "set": "A1",
-    "number": "36",
+    "number": 36,
     "rarity": "Double Rare",
     "rarityCode": "RR",
     "imageName": "cPK_10_000360_00_LIZARDONex_RR.webp",
@@ -397,7 +397,7 @@
   },
   {
     "set": "A1",
-    "number": "37",
+    "number": 37,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000370_00_ROKON_C.webp",
@@ -408,7 +408,7 @@
   },
   {
     "set": "A1",
-    "number": "38",
+    "number": 38,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_000380_00_KYUKON_U.webp",
@@ -419,7 +419,7 @@
   },
   {
     "set": "A1",
-    "number": "39",
+    "number": 39,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000390_00_GARDIE_C.webp",
@@ -430,7 +430,7 @@
   },
   {
     "set": "A1",
-    "number": "40",
+    "number": 40,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_000400_00_WINDIE_R.webp",
@@ -441,7 +441,7 @@
   },
   {
     "set": "A1",
-    "number": "41",
+    "number": 41,
     "rarity": "Double Rare",
     "rarityCode": "RR",
     "imageName": "cPK_10_000410_00_WINDIEex_RR.webp",
@@ -452,7 +452,7 @@
   },
   {
     "set": "A1",
-    "number": "42",
+    "number": 42,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000420_00_PONYTA_C.webp",
@@ -463,7 +463,7 @@
   },
   {
     "set": "A1",
-    "number": "43",
+    "number": 43,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_000430_00_GALLOP_U.webp",
@@ -474,7 +474,7 @@
   },
   {
     "set": "A1",
-    "number": "44",
+    "number": 44,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000440_00_BOOBER_C.webp",
@@ -485,7 +485,7 @@
   },
   {
     "set": "A1",
-    "number": "45",
+    "number": 45,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_000450_00_BOOSTER_R.webp",
@@ -496,7 +496,7 @@
   },
   {
     "set": "A1",
-    "number": "46",
+    "number": 46,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_000460_00_FIRE_R.webp",
@@ -507,7 +507,7 @@
   },
   {
     "set": "A1",
-    "number": "47",
+    "number": 47,
     "rarity": "Double Rare",
     "rarityCode": "RR",
     "imageName": "cPK_10_000470_00_FIREex_RR.webp",
@@ -518,7 +518,7 @@
   },
   {
     "set": "A1",
-    "number": "48",
+    "number": 48,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000480_00_KUITARAN_C.webp",
@@ -529,7 +529,7 @@
   },
   {
     "set": "A1",
-    "number": "49",
+    "number": 49,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000490_00_YATOUMORI_C.webp",
@@ -540,7 +540,7 @@
   },
   {
     "set": "A1",
-    "number": "50",
+    "number": 50,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000500_00_ENNEWT_C.webp",
@@ -551,7 +551,7 @@
   },
   {
     "set": "A1",
-    "number": "51",
+    "number": 51,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000510_00_YAKUDE_C.webp",
@@ -562,7 +562,7 @@
   },
   {
     "set": "A1",
-    "number": "52",
+    "number": 52,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_000520_00_MARUYAKUDE_U.webp",
@@ -573,7 +573,7 @@
   },
   {
     "set": "A1",
-    "number": "53",
+    "number": 53,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000530_00_ZENIGAME_C.webp",
@@ -584,7 +584,7 @@
   },
   {
     "set": "A1",
-    "number": "54",
+    "number": 54,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_000540_00_KAMEIL_U.webp",
@@ -595,7 +595,7 @@
   },
   {
     "set": "A1",
-    "number": "55",
+    "number": 55,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_000550_00_KAMEX_R.webp",
@@ -606,7 +606,7 @@
   },
   {
     "set": "A1",
-    "number": "56",
+    "number": 56,
     "rarity": "Double Rare",
     "rarityCode": "RR",
     "imageName": "cPK_10_000560_00_KAMEXex_RR.webp",
@@ -617,7 +617,7 @@
   },
   {
     "set": "A1",
-    "number": "57",
+    "number": 57,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000570_00_KODUCK_C.webp",
@@ -628,7 +628,7 @@
   },
   {
     "set": "A1",
-    "number": "58",
+    "number": 58,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_000580_00_GOLDUCK_U.webp",
@@ -639,7 +639,7 @@
   },
   {
     "set": "A1",
-    "number": "59",
+    "number": 59,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000590_00_NYOROMO_C.webp",
@@ -650,7 +650,7 @@
   },
   {
     "set": "A1",
-    "number": "60",
+    "number": 60,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_000600_00_NYOROZO_U.webp",
@@ -661,7 +661,7 @@
   },
   {
     "set": "A1",
-    "number": "61",
+    "number": 61,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_000610_00_NYOROBON_R.webp",
@@ -672,7 +672,7 @@
   },
   {
     "set": "A1",
-    "number": "62",
+    "number": 62,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000620_00_MENOKURAGE_C.webp",
@@ -683,7 +683,7 @@
   },
   {
     "set": "A1",
-    "number": "63",
+    "number": 63,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_000630_00_DOKUKURAGE_U.webp",
@@ -694,7 +694,7 @@
   },
   {
     "set": "A1",
-    "number": "64",
+    "number": 64,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000640_00_PAWOU_C.webp",
@@ -705,7 +705,7 @@
   },
   {
     "set": "A1",
-    "number": "65",
+    "number": 65,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_000650_00_JUGON_U.webp",
@@ -716,7 +716,7 @@
   },
   {
     "set": "A1",
-    "number": "66",
+    "number": 66,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000660_00_SHELLDER_C.webp",
@@ -727,7 +727,7 @@
   },
   {
     "set": "A1",
-    "number": "67",
+    "number": 67,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_000670_00_PARSHEN_U.webp",
@@ -738,7 +738,7 @@
   },
   {
     "set": "A1",
-    "number": "68",
+    "number": 68,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000680_00_CRAB_C.webp",
@@ -749,7 +749,7 @@
   },
   {
     "set": "A1",
-    "number": "69",
+    "number": 69,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_000690_00_KINGLER_U.webp",
@@ -760,7 +760,7 @@
   },
   {
     "set": "A1",
-    "number": "70",
+    "number": 70,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000700_00_TATTU_C.webp",
@@ -771,7 +771,7 @@
   },
   {
     "set": "A1",
-    "number": "71",
+    "number": 71,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_000710_00_SEADRA_U.webp",
@@ -782,7 +782,7 @@
   },
   {
     "set": "A1",
-    "number": "72",
+    "number": 72,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000720_00_TOSAKINTO_C.webp",
@@ -793,7 +793,7 @@
   },
   {
     "set": "A1",
-    "number": "73",
+    "number": 73,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000730_00_AZUMAO_C.webp",
@@ -804,7 +804,7 @@
   },
   {
     "set": "A1",
-    "number": "74",
+    "number": 74,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000740_00_HITODEMAN_C.webp",
@@ -815,7 +815,7 @@
   },
   {
     "set": "A1",
-    "number": "75",
+    "number": 75,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_000750_00_STARMIE_U.webp",
@@ -826,7 +826,7 @@
   },
   {
     "set": "A1",
-    "number": "76",
+    "number": 76,
     "rarity": "Double Rare",
     "rarityCode": "RR",
     "imageName": "cPK_10_000760_00_STARMIEex_RR.webp",
@@ -837,7 +837,7 @@
   },
   {
     "set": "A1",
-    "number": "77",
+    "number": 77,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000770_00_KOIKING_C.webp",
@@ -848,7 +848,7 @@
   },
   {
     "set": "A1",
-    "number": "78",
+    "number": 78,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_000780_00_GYARADOS_R.webp",
@@ -859,7 +859,7 @@
   },
   {
     "set": "A1",
-    "number": "79",
+    "number": 79,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_000790_00_LAPLACE_R.webp",
@@ -870,7 +870,7 @@
   },
   {
     "set": "A1",
-    "number": "80",
+    "number": 80,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_000800_00_SHOWERS_R.webp",
@@ -881,7 +881,7 @@
   },
   {
     "set": "A1",
-    "number": "81",
+    "number": 81,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_000810_00_OMNITE_U.webp",
@@ -892,7 +892,7 @@
   },
   {
     "set": "A1",
-    "number": "82",
+    "number": 82,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_000820_00_OMSTAR_R.webp",
@@ -903,7 +903,7 @@
   },
   {
     "set": "A1",
-    "number": "83",
+    "number": 83,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_000830_00_FREEZER_R.webp",
@@ -914,7 +914,7 @@
   },
   {
     "set": "A1",
-    "number": "84",
+    "number": 84,
     "rarity": "Double Rare",
     "rarityCode": "RR",
     "imageName": "cPK_10_000840_00_FREEZERex_RR.webp",
@@ -925,7 +925,7 @@
   },
   {
     "set": "A1",
-    "number": "85",
+    "number": 85,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000850_00_KOARUHIE_C.webp",
@@ -936,7 +936,7 @@
   },
   {
     "set": "A1",
-    "number": "86",
+    "number": 86,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_000860_00_SWANNA_U.webp",
@@ -947,7 +947,7 @@
   },
   {
     "set": "A1",
-    "number": "87",
+    "number": 87,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000870_00_KEROMATSU_C.webp",
@@ -958,7 +958,7 @@
   },
   {
     "set": "A1",
-    "number": "88",
+    "number": 88,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_000880_00_GEKOGASHIRA_U.webp",
@@ -969,7 +969,7 @@
   },
   {
     "set": "A1",
-    "number": "89",
+    "number": 89,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_000890_00_GEKKOUGA_R.webp",
@@ -980,7 +980,7 @@
   },
   {
     "set": "A1",
-    "number": "90",
+    "number": 90,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000900_00_NAMAKOBUSHI_C.webp",
@@ -991,7 +991,7 @@
   },
   {
     "set": "A1",
-    "number": "91",
+    "number": 91,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_000910_00_HAGIGISHIRI_U.webp",
@@ -1002,7 +1002,7 @@
   },
   {
     "set": "A1",
-    "number": "92",
+    "number": 92,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000920_00_YUKIHAMI_C.webp",
@@ -1013,7 +1013,7 @@
   },
   {
     "set": "A1",
-    "number": "93",
+    "number": 93,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_000930_00_MOTHNOW_U.webp",
@@ -1024,7 +1024,7 @@
   },
   {
     "set": "A1",
-    "number": "94",
+    "number": 94,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000940_00_PIKACHU_C.webp",
@@ -1035,7 +1035,7 @@
   },
   {
     "set": "A1",
-    "number": "95",
+    "number": 95,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_000950_00_RAICHU_R.webp",
@@ -1046,7 +1046,7 @@
   },
   {
     "set": "A1",
-    "number": "96",
+    "number": 96,
     "rarity": "Double Rare",
     "rarityCode": "RR",
     "imageName": "cPK_10_000960_00_PIKACHUex_RR.webp",
@@ -1057,7 +1057,7 @@
   },
   {
     "set": "A1",
-    "number": "97",
+    "number": 97,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000970_00_COIL_C.webp",
@@ -1068,7 +1068,7 @@
   },
   {
     "set": "A1",
-    "number": "98",
+    "number": 98,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_000980_00_RARECOIL_R.webp",
@@ -1079,7 +1079,7 @@
   },
   {
     "set": "A1",
-    "number": "99",
+    "number": 99,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_000990_00_BIRIRIDAMA_C.webp",
@@ -1090,7 +1090,7 @@
   },
   {
     "set": "A1",
-    "number": "100",
+    "number": 100,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_001000_00_MARUMINE_U.webp",
@@ -1101,7 +1101,7 @@
   },
   {
     "set": "A1",
-    "number": "101",
+    "number": 101,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001010_00_ELEBOO_C.webp",
@@ -1112,7 +1112,7 @@
   },
   {
     "set": "A1",
-    "number": "102",
+    "number": 102,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_001020_00_THUNDERS_R.webp",
@@ -1123,7 +1123,7 @@
   },
   {
     "set": "A1",
-    "number": "103",
+    "number": 103,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_001030_00_THUNDER_R.webp",
@@ -1134,7 +1134,7 @@
   },
   {
     "set": "A1",
-    "number": "104",
+    "number": 104,
     "rarity": "Double Rare",
     "rarityCode": "RR",
     "imageName": "cPK_10_001040_00_THUNDERex_RR.webp",
@@ -1145,7 +1145,7 @@
   },
   {
     "set": "A1",
-    "number": "105",
+    "number": 105,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001050_00_SHIMAMA_C.webp",
@@ -1156,7 +1156,7 @@
   },
   {
     "set": "A1",
-    "number": "106",
+    "number": 106,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_001060_00_ZEBRAIKA_U.webp",
@@ -1167,7 +1167,7 @@
   },
   {
     "set": "A1",
-    "number": "107",
+    "number": 107,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001070_00_SHIBISHIRASU_C.webp",
@@ -1178,7 +1178,7 @@
   },
   {
     "set": "A1",
-    "number": "108",
+    "number": 108,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_001080_00_SHIBIBEEL_U.webp",
@@ -1189,7 +1189,7 @@
   },
   {
     "set": "A1",
-    "number": "109",
+    "number": 109,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_001090_00_SHIBIRUDON_R.webp",
@@ -1200,7 +1200,7 @@
   },
   {
     "set": "A1",
-    "number": "110",
+    "number": 110,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001100_00_ERIKITERU_C.webp",
@@ -1211,7 +1211,7 @@
   },
   {
     "set": "A1",
-    "number": "111",
+    "number": 111,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001110_00_ELEZARD_C.webp",
@@ -1222,7 +1222,7 @@
   },
   {
     "set": "A1",
-    "number": "112",
+    "number": 112,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_001120_00_BACHINUNI_U.webp",
@@ -1233,7 +1233,7 @@
   },
   {
     "set": "A1",
-    "number": "113",
+    "number": 113,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001130_00_PIPPI_C.webp",
@@ -1244,7 +1244,7 @@
   },
   {
     "set": "A1",
-    "number": "114",
+    "number": 114,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_001140_00_PIXY_U.webp",
@@ -1255,7 +1255,7 @@
   },
   {
     "set": "A1",
-    "number": "115",
+    "number": 115,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001150_00_CASEY_C.webp",
@@ -1266,7 +1266,7 @@
   },
   {
     "set": "A1",
-    "number": "116",
+    "number": 116,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_001160_00_YUNGERER_U.webp",
@@ -1277,7 +1277,7 @@
   },
   {
     "set": "A1",
-    "number": "117",
+    "number": 117,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_001170_00_FOODIN_R.webp",
@@ -1288,7 +1288,7 @@
   },
   {
     "set": "A1",
-    "number": "118",
+    "number": 118,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001180_00_YADON_C.webp",
@@ -1299,7 +1299,7 @@
   },
   {
     "set": "A1",
-    "number": "119",
+    "number": 119,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_001190_00_YADORAN_U.webp",
@@ -1310,7 +1310,7 @@
   },
   {
     "set": "A1",
-    "number": "120",
+    "number": 120,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001200_00_GHOS_C.webp",
@@ -1321,7 +1321,7 @@
   },
   {
     "set": "A1",
-    "number": "121",
+    "number": 121,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_001210_00_GHOST_U.webp",
@@ -1332,7 +1332,7 @@
   },
   {
     "set": "A1",
-    "number": "122",
+    "number": 122,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_001220_00_GANGAR_R.webp",
@@ -1343,7 +1343,7 @@
   },
   {
     "set": "A1",
-    "number": "123",
+    "number": 123,
     "rarity": "Double Rare",
     "rarityCode": "RR",
     "imageName": "cPK_10_001230_00_GANGARex_RR.webp",
@@ -1354,7 +1354,7 @@
   },
   {
     "set": "A1",
-    "number": "124",
+    "number": 124,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001240_00_SLEEPE_C.webp",
@@ -1365,7 +1365,7 @@
   },
   {
     "set": "A1",
-    "number": "125",
+    "number": 125,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_001250_00_SLEEPER_R.webp",
@@ -1376,7 +1376,7 @@
   },
   {
     "set": "A1",
-    "number": "126",
+    "number": 126,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_001260_00_BARRIERD_U.webp",
@@ -1387,7 +1387,7 @@
   },
   {
     "set": "A1",
-    "number": "127",
+    "number": 127,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001270_00_ROUGELA_C.webp",
@@ -1398,7 +1398,7 @@
   },
   {
     "set": "A1",
-    "number": "128",
+    "number": 128,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_001280_00_MEWTWO_R.webp",
@@ -1409,7 +1409,7 @@
   },
   {
     "set": "A1",
-    "number": "129",
+    "number": 129,
     "rarity": "Double Rare",
     "rarityCode": "RR",
     "imageName": "cPK_10_001290_00_MEWTWOex_RR.webp",
@@ -1420,7 +1420,7 @@
   },
   {
     "set": "A1",
-    "number": "130",
+    "number": 130,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001300_00_RALTS_C.webp",
@@ -1431,7 +1431,7 @@
   },
   {
     "set": "A1",
-    "number": "131",
+    "number": 131,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_001310_00_KIRLIA_U.webp",
@@ -1442,7 +1442,7 @@
   },
   {
     "set": "A1",
-    "number": "132",
+    "number": 132,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_001320_00_SIRNIGHT_R.webp",
@@ -1453,7 +1453,7 @@
   },
   {
     "set": "A1",
-    "number": "133",
+    "number": 133,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001330_00_KOROMORI_C.webp",
@@ -1464,7 +1464,7 @@
   },
   {
     "set": "A1",
-    "number": "134",
+    "number": 134,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001340_00_KOKOROMORI_C.webp",
@@ -1475,7 +1475,7 @@
   },
   {
     "set": "A1",
-    "number": "135",
+    "number": 135,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001350_00_GOBIT_C.webp",
@@ -1486,7 +1486,7 @@
   },
   {
     "set": "A1",
-    "number": "136",
+    "number": 136,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_001360_00_GOLOOG_U.webp",
@@ -1497,7 +1497,7 @@
   },
   {
     "set": "A1",
-    "number": "137",
+    "number": 137,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001370_00_SAND_C.webp",
@@ -1508,7 +1508,7 @@
   },
   {
     "set": "A1",
-    "number": "138",
+    "number": 138,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_001380_00_SANDPAN_U.webp",
@@ -1519,7 +1519,7 @@
   },
   {
     "set": "A1",
-    "number": "139",
+    "number": 139,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001390_00_DIGDA_C.webp",
@@ -1530,7 +1530,7 @@
   },
   {
     "set": "A1",
-    "number": "140",
+    "number": 140,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_001400_00_DUGTRIO_U.webp",
@@ -1541,7 +1541,7 @@
   },
   {
     "set": "A1",
-    "number": "141",
+    "number": 141,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001410_00_MANKEY_C.webp",
@@ -1552,7 +1552,7 @@
   },
   {
     "set": "A1",
-    "number": "142",
+    "number": 142,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_001420_00_OKORIZARU_U.webp",
@@ -1563,7 +1563,7 @@
   },
   {
     "set": "A1",
-    "number": "143",
+    "number": 143,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001430_00_WANRIKY_C.webp",
@@ -1574,7 +1574,7 @@
   },
   {
     "set": "A1",
-    "number": "144",
+    "number": 144,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_001440_00_GORIKY_U.webp",
@@ -1585,7 +1585,7 @@
   },
   {
     "set": "A1",
-    "number": "145",
+    "number": 145,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_001450_00_KAIRIKY_R.webp",
@@ -1596,7 +1596,7 @@
   },
   {
     "set": "A1",
-    "number": "146",
+    "number": 146,
     "rarity": "Double Rare",
     "rarityCode": "RR",
     "imageName": "cPK_10_001460_00_KAIRIKYex_RR.webp",
@@ -1607,7 +1607,7 @@
   },
   {
     "set": "A1",
-    "number": "147",
+    "number": 147,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001470_00_ISITSUBUTE_C.webp",
@@ -1618,7 +1618,7 @@
   },
   {
     "set": "A1",
-    "number": "148",
+    "number": 148,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_001480_00_GOLONE_U.webp",
@@ -1629,7 +1629,7 @@
   },
   {
     "set": "A1",
-    "number": "149",
+    "number": 149,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_001490_00_GOLONYA_R.webp",
@@ -1640,7 +1640,7 @@
   },
   {
     "set": "A1",
-    "number": "150",
+    "number": 150,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_001500_00_IWARK_U.webp",
@@ -1651,7 +1651,7 @@
   },
   {
     "set": "A1",
-    "number": "151",
+    "number": 151,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001510_00_KARAKARA_C.webp",
@@ -1662,7 +1662,7 @@
   },
   {
     "set": "A1",
-    "number": "152",
+    "number": 152,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_001520_00_GARAGARA_U.webp",
@@ -1673,7 +1673,7 @@
   },
   {
     "set": "A1",
-    "number": "153",
+    "number": 153,
     "rarity": "Double Rare",
     "rarityCode": "RR",
     "imageName": "cPK_10_001530_00_GARAGARAex_RR.webp",
@@ -1684,7 +1684,7 @@
   },
   {
     "set": "A1",
-    "number": "154",
+    "number": 154,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001540_00_SAWAMULAR_C.webp",
@@ -1695,7 +1695,7 @@
   },
   {
     "set": "A1",
-    "number": "155",
+    "number": 155,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001550_00_EBIWALAR_C.webp",
@@ -1706,7 +1706,7 @@
   },
   {
     "set": "A1",
-    "number": "156",
+    "number": 156,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001560_00_SIHORN_C.webp",
@@ -1717,7 +1717,7 @@
   },
   {
     "set": "A1",
-    "number": "157",
+    "number": 157,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_001570_00_SIDON_U.webp",
@@ -1728,7 +1728,7 @@
   },
   {
     "set": "A1",
-    "number": "158",
+    "number": 158,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_001580_00_KABUTO_U.webp",
@@ -1739,7 +1739,7 @@
   },
   {
     "set": "A1",
-    "number": "159",
+    "number": 159,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_001590_00_KABUTOPS_R.webp",
@@ -1750,7 +1750,7 @@
   },
   {
     "set": "A1",
-    "number": "160",
+    "number": 160,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001600_00_KOJOFU_C.webp",
@@ -1761,7 +1761,7 @@
   },
   {
     "set": "A1",
-    "number": "161",
+    "number": 161,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_001610_00_KOJONDO_U.webp",
@@ -1772,7 +1772,7 @@
   },
   {
     "set": "A1",
-    "number": "162",
+    "number": 162,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001620_00_TATAKKO_C.webp",
@@ -1783,7 +1783,7 @@
   },
   {
     "set": "A1",
-    "number": "163",
+    "number": 163,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_001630_00_OTOSUPUS_U.webp",
@@ -1794,7 +1794,7 @@
   },
   {
     "set": "A1",
-    "number": "164",
+    "number": 164,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001640_00_ARBO_C.webp",
@@ -1805,7 +1805,7 @@
   },
   {
     "set": "A1",
-    "number": "165",
+    "number": 165,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_001650_00_ARBOK_U.webp",
@@ -1816,7 +1816,7 @@
   },
   {
     "set": "A1",
-    "number": "166",
+    "number": 166,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001660_00_NIDORAN♀_C.webp",
@@ -1827,7 +1827,7 @@
   },
   {
     "set": "A1",
-    "number": "167",
+    "number": 167,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_001670_00_NIDORINA_U.webp",
@@ -1838,7 +1838,7 @@
   },
   {
     "set": "A1",
-    "number": "168",
+    "number": 168,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_001680_00_NIDOQUEEN_R.webp",
@@ -1849,7 +1849,7 @@
   },
   {
     "set": "A1",
-    "number": "169",
+    "number": 169,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001690_00_NIDORAN♂_C.webp",
@@ -1860,7 +1860,7 @@
   },
   {
     "set": "A1",
-    "number": "170",
+    "number": 170,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_001700_00_NIDORINO_U.webp",
@@ -1871,7 +1871,7 @@
   },
   {
     "set": "A1",
-    "number": "171",
+    "number": 171,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_001710_00_NIDOKING_R.webp",
@@ -1882,7 +1882,7 @@
   },
   {
     "set": "A1",
-    "number": "172",
+    "number": 172,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001720_00_ZUBAT_C.webp",
@@ -1893,7 +1893,7 @@
   },
   {
     "set": "A1",
-    "number": "173",
+    "number": 173,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_001730_00_GOLBAT_U.webp",
@@ -1904,7 +1904,7 @@
   },
   {
     "set": "A1",
-    "number": "174",
+    "number": 174,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001740_00_BETBETER_C.webp",
@@ -1915,7 +1915,7 @@
   },
   {
     "set": "A1",
-    "number": "175",
+    "number": 175,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_001750_00_BETBETON_R.webp",
@@ -1926,7 +1926,7 @@
   },
   {
     "set": "A1",
-    "number": "176",
+    "number": 176,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001760_00_DOGARS_C.webp",
@@ -1937,7 +1937,7 @@
   },
   {
     "set": "A1",
-    "number": "177",
+    "number": 177,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_001770_00_MATADOGAS_R.webp",
@@ -1948,7 +1948,7 @@
   },
   {
     "set": "A1",
-    "number": "178",
+    "number": 178,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001780_00_KUCHEAT_C.webp",
@@ -1959,7 +1959,7 @@
   },
   {
     "set": "A1",
-    "number": "179",
+    "number": 179,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001790_00_KOMATANA_C.webp",
@@ -1970,7 +1970,7 @@
   },
   {
     "set": "A1",
-    "number": "180",
+    "number": 180,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_001800_00_KIRIKIZAN_U.webp",
@@ -1981,7 +1981,7 @@
   },
   {
     "set": "A1",
-    "number": "181",
+    "number": 181,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001810_00_MELTAN_C.webp",
@@ -1992,7 +1992,7 @@
   },
   {
     "set": "A1",
-    "number": "182",
+    "number": 182,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_001820_00_MELMETAL_R.webp",
@@ -2003,7 +2003,7 @@
   },
   {
     "set": "A1",
-    "number": "183",
+    "number": 183,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001830_00_MINIRYU_C.webp",
@@ -2014,7 +2014,7 @@
   },
   {
     "set": "A1",
-    "number": "184",
+    "number": 184,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_001840_00_HAKURYU_U.webp",
@@ -2025,7 +2025,7 @@
   },
   {
     "set": "A1",
-    "number": "185",
+    "number": 185,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_001850_00_KAIRYU_R.webp",
@@ -2036,7 +2036,7 @@
   },
   {
     "set": "A1",
-    "number": "186",
+    "number": 186,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001860_00_POPPO_C.webp",
@@ -2047,7 +2047,7 @@
   },
   {
     "set": "A1",
-    "number": "187",
+    "number": 187,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001870_00_PIGEON_C.webp",
@@ -2058,7 +2058,7 @@
   },
   {
     "set": "A1",
-    "number": "188",
+    "number": 188,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_001880_00_PIGEOT_R.webp",
@@ -2069,7 +2069,7 @@
   },
   {
     "set": "A1",
-    "number": "189",
+    "number": 189,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001890_00_KORATTA_C.webp",
@@ -2080,7 +2080,7 @@
   },
   {
     "set": "A1",
-    "number": "190",
+    "number": 190,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001900_00_RATTA_C.webp",
@@ -2091,7 +2091,7 @@
   },
   {
     "set": "A1",
-    "number": "191",
+    "number": 191,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001910_00_ONISUZUME_C.webp",
@@ -2102,7 +2102,7 @@
   },
   {
     "set": "A1",
-    "number": "192",
+    "number": 192,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001920_00_ONIDRILL_C.webp",
@@ -2113,7 +2113,7 @@
   },
   {
     "set": "A1",
-    "number": "193",
+    "number": 193,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001930_00_PURIN_C.webp",
@@ -2124,7 +2124,7 @@
   },
   {
     "set": "A1",
-    "number": "194",
+    "number": 194,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001940_00_PUKURIN_C.webp",
@@ -2135,7 +2135,7 @@
   },
   {
     "set": "A1",
-    "number": "195",
+    "number": 195,
     "rarity": "Double Rare",
     "rarityCode": "RR",
     "imageName": "cPK_10_001950_00_PUKURINex_RR.webp",
@@ -2146,7 +2146,7 @@
   },
   {
     "set": "A1",
-    "number": "196",
+    "number": 196,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001960_00_NYARTH_C.webp",
@@ -2157,7 +2157,7 @@
   },
   {
     "set": "A1",
-    "number": "197",
+    "number": 197,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_001970_00_PERSIAN_U.webp",
@@ -2168,7 +2168,7 @@
   },
   {
     "set": "A1",
-    "number": "198",
+    "number": 198,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001980_00_KAMONEGI_C.webp",
@@ -2179,7 +2179,7 @@
   },
   {
     "set": "A1",
-    "number": "199",
+    "number": 199,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_001990_00_DODO_C.webp",
@@ -2190,7 +2190,7 @@
   },
   {
     "set": "A1",
-    "number": "200",
+    "number": 200,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_002000_00_DODORIO_U.webp",
@@ -2201,7 +2201,7 @@
   },
   {
     "set": "A1",
-    "number": "201",
+    "number": 201,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_002010_00_BERORINGA_U.webp",
@@ -2212,7 +2212,7 @@
   },
   {
     "set": "A1",
-    "number": "202",
+    "number": 202,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_002020_00_LUCKY_U.webp",
@@ -2223,7 +2223,7 @@
   },
   {
     "set": "A1",
-    "number": "203",
+    "number": 203,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_002030_00_GARURA_R.webp",
@@ -2234,7 +2234,7 @@
   },
   {
     "set": "A1",
-    "number": "204",
+    "number": 204,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_002040_00_KENTAUROS_U.webp",
@@ -2245,7 +2245,7 @@
   },
   {
     "set": "A1",
-    "number": "205",
+    "number": 205,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_002050_00_METAMON_R.webp",
@@ -2256,7 +2256,7 @@
   },
   {
     "set": "A1",
-    "number": "206",
+    "number": 206,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002060_00_EIEVUI_C.webp",
@@ -2267,7 +2267,7 @@
   },
   {
     "set": "A1",
-    "number": "207",
+    "number": 207,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002060_01_EIEVUI_C.webp",
@@ -2278,7 +2278,7 @@
   },
   {
     "set": "A1",
-    "number": "208",
+    "number": 208,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002060_02_EIEVUI_C.webp",
@@ -2289,7 +2289,7 @@
   },
   {
     "set": "A1",
-    "number": "209",
+    "number": 209,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_002070_00_PORYGON_U.webp",
@@ -2300,7 +2300,7 @@
   },
   {
     "set": "A1",
-    "number": "210",
+    "number": 210,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_002080_00_PTERA_R.webp",
@@ -2311,7 +2311,7 @@
   },
   {
     "set": "A1",
-    "number": "211",
+    "number": 211,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_002090_00_KABIGON_R.webp",
@@ -2322,7 +2322,7 @@
   },
   {
     "set": "A1",
-    "number": "212",
+    "number": 212,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002100_00_CHILLARMY_C.webp",
@@ -2333,7 +2333,7 @@
   },
   {
     "set": "A1",
-    "number": "213",
+    "number": 213,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_002110_00_CHILLACCINO_U.webp",
@@ -2344,7 +2344,7 @@
   },
   {
     "set": "A1",
-    "number": "214",
+    "number": 214,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002120_00_WOOLUU_C.webp",
@@ -2355,7 +2355,7 @@
   },
   {
     "set": "A1",
-    "number": "215",
+    "number": 215,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002130_00_BAIWOOLUU_C.webp",
@@ -2366,7 +2366,7 @@
   },
   {
     "set": "A1",
-    "number": "216",
+    "number": 216,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cTR_10_000080_00_KAINOKASEKI_C.webp",
@@ -2377,7 +2377,7 @@
   },
   {
     "set": "A1",
-    "number": "217",
+    "number": 217,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cTR_10_000090_00_KOURANOKASEKI_C.webp",
@@ -2388,7 +2388,18 @@
   },
   {
     "set": "A1",
-    "number": "219",
+    "number": 218,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cTR_10_000100_00_HIMITSUNOKOHAKU_C.webp",
+    "label": {
+      "slug": "old-amber",
+      "eng": "Old Amber"
+    }
+  },
+  {
+    "set": "A1",
+    "number": 219,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cTR_10_000110_00_ERIKA_U.webp",
@@ -2399,7 +2410,7 @@
   },
   {
     "set": "A1",
-    "number": "220",
+    "number": 220,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cTR_10_000120_00_KASUMI_U.webp",
@@ -2410,7 +2421,7 @@
   },
   {
     "set": "A1",
-    "number": "221",
+    "number": 221,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cTR_10_000130_00_KATSURA_U.webp",
@@ -2421,7 +2432,7 @@
   },
   {
     "set": "A1",
-    "number": "222",
+    "number": 222,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cTR_10_000140_00_KYOU_U.webp",
@@ -2432,7 +2443,7 @@
   },
   {
     "set": "A1",
-    "number": "223",
+    "number": 223,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cTR_10_000150_00_SAKAKI_U.webp",
@@ -2443,7 +2454,7 @@
   },
   {
     "set": "A1",
-    "number": "224",
+    "number": 224,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cTR_10_000160_00_TAKESHI_U.webp",
@@ -2454,7 +2465,7 @@
   },
   {
     "set": "A1",
-    "number": "225",
+    "number": 225,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cTR_10_000170_00_NATSUME_U.webp",
@@ -2465,7 +2476,7 @@
   },
   {
     "set": "A1",
-    "number": "226",
+    "number": 226,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cTR_10_000180_00_MATISSE_U.webp",
@@ -2476,7 +2487,7 @@
   },
   {
     "set": "A1",
-    "number": "227",
+    "number": 227,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_000010_00_FUSHIGIDANE_AR.webp",
@@ -2487,7 +2498,7 @@
   },
   {
     "set": "A1",
-    "number": "228",
+    "number": 228,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_000120_00_KUSAIHANA_AR.webp",
@@ -2498,7 +2509,7 @@
   },
   {
     "set": "A1",
-    "number": "229",
+    "number": 229,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_000260_00_KAILIOS_AR.webp",
@@ -2509,7 +2520,7 @@
   },
   {
     "set": "A1",
-    "number": "230",
+    "number": 230,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_000330_00_HITOKAGE_AR.webp",
@@ -2520,7 +2531,7 @@
   },
   {
     "set": "A1",
-    "number": "231",
+    "number": 231,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_000430_00_GALLOP_AR.webp",
@@ -2531,7 +2542,7 @@
   },
   {
     "set": "A1",
-    "number": "232",
+    "number": 232,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_000530_00_ZENIGAME_AR.webp",
@@ -2542,7 +2553,7 @@
   },
   {
     "set": "A1",
-    "number": "233",
+    "number": 233,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_000780_00_GYARADOS_AR.webp",
@@ -2553,7 +2564,7 @@
   },
   {
     "set": "A1",
-    "number": "234",
+    "number": 234,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_000790_00_LAPLACE_AR.webp",
@@ -2564,7 +2575,7 @@
   },
   {
     "set": "A1",
-    "number": "235",
+    "number": 235,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_001000_00_MARUMINE_AR.webp",
@@ -2575,7 +2586,7 @@
   },
   {
     "set": "A1",
-    "number": "236",
+    "number": 236,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_001170_00_FOODIN_AR.webp",
@@ -2586,7 +2597,7 @@
   },
   {
     "set": "A1",
-    "number": "237",
+    "number": 237,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_001180_00_YADON_AR.webp",
@@ -2597,7 +2608,7 @@
   },
   {
     "set": "A1",
-    "number": "238",
+    "number": 238,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_001390_00_DIGDA_AR.webp",
@@ -2608,7 +2619,7 @@
   },
   {
     "set": "A1",
-    "number": "239",
+    "number": 239,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_001510_00_KARAKARA_AR.webp",
@@ -2619,7 +2630,7 @@
   },
   {
     "set": "A1",
-    "number": "240",
+    "number": 240,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_001680_00_NIDOQUEEN_AR.webp",
@@ -2630,7 +2641,7 @@
   },
   {
     "set": "A1",
-    "number": "241",
+    "number": 241,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_001710_00_NIDOKING_AR.webp",
@@ -2641,7 +2652,7 @@
   },
   {
     "set": "A1",
-    "number": "242",
+    "number": 242,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_001730_00_GOLBAT_AR.webp",
@@ -2652,7 +2663,7 @@
   },
   {
     "set": "A1",
-    "number": "243",
+    "number": 243,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_001770_00_MATADOGAS_AR.webp",
@@ -2663,7 +2674,7 @@
   },
   {
     "set": "A1",
-    "number": "244",
+    "number": 244,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_001850_00_KAIRYU_AR.webp",
@@ -2674,7 +2685,7 @@
   },
   {
     "set": "A1",
-    "number": "245",
+    "number": 245,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_001880_00_PIGEOT_AR.webp",
@@ -2685,7 +2696,7 @@
   },
   {
     "set": "A1",
-    "number": "246",
+    "number": 246,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_001960_00_NYARTH_AR.webp",
@@ -2696,7 +2707,7 @@
   },
   {
     "set": "A1",
-    "number": "247",
+    "number": 247,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_002050_00_METAMON_AR.webp",
@@ -2707,7 +2718,7 @@
   },
   {
     "set": "A1",
-    "number": "248",
+    "number": 248,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_002060_00_EIEVUI_AR.webp",
@@ -2718,7 +2729,7 @@
   },
   {
     "set": "A1",
-    "number": "249",
+    "number": 249,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_002070_00_PORYGON_AR.webp",
@@ -2729,7 +2740,7 @@
   },
   {
     "set": "A1",
-    "number": "250",
+    "number": 250,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_002090_00_KABIGON_AR.webp",
@@ -2740,7 +2751,7 @@
   },
   {
     "set": "A1",
-    "number": "251",
+    "number": 251,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cPK_20_000040_00_FUSHIGIBANAex_SR.webp",
@@ -2751,7 +2762,7 @@
   },
   {
     "set": "A1",
-    "number": "252",
+    "number": 252,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cPK_20_000230_00_NASSYex_SR.webp",
@@ -2762,7 +2773,7 @@
   },
   {
     "set": "A1",
-    "number": "253",
+    "number": 253,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cPK_20_000360_00_LIZARDONex_SR.webp",
@@ -2773,7 +2784,7 @@
   },
   {
     "set": "A1",
-    "number": "254",
+    "number": 254,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cPK_20_000410_00_WINDIEex_SR.webp",
@@ -2784,7 +2795,7 @@
   },
   {
     "set": "A1",
-    "number": "255",
+    "number": 255,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cPK_20_000470_00_FIREex_SR.webp",
@@ -2795,7 +2806,7 @@
   },
   {
     "set": "A1",
-    "number": "256",
+    "number": 256,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cPK_20_000560_00_KAMEXex_SR.webp",
@@ -2806,7 +2817,7 @@
   },
   {
     "set": "A1",
-    "number": "257",
+    "number": 257,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cPK_20_000760_00_STARMIEex_SR.webp",
@@ -2817,7 +2828,7 @@
   },
   {
     "set": "A1",
-    "number": "258",
+    "number": 258,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cPK_20_000840_00_FREEZERex_SR.webp",
@@ -2828,7 +2839,7 @@
   },
   {
     "set": "A1",
-    "number": "259",
+    "number": 259,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cPK_20_000960_00_PIKACHUex_SR.webp",
@@ -2839,7 +2850,7 @@
   },
   {
     "set": "A1",
-    "number": "260",
+    "number": 260,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cPK_20_001040_00_THUNDERex_SR.webp",
@@ -2850,7 +2861,7 @@
   },
   {
     "set": "A1",
-    "number": "261",
+    "number": 261,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cPK_20_001230_00_GANGARex_SR.webp",
@@ -2861,7 +2872,7 @@
   },
   {
     "set": "A1",
-    "number": "262",
+    "number": 262,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cPK_20_001290_00_MEWTWOex_SR.webp",
@@ -2872,7 +2883,7 @@
   },
   {
     "set": "A1",
-    "number": "263",
+    "number": 263,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cPK_20_001460_00_KAIRIKYex_SR.webp",
@@ -2883,7 +2894,7 @@
   },
   {
     "set": "A1",
-    "number": "264",
+    "number": 264,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cPK_20_001530_00_GARAGARAex_SR.webp",
@@ -2894,7 +2905,7 @@
   },
   {
     "set": "A1",
-    "number": "265",
+    "number": 265,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cPK_20_001950_00_PUKURINex_SR.webp",
@@ -2905,7 +2916,7 @@
   },
   {
     "set": "A1",
-    "number": "266",
+    "number": 266,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cTR_20_000110_00_ERIKA_SR.webp",
@@ -2916,7 +2927,7 @@
   },
   {
     "set": "A1",
-    "number": "267",
+    "number": 267,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cTR_20_000120_00_KASUMI_SR.webp",
@@ -2927,7 +2938,7 @@
   },
   {
     "set": "A1",
-    "number": "268",
+    "number": 268,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cTR_20_000130_00_KATSURA_SR.webp",
@@ -2938,7 +2949,7 @@
   },
   {
     "set": "A1",
-    "number": "269",
+    "number": 269,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cTR_20_000140_00_KYOU_SR.webp",
@@ -2949,7 +2960,7 @@
   },
   {
     "set": "A1",
-    "number": "270",
+    "number": 270,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cTR_20_000150_00_SAKAKI_SR.webp",
@@ -2960,7 +2971,7 @@
   },
   {
     "set": "A1",
-    "number": "271",
+    "number": 271,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cTR_20_000160_00_TAKESHI_SR.webp",
@@ -2971,7 +2982,7 @@
   },
   {
     "set": "A1",
-    "number": "272",
+    "number": 272,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cTR_20_000170_00_NATSUME_SR.webp",
@@ -2982,7 +2993,7 @@
   },
   {
     "set": "A1",
-    "number": "273",
+    "number": 273,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cTR_20_000180_00_MATISSE_SR.webp",
@@ -2993,7 +3004,7 @@
   },
   {
     "set": "A1",
-    "number": "274",
+    "number": 274,
     "rarity": "Special Art Rare",
     "rarityCode": "SAR",
     "imageName": "cPK_20_000470_01_FIREex_SAR.webp",
@@ -3004,7 +3015,7 @@
   },
   {
     "set": "A1",
-    "number": "275",
+    "number": 275,
     "rarity": "Special Art Rare",
     "rarityCode": "SAR",
     "imageName": "cPK_20_000840_01_FREEZERex_SAR.webp",
@@ -3015,7 +3026,7 @@
   },
   {
     "set": "A1",
-    "number": "276",
+    "number": 276,
     "rarity": "Special Art Rare",
     "rarityCode": "SAR",
     "imageName": "cPK_20_001040_01_THUNDERex_SAR.webp",
@@ -3026,7 +3037,7 @@
   },
   {
     "set": "A1",
-    "number": "277",
+    "number": 277,
     "rarity": "Special Art Rare",
     "rarityCode": "SAR",
     "imageName": "cPK_20_001230_01_GANGARex_SAR.webp",
@@ -3037,7 +3048,7 @@
   },
   {
     "set": "A1",
-    "number": "278",
+    "number": 278,
     "rarity": "Special Art Rare",
     "rarityCode": "SAR",
     "imageName": "cPK_20_001460_01_KAIRIKYex_SAR.webp",
@@ -3048,7 +3059,7 @@
   },
   {
     "set": "A1",
-    "number": "279",
+    "number": 279,
     "rarity": "Special Art Rare",
     "rarityCode": "SAR",
     "imageName": "cPK_20_001950_01_PUKURINex_SAR.webp",
@@ -3059,7 +3070,7 @@
   },
   {
     "set": "A1",
-    "number": "280",
+    "number": 280,
     "rarity": "Immersive Rare",
     "rarityCode": "IM",
     "imageName": "cPK_20_000360_01_LIZARDONex_IM.webp",
@@ -3070,7 +3081,7 @@
   },
   {
     "set": "A1",
-    "number": "281",
+    "number": 281,
     "rarity": "Immersive Rare",
     "rarityCode": "IM",
     "imageName": "cPK_20_000960_01_PIKACHUex_IM.webp",
@@ -3081,7 +3092,7 @@
   },
   {
     "set": "A1",
-    "number": "282",
+    "number": 282,
     "rarity": "Immersive Rare",
     "rarityCode": "IM",
     "imageName": "cPK_20_001290_01_MEWTWOex_IM.webp",
@@ -3092,7 +3103,7 @@
   },
   {
     "set": "A1",
-    "number": "283",
+    "number": 283,
     "rarity": "Immersive Rare",
     "rarityCode": "IM",
     "imageName": "cPK_20_002140_00_MEW_IM.webp",
@@ -3103,7 +3114,7 @@
   },
   {
     "set": "A1",
-    "number": "284",
+    "number": 284,
     "rarity": "Crown Rare",
     "rarityCode": "UR",
     "imageName": "cPK_20_000360_02_LIZARDONex_UR.webp",
@@ -3114,7 +3125,7 @@
   },
   {
     "set": "A1",
-    "number": "285",
+    "number": 285,
     "rarity": "Crown Rare",
     "rarityCode": "UR",
     "imageName": "cPK_20_000960_02_PIKACHUex_UR.webp",
@@ -3125,7 +3136,7 @@
   },
   {
     "set": "A1",
-    "number": "286",
+    "number": 286,
     "rarity": "Crown Rare",
     "rarityCode": "UR",
     "imageName": "cPK_20_001290_02_MEWTWOex_UR.webp",
@@ -3136,7 +3147,7 @@
   },
   {
     "set": "A1A",
-    "number": "1",
+    "number": 1,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002150_00_TAMATAMA_C.webp",
@@ -3147,7 +3158,7 @@
   },
   {
     "set": "A1A",
-    "number": "2",
+    "number": 2,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_002160_00_NASSY_U.webp",
@@ -3158,7 +3169,7 @@
   },
   {
     "set": "A1A",
-    "number": "3",
+    "number": 3,
     "rarity": "Double Rare",
     "rarityCode": "RR",
     "imageName": "cPK_10_002170_00_CELEBIex_RR.webp",
@@ -3169,7 +3180,7 @@
   },
   {
     "set": "A1A",
-    "number": "4",
+    "number": 4,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002180_00_TSUTARJA_C.webp",
@@ -3180,7 +3191,7 @@
   },
   {
     "set": "A1A",
-    "number": "5",
+    "number": 5,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_002190_00_JANOVY_U.webp",
@@ -3191,7 +3202,7 @@
   },
   {
     "set": "A1A",
-    "number": "6",
+    "number": 6,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_002200_00_JALORDA_R.webp",
@@ -3202,7 +3213,7 @@
   },
   {
     "set": "A1A",
-    "number": "7",
+    "number": 7,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002210_00_NEMASYU_C.webp",
@@ -3213,7 +3224,7 @@
   },
   {
     "set": "A1A",
-    "number": "8",
+    "number": 8,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_002220_00_MASHADE_U.webp",
@@ -3224,7 +3235,7 @@
   },
   {
     "set": "A1A",
-    "number": "9",
+    "number": 9,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_002230_00_DADARIN_U.webp",
@@ -3235,7 +3246,7 @@
   },
   {
     "set": "A1A",
-    "number": "10",
+    "number": 10,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002240_00_PONYTA_C.webp",
@@ -3246,7 +3257,7 @@
   },
   {
     "set": "A1A",
-    "number": "11",
+    "number": 11,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_002250_00_GALLOP_U.webp",
@@ -3257,7 +3268,7 @@
   },
   {
     "set": "A1A",
-    "number": "12",
+    "number": 12,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_002260_00_BOOBER_U.webp",
@@ -3268,7 +3279,7 @@
   },
   {
     "set": "A1A",
-    "number": "13",
+    "number": 13,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002270_00_MERLARVA_C.webp",
@@ -3279,7 +3290,7 @@
   },
   {
     "set": "A1A",
-    "number": "14",
+    "number": 14,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_002280_00_ULGAMOTH_R.webp",
@@ -3290,7 +3301,7 @@
   },
   {
     "set": "A1A",
-    "number": "15",
+    "number": 15,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002290_00_YATOUMORI_C.webp",
@@ -3301,7 +3312,7 @@
   },
   {
     "set": "A1A",
-    "number": "16",
+    "number": 16,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002300_00_ENNEWT_C.webp",
@@ -3312,7 +3323,7 @@
   },
   {
     "set": "A1A",
-    "number": "17",
+    "number": 17,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002310_00_KOIKING_C.webp",
@@ -3323,7 +3334,7 @@
   },
   {
     "set": "A1A",
-    "number": "18",
+    "number": 18,
     "rarity": "Double Rare",
     "rarityCode": "RR",
     "imageName": "cPK_10_002320_00_GYARADOSex_RR.webp",
@@ -3334,7 +3345,7 @@
   },
   {
     "set": "A1A",
-    "number": "19",
+    "number": 19,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_002330_00_SHOWERS_R.webp",
@@ -3345,7 +3356,7 @@
   },
   {
     "set": "A1A",
-    "number": "20",
+    "number": 20,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002340_00_KEIKOUO_C.webp",
@@ -3356,7 +3367,7 @@
   },
   {
     "set": "A1A",
-    "number": "21",
+    "number": 21,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_002350_00_NEOLANT_U.webp",
@@ -3367,7 +3378,7 @@
   },
   {
     "set": "A1A",
-    "number": "22",
+    "number": 22,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002360_00_KAMUKAME_C.webp",
@@ -3378,7 +3389,7 @@
   },
   {
     "set": "A1A",
-    "number": "23",
+    "number": 23,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_002370_00_KAJIRIGAME_U.webp",
@@ -3389,7 +3400,7 @@
   },
   {
     "set": "A1A",
-    "number": "24",
+    "number": 24,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002380_00_UU_C.webp",
@@ -3400,7 +3411,7 @@
   },
   {
     "set": "A1A",
-    "number": "25",
+    "number": 25,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002390_00_PIKACHU_C.webp",
@@ -3411,7 +3422,7 @@
   },
   {
     "set": "A1A",
-    "number": "26",
+    "number": 26,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_002400_00_RAICHU_R.webp",
@@ -3422,7 +3433,7 @@
   },
   {
     "set": "A1A",
-    "number": "27",
+    "number": 27,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_002410_00_ELEBOO_U.webp",
@@ -3433,7 +3444,7 @@
   },
   {
     "set": "A1A",
-    "number": "28",
+    "number": 28,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002420_00_BACHURU_C.webp",
@@ -3444,7 +3455,7 @@
   },
   {
     "set": "A1A",
-    "number": "29",
+    "number": 29,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_002430_00_DENTULA_U.webp",
@@ -3455,7 +3466,7 @@
   },
   {
     "set": "A1A",
-    "number": "30",
+    "number": 30,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002440_00_DEDENNE_C.webp",
@@ -3466,7 +3477,7 @@
   },
   {
     "set": "A1A",
-    "number": "31",
+    "number": 31,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_002140_00_MEW_R.webp",
@@ -3477,7 +3488,7 @@
   },
   {
     "set": "A1A",
-    "number": "32",
+    "number": 32,
     "rarity": "Double Rare",
     "rarityCode": "RR",
     "imageName": "cPK_10_002450_00_MEWex_RR.webp",
@@ -3488,7 +3499,7 @@
   },
   {
     "set": "A1A",
-    "number": "33",
+    "number": 33,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_002460_00_SYMBOLER_U.webp",
@@ -3499,7 +3510,7 @@
   },
   {
     "set": "A1A",
-    "number": "34",
+    "number": 34,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002470_00_LIGRAY_C.webp",
@@ -3510,7 +3521,7 @@
   },
   {
     "set": "A1A",
-    "number": "35",
+    "number": 35,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_002500_00_OHBEM_U.webp",
@@ -3521,7 +3532,7 @@
   },
   {
     "set": "A1A",
-    "number": "36",
+    "number": 36,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002510_00_FLABEBE_C.webp",
@@ -3532,7 +3543,7 @@
   },
   {
     "set": "A1A",
-    "number": "37",
+    "number": 37,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002520_00_FLOETTE_C.webp",
@@ -3543,7 +3554,7 @@
   },
   {
     "set": "A1A",
-    "number": "38",
+    "number": 38,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_002480_00_FLORGES_U.webp",
@@ -3554,7 +3565,7 @@
   },
   {
     "set": "A1A",
-    "number": "39",
+    "number": 39,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002490_00_PEROPPAFU_C.webp",
@@ -3565,7 +3576,7 @@
   },
   {
     "set": "A1A",
-    "number": "40",
+    "number": 40,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002530_00_PEROREAM_C.webp",
@@ -3576,7 +3587,7 @@
   },
   {
     "set": "A1A",
-    "number": "41",
+    "number": 41,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002540_00_MANKEY_C.webp",
@@ -3587,7 +3598,7 @@
   },
   {
     "set": "A1A",
-    "number": "42",
+    "number": 42,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002550_00_OKORIZARU_C.webp",
@@ -3598,7 +3609,7 @@
   },
   {
     "set": "A1A",
-    "number": "43",
+    "number": 43,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002560_00_ISITSUBUTE_C.webp",
@@ -3609,7 +3620,7 @@
   },
   {
     "set": "A1A",
-    "number": "44",
+    "number": 44,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_002570_00_GOLONE_U.webp",
@@ -3620,7 +3631,7 @@
   },
   {
     "set": "A1A",
-    "number": "45",
+    "number": 45,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_002580_00_GOLONYA_R.webp",
@@ -3631,7 +3642,7 @@
   },
   {
     "set": "A1A",
-    "number": "46",
+    "number": 46,
     "rarity": "Double Rare",
     "rarityCode": "RR",
     "imageName": "cPK_10_002590_00_PTERAex_RR.webp",
@@ -3642,7 +3653,7 @@
   },
   {
     "set": "A1A",
-    "number": "47",
+    "number": 47,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_002600_00_MARSHADOW_R.webp",
@@ -3653,7 +3664,7 @@
   },
   {
     "set": "A1A",
-    "number": "48",
+    "number": 48,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_002610_00_ISHIHENGIN_U.webp",
@@ -3664,7 +3675,7 @@
   },
   {
     "set": "A1A",
-    "number": "49",
+    "number": 49,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002620_00_DOGARS_C.webp",
@@ -3675,7 +3686,7 @@
   },
   {
     "set": "A1A",
-    "number": "50",
+    "number": 50,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_002630_00_MATADOGAS_U.webp",
@@ -3686,7 +3697,7 @@
   },
   {
     "set": "A1A",
-    "number": "51",
+    "number": 51,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002640_00_CHORONEKO_C.webp",
@@ -3697,7 +3708,7 @@
   },
   {
     "set": "A1A",
-    "number": "52",
+    "number": 52,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002650_00_LEPARDAS_C.webp",
@@ -3708,7 +3719,7 @@
   },
   {
     "set": "A1A",
-    "number": "53",
+    "number": 53,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002660_00_FUSHIDE_C.webp",
@@ -3719,7 +3730,7 @@
   },
   {
     "set": "A1A",
-    "number": "54",
+    "number": 54,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002670_00_WHEEGA_C.webp",
@@ -3730,7 +3741,7 @@
   },
   {
     "set": "A1A",
-    "number": "55",
+    "number": 55,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_002680_00_PENDROR_U.webp",
@@ -3741,7 +3752,7 @@
   },
   {
     "set": "A1A",
-    "number": "56",
+    "number": 56,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_002690_00_CRIMGAN_U.webp",
@@ -3752,7 +3763,7 @@
   },
   {
     "set": "A1A",
-    "number": "57",
+    "number": 57,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002700_00_POPPO_C.webp",
@@ -3763,7 +3774,7 @@
   },
   {
     "set": "A1A",
-    "number": "58",
+    "number": 58,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002710_00_PIGEON_C.webp",
@@ -3774,7 +3785,7 @@
   },
   {
     "set": "A1A",
-    "number": "59",
+    "number": 59,
     "rarity": "Double Rare",
     "rarityCode": "RR",
     "imageName": "cPK_10_002720_00_PIGEOTex_RR.webp",
@@ -3785,7 +3796,7 @@
   },
   {
     "set": "A1A",
-    "number": "60",
+    "number": 60,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_002730_00_KENTAUROS_R.webp",
@@ -3796,7 +3807,7 @@
   },
   {
     "set": "A1A",
-    "number": "61",
+    "number": 61,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002740_00_EIEVUI_C.webp",
@@ -3807,7 +3818,7 @@
   },
   {
     "set": "A1A",
-    "number": "62",
+    "number": 62,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002750_00_PERAP_C.webp",
@@ -3818,7 +3829,7 @@
   },
   {
     "set": "A1A",
-    "number": "63",
+    "number": 63,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cTR_10_000100_00_HIMITSUNOKOHAKU_C.webp",
@@ -3829,7 +3840,7 @@
   },
   {
     "set": "A1A",
-    "number": "64",
+    "number": 64,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cTR_10_000200_00_POKEMONNOFUE_U.webp",
@@ -3840,7 +3851,7 @@
   },
   {
     "set": "A1A",
-    "number": "65",
+    "number": 65,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cTR_10_000190_00_MABOROSHINOSEKIBAN_U.webp",
@@ -3851,7 +3862,7 @@
   },
   {
     "set": "A1A",
-    "number": "66",
+    "number": 66,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cTR_10_000220_00_KAKEDASHICHOSAIN_U.webp",
@@ -3862,7 +3873,7 @@
   },
   {
     "set": "A1A",
-    "number": "67",
+    "number": 67,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cTR_10_000210_00_GREEN_U.webp",
@@ -3873,7 +3884,7 @@
   },
   {
     "set": "A1A",
-    "number": "68",
+    "number": 68,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cTR_10_000230_00_LEAF_U.webp",
@@ -3884,7 +3895,7 @@
   },
   {
     "set": "A1A",
-    "number": "69",
+    "number": 69,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_002160_00_NASSY_AR.webp",
@@ -3895,7 +3906,7 @@
   },
   {
     "set": "A1A",
-    "number": "70",
+    "number": 70,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_002200_00_JALORDA_AR.webp",
@@ -3906,7 +3917,7 @@
   },
   {
     "set": "A1A",
-    "number": "71",
+    "number": 71,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_002290_00_YATOUMORI_AR.webp",
@@ -3917,7 +3928,7 @@
   },
   {
     "set": "A1A",
-    "number": "72",
+    "number": 72,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_002330_00_SHOWERS_AR.webp",
@@ -3928,7 +3939,7 @@
   },
   {
     "set": "A1A",
-    "number": "73",
+    "number": 73,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_002440_00_DEDENNE_AR.webp",
@@ -3939,7 +3950,7 @@
   },
   {
     "set": "A1A",
-    "number": "74",
+    "number": 74,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_002600_00_MARSHADOW_AR.webp",
@@ -3950,7 +3961,7 @@
   },
   {
     "set": "A1A",
-    "number": "75",
+    "number": 75,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cPK_20_002170_00_CELEBIex_SR.webp",
@@ -3961,7 +3972,7 @@
   },
   {
     "set": "A1A",
-    "number": "76",
+    "number": 76,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cPK_20_002320_00_GYARADOSex_SR.webp",
@@ -3972,7 +3983,7 @@
   },
   {
     "set": "A1A",
-    "number": "77",
+    "number": 77,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cPK_20_002450_00_MEWex_SR.webp",
@@ -3983,7 +3994,7 @@
   },
   {
     "set": "A1A",
-    "number": "78",
+    "number": 78,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cPK_20_002590_00_PTERAex_SR.webp",
@@ -3994,7 +4005,7 @@
   },
   {
     "set": "A1A",
-    "number": "79",
+    "number": 79,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cPK_20_002720_00_PIGEOTex_SR.webp",
@@ -4005,7 +4016,7 @@
   },
   {
     "set": "A1A",
-    "number": "80",
+    "number": 80,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cTR_20_000220_00_KAKEDASHICHOSAIN_SR.webp",
@@ -4016,7 +4027,7 @@
   },
   {
     "set": "A1A",
-    "number": "81",
+    "number": 81,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cTR_20_000210_00_GREEN_SR.webp",
@@ -4027,7 +4038,7 @@
   },
   {
     "set": "A1A",
-    "number": "82",
+    "number": 82,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cTR_20_000230_00_LEAF_SR.webp",
@@ -4038,7 +4049,7 @@
   },
   {
     "set": "A1A",
-    "number": "83",
+    "number": 83,
     "rarity": "Special Art Rare",
     "rarityCode": "SAR",
     "imageName": "cPK_20_002450_01_MEWex_SAR.webp",
@@ -4049,7 +4060,7 @@
   },
   {
     "set": "A1A",
-    "number": "84",
+    "number": 84,
     "rarity": "Special Art Rare",
     "rarityCode": "SAR",
     "imageName": "cPK_20_002590_01_PTERAex_SAR.webp",
@@ -4060,7 +4071,7 @@
   },
   {
     "set": "A1A",
-    "number": "85",
+    "number": 85,
     "rarity": "Immersive Rare",
     "rarityCode": "IM",
     "imageName": "cPK_20_002170_01_CELEBIex_IM.webp",
@@ -4071,7 +4082,7 @@
   },
   {
     "set": "A1A",
-    "number": "86",
+    "number": 86,
     "rarity": "Crown Rare",
     "rarityCode": "UR",
     "imageName": "cPK_20_002450_02_MEWex_UR.webp",
@@ -4082,7 +4093,7 @@
   },
   {
     "set": "A2",
-    "number": "1",
+    "number": 1,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002820_00_NAZONOKUSA_C.webp",
@@ -4093,7 +4104,7 @@
   },
   {
     "set": "A2",
-    "number": "2",
+    "number": 2,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002830_00_KUSAIHANA_C.webp",
@@ -4104,7 +4115,7 @@
   },
   {
     "set": "A2",
-    "number": "3",
+    "number": 3,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_002840_00_KIREIHANA_U.webp",
@@ -4115,7 +4126,7 @@
   },
   {
     "set": "A2",
-    "number": "4",
+    "number": 4,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002850_00_MONJARA_C.webp",
@@ -4126,7 +4137,7 @@
   },
   {
     "set": "A2",
-    "number": "5",
+    "number": 5,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_002860_00_MOJUMBO_U.webp",
@@ -4137,7 +4148,7 @@
   },
   {
     "set": "A2",
-    "number": "6",
+    "number": 6,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002870_00_YANYANMA_C.webp",
@@ -4148,7 +4159,7 @@
   },
   {
     "set": "A2",
-    "number": "7",
+    "number": 7,
     "rarity": "Double Rare",
     "rarityCode": "RR",
     "imageName": "cPK_10_002880_00_MEGAYANMAex_RR.webp",
@@ -4159,7 +4170,7 @@
   },
   {
     "set": "A2",
-    "number": "8",
+    "number": 8,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002890_00_ROSELIA_C.webp",
@@ -4170,7 +4181,7 @@
   },
   {
     "set": "A2",
-    "number": "9",
+    "number": 9,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_002900_00_ROSERADE_U.webp",
@@ -4181,7 +4192,7 @@
   },
   {
     "set": "A2",
-    "number": "10",
+    "number": 10,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002910_00_NAETLE_C.webp",
@@ -4192,7 +4203,7 @@
   },
   {
     "set": "A2",
-    "number": "11",
+    "number": 11,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_002920_00_HAYASHIGAME_U.webp",
@@ -4203,7 +4214,7 @@
   },
   {
     "set": "A2",
-    "number": "12",
+    "number": 12,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_002930_00_DODAITOSE_R.webp",
@@ -4214,7 +4225,7 @@
   },
   {
     "set": "A2",
-    "number": "13",
+    "number": 13,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002940_00_KOROBOHSHI_C.webp",
@@ -4225,7 +4236,7 @@
   },
   {
     "set": "A2",
-    "number": "14",
+    "number": 14,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002950_00_KOROTOCK_C.webp",
@@ -4236,7 +4247,7 @@
   },
   {
     "set": "A2",
-    "number": "15",
+    "number": 15,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002960_00_MINOMUCCHI_C.webp",
@@ -4247,7 +4258,7 @@
   },
   {
     "set": "A2",
-    "number": "16",
+    "number": 16,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002970_00_MINOMADAMKUSAKINOMINO_C.webp",
@@ -4258,7 +4269,7 @@
   },
   {
     "set": "A2",
-    "number": "17",
+    "number": 17,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_002980_00_MITSUHONEY_C.webp",
@@ -4269,7 +4280,7 @@
   },
   {
     "set": "A2",
-    "number": "18",
+    "number": 18,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_002990_00_BEEQUEN_U.webp",
@@ -4280,7 +4291,7 @@
   },
   {
     "set": "A2",
-    "number": "19",
+    "number": 19,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_003000_00_MUSKIPPA_U.webp",
@@ -4291,7 +4302,7 @@
   },
   {
     "set": "A2",
-    "number": "20",
+    "number": 20,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_003010_00_LEAFIA_R.webp",
@@ -4302,7 +4313,7 @@
   },
   {
     "set": "A2",
-    "number": "21",
+    "number": 21,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003020_00_CUT ROTOM_C.webp",
@@ -4313,7 +4324,7 @@
   },
   {
     "set": "A2",
-    "number": "22",
+    "number": 22,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_003030_00_SHAYMIN_R.webp",
@@ -4324,7 +4335,7 @@
   },
   {
     "set": "A2",
-    "number": "23",
+    "number": 23,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003040_00_BOOBER_C.webp",
@@ -4335,7 +4346,7 @@
   },
   {
     "set": "A2",
-    "number": "24",
+    "number": 24,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_003050_00_BOOBURN_R.webp",
@@ -4346,7 +4357,7 @@
   },
   {
     "set": "A2",
-    "number": "25",
+    "number": 25,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003060_00_MAGMAG_C.webp",
@@ -4357,7 +4368,7 @@
   },
   {
     "set": "A2",
-    "number": "26",
+    "number": 26,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_003070_00_MAGCARGOT_U.webp",
@@ -4368,7 +4379,7 @@
   },
   {
     "set": "A2",
-    "number": "27",
+    "number": 27,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003080_00_HIKOZARU_C.webp",
@@ -4379,7 +4390,7 @@
   },
   {
     "set": "A2",
-    "number": "28",
+    "number": 28,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_003090_00_MOUKAZARU_U.webp",
@@ -4390,7 +4401,7 @@
   },
   {
     "set": "A2",
-    "number": "29",
+    "number": 29,
     "rarity": "Double Rare",
     "rarityCode": "RR",
     "imageName": "cPK_10_003100_00_GOUKAZARUex_RR.webp",
@@ -4401,7 +4412,7 @@
   },
   {
     "set": "A2",
-    "number": "30",
+    "number": 30,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003110_00_HEAT ROTOM_C.webp",
@@ -4412,7 +4423,7 @@
   },
   {
     "set": "A2",
-    "number": "31",
+    "number": 31,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003120_00_URIMOO_C.webp",
@@ -4423,7 +4434,7 @@
   },
   {
     "set": "A2",
-    "number": "32",
+    "number": 32,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_003130_00_INOMOO_U.webp",
@@ -4434,7 +4445,7 @@
   },
   {
     "set": "A2",
-    "number": "33",
+    "number": 33,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_003140_00_MAMMOO_R.webp",
@@ -4445,7 +4456,7 @@
   },
   {
     "set": "A2",
-    "number": "34",
+    "number": 34,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_003150_00_REGICE_U.webp",
@@ -4456,7 +4467,7 @@
   },
   {
     "set": "A2",
-    "number": "35",
+    "number": 35,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003160_00_POCHAMA_C.webp",
@@ -4467,7 +4478,7 @@
   },
   {
     "set": "A2",
-    "number": "36",
+    "number": 36,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_003170_00_POTTAISHI_U.webp",
@@ -4478,7 +4489,7 @@
   },
   {
     "set": "A2",
-    "number": "37",
+    "number": 37,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_003180_00_EMPERTE_R.webp",
@@ -4489,7 +4500,7 @@
   },
   {
     "set": "A2",
-    "number": "38",
+    "number": 38,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003190_00_BUOYSEL_C.webp",
@@ -4500,7 +4511,7 @@
   },
   {
     "set": "A2",
-    "number": "39",
+    "number": 39,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_003200_00_FLOAZEL_U.webp",
@@ -4511,7 +4522,7 @@
   },
   {
     "set": "A2",
-    "number": "40",
+    "number": 40,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003210_00_KARANAKUSHI_C.webp",
@@ -4522,7 +4533,7 @@
   },
   {
     "set": "A2",
-    "number": "41",
+    "number": 41,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_003220_00_TRITODON_U.webp",
@@ -4533,7 +4544,7 @@
   },
   {
     "set": "A2",
-    "number": "42",
+    "number": 42,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003230_00_KEIKOUO_C.webp",
@@ -4544,7 +4555,7 @@
   },
   {
     "set": "A2",
-    "number": "43",
+    "number": 43,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_003240_00_NEOLANT_U.webp",
@@ -4555,7 +4566,7 @@
   },
   {
     "set": "A2",
-    "number": "44",
+    "number": 44,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003250_00_YUKIKABURI_C.webp",
@@ -4566,7 +4577,7 @@
   },
   {
     "set": "A2",
-    "number": "45",
+    "number": 45,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_003260_00_YUKINOOH_U.webp",
@@ -4577,7 +4588,7 @@
   },
   {
     "set": "A2",
-    "number": "46",
+    "number": 46,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_003270_00_GLACIA_R.webp",
@@ -4588,7 +4599,7 @@
   },
   {
     "set": "A2",
-    "number": "47",
+    "number": 47,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003280_00_WASH ROTOM_C.webp",
@@ -4599,7 +4610,7 @@
   },
   {
     "set": "A2",
-    "number": "48",
+    "number": 48,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003290_00_FROST ROTOM_C.webp",
@@ -4610,7 +4621,7 @@
   },
   {
     "set": "A2",
-    "number": "49",
+    "number": 49,
     "rarity": "Double Rare",
     "rarityCode": "RR",
     "imageName": "cPK_10_003300_00_PALKIAex_RR.webp",
@@ -4621,7 +4632,7 @@
   },
   {
     "set": "A2",
-    "number": "50",
+    "number": 50,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_003310_00_MANAPHY_U.webp",
@@ -4632,7 +4643,7 @@
   },
   {
     "set": "A2",
-    "number": "51",
+    "number": 51,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003320_00_COIL_C.webp",
@@ -4643,7 +4654,7 @@
   },
   {
     "set": "A2",
-    "number": "52",
+    "number": 52,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_003330_00_RARECOIL_U.webp",
@@ -4654,7 +4665,7 @@
   },
   {
     "set": "A2",
-    "number": "53",
+    "number": 53,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_003340_00_JIBACOIL_R.webp",
@@ -4665,7 +4676,7 @@
   },
   {
     "set": "A2",
-    "number": "54",
+    "number": 54,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003350_00_BIRIRIDAMA_C.webp",
@@ -4676,7 +4687,7 @@
   },
   {
     "set": "A2",
-    "number": "55",
+    "number": 55,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_003360_00_MARUMINE_U.webp",
@@ -4687,7 +4698,7 @@
   },
   {
     "set": "A2",
-    "number": "56",
+    "number": 56,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003370_00_ELEBOO_C.webp",
@@ -4698,7 +4709,7 @@
   },
   {
     "set": "A2",
-    "number": "57",
+    "number": 57,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_003380_00_ELEKIBLE_R.webp",
@@ -4709,7 +4720,7 @@
   },
   {
     "set": "A2",
-    "number": "58",
+    "number": 58,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003390_00_KOLINK_C.webp",
@@ -4720,7 +4731,7 @@
   },
   {
     "set": "A2",
-    "number": "59",
+    "number": 59,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_003400_00_LUXIO_U.webp",
@@ -4731,7 +4742,7 @@
   },
   {
     "set": "A2",
-    "number": "60",
+    "number": 60,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_003410_00_RENTORAR_R.webp",
@@ -4742,7 +4753,7 @@
   },
   {
     "set": "A2",
-    "number": "61",
+    "number": 61,
     "rarity": "Double Rare",
     "rarityCode": "RR",
     "imageName": "cPK_10_003420_00_PACHIRISUex_RR.webp",
@@ -4753,7 +4764,7 @@
   },
   {
     "set": "A2",
-    "number": "62",
+    "number": 62,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003430_00_ROTOM_C.webp",
@@ -4764,7 +4775,7 @@
   },
   {
     "set": "A2",
-    "number": "63",
+    "number": 63,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003440_00_TOGEPY_C.webp",
@@ -4775,7 +4786,7 @@
   },
   {
     "set": "A2",
-    "number": "64",
+    "number": 64,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_003450_00_TOGECHICK_U.webp",
@@ -4786,7 +4797,7 @@
   },
   {
     "set": "A2",
-    "number": "65",
+    "number": 65,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_003460_00_TOGEKISS_R.webp",
@@ -4797,7 +4808,7 @@
   },
   {
     "set": "A2",
-    "number": "66",
+    "number": 66,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003470_00_MUMA_C.webp",
@@ -4808,7 +4819,7 @@
   },
   {
     "set": "A2",
-    "number": "67",
+    "number": 67,
     "rarity": "Double Rare",
     "rarityCode": "RR",
     "imageName": "cPK_10_003480_00_MUMARGIex_RR.webp",
@@ -4819,7 +4830,7 @@
   },
   {
     "set": "A2",
-    "number": "68",
+    "number": 68,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003490_00_RALTS_C.webp",
@@ -4830,7 +4841,7 @@
   },
   {
     "set": "A2",
-    "number": "69",
+    "number": 69,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003500_00_KIRLIA_C.webp",
@@ -4841,7 +4852,7 @@
   },
   {
     "set": "A2",
-    "number": "70",
+    "number": 70,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003510_00_YOMAWARU_C.webp",
@@ -4852,7 +4863,7 @@
   },
   {
     "set": "A2",
-    "number": "71",
+    "number": 71,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_003520_00_SAMAYOURU_U.webp",
@@ -4863,7 +4874,7 @@
   },
   {
     "set": "A2",
-    "number": "72",
+    "number": 72,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_003530_00_YONOIR_R.webp",
@@ -4874,7 +4885,7 @@
   },
   {
     "set": "A2",
-    "number": "73",
+    "number": 73,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003540_00_FUWANTE_C.webp",
@@ -4885,7 +4896,7 @@
   },
   {
     "set": "A2",
-    "number": "74",
+    "number": 74,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_003550_00_FUWARIDE_U.webp",
@@ -4896,7 +4907,7 @@
   },
   {
     "set": "A2",
-    "number": "75",
+    "number": 75,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_003560_00_YUXIE_U.webp",
@@ -4907,7 +4918,7 @@
   },
   {
     "set": "A2",
-    "number": "76",
+    "number": 76,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_003570_00_EMRIT_R.webp",
@@ -4918,7 +4929,7 @@
   },
   {
     "set": "A2",
-    "number": "77",
+    "number": 77,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_003580_00_AGNOME_U.webp",
@@ -4929,7 +4940,7 @@
   },
   {
     "set": "A2",
-    "number": "78",
+    "number": 78,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_003590_00_ORIGINGIRATINA_R.webp",
@@ -4940,7 +4951,7 @@
   },
   {
     "set": "A2",
-    "number": "79",
+    "number": 79,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_003600_00_CRESSELIA_R.webp",
@@ -4951,7 +4962,7 @@
   },
   {
     "set": "A2",
-    "number": "80",
+    "number": 80,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003610_00_SIHORN_C.webp",
@@ -4962,7 +4973,7 @@
   },
   {
     "set": "A2",
-    "number": "81",
+    "number": 81,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_003620_00_SIDON_U.webp",
@@ -4973,7 +4984,7 @@
   },
   {
     "set": "A2",
-    "number": "82",
+    "number": 82,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_003630_00_DOSIDON_R.webp",
@@ -4984,7 +4995,7 @@
   },
   {
     "set": "A2",
-    "number": "83",
+    "number": 83,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003640_00_GLIGER_C.webp",
@@ -4995,7 +5006,7 @@
   },
   {
     "set": "A2",
-    "number": "84",
+    "number": 84,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_003650_00_GLION_U.webp",
@@ -5006,7 +5017,7 @@
   },
   {
     "set": "A2",
-    "number": "85",
+    "number": 85,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003660_00_KAPOERER_C.webp",
@@ -5017,7 +5028,7 @@
   },
   {
     "set": "A2",
-    "number": "86",
+    "number": 86,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003670_00_NOSEPASS_C.webp",
@@ -5028,7 +5039,7 @@
   },
   {
     "set": "A2",
-    "number": "87",
+    "number": 87,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_003680_00_REGIROCK_U.webp",
@@ -5039,7 +5050,7 @@
   },
   {
     "set": "A2",
-    "number": "88",
+    "number": 88,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_003690_00_ZUGAIDOS_U.webp",
@@ -5050,7 +5061,7 @@
   },
   {
     "set": "A2",
-    "number": "89",
+    "number": 89,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_003700_00_RAMPALD_R.webp",
@@ -5061,7 +5072,7 @@
   },
   {
     "set": "A2",
-    "number": "90",
+    "number": 90,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003710_00_MINOMADAMSUNACHINOMINO_C.webp",
@@ -5072,7 +5083,7 @@
   },
   {
     "set": "A2",
-    "number": "91",
+    "number": 91,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003720_00_RIOLU_C.webp",
@@ -5083,7 +5094,7 @@
   },
   {
     "set": "A2",
-    "number": "92",
+    "number": 92,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_003730_00_LUCARIO_R.webp",
@@ -5094,7 +5105,7 @@
   },
   {
     "set": "A2",
-    "number": "93",
+    "number": 93,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003740_00_HIPPOPOTAS_C.webp",
@@ -5105,7 +5116,7 @@
   },
   {
     "set": "A2",
-    "number": "94",
+    "number": 94,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_003750_00_KABALDON_U.webp",
@@ -5116,7 +5127,7 @@
   },
   {
     "set": "A2",
-    "number": "95",
+    "number": 95,
     "rarity": "Double Rare",
     "rarityCode": "RR",
     "imageName": "cPK_10_003760_00_ERUREIDOex_RR.webp",
@@ -5127,7 +5138,7 @@
   },
   {
     "set": "A2",
-    "number": "96",
+    "number": 96,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003770_00_YAMIKARASU_C.webp",
@@ -5138,7 +5149,7 @@
   },
   {
     "set": "A2",
-    "number": "97",
+    "number": 97,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_003780_00_DONGKARASU_U.webp",
@@ -5149,7 +5160,7 @@
   },
   {
     "set": "A2",
-    "number": "98",
+    "number": 98,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003790_00_NYULA_C.webp",
@@ -5160,7 +5171,7 @@
   },
   {
     "set": "A2",
-    "number": "99",
+    "number": 99,
     "rarity": "Double Rare",
     "rarityCode": "RR",
     "imageName": "cPK_10_003800_00_MANYULAex_RR.webp",
@@ -5171,7 +5182,7 @@
   },
   {
     "set": "A2",
-    "number": "100",
+    "number": 100,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003810_00_POCHIENA_C.webp",
@@ -5182,7 +5193,7 @@
   },
   {
     "set": "A2",
-    "number": "101",
+    "number": 101,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_003820_00_GRAENA_U.webp",
@@ -5193,7 +5204,7 @@
   },
   {
     "set": "A2",
-    "number": "102",
+    "number": 102,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003830_00_SKUNPUU_C.webp",
@@ -5204,7 +5215,7 @@
   },
   {
     "set": "A2",
-    "number": "103",
+    "number": 103,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_003840_00_SKUTANK_U.webp",
@@ -5215,7 +5226,7 @@
   },
   {
     "set": "A2",
-    "number": "104",
+    "number": 104,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_003850_00_MIKARUGE_U.webp",
@@ -5226,7 +5237,7 @@
   },
   {
     "set": "A2",
-    "number": "105",
+    "number": 105,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003860_00_SCORUPI_C.webp",
@@ -5237,7 +5248,7 @@
   },
   {
     "set": "A2",
-    "number": "106",
+    "number": 106,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_003870_00_DORAPION_U.webp",
@@ -5248,7 +5259,7 @@
   },
   {
     "set": "A2",
-    "number": "107",
+    "number": 107,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003880_00_GUREGGRU_C.webp",
@@ -5259,7 +5270,7 @@
   },
   {
     "set": "A2",
-    "number": "108",
+    "number": 108,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_003890_00_DOKUROG_U.webp",
@@ -5270,7 +5281,7 @@
   },
   {
     "set": "A2",
-    "number": "109",
+    "number": 109,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_003900_00_DARKRAI_R.webp",
@@ -5281,7 +5292,7 @@
   },
   {
     "set": "A2",
-    "number": "110",
+    "number": 110,
     "rarity": "Double Rare",
     "rarityCode": "RR",
     "imageName": "cPK_10_003910_00_DARKRAIex_RR.webp",
@@ -5292,7 +5303,7 @@
   },
   {
     "set": "A2",
-    "number": "111",
+    "number": 111,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_003920_00_AIRMD_U.webp",
@@ -5303,7 +5314,7 @@
   },
   {
     "set": "A2",
-    "number": "112",
+    "number": 112,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_003930_00_REGISTEEL_U.webp",
@@ -5314,7 +5325,7 @@
   },
   {
     "set": "A2",
-    "number": "113",
+    "number": 113,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_003940_00_TATETOPS_U.webp",
@@ -5325,7 +5336,7 @@
   },
   {
     "set": "A2",
-    "number": "114",
+    "number": 114,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_003950_00_TORIDEPS_R.webp",
@@ -5336,7 +5347,7 @@
   },
   {
     "set": "A2",
-    "number": "115",
+    "number": 115,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003960_00_MINOMADAMGOMINOMINO_C.webp",
@@ -5347,7 +5358,7 @@
   },
   {
     "set": "A2",
-    "number": "116",
+    "number": 116,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_003970_00_DOHMIRROR_C.webp",
@@ -5358,7 +5369,7 @@
   },
   {
     "set": "A2",
-    "number": "117",
+    "number": 117,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_003980_00_DOHTAKUN_U.webp",
@@ -5369,7 +5380,7 @@
   },
   {
     "set": "A2",
-    "number": "118",
+    "number": 118,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_003990_00_DAINOSE_U.webp",
@@ -5380,7 +5391,7 @@
   },
   {
     "set": "A2",
-    "number": "119",
+    "number": 119,
     "rarity": "Double Rare",
     "rarityCode": "RR",
     "imageName": "cPK_10_004000_00_DIALGAex_RR.webp",
@@ -5391,7 +5402,7 @@
   },
   {
     "set": "A2",
-    "number": "120",
+    "number": 120,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_004010_00_HEATRAN_R.webp",
@@ -5402,7 +5413,7 @@
   },
   {
     "set": "A2",
-    "number": "121",
+    "number": 121,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_004020_00_FUKAMARU_C.webp",
@@ -5413,7 +5424,7 @@
   },
   {
     "set": "A2",
-    "number": "122",
+    "number": 122,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_004030_00_GABITE_U.webp",
@@ -5424,7 +5435,7 @@
   },
   {
     "set": "A2",
-    "number": "123",
+    "number": 123,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_004040_00_GABURIAS_R.webp",
@@ -5435,7 +5446,7 @@
   },
   {
     "set": "A2",
-    "number": "124",
+    "number": 124,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_004050_00_BERORINGA_C.webp",
@@ -5446,7 +5457,7 @@
   },
   {
     "set": "A2",
-    "number": "125",
+    "number": 125,
     "rarity": "Double Rare",
     "rarityCode": "RR",
     "imageName": "cPK_10_004060_00_BEROBELTex_RR.webp",
@@ -5457,7 +5468,7 @@
   },
   {
     "set": "A2",
-    "number": "126",
+    "number": 126,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_004070_00_EIEVUI_C.webp",
@@ -5468,7 +5479,7 @@
   },
   {
     "set": "A2",
-    "number": "127",
+    "number": 127,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_004080_00_PORYGON_C.webp",
@@ -5479,7 +5490,7 @@
   },
   {
     "set": "A2",
-    "number": "128",
+    "number": 128,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_004090_00_PORYGON2_U.webp",
@@ -5490,7 +5501,7 @@
   },
   {
     "set": "A2",
-    "number": "129",
+    "number": 129,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_004100_00_PORYGON-Z_R.webp",
@@ -5501,7 +5512,7 @@
   },
   {
     "set": "A2",
-    "number": "130",
+    "number": 130,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_004110_00_EIPAM_C.webp",
@@ -5512,7 +5523,7 @@
   },
   {
     "set": "A2",
-    "number": "131",
+    "number": 131,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_004120_00_ETEBOTH_C.webp",
@@ -5523,7 +5534,7 @@
   },
   {
     "set": "A2",
-    "number": "132",
+    "number": 132,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_004130_00_MUKKURU_C.webp",
@@ -5534,7 +5545,7 @@
   },
   {
     "set": "A2",
-    "number": "133",
+    "number": 133,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_004140_00_MUKUBIRD_C.webp",
@@ -5545,7 +5556,7 @@
   },
   {
     "set": "A2",
-    "number": "134",
+    "number": 134,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_004150_00_MUKUHAWK_U.webp",
@@ -5556,7 +5567,7 @@
   },
   {
     "set": "A2",
-    "number": "135",
+    "number": 135,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_004160_00_BIPPA_C.webp",
@@ -5567,7 +5578,7 @@
   },
   {
     "set": "A2",
-    "number": "136",
+    "number": 136,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_004170_00_BEADARU_C.webp",
@@ -5578,7 +5589,7 @@
   },
   {
     "set": "A2",
-    "number": "137",
+    "number": 137,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_004180_00_MIMIROL_C.webp",
@@ -5589,7 +5600,7 @@
   },
   {
     "set": "A2",
-    "number": "138",
+    "number": 138,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_004190_00_MIMILOP_C.webp",
@@ -5600,7 +5611,7 @@
   },
   {
     "set": "A2",
-    "number": "139",
+    "number": 139,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_004200_00_NYARMAR_C.webp",
@@ -5611,7 +5622,7 @@
   },
   {
     "set": "A2",
-    "number": "140",
+    "number": 140,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cPK_10_004210_00_BUNYATTO_U.webp",
@@ -5622,7 +5633,7 @@
   },
   {
     "set": "A2",
-    "number": "141",
+    "number": 141,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_004220_00_PERAP_C.webp",
@@ -5633,7 +5644,7 @@
   },
   {
     "set": "A2",
-    "number": "142",
+    "number": 142,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_10_004230_00_SPIN ROTOM_C.webp",
@@ -5644,7 +5655,7 @@
   },
   {
     "set": "A2",
-    "number": "143",
+    "number": 143,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_10_004240_00_REGIGIGAS_R.webp",
@@ -5655,7 +5666,7 @@
   },
   {
     "set": "A2",
-    "number": "144",
+    "number": 144,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cTR_10_000260_00_ZUGAINOKASEKI_C.webp",
@@ -5666,7 +5677,7 @@
   },
   {
     "set": "A2",
-    "number": "145",
+    "number": 145,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cTR_10_000270_00_TATENOKASEKI_C.webp",
@@ -5677,7 +5688,7 @@
   },
   {
     "set": "A2",
-    "number": "146",
+    "number": 146,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cTR_10_000280_00_POKEMONTSUUSHIN_U.webp",
@@ -5688,7 +5699,7 @@
   },
   {
     "set": "A2",
-    "number": "147",
+    "number": 147,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cTR_10_000290_00_OOKINAMANTO_U.webp",
@@ -5699,7 +5710,7 @@
   },
   {
     "set": "A2",
-    "number": "148",
+    "number": 148,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cTR_10_000300_00_GOTSUGOTSUMETTO_U.webp",
@@ -5710,7 +5721,7 @@
   },
   {
     "set": "A2",
-    "number": "149",
+    "number": 149,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cTR_10_000310_00_RAMUNOMI_U.webp",
@@ -5721,7 +5732,7 @@
   },
   {
     "set": "A2",
-    "number": "150",
+    "number": 150,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cTR_10_000320_00_AKAGI_U.webp",
@@ -5732,7 +5743,7 @@
   },
   {
     "set": "A2",
-    "number": "151",
+    "number": 151,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cTR_10_000330_00_GINGADANNOSHITAPPA_U.webp",
@@ -5743,7 +5754,7 @@
   },
   {
     "set": "A2",
-    "number": "152",
+    "number": 152,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cTR_10_000340_00_SHIRONA_U.webp",
@@ -5754,7 +5765,7 @@
   },
   {
     "set": "A2",
-    "number": "153",
+    "number": 153,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cTR_10_000350_00_DENZI_U.webp",
@@ -5765,7 +5776,7 @@
   },
   {
     "set": "A2",
-    "number": "154",
+    "number": 154,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cTR_10_000360_00_HIKARI_U.webp",
@@ -5776,7 +5787,7 @@
   },
   {
     "set": "A2",
-    "number": "155",
+    "number": 155,
     "rarity": "Uncommon",
     "rarityCode": "U",
     "imageName": "cTR_10_000370_00_MARS_U.webp",
@@ -5787,7 +5798,7 @@
   },
   {
     "set": "A2",
-    "number": "156",
+    "number": 156,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_002860_00_MOJUMBO_AR.webp",
@@ -5798,7 +5809,7 @@
   },
   {
     "set": "A2",
-    "number": "157",
+    "number": 157,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_002980_00_MITSUHONEY_AR.webp",
@@ -5809,7 +5820,7 @@
   },
   {
     "set": "A2",
-    "number": "158",
+    "number": 158,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_003000_00_MUSKIPPA_AR.webp",
@@ -5820,7 +5831,7 @@
   },
   {
     "set": "A2",
-    "number": "159",
+    "number": 159,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_003030_00_SHAYMIN_AR.webp",
@@ -5831,7 +5842,7 @@
   },
   {
     "set": "A2",
-    "number": "160",
+    "number": 160,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_003140_00_MAMMOO_AR.webp",
@@ -5842,7 +5853,7 @@
   },
   {
     "set": "A2",
-    "number": "161",
+    "number": 161,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_003220_00_TRITODON_AR.webp",
@@ -5853,7 +5864,7 @@
   },
   {
     "set": "A2",
-    "number": "162",
+    "number": 162,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_003310_00_MANAPHY_AR.webp",
@@ -5864,7 +5875,7 @@
   },
   {
     "set": "A2",
-    "number": "163",
+    "number": 163,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_003390_00_KOLINK_AR.webp",
@@ -5875,7 +5886,7 @@
   },
   {
     "set": "A2",
-    "number": "164",
+    "number": 164,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_003430_00_ROTOM_AR.webp",
@@ -5886,7 +5897,7 @@
   },
   {
     "set": "A2",
-    "number": "165",
+    "number": 165,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_003540_00_FUWANTE_AR.webp",
@@ -5897,7 +5908,7 @@
   },
   {
     "set": "A2",
-    "number": "166",
+    "number": 166,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_003570_00_EMRIT_AR.webp",
@@ -5908,7 +5919,7 @@
   },
   {
     "set": "A2",
-    "number": "167",
+    "number": 167,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_003590_00_ORIGINGIRATINA_AR.webp",
@@ -5919,7 +5930,7 @@
   },
   {
     "set": "A2",
-    "number": "168",
+    "number": 168,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_003600_00_CRESSELIA_AR.webp",
@@ -5930,7 +5941,7 @@
   },
   {
     "set": "A2",
-    "number": "169",
+    "number": 169,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_003630_00_DOSIDON_AR.webp",
@@ -5941,7 +5952,7 @@
   },
   {
     "set": "A2",
-    "number": "170",
+    "number": 170,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_003730_00_LUCARIO_AR.webp",
@@ -5952,7 +5963,7 @@
   },
   {
     "set": "A2",
-    "number": "171",
+    "number": 171,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_003740_00_HIPPOPOTAS_AR.webp",
@@ -5963,7 +5974,7 @@
   },
   {
     "set": "A2",
-    "number": "172",
+    "number": 172,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_003850_00_MIKARUGE_AR.webp",
@@ -5974,7 +5985,7 @@
   },
   {
     "set": "A2",
-    "number": "173",
+    "number": 173,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_003880_00_GUREGGRU_AR.webp",
@@ -5985,7 +5996,7 @@
   },
   {
     "set": "A2",
-    "number": "174",
+    "number": 174,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_004010_00_HEATRAN_AR.webp",
@@ -5996,7 +6007,7 @@
   },
   {
     "set": "A2",
-    "number": "175",
+    "number": 175,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_004040_00_GABURIAS_AR.webp",
@@ -6007,7 +6018,7 @@
   },
   {
     "set": "A2",
-    "number": "176",
+    "number": 176,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_004150_00_MUKUHAWK_AR.webp",
@@ -6018,7 +6029,7 @@
   },
   {
     "set": "A2",
-    "number": "177",
+    "number": 177,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_004160_00_BIPPA_AR.webp",
@@ -6029,7 +6040,7 @@
   },
   {
     "set": "A2",
-    "number": "178",
+    "number": 178,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_004200_00_NYARMAR_AR.webp",
@@ -6040,7 +6051,7 @@
   },
   {
     "set": "A2",
-    "number": "179",
+    "number": 179,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_20_004240_00_REGIGIGAS_AR.webp",
@@ -6051,7 +6062,7 @@
   },
   {
     "set": "A2",
-    "number": "180",
+    "number": 180,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cPK_20_002880_00_MEGAYANMAex_SR.webp",
@@ -6062,7 +6073,7 @@
   },
   {
     "set": "A2",
-    "number": "181",
+    "number": 181,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cPK_20_003100_00_GOUKAZARUex_SR.webp",
@@ -6073,7 +6084,7 @@
   },
   {
     "set": "A2",
-    "number": "182",
+    "number": 182,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cPK_20_003300_00_PALKIAex_SR.webp",
@@ -6084,7 +6095,7 @@
   },
   {
     "set": "A2",
-    "number": "183",
+    "number": 183,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cPK_20_003420_00_PACHIRISUex_SR.webp",
@@ -6095,7 +6106,7 @@
   },
   {
     "set": "A2",
-    "number": "184",
+    "number": 184,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cPK_20_003480_00_MUMARGIex_SR.webp",
@@ -6106,7 +6117,7 @@
   },
   {
     "set": "A2",
-    "number": "185",
+    "number": 185,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cPK_20_003760_00_ERUREIDOex_SR.webp",
@@ -6117,7 +6128,7 @@
   },
   {
     "set": "A2",
-    "number": "186",
+    "number": 186,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cPK_20_003800_00_MANYULAex_SR.webp",
@@ -6128,7 +6139,7 @@
   },
   {
     "set": "A2",
-    "number": "187",
+    "number": 187,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cPK_20_003910_00_DARKRAIex_SR.webp",
@@ -6139,7 +6150,7 @@
   },
   {
     "set": "A2",
-    "number": "188",
+    "number": 188,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cPK_20_004000_00_DIALGAex_SR.webp",
@@ -6150,7 +6161,7 @@
   },
   {
     "set": "A2",
-    "number": "189",
+    "number": 189,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cPK_20_004060_00_BEROBELTex_SR.webp",
@@ -6161,7 +6172,7 @@
   },
   {
     "set": "A2",
-    "number": "190",
+    "number": 190,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cTR_20_000320_00_AKAGI_SR.webp",
@@ -6172,7 +6183,7 @@
   },
   {
     "set": "A2",
-    "number": "191",
+    "number": 191,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cTR_20_000330_00_GINGADANNOSHITAPPA_SR.webp",
@@ -6183,7 +6194,7 @@
   },
   {
     "set": "A2",
-    "number": "192",
+    "number": 192,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cTR_20_000340_00_SHIRONA_SR.webp",
@@ -6194,7 +6205,7 @@
   },
   {
     "set": "A2",
-    "number": "193",
+    "number": 193,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cTR_20_000350_00_DENZI_SR.webp",
@@ -6205,7 +6216,7 @@
   },
   {
     "set": "A2",
-    "number": "194",
+    "number": 194,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cTR_20_000360_00_HIKARI_SR.webp",
@@ -6216,7 +6227,7 @@
   },
   {
     "set": "A2",
-    "number": "195",
+    "number": 195,
     "rarity": "Super Rare",
     "rarityCode": "SR",
     "imageName": "cTR_20_000370_00_MARS_SR.webp",
@@ -6227,7 +6238,7 @@
   },
   {
     "set": "A2",
-    "number": "196",
+    "number": 196,
     "rarity": "Special Art Rare",
     "rarityCode": "SAR",
     "imageName": "cPK_20_002880_01_MEGAYANMAex_SAR.webp",
@@ -6238,7 +6249,7 @@
   },
   {
     "set": "A2",
-    "number": "197",
+    "number": 197,
     "rarity": "Special Art Rare",
     "rarityCode": "SAR",
     "imageName": "cPK_20_003100_01_GOUKAZARUex_SAR.webp",
@@ -6249,7 +6260,7 @@
   },
   {
     "set": "A2",
-    "number": "198",
+    "number": 198,
     "rarity": "Special Art Rare",
     "rarityCode": "SAR",
     "imageName": "cPK_20_003420_01_PACHIRISUex_SAR.webp",
@@ -6260,7 +6271,7 @@
   },
   {
     "set": "A2",
-    "number": "199",
+    "number": 199,
     "rarity": "Special Art Rare",
     "rarityCode": "SAR",
     "imageName": "cPK_20_003480_01_MUMARGIex_SAR.webp",
@@ -6271,7 +6282,7 @@
   },
   {
     "set": "A2",
-    "number": "200",
+    "number": 200,
     "rarity": "Special Art Rare",
     "rarityCode": "SAR",
     "imageName": "cPK_20_003760_01_ERUREIDOex_SAR.webp",
@@ -6282,7 +6293,7 @@
   },
   {
     "set": "A2",
-    "number": "201",
+    "number": 201,
     "rarity": "Special Art Rare",
     "rarityCode": "SAR",
     "imageName": "cPK_20_003800_01_MANYULAex_SAR.webp",
@@ -6293,7 +6304,7 @@
   },
   {
     "set": "A2",
-    "number": "202",
+    "number": 202,
     "rarity": "Special Art Rare",
     "rarityCode": "SAR",
     "imageName": "cPK_20_003910_01_DARKRAIex_SAR.webp",
@@ -6304,7 +6315,7 @@
   },
   {
     "set": "A2",
-    "number": "203",
+    "number": 203,
     "rarity": "Special Art Rare",
     "rarityCode": "SAR",
     "imageName": "cPK_20_004060_01_BEROBELTex_SAR.webp",
@@ -6315,7 +6326,7 @@
   },
   {
     "set": "A2",
-    "number": "204",
+    "number": 204,
     "rarity": "Immersive Rare",
     "rarityCode": "IM",
     "imageName": "cPK_20_003300_01_PALKIAex_IM.webp",
@@ -6326,7 +6337,7 @@
   },
   {
     "set": "A2",
-    "number": "205",
+    "number": 205,
     "rarity": "Immersive Rare",
     "rarityCode": "IM",
     "imageName": "cPK_20_004000_01_DIALGAex_IM.webp",
@@ -6337,7 +6348,7 @@
   },
   {
     "set": "A2",
-    "number": "206",
+    "number": 206,
     "rarity": "Crown Rare",
     "rarityCode": "UR",
     "imageName": "cPK_20_003300_02_PALKIAex_UR.webp",
@@ -6348,7 +6359,7 @@
   },
   {
     "set": "A2",
-    "number": "207",
+    "number": 207,
     "rarity": "Crown Rare",
     "rarityCode": "UR",
     "imageName": "cPK_20_004000_02_DIALGAex_UR.webp",
@@ -6359,7 +6370,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "1",
+    "number": 1,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cTR_90_000010_00_KIZUGUSURI_C.webp",
@@ -6370,7 +6381,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "2",
+    "number": 2,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cTR_90_000020_00_SPEEDER_C.webp",
@@ -6381,7 +6392,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "3",
+    "number": 3,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cTR_90_000050_00_HANDSCOPE_C.webp",
@@ -6392,7 +6403,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "4",
+    "number": 4,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cTR_90_000060_00_POKEMONZUKAN_C.webp",
@@ -6403,7 +6414,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "5",
+    "number": 5,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cTR_90_000030_00_MONSTERBALL_C.webp",
@@ -6414,7 +6425,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "6",
+    "number": 6,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cTR_90_000070_00_REDCARD_C.webp",
@@ -6425,7 +6436,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "7",
+    "number": 7,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cTR_90_000040_00_HAKASENOKENKYU_C.webp",
@@ -6436,7 +6447,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "8",
+    "number": 8,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cTR_90_000060_01_POKEMONZUKAN_C.webp",
@@ -6447,7 +6458,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "9",
+    "number": 9,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_90_000940_02_PIKACHU_AR.webp",
@@ -6458,7 +6469,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "10",
+    "number": 10,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_90_001280_00_MEWTWO_AR.webp",
@@ -6469,7 +6480,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "11",
+    "number": 11,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_90_002020_00_LUCKY_R.webp",
@@ -6480,7 +6491,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "12",
+    "number": 12,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_90_001960_00_NYARTH_R.webp",
@@ -6491,7 +6502,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "13",
+    "number": 13,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_90_000070_00_BUTTERFREE_R.webp",
@@ -6502,7 +6513,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "14",
+    "number": 14,
     "rarity": "Double Rare",
     "rarityCode": "RR",
     "imageName": "cPK_90_002760_00_LAPLACEex_RR.webp",
@@ -6513,7 +6524,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "15",
+    "number": 15,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_90_000940_01_PIKACHU_C.webp",
@@ -6524,7 +6535,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "16",
+    "number": 16,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_90_001130_00_PIPPI_C.webp",
@@ -6535,7 +6546,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "17",
+    "number": 17,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_90_002770_00_MANKEY_C.webp",
@@ -6546,7 +6557,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "18",
+    "number": 18,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_90_000030_00_FUSHIGIBANA_AR.webp",
@@ -6557,7 +6568,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "19",
+    "number": 19,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_90_000890_00_GEKKOUGA_R.webp",
@@ -6568,7 +6579,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "20",
+    "number": 20,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_90_002780_00_GHOST_C.webp",
@@ -6579,7 +6590,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "21",
+    "number": 21,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_90_001500_00_IWARK_C.webp",
@@ -6590,7 +6601,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "22",
+    "number": 22,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_90_002790_00_PURIN_C.webp",
@@ -6601,7 +6612,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "23",
+    "number": 23,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_90_000010_00_FUSHIGIDANE_R.webp",
@@ -6612,7 +6623,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "24",
+    "number": 24,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_90_000970_00_COIL_R.webp",
@@ -6623,7 +6634,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "25",
+    "number": 25,
     "rarity": "Double Rare",
     "rarityCode": "RR",
     "imageName": "cPK_90_000470_00_FIREex_RR.webp",
@@ -6634,7 +6645,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "26",
+    "number": 26,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_90_000940_00_PIKACHU_AR.webp",
@@ -6645,7 +6656,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "27",
+    "number": 27,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_90_002800_00_TSUTARJA_C.webp",
@@ -6656,7 +6667,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "28",
+    "number": 28,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_90_002280_00_ULGAMOTH_R.webp",
@@ -6667,7 +6678,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "29",
+    "number": 29,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_90_000550_00_KAMEX_AR.webp",
@@ -6678,7 +6689,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "30",
+    "number": 30,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_90_002810_00_EIEVUI_C.webp",
@@ -6689,7 +6700,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "31",
+    "number": 31,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_90_002110_00_CHILLACCINO_C.webp",
@@ -6700,7 +6711,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "32",
+    "number": 32,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_90_000330_00_HITOKAGE_R.webp",
@@ -6711,7 +6722,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "33",
+    "number": 33,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_90_000530_00_ZENIGAME_R.webp",
@@ -6722,7 +6733,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "34",
+    "number": 34,
     "rarity": "Art Rare",
     "rarityCode": "AR",
     "imageName": "cPK_90_003160_00_POCHAMA_AR.webp",
@@ -6733,7 +6744,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "35",
+    "number": 35,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_90_002910_00_NAETLE_C.webp",
@@ -6744,7 +6755,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "36",
+    "number": 36,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_90_003380_00_ELEKIBLE_R.webp",
@@ -6755,7 +6766,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "37",
+    "number": 37,
     "rarity": "Double Rare",
     "rarityCode": "RR",
     "imageName": "cPK_90_004960_00_CRESSELIAex_RR.webp",
@@ -6766,7 +6777,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "38",
+    "number": 38,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_90_004970_00_MUMA_C.webp",
@@ -6777,7 +6788,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "39",
+    "number": 39,
     "rarity": "Common",
     "rarityCode": "C",
     "imageName": "cPK_90_003920_00_AIRMD_C.webp",
@@ -6788,7 +6799,7 @@
   },
   {
     "set": "PROMO-A",
-    "number": "40",
+    "number": 40,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_90_003080_00_HIKOZARU_R.webp",
@@ -6799,13 +6810,1069 @@
   },
   {
     "set": "PROMO-A",
-    "number": "41",
+    "number": 41,
     "rarity": "Rare",
     "rarityCode": "R",
     "imageName": "cPK_90_003440_00_TOGEPY_R.webp",
     "label": {
       "slug": "togepi",
       "eng": "Togepi"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 1,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_004250_00_HERACROS_U.webp",
+    "label": {
+      "slug": "heracross",
+      "eng": "Heracross"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 2,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_004260_00_MINOMUCCHI_C.webp",
+    "label": {
+      "slug": "burmy",
+      "eng": "Burmy"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 3,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_004270_00_GAMALE_U.webp",
+    "label": {
+      "slug": "mothim",
+      "eng": "Mothim"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 4,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_004280_00_MITSUHONEY_C.webp",
+    "label": {
+      "slug": "combee",
+      "eng": "Combee"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 5,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_004290_00_BEEQUEN_U.webp",
+    "label": {
+      "slug": "vespiquen",
+      "eng": "Vespiquen"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 6,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_004300_00_CHERINBO_C.webp",
+    "label": {
+      "slug": "cherubi",
+      "eng": "Cherubi"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 7,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_004310_00_CHERRIM_U.webp",
+    "label": {
+      "slug": "cherrim",
+      "eng": "Cherrim"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 8,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_004320_00_CHERRIM_U.webp",
+    "label": {
+      "slug": "cherrim",
+      "eng": "Cherrim"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 9,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_004330_00_MUSKIPPA_R.webp",
+    "label": {
+      "slug": "carnivine",
+      "eng": "Carnivine"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 10,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_004340_00_LEAFIAex_RR.webp",
+    "label": {
+      "slug": "leafeon-ex",
+      "eng": "Leafeon ex"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 11,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_004350_00_DELVIL_C.webp",
+    "label": {
+      "slug": "houndour",
+      "eng": "Houndour"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 12,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_004360_00_HELLGAR_U.webp",
+    "label": {
+      "slug": "houndoom",
+      "eng": "Houndoom"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 13,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_004370_00_HEATRAN_R.webp",
+    "label": {
+      "slug": "heatran",
+      "eng": "Heatran"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 14,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_004380_00_MARIL_C.webp",
+    "label": {
+      "slug": "marill",
+      "eng": "Marill"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 15,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_004390_00_MARILLI_C.webp",
+    "label": {
+      "slug": "azumarill",
+      "eng": "Azumarill"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 16,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_004400_00_DOJOACH_C.webp",
+    "label": {
+      "slug": "barboach",
+      "eng": "Barboach"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 17,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_004410_00_NAMAZUN_U.webp",
+    "label": {
+      "slug": "whiscash",
+      "eng": "Whiscash"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 18,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_004420_00_YUKIWARASHI_C.webp",
+    "label": {
+      "slug": "snorunt",
+      "eng": "Snorunt"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 19,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_004430_00_YUKIMENOKO_U.webp",
+    "label": {
+      "slug": "froslass",
+      "eng": "Froslass"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 20,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_004440_00_YUKIKABURI_C.webp",
+    "label": {
+      "slug": "snover",
+      "eng": "Snover"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 21,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_004450_00_YUKINOOH_R.webp",
+    "label": {
+      "slug": "abomasnow",
+      "eng": "Abomasnow"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 22,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_004460_00_GLACIAex_RR.webp",
+    "label": {
+      "slug": "glaceon-ex",
+      "eng": "Glaceon ex"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 23,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_004470_00_ORIGINPALKIA_R.webp",
+    "label": {
+      "slug": "palkia",
+      "eng": "Palkia"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 24,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_004480_00_PHIONE_U.webp",
+    "label": {
+      "slug": "phione",
+      "eng": "Phione"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 25,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_004490_00_PIKACHU_C.webp",
+    "label": {
+      "slug": "pikachu",
+      "eng": "Pikachu"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 26,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_004500_00_RAICHU_R.webp",
+    "label": {
+      "slug": "raichu",
+      "eng": "Raichu"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 27,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_004510_00_RAKURAI_C.webp",
+    "label": {
+      "slug": "electrike",
+      "eng": "Electrike"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 28,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_004520_00_LIVOLT_U.webp",
+    "label": {
+      "slug": "manectric",
+      "eng": "Manectric"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 29,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_004530_00_PIPPI_C.webp",
+    "label": {
+      "slug": "clefairy",
+      "eng": "Clefairy"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 30,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_004540_00_PIXY_U.webp",
+    "label": {
+      "slug": "clefable",
+      "eng": "Clefable"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 31,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_004550_00_GHOS_C.webp",
+    "label": {
+      "slug": "gastly",
+      "eng": "Gastly"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 32,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_004560_00_GHOST_C.webp",
+    "label": {
+      "slug": "haunter",
+      "eng": "Haunter"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 33,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_004570_00_GANGAR_U.webp",
+    "label": {
+      "slug": "gengar",
+      "eng": "Gengar"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 34,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_004580_00_UNKNOWN_U.webp",
+    "label": {
+      "slug": "unown",
+      "eng": "Unown"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 35,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_004590_00_ROTOM_R.webp",
+    "label": {
+      "slug": "rotom",
+      "eng": "Rotom"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 36,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_004600_00_USOKKIE_U.webp",
+    "label": {
+      "slug": "sudowoodo",
+      "eng": "Sudowoodo"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 37,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_004610_00_GOMAZOU_C.webp",
+    "label": {
+      "slug": "phanpy",
+      "eng": "Phanpy"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 38,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_004620_00_DONFAN_U.webp",
+    "label": {
+      "slug": "donphan",
+      "eng": "Donphan"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 39,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_004630_00_YOGIRAS_C.webp",
+    "label": {
+      "slug": "larvitar",
+      "eng": "Larvitar"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 40,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_004640_00_SANAGIRAS_U.webp",
+    "label": {
+      "slug": "pupitar",
+      "eng": "Pupitar"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 41,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_004650_00_BANGIRAS_R.webp",
+    "label": {
+      "slug": "tyranitar",
+      "eng": "Tyranitar"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 42,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_004660_00_NOSEPASS_C.webp",
+    "label": {
+      "slug": "nosepass",
+      "eng": "Nosepass"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 43,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_004670_00_ASANAN_C.webp",
+    "label": {
+      "slug": "meditite",
+      "eng": "Meditite"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 44,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_004680_00_CHAREM_U.webp",
+    "label": {
+      "slug": "medicham",
+      "eng": "Medicham"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 45,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_004690_00_FUKAMARU_C.webp",
+    "label": {
+      "slug": "gible",
+      "eng": "Gible"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 46,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_004700_00_GABITE_C.webp",
+    "label": {
+      "slug": "gabite",
+      "eng": "Gabite"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 47,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_004710_00_GABURIASex_RR.webp",
+    "label": {
+      "slug": "garchomp-ex",
+      "eng": "Garchomp ex"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 48,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_004720_00_ZUBAT_C.webp",
+    "label": {
+      "slug": "zubat",
+      "eng": "Zubat"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 49,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_004730_00_GOLBAT_C.webp",
+    "label": {
+      "slug": "golbat",
+      "eng": "Golbat"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 50,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_004740_00_CROBAT_R.webp",
+    "label": {
+      "slug": "crobat",
+      "eng": "Crobat"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 51,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_004750_00_GUREGGRU_C.webp",
+    "label": {
+      "slug": "croagunk",
+      "eng": "Croagunk"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 52,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_004760_00_DOKUROG_U.webp",
+    "label": {
+      "slug": "toxicroak",
+      "eng": "Toxicroak"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 53,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_004770_00_COIL_C.webp",
+    "label": {
+      "slug": "magnemite",
+      "eng": "Magnemite"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 54,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_004780_00_RARECOIL_C.webp",
+    "label": {
+      "slug": "magneton",
+      "eng": "Magneton"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 55,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_004790_00_JIBACOIL_R.webp",
+    "label": {
+      "slug": "magnezone",
+      "eng": "Magnezone"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 56,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_004800_00_KUCHEAT_C.webp",
+    "label": {
+      "slug": "mawile",
+      "eng": "Mawile"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 57,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_004810_00_DAINOSEex_RR.webp",
+    "label": {
+      "slug": "probopass-ex",
+      "eng": "Probopass ex"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 58,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_004820_00_DOHMIRROR_C.webp",
+    "label": {
+      "slug": "bronzor",
+      "eng": "Bronzor"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 59,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_004830_00_DOHTAKUN_U.webp",
+    "label": {
+      "slug": "bronzong",
+      "eng": "Bronzong"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 60,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_004840_00_ORIGINDIALGA_R.webp",
+    "label": {
+      "slug": "dialga",
+      "eng": "Dialga"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 61,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_004850_00_GIRATINA_R.webp",
+    "label": {
+      "slug": "giratina",
+      "eng": "Giratina"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 62,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_004860_00_EIEVUI_C.webp",
+    "label": {
+      "slug": "eevee",
+      "eng": "Eevee"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 63,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_004870_00_KABIGON_U.webp",
+    "label": {
+      "slug": "snorlax",
+      "eng": "Snorlax"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 64,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_004880_00_HOHO_C.webp",
+    "label": {
+      "slug": "hoothoot",
+      "eng": "Hoothoot"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 65,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_004890_00_YORUNOZUKU_U.webp",
+    "label": {
+      "slug": "noctowl",
+      "eng": "Noctowl"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 66,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_004900_00_MUKKURU_C.webp",
+    "label": {
+      "slug": "starly",
+      "eng": "Starly"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 67,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_004910_00_MUKUBIRD_C.webp",
+    "label": {
+      "slug": "staravia",
+      "eng": "Staravia"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 68,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_004920_00_MUKUHAWK_U.webp",
+    "label": {
+      "slug": "staraptor",
+      "eng": "Staraptor"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 69,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_004930_00_SHAYMIN_R.webp",
+    "label": {
+      "slug": "shaymin",
+      "eng": "Shaymin"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 70,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_004940_00_ARCEUS_R.webp",
+    "label": {
+      "slug": "arceus",
+      "eng": "Arceus"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 71,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_004950_00_ARCEUSex_RR.webp",
+    "label": {
+      "slug": "arceus-ex",
+      "eng": "Arceus ex"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 72,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_000380_00_KAI_U.webp",
+    "label": {
+      "slug": "irida",
+      "eng": "Irida"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 73,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_000390_00_KANNAGITOWNNOTYOUROU_U.webp",
+    "label": {
+      "slug": "celestic-town-elder",
+      "eng": "Celestic Town Elder"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 74,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_000400_00_JUN_U.webp",
+    "label": {
+      "slug": "barry",
+      "eng": "Barry"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 75,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_000410_00_SEKI_U.webp",
+    "label": {
+      "slug": "adaman",
+      "eng": "Adaman"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 76,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_004360_00_HELLGAR_AR.webp",
+    "label": {
+      "slug": "houndoom",
+      "eng": "Houndoom"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 77,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_004380_00_MARIL_AR.webp",
+    "label": {
+      "slug": "marill",
+      "eng": "Marill"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 78,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_004580_00_UNKNOWN_AR.webp",
+    "label": {
+      "slug": "unown",
+      "eng": "Unown"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 79,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_004600_00_USOKKIE_AR.webp",
+    "label": {
+      "slug": "sudowoodo",
+      "eng": "Sudowoodo"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 80,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_004770_00_COIL_AR.webp",
+    "label": {
+      "slug": "magnemite",
+      "eng": "Magnemite"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 81,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_004930_00_SHAYMIN_AR.webp",
+    "label": {
+      "slug": "shaymin",
+      "eng": "Shaymin"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 82,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_004340_00_LEAFIAex_SR.webp",
+    "label": {
+      "slug": "leafeon-ex",
+      "eng": "Leafeon ex"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 83,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_004460_00_GLACIAex_SR.webp",
+    "label": {
+      "slug": "glaceon-ex",
+      "eng": "Glaceon ex"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 84,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_004710_00_GABURIASex_SR.webp",
+    "label": {
+      "slug": "garchomp-ex",
+      "eng": "Garchomp ex"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 85,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_004810_00_DAINOSEex_SR.webp",
+    "label": {
+      "slug": "probopass-ex",
+      "eng": "Probopass ex"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 86,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_004950_00_ARCEUSex_SR.webp",
+    "label": {
+      "slug": "arceus-ex",
+      "eng": "Arceus ex"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 87,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cTR_20_000380_00_KAI_SR.webp",
+    "label": {
+      "slug": "irida",
+      "eng": "Irida"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 88,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cTR_20_000390_00_KANNAGITOWNNOTYOUROU_SR.webp",
+    "label": {
+      "slug": "celestic-town-elder",
+      "eng": "Celestic Town Elder"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 89,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cTR_20_000400_00_JUN_SR.webp",
+    "label": {
+      "slug": "barry",
+      "eng": "Barry"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 90,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cTR_20_000410_00_SEKI_SR.webp",
+    "label": {
+      "slug": "adaman",
+      "eng": "Adaman"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 91,
+    "rarity": "Special Art Rare",
+    "rarityCode": "SAR",
+    "imageName": "cPK_20_004340_01_LEAFIAex_SAR.webp",
+    "label": {
+      "slug": "leafeon-ex",
+      "eng": "Leafeon ex"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 92,
+    "rarity": "Special Art Rare",
+    "rarityCode": "SAR",
+    "imageName": "cPK_20_004460_01_GLACIAex_SAR.webp",
+    "label": {
+      "slug": "glaceon-ex",
+      "eng": "Glaceon ex"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 93,
+    "rarity": "Special Art Rare",
+    "rarityCode": "SAR",
+    "imageName": "cPK_20_004710_01_GABURIASex_SAR.webp",
+    "label": {
+      "slug": "garchomp-ex",
+      "eng": "Garchomp ex"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 94,
+    "rarity": "Special Art Rare",
+    "rarityCode": "SAR",
+    "imageName": "cPK_20_004810_01_DAINOSEex_SAR.webp",
+    "label": {
+      "slug": "probopass-ex",
+      "eng": "Probopass ex"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 95,
+    "rarity": "Immersive Rare",
+    "rarityCode": "IM",
+    "imageName": "cPK_20_004950_01_ARCEUSex_IM.webp",
+    "label": {
+      "slug": "arceus-ex",
+      "eng": "Arceus ex"
+    }
+  },
+  {
+    "set": "A2A",
+    "number": 96,
+    "rarity": "Crown Rare",
+    "rarityCode": "UR",
+    "imageName": "cPK_20_004950_02_ARCEUSex_UR.webp",
+    "label": {
+      "slug": "arceus-ex",
+      "eng": "Arceus ex"
     }
   }
 ]
