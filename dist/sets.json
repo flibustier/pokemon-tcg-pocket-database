@@ -2,7 +2,7 @@
   {
     "code": "A1",
     "releaseDate": "2024-10-30",
-    "count": 226,
+    "count": 286,
     "label": {
       "en": "Genetic Apex"
     }
@@ -10,7 +10,7 @@
   {
     "code": "A1A",
     "releaseDate": "2024-12-17",
-    "count": 68,
+    "count": 85,
     "label": {
       "en": "Mythical Island"
     }
@@ -18,7 +18,7 @@
   {
     "code": "A2",
     "releaseDate": "2025-01-29",
-    "count": 155,
+    "count": 207,
     "label": {
       "en": "Space-Time Smackdown"
     }
@@ -26,9 +26,17 @@
   {
     "code": "A2A",
     "releaseDate": "2025-02-28",
-    "count": 75,
+    "count": 96,
     "label": {
       "en": "Triumphant Light"
+    }
+  },
+  {
+    "code": "A2B",
+    "releaseDate": "2025-03-27",
+    "count": 111,
+    "label": {
+      "en": "Shining Revelry"
     }
   },
   {
