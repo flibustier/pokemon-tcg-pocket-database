@@ -40,6 +40,14 @@
     }
   },
   {
+    "code": "A3",
+    "releaseDate": "2025-04-30",
+    "count": 239,
+    "label": {
+      "en": "Celestial Guardians"
+    }
+  },
+  {
     "code": "PROMO-A",
     "releaseDate": "2024-10-30",
     "label": {
