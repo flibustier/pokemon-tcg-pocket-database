@@ -1,6 +1,6 @@
 # Pokemon Trading Card Game Pocket Cards Database
 
-[![npm version](https://badge.fury.io/js/pokemon-tcg-pocket-database.svg)](https://www.npmjs.com/package/pokemon-tcg-pocket-database)
+[![npm version](https://badge.fury.io/js/pokemon-tcg-pocket-database.svg#)](https://www.npmjs.com/package/pokemon-tcg-pocket-database)
 
 ## Overview
 
@@ -86,7 +86,7 @@ Here is an example of a set object (`sets.json`):
 }
 ```
 
-If you’re looking for images, you can find them [here](https://github.com/flibustier/pokemon-tcg-exchange/tree/main/public/images/cards).
+If you’re looking for images, you can find them [here](https://github.com/flibustier/pokemon-tcg-exchange/tree/main/public/images/cards) or in [latest release](https://github.com/flibustier/pokemon-tcg-pocket-database/releases/).
 
 ### Roadmap
 
