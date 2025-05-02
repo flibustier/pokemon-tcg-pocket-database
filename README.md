@@ -1,4 +1,5 @@
-# Pokemon Trading Card Game Pocket Cards Database
+# Pokemon Trading Card Game Pocket Cards Database 
+[![npm version](https://badge.fury.io/js/pokemon-tcg-pocket-database.svg)](https://www.npmjs.com/package/pokemon-tcg-pocket-database)
 
 ## Overview
 
