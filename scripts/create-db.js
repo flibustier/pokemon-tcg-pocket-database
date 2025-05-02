@@ -1,11 +1,12 @@
 import fs from "node:fs";
 import * as cheerio from "cheerio";
 import rarityMap from "../dist/rarity.json" with { type: "json" };
+import existing from "../dist/cards.json" with { type: "json" };
 
 const html = fs.readFileSync("./scraps.html", "utf8");
 
 const $ = cheerio.load(html);
-const cards = [];
+const cards = [...existing];
 
 $(".card-grid__cell").each((index, element) => {
   const $card = $(element);
