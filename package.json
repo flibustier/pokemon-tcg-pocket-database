@@ -1,6 +1,6 @@
 {
   "name": "pokemon-tcg-pocket-database",
-  "version": "1.2.1",
+  "version": "1.3.0",
   "description": "Pokemon TCG Pocket complete cards and sets JSON database",
   "files": [
     "dist/cards.json",
@@ -14,7 +14,9 @@
     "pokemon",
     "pokemon tcg",
     "pokemon pocket",
-    "pokemon cards"
+    "Pokemon TCG Pocket",
+    "pokemon cards",
+    "PTCGP"
   ],
   "author": "flibustier",
   "license": "MIT",
