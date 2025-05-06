@@ -15,6 +15,20 @@ To install the package, use the following command:
 npm install -D pokemon-tcg-pocket-database
 ```
 
+Or using it as an API :
+```url
+https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/dist/cards.json
+https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/dist/sets.json
+https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/dist/rarity.json
+```
+
+With a specific version number, like 1.3.0 :
+```url
+https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/refs/tags/1.3.0/dist/cards.json
+https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/refs/tags/1.3.0/dist/sets.json
+https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/refs/tags/1.3.0/dist/rarity.json
+```
+
 ## Usage
 
 ### Importing the Database
