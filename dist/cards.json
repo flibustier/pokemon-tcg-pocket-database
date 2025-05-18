@@ -8,7 +8,10 @@
     "label": {
       "slug": "bulbasaur",
       "eng": "Bulbasaur"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -19,7 +22,10 @@
     "label": {
       "slug": "ivysaur",
       "eng": "Ivysaur"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -30,7 +36,10 @@
     "label": {
       "slug": "venusaur",
       "eng": "Venusaur"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -41,7 +50,10 @@
     "label": {
       "slug": "venusaur-ex",
       "eng": "Venusaur ex"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -52,7 +64,10 @@
     "label": {
       "slug": "caterpie",
       "eng": "Caterpie"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -63,7 +78,10 @@
     "label": {
       "slug": "metapod",
       "eng": "Metapod"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -74,7 +92,10 @@
     "label": {
       "slug": "butterfree",
       "eng": "Butterfree"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -85,7 +106,10 @@
     "label": {
       "slug": "weedle",
       "eng": "Weedle"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -96,7 +120,10 @@
     "label": {
       "slug": "kakuna",
       "eng": "Kakuna"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -107,7 +134,10 @@
     "label": {
       "slug": "beedrill",
       "eng": "Beedrill"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -160,7 +190,10 @@
     "label": {
       "slug": "paras",
       "eng": "Paras"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -171,7 +204,10 @@
     "label": {
       "slug": "parasect",
       "eng": "Parasect"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -182,7 +218,10 @@
     "label": {
       "slug": "venonat",
       "eng": "Venonat"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -193,7 +232,10 @@
     "label": {
       "slug": "venomoth",
       "eng": "Venomoth"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -302,7 +344,10 @@
     "label": {
       "slug": "scyther",
       "eng": "Scyther"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -315,7 +360,9 @@
       "eng": "Pinsir"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -329,7 +376,9 @@
       "eng": "Cottonee"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -343,7 +392,9 @@
       "eng": "Whimsicott"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -357,7 +408,9 @@
       "eng": "Petilil"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -371,7 +424,9 @@
       "eng": "Lilligant"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -495,7 +550,10 @@
     "label": {
       "slug": "growlithe",
       "eng": "Growlithe"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -506,7 +564,10 @@
     "label": {
       "slug": "arcanine",
       "eng": "Arcanine"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -517,7 +578,10 @@
     "label": {
       "slug": "arcanine-ex",
       "eng": "Arcanine ex"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -530,7 +594,9 @@
       "eng": "Ponyta"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -544,7 +610,9 @@
       "eng": "Rapidash"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -614,7 +682,9 @@
       "eng": "Heatmor"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -626,7 +696,10 @@
     "label": {
       "slug": "salandit",
       "eng": "Salandit"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -637,7 +710,10 @@
     "label": {
       "slug": "salazzle",
       "eng": "Salazzle"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -650,7 +726,9 @@
       "eng": "Sizzlipede"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -664,7 +742,9 @@
       "eng": "Centiskorch"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -676,7 +756,10 @@
     "label": {
       "slug": "squirtle",
       "eng": "Squirtle"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -687,7 +770,10 @@
     "label": {
       "slug": "wartortle",
       "eng": "Wartortle"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -698,7 +784,10 @@
     "label": {
       "slug": "blastoise",
       "eng": "Blastoise"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -709,7 +798,10 @@
     "label": {
       "slug": "blastoise-ex",
       "eng": "Blastoise ex"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -722,7 +814,9 @@
       "eng": "Psyduck"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -736,7 +830,9 @@
       "eng": "Golduck"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -790,7 +886,10 @@
     "label": {
       "slug": "tentacool",
       "eng": "Tentacool"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -801,7 +900,10 @@
     "label": {
       "slug": "tentacruel",
       "eng": "Tentacruel"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -812,7 +914,10 @@
     "label": {
       "slug": "seel",
       "eng": "Seel"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -823,7 +928,10 @@
     "label": {
       "slug": "dewgong",
       "eng": "Dewgong"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -834,7 +942,10 @@
     "label": {
       "slug": "shellder",
       "eng": "Shellder"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -845,7 +956,10 @@
     "label": {
       "slug": "cloyster",
       "eng": "Cloyster"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -856,7 +970,10 @@
     "label": {
       "slug": "krabby",
       "eng": "Krabby"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -867,7 +984,10 @@
     "label": {
       "slug": "kingler",
       "eng": "Kingler"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -878,7 +998,10 @@
     "label": {
       "slug": "horsea",
       "eng": "Horsea"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -889,7 +1012,10 @@
     "label": {
       "slug": "seadra",
       "eng": "Seadra"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -900,7 +1026,10 @@
     "label": {
       "slug": "goldeen",
       "eng": "Goldeen"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -911,7 +1040,10 @@
     "label": {
       "slug": "seaking",
       "eng": "Seaking"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -964,7 +1096,10 @@
     "label": {
       "slug": "magikarp",
       "eng": "Magikarp"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -975,7 +1110,10 @@
     "label": {
       "slug": "gyarados",
       "eng": "Gyarados"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1000,7 +1138,10 @@
     "label": {
       "slug": "vaporeon",
       "eng": "Vaporeon"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1011,7 +1152,10 @@
     "label": {
       "slug": "omanyte",
       "eng": "Omanyte"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1022,7 +1166,10 @@
     "label": {
       "slug": "omastar",
       "eng": "Omastar"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1033,7 +1180,10 @@
     "label": {
       "slug": "articuno",
       "eng": "Articuno"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1044,7 +1194,10 @@
     "label": {
       "slug": "articuno-ex",
       "eng": "Articuno ex"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1141,7 +1294,9 @@
       "eng": "Bruxish"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -1155,7 +1310,9 @@
       "eng": "Snom"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -1169,7 +1326,9 @@
       "eng": "Frosmoth"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -1181,7 +1340,10 @@
     "label": {
       "slug": "pikachu",
       "eng": "Pikachu"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1192,7 +1354,10 @@
     "label": {
       "slug": "raichu",
       "eng": "Raichu"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1203,7 +1368,10 @@
     "label": {
       "slug": "pikachu-ex",
       "eng": "Pikachu ex"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1214,7 +1382,10 @@
     "label": {
       "slug": "magnemite",
       "eng": "Magnemite"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1225,7 +1396,10 @@
     "label": {
       "slug": "magneton",
       "eng": "Magneton"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1236,7 +1410,10 @@
     "label": {
       "slug": "voltorb",
       "eng": "Voltorb"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1247,7 +1424,10 @@
     "label": {
       "slug": "electrode",
       "eng": "Electrode"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1258,7 +1438,10 @@
     "label": {
       "slug": "electabuzz",
       "eng": "Electabuzz"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1269,7 +1452,10 @@
     "label": {
       "slug": "jolteon",
       "eng": "Jolteon"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1280,7 +1466,10 @@
     "label": {
       "slug": "zapdos",
       "eng": "Zapdos"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1291,7 +1480,10 @@
     "label": {
       "slug": "zapdos-ex",
       "eng": "Zapdos ex"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1304,7 +1496,9 @@
       "eng": "Blitzle"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -1318,7 +1512,9 @@
       "eng": "Zebstrika"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -1330,7 +1526,10 @@
     "label": {
       "slug": "tynamo",
       "eng": "Tynamo"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1341,7 +1540,10 @@
     "label": {
       "slug": "eelektrik",
       "eng": "Eelektrik"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1352,7 +1554,10 @@
     "label": {
       "slug": "eelektross",
       "eng": "Eelektross"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1365,7 +1570,9 @@
       "eng": "Helioptile"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -1379,7 +1586,9 @@
       "eng": "Heliolisk"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -1393,7 +1602,9 @@
       "eng": "Pincurchin"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -1405,7 +1616,10 @@
     "label": {
       "slug": "clefairy",
       "eng": "Clefairy"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1416,7 +1630,10 @@
     "label": {
       "slug": "clefable",
       "eng": "Clefable"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1471,7 +1688,9 @@
       "eng": "Slowpoke"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -1485,7 +1704,9 @@
       "eng": "Slowbro"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -1497,7 +1718,10 @@
     "label": {
       "slug": "gastly",
       "eng": "Gastly"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1508,7 +1732,10 @@
     "label": {
       "slug": "haunter",
       "eng": "Haunter"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1519,7 +1746,10 @@
     "label": {
       "slug": "gengar",
       "eng": "Gengar"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1530,7 +1760,10 @@
     "label": {
       "slug": "gengar-ex",
       "eng": "Gengar ex"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1541,7 +1774,10 @@
     "label": {
       "slug": "drowzee",
       "eng": "Drowzee"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1552,7 +1788,10 @@
     "label": {
       "slug": "hypno",
       "eng": "Hypno"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1563,7 +1802,10 @@
     "label": {
       "slug": "mr-mime",
       "eng": "Mr. Mime"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1574,7 +1816,10 @@
     "label": {
       "slug": "jynx",
       "eng": "Jynx"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1585,7 +1830,10 @@
     "label": {
       "slug": "mewtwo",
       "eng": "Mewtwo"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1596,7 +1844,10 @@
     "label": {
       "slug": "mewtwo-ex",
       "eng": "Mewtwo ex"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1607,7 +1858,10 @@
     "label": {
       "slug": "ralts",
       "eng": "Ralts"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1618,7 +1872,10 @@
     "label": {
       "slug": "kirlia",
       "eng": "Kirlia"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1629,7 +1886,10 @@
     "label": {
       "slug": "gardevoir",
       "eng": "Gardevoir"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1642,7 +1902,9 @@
       "eng": "Woobat"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -1656,7 +1918,9 @@
       "eng": "Swoobat"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -1670,7 +1934,9 @@
       "eng": "Golett"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -1684,7 +1950,9 @@
       "eng": "Golurk"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -1698,7 +1966,9 @@
       "eng": "Sandshrew"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -1712,7 +1982,9 @@
       "eng": "Sandslash"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -1724,7 +1996,10 @@
     "label": {
       "slug": "diglett",
       "eng": "Diglett"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1735,7 +2010,10 @@
     "label": {
       "slug": "dugtrio",
       "eng": "Dugtrio"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1830,7 +2108,10 @@
     "label": {
       "slug": "geodude",
       "eng": "Geodude"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1841,7 +2122,10 @@
     "label": {
       "slug": "graveler",
       "eng": "Graveler"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1852,7 +2136,10 @@
     "label": {
       "slug": "golem",
       "eng": "Golem"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1863,7 +2150,10 @@
     "label": {
       "slug": "onix",
       "eng": "Onix"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1874,7 +2164,10 @@
     "label": {
       "slug": "cubone",
       "eng": "Cubone"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1885,7 +2178,10 @@
     "label": {
       "slug": "marowak",
       "eng": "Marowak"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1896,7 +2192,10 @@
     "label": {
       "slug": "marowak-ex",
       "eng": "Marowak ex"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1907,7 +2206,10 @@
     "label": {
       "slug": "hitmonlee",
       "eng": "Hitmonlee"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1932,7 +2234,10 @@
     "label": {
       "slug": "rhyhorn",
       "eng": "Rhyhorn"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1943,7 +2248,10 @@
     "label": {
       "slug": "rhydon",
       "eng": "Rhydon"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1982,7 +2290,10 @@
     "label": {
       "slug": "mienfoo",
       "eng": "Mienfoo"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1993,7 +2304,10 @@
     "label": {
       "slug": "mienshao",
       "eng": "Mienshao"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2006,7 +2320,9 @@
       "eng": "Clobbopus"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -2020,7 +2336,9 @@
       "eng": "Grapploct"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -2034,7 +2352,9 @@
       "eng": "Ekans"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -2048,7 +2368,9 @@
       "eng": "Arbok"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -2060,7 +2382,10 @@
     "label": {
       "slug": "nidoran",
       "eng": "Nidoran♀"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2071,7 +2396,10 @@
     "label": {
       "slug": "nidorina",
       "eng": "Nidorina"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2082,7 +2410,10 @@
     "label": {
       "slug": "nidoqueen",
       "eng": "Nidoqueen"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2093,7 +2424,10 @@
     "label": {
       "slug": "nidoran",
       "eng": "Nidoran♂"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2104,7 +2438,10 @@
     "label": {
       "slug": "nidorino",
       "eng": "Nidorino"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2115,7 +2452,10 @@
     "label": {
       "slug": "nidoking",
       "eng": "Nidoking"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2126,7 +2466,10 @@
     "label": {
       "slug": "zubat",
       "eng": "Zubat"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2137,7 +2480,10 @@
     "label": {
       "slug": "golbat",
       "eng": "Golbat"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2148,7 +2494,10 @@
     "label": {
       "slug": "grimer",
       "eng": "Grimer"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2159,7 +2508,10 @@
     "label": {
       "slug": "muk",
       "eng": "Muk"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2170,7 +2522,10 @@
     "label": {
       "slug": "koffing",
       "eng": "Koffing"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2181,7 +2536,10 @@
     "label": {
       "slug": "weezing",
       "eng": "Weezing"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2208,7 +2566,9 @@
       "eng": "Pawniard"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -2222,7 +2582,9 @@
       "eng": "Bisharp"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -2262,7 +2624,10 @@
     "label": {
       "slug": "dratini",
       "eng": "Dratini"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2273,7 +2638,10 @@
     "label": {
       "slug": "dragonair",
       "eng": "Dragonair"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2284,7 +2652,10 @@
     "label": {
       "slug": "dragonite",
       "eng": "Dragonite"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2295,7 +2666,10 @@
     "label": {
       "slug": "pidgey",
       "eng": "Pidgey"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2306,7 +2680,10 @@
     "label": {
       "slug": "pidgeotto",
       "eng": "Pidgeotto"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2317,7 +2694,10 @@
     "label": {
       "slug": "pidgeot",
       "eng": "Pidgeot"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2330,7 +2710,9 @@
       "eng": "Rattata"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -2344,7 +2726,9 @@
       "eng": "Raticate"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -2384,7 +2768,10 @@
     "label": {
       "slug": "jigglypuff",
       "eng": "Jigglypuff"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2395,7 +2782,10 @@
     "label": {
       "slug": "wigglytuff",
       "eng": "Wigglytuff"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2406,7 +2796,10 @@
     "label": {
       "slug": "wigglytuff-ex",
       "eng": "Wigglytuff ex"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2447,7 +2840,9 @@
       "eng": "Farfetch’d"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -2461,7 +2856,9 @@
       "eng": "Doduo"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -2475,7 +2872,9 @@
       "eng": "Dodrio"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -2487,7 +2886,10 @@
     "label": {
       "slug": "lickitung",
       "eng": "Lickitung"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2498,7 +2900,10 @@
     "label": {
       "slug": "chansey",
       "eng": "Chansey"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2537,7 +2942,10 @@
     "label": {
       "slug": "ditto",
       "eng": "Ditto"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2562,7 +2970,10 @@
     "label": {
       "slug": "eevee",
       "eng": "Eevee"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2573,7 +2984,10 @@
     "label": {
       "slug": "eevee",
       "eng": "Eevee"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2584,7 +2998,10 @@
     "label": {
       "slug": "porygon",
       "eng": "Porygon"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2595,7 +3012,10 @@
     "label": {
       "slug": "aerodactyl",
       "eng": "Aerodactyl"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2606,7 +3026,10 @@
     "label": {
       "slug": "snorlax",
       "eng": "Snorlax"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2619,7 +3042,9 @@
       "eng": "Minccino"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -2633,7 +3058,9 @@
       "eng": "Cinccino"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -2647,7 +3074,9 @@
       "eng": "Wooloo"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -2661,7 +3090,9 @@
       "eng": "Dubwool"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -2673,7 +3104,10 @@
     "label": {
       "slug": "helix-fossil",
       "eng": "Helix Fossil"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2698,7 +3132,10 @@
     "label": {
       "slug": "old-amber",
       "eng": "Old Amber"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2723,7 +3160,10 @@
     "label": {
       "slug": "misty",
       "eng": "Misty"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2748,7 +3188,10 @@
     "label": {
       "slug": "koga",
       "eng": "Koga"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2759,7 +3202,10 @@
     "label": {
       "slug": "giovanni",
       "eng": "Giovanni"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2770,7 +3216,10 @@
     "label": {
       "slug": "brock",
       "eng": "Brock"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2795,7 +3244,10 @@
     "label": {
       "slug": "lt-surge",
       "eng": "Lt. Surge"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2806,7 +3258,10 @@
     "label": {
       "slug": "bulbasaur",
       "eng": "Bulbasaur"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2873,7 +3328,10 @@
     "label": {
       "slug": "squirtle",
       "eng": "Squirtle"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2884,7 +3342,10 @@
     "label": {
       "slug": "gyarados",
       "eng": "Gyarados"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2909,7 +3370,10 @@
     "label": {
       "slug": "electrode",
       "eng": "Electrode"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2948,7 +3412,10 @@
     "label": {
       "slug": "diglett",
       "eng": "Diglett"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2959,7 +3426,10 @@
     "label": {
       "slug": "cubone",
       "eng": "Cubone"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2970,7 +3440,10 @@
     "label": {
       "slug": "nidoqueen",
       "eng": "Nidoqueen"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2981,7 +3454,10 @@
     "label": {
       "slug": "nidoking",
       "eng": "Nidoking"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2992,7 +3468,10 @@
     "label": {
       "slug": "golbat",
       "eng": "Golbat"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -3003,7 +3482,10 @@
     "label": {
       "slug": "weezing",
       "eng": "Weezing"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -3014,7 +3496,10 @@
     "label": {
       "slug": "dragonite",
       "eng": "Dragonite"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -3025,7 +3510,10 @@
     "label": {
       "slug": "pidgeot",
       "eng": "Pidgeot"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -3050,7 +3538,10 @@
     "label": {
       "slug": "ditto",
       "eng": "Ditto"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -3061,7 +3552,10 @@
     "label": {
       "slug": "eevee",
       "eng": "Eevee"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -3072,7 +3566,10 @@
     "label": {
       "slug": "porygon",
       "eng": "Porygon"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -3083,7 +3580,10 @@
     "label": {
       "slug": "snorlax",
       "eng": "Snorlax"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -3094,7 +3594,10 @@
     "label": {
       "slug": "venusaur-ex",
       "eng": "Venusaur ex"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -3133,7 +3636,10 @@
     "label": {
       "slug": "arcanine-ex",
       "eng": "Arcanine ex"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -3158,7 +3664,10 @@
     "label": {
       "slug": "blastoise-ex",
       "eng": "Blastoise ex"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -3183,7 +3692,10 @@
     "label": {
       "slug": "articuno-ex",
       "eng": "Articuno ex"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -3194,7 +3706,10 @@
     "label": {
       "slug": "pikachu-ex",
       "eng": "Pikachu ex"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -3205,7 +3720,10 @@
     "label": {
       "slug": "zapdos-ex",
       "eng": "Zapdos ex"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -3216,7 +3734,10 @@
     "label": {
       "slug": "gengar-ex",
       "eng": "Gengar ex"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -3227,7 +3748,10 @@
     "label": {
       "slug": "mewtwo-ex",
       "eng": "Mewtwo ex"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -3252,7 +3776,10 @@
     "label": {
       "slug": "marowak-ex",
       "eng": "Marowak ex"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -3263,7 +3790,10 @@
     "label": {
       "slug": "wigglytuff-ex",
       "eng": "Wigglytuff ex"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -3288,7 +3818,10 @@
     "label": {
       "slug": "misty",
       "eng": "Misty"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -3313,7 +3846,10 @@
     "label": {
       "slug": "koga",
       "eng": "Koga"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -3324,7 +3860,10 @@
     "label": {
       "slug": "giovanni",
       "eng": "Giovanni"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -3335,7 +3874,10 @@
     "label": {
       "slug": "brock",
       "eng": "Brock"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -3360,7 +3902,10 @@
     "label": {
       "slug": "lt-surge",
       "eng": "Lt. Surge"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -3385,7 +3930,10 @@
     "label": {
       "slug": "articuno-ex",
       "eng": "Articuno ex"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -3396,7 +3944,10 @@
     "label": {
       "slug": "zapdos-ex",
       "eng": "Zapdos ex"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -3407,7 +3958,10 @@
     "label": {
       "slug": "gengar-ex",
       "eng": "Gengar ex"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -3432,7 +3986,10 @@
     "label": {
       "slug": "wigglytuff-ex",
       "eng": "Wigglytuff ex"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -3457,7 +4014,10 @@
     "label": {
       "slug": "pikachu-ex",
       "eng": "Pikachu ex"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -3468,7 +4028,10 @@
     "label": {
       "slug": "mewtwo-ex",
       "eng": "Mewtwo ex"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -3492,7 +4055,9 @@
       "eng": "Charizard ex"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -3506,7 +4071,9 @@
       "eng": "Pikachu ex"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
@@ -3520,7 +4087,9 @@
       "eng": "Mewtwo ex"
     },
     "packs": [
-      "Charizard"
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
     ]
   },
   {
