@@ -8,7 +8,10 @@
     "label": {
       "slug": "bulbasaur",
       "eng": "Bulbasaur"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -19,7 +22,10 @@
     "label": {
       "slug": "ivysaur",
       "eng": "Ivysaur"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -30,7 +36,10 @@
     "label": {
       "slug": "venusaur",
       "eng": "Venusaur"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -41,7 +50,10 @@
     "label": {
       "slug": "venusaur-ex",
       "eng": "Venusaur ex"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -52,7 +64,10 @@
     "label": {
       "slug": "caterpie",
       "eng": "Caterpie"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -63,7 +78,10 @@
     "label": {
       "slug": "metapod",
       "eng": "Metapod"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -74,7 +92,10 @@
     "label": {
       "slug": "butterfree",
       "eng": "Butterfree"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -85,7 +106,10 @@
     "label": {
       "slug": "weedle",
       "eng": "Weedle"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -96,7 +120,10 @@
     "label": {
       "slug": "kakuna",
       "eng": "Kakuna"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -107,7 +134,10 @@
     "label": {
       "slug": "beedrill",
       "eng": "Beedrill"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -118,7 +148,10 @@
     "label": {
       "slug": "oddish",
       "eng": "Oddish"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -129,7 +162,10 @@
     "label": {
       "slug": "gloom",
       "eng": "Gloom"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -140,7 +176,10 @@
     "label": {
       "slug": "vileplume",
       "eng": "Vileplume"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -151,7 +190,10 @@
     "label": {
       "slug": "paras",
       "eng": "Paras"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -162,7 +204,10 @@
     "label": {
       "slug": "parasect",
       "eng": "Parasect"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -173,7 +218,10 @@
     "label": {
       "slug": "venonat",
       "eng": "Venonat"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -184,7 +232,10 @@
     "label": {
       "slug": "venomoth",
       "eng": "Venomoth"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -195,7 +246,10 @@
     "label": {
       "slug": "bellsprout",
       "eng": "Bellsprout"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -206,7 +260,10 @@
     "label": {
       "slug": "weepinbell",
       "eng": "Weepinbell"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -217,7 +274,10 @@
     "label": {
       "slug": "victreebel",
       "eng": "Victreebel"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -228,7 +288,10 @@
     "label": {
       "slug": "exeggcute",
       "eng": "Exeggcute"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -239,7 +302,10 @@
     "label": {
       "slug": "exeggutor",
       "eng": "Exeggutor"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -250,7 +316,10 @@
     "label": {
       "slug": "exeggutor-ex",
       "eng": "Exeggutor ex"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -261,7 +330,10 @@
     "label": {
       "slug": "tangela",
       "eng": "Tangela"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -272,7 +344,10 @@
     "label": {
       "slug": "scyther",
       "eng": "Scyther"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -283,7 +358,12 @@
     "label": {
       "slug": "pinsir",
       "eng": "Pinsir"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -294,7 +374,12 @@
     "label": {
       "slug": "cottonee",
       "eng": "Cottonee"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -305,7 +390,12 @@
     "label": {
       "slug": "whimsicott",
       "eng": "Whimsicott"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -316,7 +406,12 @@
     "label": {
       "slug": "petilil",
       "eng": "Petilil"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -327,7 +422,12 @@
     "label": {
       "slug": "lilligant",
       "eng": "Lilligant"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -338,7 +438,10 @@
     "label": {
       "slug": "skiddo",
       "eng": "Skiddo"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -349,7 +452,10 @@
     "label": {
       "slug": "gogoat",
       "eng": "Gogoat"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -360,7 +466,10 @@
     "label": {
       "slug": "charmander",
       "eng": "Charmander"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -371,7 +480,10 @@
     "label": {
       "slug": "charmeleon",
       "eng": "Charmeleon"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -382,7 +494,10 @@
     "label": {
       "slug": "charizard",
       "eng": "Charizard"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -393,7 +508,10 @@
     "label": {
       "slug": "charizard-ex",
       "eng": "Charizard ex"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -404,7 +522,10 @@
     "label": {
       "slug": "vulpix",
       "eng": "Vulpix"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -415,7 +536,10 @@
     "label": {
       "slug": "ninetales",
       "eng": "Ninetales"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -426,7 +550,10 @@
     "label": {
       "slug": "growlithe",
       "eng": "Growlithe"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -437,7 +564,10 @@
     "label": {
       "slug": "arcanine",
       "eng": "Arcanine"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -448,7 +578,10 @@
     "label": {
       "slug": "arcanine-ex",
       "eng": "Arcanine ex"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -459,7 +592,12 @@
     "label": {
       "slug": "ponyta",
       "eng": "Ponyta"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -470,7 +608,12 @@
     "label": {
       "slug": "rapidash",
       "eng": "Rapidash"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -481,7 +624,10 @@
     "label": {
       "slug": "magmar",
       "eng": "Magmar"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -492,7 +638,10 @@
     "label": {
       "slug": "flareon",
       "eng": "Flareon"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -503,7 +652,10 @@
     "label": {
       "slug": "moltres",
       "eng": "Moltres"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -514,7 +666,10 @@
     "label": {
       "slug": "moltres-ex",
       "eng": "Moltres ex"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -525,7 +680,12 @@
     "label": {
       "slug": "heatmor",
       "eng": "Heatmor"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -536,7 +696,10 @@
     "label": {
       "slug": "salandit",
       "eng": "Salandit"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -547,7 +710,10 @@
     "label": {
       "slug": "salazzle",
       "eng": "Salazzle"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -558,7 +724,12 @@
     "label": {
       "slug": "sizzlipede",
       "eng": "Sizzlipede"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -569,7 +740,12 @@
     "label": {
       "slug": "centiskorch",
       "eng": "Centiskorch"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -580,7 +756,10 @@
     "label": {
       "slug": "squirtle",
       "eng": "Squirtle"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -591,7 +770,10 @@
     "label": {
       "slug": "wartortle",
       "eng": "Wartortle"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -602,7 +784,10 @@
     "label": {
       "slug": "blastoise",
       "eng": "Blastoise"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -613,7 +798,10 @@
     "label": {
       "slug": "blastoise-ex",
       "eng": "Blastoise ex"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -624,7 +812,12 @@
     "label": {
       "slug": "psyduck",
       "eng": "Psyduck"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -635,7 +828,12 @@
     "label": {
       "slug": "golduck",
       "eng": "Golduck"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -646,7 +844,10 @@
     "label": {
       "slug": "poliwag",
       "eng": "Poliwag"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -657,7 +858,10 @@
     "label": {
       "slug": "poliwhirl",
       "eng": "Poliwhirl"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -668,7 +872,10 @@
     "label": {
       "slug": "poliwrath",
       "eng": "Poliwrath"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -679,7 +886,10 @@
     "label": {
       "slug": "tentacool",
       "eng": "Tentacool"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -690,7 +900,10 @@
     "label": {
       "slug": "tentacruel",
       "eng": "Tentacruel"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -701,7 +914,10 @@
     "label": {
       "slug": "seel",
       "eng": "Seel"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -712,7 +928,10 @@
     "label": {
       "slug": "dewgong",
       "eng": "Dewgong"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -723,7 +942,10 @@
     "label": {
       "slug": "shellder",
       "eng": "Shellder"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -734,7 +956,10 @@
     "label": {
       "slug": "cloyster",
       "eng": "Cloyster"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -745,7 +970,10 @@
     "label": {
       "slug": "krabby",
       "eng": "Krabby"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -756,7 +984,10 @@
     "label": {
       "slug": "kingler",
       "eng": "Kingler"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -767,7 +998,10 @@
     "label": {
       "slug": "horsea",
       "eng": "Horsea"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -778,7 +1012,10 @@
     "label": {
       "slug": "seadra",
       "eng": "Seadra"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -789,7 +1026,10 @@
     "label": {
       "slug": "goldeen",
       "eng": "Goldeen"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -800,7 +1040,10 @@
     "label": {
       "slug": "seaking",
       "eng": "Seaking"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -811,7 +1054,10 @@
     "label": {
       "slug": "staryu",
       "eng": "Staryu"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -822,7 +1068,10 @@
     "label": {
       "slug": "starmie",
       "eng": "Starmie"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -833,7 +1082,10 @@
     "label": {
       "slug": "starmie-ex",
       "eng": "Starmie ex"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -844,7 +1096,10 @@
     "label": {
       "slug": "magikarp",
       "eng": "Magikarp"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -855,7 +1110,10 @@
     "label": {
       "slug": "gyarados",
       "eng": "Gyarados"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -866,7 +1124,10 @@
     "label": {
       "slug": "lapras",
       "eng": "Lapras"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -877,7 +1138,10 @@
     "label": {
       "slug": "vaporeon",
       "eng": "Vaporeon"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -888,7 +1152,10 @@
     "label": {
       "slug": "omanyte",
       "eng": "Omanyte"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -899,7 +1166,10 @@
     "label": {
       "slug": "omastar",
       "eng": "Omastar"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -910,7 +1180,10 @@
     "label": {
       "slug": "articuno",
       "eng": "Articuno"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -921,7 +1194,10 @@
     "label": {
       "slug": "articuno-ex",
       "eng": "Articuno ex"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -932,7 +1208,10 @@
     "label": {
       "slug": "ducklett",
       "eng": "Ducklett"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -943,7 +1222,10 @@
     "label": {
       "slug": "swanna",
       "eng": "Swanna"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -954,7 +1236,10 @@
     "label": {
       "slug": "froakie",
       "eng": "Froakie"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -965,7 +1250,10 @@
     "label": {
       "slug": "frogadier",
       "eng": "Frogadier"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -976,7 +1264,10 @@
     "label": {
       "slug": "greninja",
       "eng": "Greninja"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -987,7 +1278,10 @@
     "label": {
       "slug": "pyukumuku",
       "eng": "Pyukumuku"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -998,7 +1292,12 @@
     "label": {
       "slug": "bruxish",
       "eng": "Bruxish"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1009,7 +1308,12 @@
     "label": {
       "slug": "snom",
       "eng": "Snom"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1020,7 +1324,12 @@
     "label": {
       "slug": "frosmoth",
       "eng": "Frosmoth"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1031,7 +1340,10 @@
     "label": {
       "slug": "pikachu",
       "eng": "Pikachu"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1042,7 +1354,10 @@
     "label": {
       "slug": "raichu",
       "eng": "Raichu"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1053,7 +1368,10 @@
     "label": {
       "slug": "pikachu-ex",
       "eng": "Pikachu ex"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1064,7 +1382,10 @@
     "label": {
       "slug": "magnemite",
       "eng": "Magnemite"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1075,7 +1396,10 @@
     "label": {
       "slug": "magneton",
       "eng": "Magneton"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1086,7 +1410,10 @@
     "label": {
       "slug": "voltorb",
       "eng": "Voltorb"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1097,7 +1424,10 @@
     "label": {
       "slug": "electrode",
       "eng": "Electrode"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1108,7 +1438,10 @@
     "label": {
       "slug": "electabuzz",
       "eng": "Electabuzz"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1119,7 +1452,10 @@
     "label": {
       "slug": "jolteon",
       "eng": "Jolteon"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1130,7 +1466,10 @@
     "label": {
       "slug": "zapdos",
       "eng": "Zapdos"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1141,7 +1480,10 @@
     "label": {
       "slug": "zapdos-ex",
       "eng": "Zapdos ex"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1152,7 +1494,12 @@
     "label": {
       "slug": "blitzle",
       "eng": "Blitzle"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1163,7 +1510,12 @@
     "label": {
       "slug": "zebstrika",
       "eng": "Zebstrika"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1174,7 +1526,10 @@
     "label": {
       "slug": "tynamo",
       "eng": "Tynamo"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1185,7 +1540,10 @@
     "label": {
       "slug": "eelektrik",
       "eng": "Eelektrik"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1196,7 +1554,10 @@
     "label": {
       "slug": "eelektross",
       "eng": "Eelektross"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1207,7 +1568,12 @@
     "label": {
       "slug": "helioptile",
       "eng": "Helioptile"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1218,7 +1584,12 @@
     "label": {
       "slug": "heliolisk",
       "eng": "Heliolisk"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1229,7 +1600,12 @@
     "label": {
       "slug": "pincurchin",
       "eng": "Pincurchin"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1240,7 +1616,10 @@
     "label": {
       "slug": "clefairy",
       "eng": "Clefairy"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1251,7 +1630,10 @@
     "label": {
       "slug": "clefable",
       "eng": "Clefable"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1262,7 +1644,10 @@
     "label": {
       "slug": "abra",
       "eng": "Abra"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -1273,7 +1658,10 @@
     "label": {
       "slug": "kadabra",
       "eng": "Kadabra"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -1284,7 +1672,10 @@
     "label": {
       "slug": "alakazam",
       "eng": "Alakazam"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -1295,7 +1686,12 @@
     "label": {
       "slug": "slowpoke",
       "eng": "Slowpoke"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1306,7 +1702,12 @@
     "label": {
       "slug": "slowbro",
       "eng": "Slowbro"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1317,7 +1718,10 @@
     "label": {
       "slug": "gastly",
       "eng": "Gastly"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1328,7 +1732,10 @@
     "label": {
       "slug": "haunter",
       "eng": "Haunter"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1339,7 +1746,10 @@
     "label": {
       "slug": "gengar",
       "eng": "Gengar"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1350,7 +1760,10 @@
     "label": {
       "slug": "gengar-ex",
       "eng": "Gengar ex"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1361,7 +1774,10 @@
     "label": {
       "slug": "drowzee",
       "eng": "Drowzee"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1372,7 +1788,10 @@
     "label": {
       "slug": "hypno",
       "eng": "Hypno"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1383,7 +1802,10 @@
     "label": {
       "slug": "mr-mime",
       "eng": "Mr. Mime"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1394,7 +1816,10 @@
     "label": {
       "slug": "jynx",
       "eng": "Jynx"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1405,7 +1830,10 @@
     "label": {
       "slug": "mewtwo",
       "eng": "Mewtwo"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1416,7 +1844,10 @@
     "label": {
       "slug": "mewtwo-ex",
       "eng": "Mewtwo ex"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1427,7 +1858,10 @@
     "label": {
       "slug": "ralts",
       "eng": "Ralts"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1438,7 +1872,10 @@
     "label": {
       "slug": "kirlia",
       "eng": "Kirlia"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1449,7 +1886,10 @@
     "label": {
       "slug": "gardevoir",
       "eng": "Gardevoir"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1460,7 +1900,12 @@
     "label": {
       "slug": "woobat",
       "eng": "Woobat"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1471,7 +1916,12 @@
     "label": {
       "slug": "swoobat",
       "eng": "Swoobat"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1482,7 +1932,12 @@
     "label": {
       "slug": "golett",
       "eng": "Golett"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1493,7 +1948,12 @@
     "label": {
       "slug": "golurk",
       "eng": "Golurk"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1504,7 +1964,12 @@
     "label": {
       "slug": "sandshrew",
       "eng": "Sandshrew"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1515,7 +1980,12 @@
     "label": {
       "slug": "sandslash",
       "eng": "Sandslash"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1526,7 +1996,10 @@
     "label": {
       "slug": "diglett",
       "eng": "Diglett"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1537,7 +2010,10 @@
     "label": {
       "slug": "dugtrio",
       "eng": "Dugtrio"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1548,7 +2024,10 @@
     "label": {
       "slug": "mankey",
       "eng": "Mankey"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -1559,7 +2038,10 @@
     "label": {
       "slug": "primeape",
       "eng": "Primeape"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -1570,7 +2052,10 @@
     "label": {
       "slug": "machop",
       "eng": "Machop"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -1581,7 +2066,10 @@
     "label": {
       "slug": "machoke",
       "eng": "Machoke"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -1592,7 +2080,10 @@
     "label": {
       "slug": "machamp",
       "eng": "Machamp"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -1603,7 +2094,10 @@
     "label": {
       "slug": "machamp-ex",
       "eng": "Machamp ex"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -1614,7 +2108,10 @@
     "label": {
       "slug": "geodude",
       "eng": "Geodude"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1625,7 +2122,10 @@
     "label": {
       "slug": "graveler",
       "eng": "Graveler"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1636,7 +2136,10 @@
     "label": {
       "slug": "golem",
       "eng": "Golem"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1647,7 +2150,10 @@
     "label": {
       "slug": "onix",
       "eng": "Onix"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1658,7 +2164,10 @@
     "label": {
       "slug": "cubone",
       "eng": "Cubone"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1669,7 +2178,10 @@
     "label": {
       "slug": "marowak",
       "eng": "Marowak"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1680,7 +2192,10 @@
     "label": {
       "slug": "marowak-ex",
       "eng": "Marowak ex"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1691,7 +2206,10 @@
     "label": {
       "slug": "hitmonlee",
       "eng": "Hitmonlee"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1702,7 +2220,10 @@
     "label": {
       "slug": "hitmonchan",
       "eng": "Hitmonchan"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -1713,7 +2234,10 @@
     "label": {
       "slug": "rhyhorn",
       "eng": "Rhyhorn"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1724,7 +2248,10 @@
     "label": {
       "slug": "rhydon",
       "eng": "Rhydon"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1735,7 +2262,10 @@
     "label": {
       "slug": "kabuto",
       "eng": "Kabuto"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -1746,7 +2276,10 @@
     "label": {
       "slug": "kabutops",
       "eng": "Kabutops"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -1757,7 +2290,10 @@
     "label": {
       "slug": "mienfoo",
       "eng": "Mienfoo"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1768,7 +2304,10 @@
     "label": {
       "slug": "mienshao",
       "eng": "Mienshao"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1779,7 +2318,12 @@
     "label": {
       "slug": "clobbopus",
       "eng": "Clobbopus"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1790,7 +2334,12 @@
     "label": {
       "slug": "grapploct",
       "eng": "Grapploct"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1801,7 +2350,12 @@
     "label": {
       "slug": "ekans",
       "eng": "Ekans"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1812,7 +2366,12 @@
     "label": {
       "slug": "arbok",
       "eng": "Arbok"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1823,7 +2382,10 @@
     "label": {
       "slug": "nidoran",
       "eng": "Nidoran♀"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1834,7 +2396,10 @@
     "label": {
       "slug": "nidorina",
       "eng": "Nidorina"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1845,7 +2410,10 @@
     "label": {
       "slug": "nidoqueen",
       "eng": "Nidoqueen"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1856,7 +2424,10 @@
     "label": {
       "slug": "nidoran",
       "eng": "Nidoran♂"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1867,7 +2438,10 @@
     "label": {
       "slug": "nidorino",
       "eng": "Nidorino"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1878,7 +2452,10 @@
     "label": {
       "slug": "nidoking",
       "eng": "Nidoking"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1889,7 +2466,10 @@
     "label": {
       "slug": "zubat",
       "eng": "Zubat"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1900,7 +2480,10 @@
     "label": {
       "slug": "golbat",
       "eng": "Golbat"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1911,7 +2494,10 @@
     "label": {
       "slug": "grimer",
       "eng": "Grimer"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1922,7 +2508,10 @@
     "label": {
       "slug": "muk",
       "eng": "Muk"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1933,7 +2522,10 @@
     "label": {
       "slug": "koffing",
       "eng": "Koffing"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1944,7 +2536,10 @@
     "label": {
       "slug": "weezing",
       "eng": "Weezing"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -1955,7 +2550,10 @@
     "label": {
       "slug": "mawile",
       "eng": "Mawile"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -1966,7 +2564,12 @@
     "label": {
       "slug": "pawniard",
       "eng": "Pawniard"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1977,7 +2580,12 @@
     "label": {
       "slug": "bisharp",
       "eng": "Bisharp"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -1988,7 +2596,10 @@
     "label": {
       "slug": "meltan",
       "eng": "Meltan"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -1999,7 +2610,10 @@
     "label": {
       "slug": "melmetal",
       "eng": "Melmetal"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -2010,7 +2624,10 @@
     "label": {
       "slug": "dratini",
       "eng": "Dratini"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2021,7 +2638,10 @@
     "label": {
       "slug": "dragonair",
       "eng": "Dragonair"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2032,7 +2652,10 @@
     "label": {
       "slug": "dragonite",
       "eng": "Dragonite"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2043,7 +2666,10 @@
     "label": {
       "slug": "pidgey",
       "eng": "Pidgey"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2054,7 +2680,10 @@
     "label": {
       "slug": "pidgeotto",
       "eng": "Pidgeotto"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2065,7 +2694,10 @@
     "label": {
       "slug": "pidgeot",
       "eng": "Pidgeot"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2076,7 +2708,12 @@
     "label": {
       "slug": "rattata",
       "eng": "Rattata"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2087,7 +2724,12 @@
     "label": {
       "slug": "raticate",
       "eng": "Raticate"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2098,7 +2740,10 @@
     "label": {
       "slug": "spearow",
       "eng": "Spearow"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -2109,7 +2754,10 @@
     "label": {
       "slug": "fearow",
       "eng": "Fearow"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -2120,7 +2768,10 @@
     "label": {
       "slug": "jigglypuff",
       "eng": "Jigglypuff"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2131,7 +2782,10 @@
     "label": {
       "slug": "wigglytuff",
       "eng": "Wigglytuff"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2142,7 +2796,10 @@
     "label": {
       "slug": "wigglytuff-ex",
       "eng": "Wigglytuff ex"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2153,7 +2810,10 @@
     "label": {
       "slug": "meowth",
       "eng": "Meowth"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -2164,7 +2824,10 @@
     "label": {
       "slug": "persian",
       "eng": "Persian"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -2175,7 +2838,12 @@
     "label": {
       "slug": "farfetchd",
       "eng": "Farfetch’d"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2186,7 +2854,12 @@
     "label": {
       "slug": "doduo",
       "eng": "Doduo"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2197,7 +2870,12 @@
     "label": {
       "slug": "dodrio",
       "eng": "Dodrio"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2208,7 +2886,10 @@
     "label": {
       "slug": "lickitung",
       "eng": "Lickitung"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2219,7 +2900,10 @@
     "label": {
       "slug": "chansey",
       "eng": "Chansey"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2230,7 +2914,10 @@
     "label": {
       "slug": "kangaskhan",
       "eng": "Kangaskhan"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -2241,7 +2928,10 @@
     "label": {
       "slug": "tauros",
       "eng": "Tauros"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -2252,7 +2942,10 @@
     "label": {
       "slug": "ditto",
       "eng": "Ditto"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2263,7 +2956,10 @@
     "label": {
       "slug": "eevee",
       "eng": "Eevee"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -2274,7 +2970,10 @@
     "label": {
       "slug": "eevee",
       "eng": "Eevee"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2285,7 +2984,10 @@
     "label": {
       "slug": "eevee",
       "eng": "Eevee"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2296,7 +2998,10 @@
     "label": {
       "slug": "porygon",
       "eng": "Porygon"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2307,7 +3012,10 @@
     "label": {
       "slug": "aerodactyl",
       "eng": "Aerodactyl"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2318,7 +3026,10 @@
     "label": {
       "slug": "snorlax",
       "eng": "Snorlax"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2329,7 +3040,12 @@
     "label": {
       "slug": "minccino",
       "eng": "Minccino"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2340,7 +3056,12 @@
     "label": {
       "slug": "cinccino",
       "eng": "Cinccino"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2351,7 +3072,12 @@
     "label": {
       "slug": "wooloo",
       "eng": "Wooloo"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2362,7 +3088,12 @@
     "label": {
       "slug": "dubwool",
       "eng": "Dubwool"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2373,7 +3104,10 @@
     "label": {
       "slug": "helix-fossil",
       "eng": "Helix Fossil"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2384,7 +3118,10 @@
     "label": {
       "slug": "dome-fossil",
       "eng": "Dome Fossil"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -2395,7 +3132,10 @@
     "label": {
       "slug": "old-amber",
       "eng": "Old Amber"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2406,7 +3146,10 @@
     "label": {
       "slug": "erika",
       "eng": "Erika"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -2417,7 +3160,10 @@
     "label": {
       "slug": "misty",
       "eng": "Misty"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2428,7 +3174,10 @@
     "label": {
       "slug": "blaine",
       "eng": "Blaine"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -2439,7 +3188,10 @@
     "label": {
       "slug": "koga",
       "eng": "Koga"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2450,7 +3202,10 @@
     "label": {
       "slug": "giovanni",
       "eng": "Giovanni"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2461,7 +3216,10 @@
     "label": {
       "slug": "brock",
       "eng": "Brock"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2472,7 +3230,10 @@
     "label": {
       "slug": "sabrina",
       "eng": "Sabrina"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -2483,7 +3244,10 @@
     "label": {
       "slug": "lt-surge",
       "eng": "Lt. Surge"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2494,7 +3258,10 @@
     "label": {
       "slug": "bulbasaur",
       "eng": "Bulbasaur"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2505,7 +3272,10 @@
     "label": {
       "slug": "gloom",
       "eng": "Gloom"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -2516,7 +3286,10 @@
     "label": {
       "slug": "pinsir",
       "eng": "Pinsir"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -2527,7 +3300,10 @@
     "label": {
       "slug": "charmander",
       "eng": "Charmander"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -2538,7 +3314,10 @@
     "label": {
       "slug": "rapidash",
       "eng": "Rapidash"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -2549,7 +3328,10 @@
     "label": {
       "slug": "squirtle",
       "eng": "Squirtle"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2560,7 +3342,10 @@
     "label": {
       "slug": "gyarados",
       "eng": "Gyarados"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2571,7 +3356,10 @@
     "label": {
       "slug": "lapras",
       "eng": "Lapras"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -2582,7 +3370,10 @@
     "label": {
       "slug": "electrode",
       "eng": "Electrode"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2593,7 +3384,10 @@
     "label": {
       "slug": "alakazam",
       "eng": "Alakazam"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -2604,7 +3398,10 @@
     "label": {
       "slug": "slowpoke",
       "eng": "Slowpoke"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -2615,7 +3412,10 @@
     "label": {
       "slug": "diglett",
       "eng": "Diglett"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2626,7 +3426,10 @@
     "label": {
       "slug": "cubone",
       "eng": "Cubone"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2637,7 +3440,10 @@
     "label": {
       "slug": "nidoqueen",
       "eng": "Nidoqueen"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2648,7 +3454,10 @@
     "label": {
       "slug": "nidoking",
       "eng": "Nidoking"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2659,7 +3468,10 @@
     "label": {
       "slug": "golbat",
       "eng": "Golbat"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2670,7 +3482,10 @@
     "label": {
       "slug": "weezing",
       "eng": "Weezing"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2681,7 +3496,10 @@
     "label": {
       "slug": "dragonite",
       "eng": "Dragonite"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2692,7 +3510,10 @@
     "label": {
       "slug": "pidgeot",
       "eng": "Pidgeot"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2703,7 +3524,10 @@
     "label": {
       "slug": "meowth",
       "eng": "Meowth"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -2714,7 +3538,10 @@
     "label": {
       "slug": "ditto",
       "eng": "Ditto"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2725,7 +3552,10 @@
     "label": {
       "slug": "eevee",
       "eng": "Eevee"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2736,7 +3566,10 @@
     "label": {
       "slug": "porygon",
       "eng": "Porygon"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2747,7 +3580,10 @@
     "label": {
       "slug": "snorlax",
       "eng": "Snorlax"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2758,7 +3594,10 @@
     "label": {
       "slug": "venusaur-ex",
       "eng": "Venusaur ex"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2769,7 +3608,10 @@
     "label": {
       "slug": "exeggutor-ex",
       "eng": "Exeggutor ex"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -2780,7 +3622,10 @@
     "label": {
       "slug": "charizard-ex",
       "eng": "Charizard ex"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -2791,7 +3636,10 @@
     "label": {
       "slug": "arcanine-ex",
       "eng": "Arcanine ex"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2802,7 +3650,10 @@
     "label": {
       "slug": "moltres-ex",
       "eng": "Moltres ex"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -2813,7 +3664,10 @@
     "label": {
       "slug": "blastoise-ex",
       "eng": "Blastoise ex"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2824,7 +3678,10 @@
     "label": {
       "slug": "starmie-ex",
       "eng": "Starmie ex"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -2835,7 +3692,10 @@
     "label": {
       "slug": "articuno-ex",
       "eng": "Articuno ex"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2846,7 +3706,10 @@
     "label": {
       "slug": "pikachu-ex",
       "eng": "Pikachu ex"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2857,7 +3720,10 @@
     "label": {
       "slug": "zapdos-ex",
       "eng": "Zapdos ex"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2868,7 +3734,10 @@
     "label": {
       "slug": "gengar-ex",
       "eng": "Gengar ex"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2879,7 +3748,10 @@
     "label": {
       "slug": "mewtwo-ex",
       "eng": "Mewtwo ex"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2890,7 +3762,10 @@
     "label": {
       "slug": "machamp-ex",
       "eng": "Machamp ex"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -2901,7 +3776,10 @@
     "label": {
       "slug": "marowak-ex",
       "eng": "Marowak ex"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2912,7 +3790,10 @@
     "label": {
       "slug": "wigglytuff-ex",
       "eng": "Wigglytuff ex"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2923,7 +3804,10 @@
     "label": {
       "slug": "erika",
       "eng": "Erika"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -2934,7 +3818,10 @@
     "label": {
       "slug": "misty",
       "eng": "Misty"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2945,7 +3832,10 @@
     "label": {
       "slug": "blaine",
       "eng": "Blaine"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -2956,7 +3846,10 @@
     "label": {
       "slug": "koga",
       "eng": "Koga"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2967,7 +3860,10 @@
     "label": {
       "slug": "giovanni",
       "eng": "Giovanni"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -2978,7 +3874,10 @@
     "label": {
       "slug": "brock",
       "eng": "Brock"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -2989,7 +3888,10 @@
     "label": {
       "slug": "sabrina",
       "eng": "Sabrina"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -3000,7 +3902,10 @@
     "label": {
       "slug": "lt-surge",
       "eng": "Lt. Surge"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -3011,7 +3916,10 @@
     "label": {
       "slug": "moltres-ex",
       "eng": "Moltres ex"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -3022,7 +3930,10 @@
     "label": {
       "slug": "articuno-ex",
       "eng": "Articuno ex"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -3033,7 +3944,10 @@
     "label": {
       "slug": "zapdos-ex",
       "eng": "Zapdos ex"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -3044,7 +3958,10 @@
     "label": {
       "slug": "gengar-ex",
       "eng": "Gengar ex"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -3055,7 +3972,10 @@
     "label": {
       "slug": "machamp-ex",
       "eng": "Machamp ex"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -3066,7 +3986,10 @@
     "label": {
       "slug": "wigglytuff-ex",
       "eng": "Wigglytuff ex"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -3077,7 +4000,10 @@
     "label": {
       "slug": "charizard-ex",
       "eng": "Charizard ex"
-    }
+    },
+    "packs": [
+      "Charizard"
+    ]
   },
   {
     "set": "A1",
@@ -3088,7 +4014,10 @@
     "label": {
       "slug": "pikachu-ex",
       "eng": "Pikachu ex"
-    }
+    },
+    "packs": [
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -3099,7 +4028,10 @@
     "label": {
       "slug": "mewtwo-ex",
       "eng": "Mewtwo ex"
-    }
+    },
+    "packs": [
+      "Mewtwo"
+    ]
   },
   {
     "set": "A1",
@@ -3121,7 +4053,12 @@
     "label": {
       "slug": "charizard-ex",
       "eng": "Charizard ex"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -3132,7 +4069,12 @@
     "label": {
       "slug": "pikachu-ex",
       "eng": "Pikachu ex"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1",
@@ -3143,7 +4085,12 @@
     "label": {
       "slug": "mewtwo-ex",
       "eng": "Mewtwo ex"
-    }
+    },
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ]
   },
   {
     "set": "A1A",
@@ -3154,7 +4101,10 @@
     "label": {
       "slug": "exeggcute",
       "eng": "Exeggcute"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3165,7 +4115,10 @@
     "label": {
       "slug": "exeggutor",
       "eng": "Exeggutor"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3176,7 +4129,10 @@
     "label": {
       "slug": "celebi-ex",
       "eng": "Celebi ex"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3187,7 +4143,10 @@
     "label": {
       "slug": "snivy",
       "eng": "Snivy"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3198,7 +4157,10 @@
     "label": {
       "slug": "servine",
       "eng": "Servine"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3209,7 +4171,10 @@
     "label": {
       "slug": "serperior",
       "eng": "Serperior"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3220,7 +4185,10 @@
     "label": {
       "slug": "morelull",
       "eng": "Morelull"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3231,7 +4199,10 @@
     "label": {
       "slug": "shiinotic",
       "eng": "Shiinotic"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3242,7 +4213,10 @@
     "label": {
       "slug": "dhelmise",
       "eng": "Dhelmise"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3253,7 +4227,10 @@
     "label": {
       "slug": "ponyta",
       "eng": "Ponyta"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3264,7 +4241,10 @@
     "label": {
       "slug": "rapidash",
       "eng": "Rapidash"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3275,7 +4255,10 @@
     "label": {
       "slug": "magmar",
       "eng": "Magmar"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3286,7 +4269,10 @@
     "label": {
       "slug": "larvesta",
       "eng": "Larvesta"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3297,7 +4283,10 @@
     "label": {
       "slug": "volcarona",
       "eng": "Volcarona"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3308,7 +4297,10 @@
     "label": {
       "slug": "salandit",
       "eng": "Salandit"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3319,7 +4311,10 @@
     "label": {
       "slug": "salazzle",
       "eng": "Salazzle"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3330,7 +4325,10 @@
     "label": {
       "slug": "magikarp",
       "eng": "Magikarp"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3341,7 +4339,10 @@
     "label": {
       "slug": "gyarados-ex",
       "eng": "Gyarados ex"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3352,7 +4353,10 @@
     "label": {
       "slug": "vaporeon",
       "eng": "Vaporeon"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3363,7 +4367,10 @@
     "label": {
       "slug": "finneon",
       "eng": "Finneon"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3374,7 +4381,10 @@
     "label": {
       "slug": "lumineon",
       "eng": "Lumineon"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3385,7 +4395,10 @@
     "label": {
       "slug": "chewtle",
       "eng": "Chewtle"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3396,7 +4409,10 @@
     "label": {
       "slug": "drednaw",
       "eng": "Drednaw"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3407,7 +4423,10 @@
     "label": {
       "slug": "cramorant",
       "eng": "Cramorant"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3418,7 +4437,10 @@
     "label": {
       "slug": "pikachu",
       "eng": "Pikachu"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3429,7 +4451,10 @@
     "label": {
       "slug": "raichu",
       "eng": "Raichu"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3440,7 +4465,10 @@
     "label": {
       "slug": "electabuzz",
       "eng": "Electabuzz"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3451,7 +4479,10 @@
     "label": {
       "slug": "joltik",
       "eng": "Joltik"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3462,7 +4493,10 @@
     "label": {
       "slug": "galvantula",
       "eng": "Galvantula"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3473,7 +4507,10 @@
     "label": {
       "slug": "dedenne",
       "eng": "Dedenne"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3484,7 +4521,10 @@
     "label": {
       "slug": "mew",
       "eng": "Mew"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3495,7 +4535,10 @@
     "label": {
       "slug": "mew-ex",
       "eng": "Mew ex"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3506,7 +4549,10 @@
     "label": {
       "slug": "sigilyph",
       "eng": "Sigilyph"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3517,7 +4563,10 @@
     "label": {
       "slug": "elgyem",
       "eng": "Elgyem"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3528,7 +4577,10 @@
     "label": {
       "slug": "beheeyem",
       "eng": "Beheeyem"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3539,7 +4591,10 @@
     "label": {
       "slug": "flabebe",
       "eng": "Flabébé"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3550,7 +4605,10 @@
     "label": {
       "slug": "floette",
       "eng": "Floette"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3561,7 +4619,10 @@
     "label": {
       "slug": "florges",
       "eng": "Florges"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3572,7 +4633,10 @@
     "label": {
       "slug": "swirlix",
       "eng": "Swirlix"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3583,7 +4647,10 @@
     "label": {
       "slug": "slurpuff",
       "eng": "Slurpuff"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3594,7 +4661,10 @@
     "label": {
       "slug": "mankey",
       "eng": "Mankey"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3605,7 +4675,10 @@
     "label": {
       "slug": "primeape",
       "eng": "Primeape"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3616,7 +4689,10 @@
     "label": {
       "slug": "geodude",
       "eng": "Geodude"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3627,7 +4703,10 @@
     "label": {
       "slug": "graveler",
       "eng": "Graveler"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3638,7 +4717,10 @@
     "label": {
       "slug": "golem",
       "eng": "Golem"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3649,7 +4731,10 @@
     "label": {
       "slug": "aerodactyl-ex",
       "eng": "Aerodactyl ex"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3660,7 +4745,10 @@
     "label": {
       "slug": "marshadow",
       "eng": "Marshadow"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3671,7 +4759,10 @@
     "label": {
       "slug": "stonjourner",
       "eng": "Stonjourner"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3682,7 +4773,10 @@
     "label": {
       "slug": "koffing",
       "eng": "Koffing"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3693,7 +4787,10 @@
     "label": {
       "slug": "weezing",
       "eng": "Weezing"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3704,7 +4801,10 @@
     "label": {
       "slug": "purrloin",
       "eng": "Purrloin"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3715,7 +4815,10 @@
     "label": {
       "slug": "liepard",
       "eng": "Liepard"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3726,7 +4829,10 @@
     "label": {
       "slug": "venipede",
       "eng": "Venipede"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3737,7 +4843,10 @@
     "label": {
       "slug": "whirlipede",
       "eng": "Whirlipede"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3748,7 +4857,10 @@
     "label": {
       "slug": "scolipede",
       "eng": "Scolipede"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3759,7 +4871,10 @@
     "label": {
       "slug": "druddigon",
       "eng": "Druddigon"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3770,7 +4885,10 @@
     "label": {
       "slug": "pidgey",
       "eng": "Pidgey"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3781,7 +4899,10 @@
     "label": {
       "slug": "pidgeotto",
       "eng": "Pidgeotto"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3792,7 +4913,10 @@
     "label": {
       "slug": "pidgeot-ex",
       "eng": "Pidgeot ex"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3803,7 +4927,10 @@
     "label": {
       "slug": "tauros",
       "eng": "Tauros"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3814,7 +4941,10 @@
     "label": {
       "slug": "eevee",
       "eng": "Eevee"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3825,7 +4955,10 @@
     "label": {
       "slug": "chatot",
       "eng": "Chatot"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3836,7 +4969,10 @@
     "label": {
       "slug": "old-amber",
       "eng": "Old Amber"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3847,7 +4983,10 @@
     "label": {
       "slug": "pokemon-flute",
       "eng": "Pokémon Flute"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3858,7 +4997,10 @@
     "label": {
       "slug": "mythical-slab",
       "eng": "Mythical Slab"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3869,7 +5011,10 @@
     "label": {
       "slug": "budding-expeditioner",
       "eng": "Budding Expeditioner"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3880,7 +5025,10 @@
     "label": {
       "slug": "blue",
       "eng": "Blue"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3891,7 +5039,10 @@
     "label": {
       "slug": "leaf",
       "eng": "Leaf"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3902,7 +5053,10 @@
     "label": {
       "slug": "exeggutor",
       "eng": "Exeggutor"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3913,7 +5067,10 @@
     "label": {
       "slug": "serperior",
       "eng": "Serperior"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3924,7 +5081,10 @@
     "label": {
       "slug": "salandit",
       "eng": "Salandit"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3935,7 +5095,10 @@
     "label": {
       "slug": "vaporeon",
       "eng": "Vaporeon"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3946,7 +5109,10 @@
     "label": {
       "slug": "dedenne",
       "eng": "Dedenne"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3957,7 +5123,10 @@
     "label": {
       "slug": "marshadow",
       "eng": "Marshadow"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3968,7 +5137,10 @@
     "label": {
       "slug": "celebi-ex",
       "eng": "Celebi ex"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3979,7 +5151,10 @@
     "label": {
       "slug": "gyarados-ex",
       "eng": "Gyarados ex"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -3990,7 +5165,10 @@
     "label": {
       "slug": "mew-ex",
       "eng": "Mew ex"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -4001,7 +5179,10 @@
     "label": {
       "slug": "aerodactyl-ex",
       "eng": "Aerodactyl ex"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -4012,7 +5193,10 @@
     "label": {
       "slug": "pidgeot-ex",
       "eng": "Pidgeot ex"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -4023,7 +5207,10 @@
     "label": {
       "slug": "budding-expeditioner",
       "eng": "Budding Expeditioner"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -4034,7 +5221,10 @@
     "label": {
       "slug": "blue",
       "eng": "Blue"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -4045,7 +5235,10 @@
     "label": {
       "slug": "leaf",
       "eng": "Leaf"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -4056,7 +5249,10 @@
     "label": {
       "slug": "mew-ex",
       "eng": "Mew ex"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -4067,7 +5263,10 @@
     "label": {
       "slug": "aerodactyl-ex",
       "eng": "Aerodactyl ex"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -4078,7 +5277,10 @@
     "label": {
       "slug": "celebi-ex",
       "eng": "Celebi ex"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A1A",
@@ -4089,7 +5291,10 @@
     "label": {
       "slug": "mew-ex",
       "eng": "Mew ex"
-    }
+    },
+    "packs": [
+      "Mew"
+    ]
   },
   {
     "set": "A2",
@@ -4100,7 +5305,11 @@
     "label": {
       "slug": "oddish",
       "eng": "Oddish"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4111,7 +5320,11 @@
     "label": {
       "slug": "gloom",
       "eng": "Gloom"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4122,7 +5335,11 @@
     "label": {
       "slug": "bellossom",
       "eng": "Bellossom"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4133,7 +5350,10 @@
     "label": {
       "slug": "tangela",
       "eng": "Tangela"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -4144,7 +5364,10 @@
     "label": {
       "slug": "tangrowth",
       "eng": "Tangrowth"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -4155,7 +5378,10 @@
     "label": {
       "slug": "yanma",
       "eng": "Yanma"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -4166,7 +5392,10 @@
     "label": {
       "slug": "yanmega-ex",
       "eng": "Yanmega ex"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -4177,7 +5406,11 @@
     "label": {
       "slug": "roselia",
       "eng": "Roselia"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4188,7 +5421,11 @@
     "label": {
       "slug": "roserade",
       "eng": "Roserade"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4199,7 +5436,10 @@
     "label": {
       "slug": "turtwig",
       "eng": "Turtwig"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4210,7 +5450,10 @@
     "label": {
       "slug": "grotle",
       "eng": "Grotle"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4221,7 +5464,10 @@
     "label": {
       "slug": "torterra",
       "eng": "Torterra"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4232,7 +5478,10 @@
     "label": {
       "slug": "kricketot",
       "eng": "Kricketot"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4243,7 +5492,10 @@
     "label": {
       "slug": "kricketune",
       "eng": "Kricketune"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4254,7 +5506,11 @@
     "label": {
       "slug": "burmy",
       "eng": "Burmy"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4265,7 +5521,11 @@
     "label": {
       "slug": "wormadam",
       "eng": "Wormadam"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4276,7 +5536,10 @@
     "label": {
       "slug": "combee",
       "eng": "Combee"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -4287,7 +5550,10 @@
     "label": {
       "slug": "vespiquen",
       "eng": "Vespiquen"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -4298,7 +5564,10 @@
     "label": {
       "slug": "carnivine",
       "eng": "Carnivine"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4309,7 +5578,10 @@
     "label": {
       "slug": "leafeon",
       "eng": "Leafeon"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -4320,7 +5592,11 @@
     "label": {
       "slug": "mow-rotom",
       "eng": "Mow Rotom"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4331,7 +5607,10 @@
     "label": {
       "slug": "shaymin",
       "eng": "Shaymin"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -4342,7 +5621,10 @@
     "label": {
       "slug": "magmar",
       "eng": "Magmar"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4353,7 +5635,10 @@
     "label": {
       "slug": "magmortar",
       "eng": "Magmortar"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4364,7 +5649,11 @@
     "label": {
       "slug": "slugma",
       "eng": "Slugma"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4375,7 +5664,11 @@
     "label": {
       "slug": "magcargo",
       "eng": "Magcargo"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4386,7 +5679,10 @@
     "label": {
       "slug": "chimchar",
       "eng": "Chimchar"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4397,7 +5693,10 @@
     "label": {
       "slug": "monferno",
       "eng": "Monferno"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4408,7 +5707,10 @@
     "label": {
       "slug": "infernape-ex",
       "eng": "Infernape ex"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4419,7 +5721,11 @@
     "label": {
       "slug": "heat-rotom",
       "eng": "Heat Rotom"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4430,7 +5736,10 @@
     "label": {
       "slug": "swinub",
       "eng": "Swinub"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -4441,7 +5750,10 @@
     "label": {
       "slug": "piloswine",
       "eng": "Piloswine"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -4452,7 +5764,10 @@
     "label": {
       "slug": "mamoswine",
       "eng": "Mamoswine"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -4463,7 +5778,10 @@
     "label": {
       "slug": "regice",
       "eng": "Regice"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4474,7 +5792,10 @@
     "label": {
       "slug": "piplup",
       "eng": "Piplup"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4485,7 +5806,10 @@
     "label": {
       "slug": "prinplup",
       "eng": "Prinplup"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4496,7 +5820,10 @@
     "label": {
       "slug": "empoleon",
       "eng": "Empoleon"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4507,7 +5834,11 @@
     "label": {
       "slug": "buizel",
       "eng": "Buizel"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4518,7 +5849,11 @@
     "label": {
       "slug": "floatzel",
       "eng": "Floatzel"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4529,7 +5864,10 @@
     "label": {
       "slug": "shellos",
       "eng": "Shellos"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4540,7 +5878,10 @@
     "label": {
       "slug": "gastrodon",
       "eng": "Gastrodon"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4551,7 +5892,11 @@
     "label": {
       "slug": "finneon",
       "eng": "Finneon"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4562,7 +5907,11 @@
     "label": {
       "slug": "lumineon",
       "eng": "Lumineon"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4573,7 +5922,11 @@
     "label": {
       "slug": "snover",
       "eng": "Snover"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4584,7 +5937,11 @@
     "label": {
       "slug": "abomasnow",
       "eng": "Abomasnow"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4595,7 +5952,10 @@
     "label": {
       "slug": "glaceon",
       "eng": "Glaceon"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4606,7 +5966,11 @@
     "label": {
       "slug": "wash-rotom",
       "eng": "Wash Rotom"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4617,7 +5981,11 @@
     "label": {
       "slug": "frost-rotom",
       "eng": "Frost Rotom"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4628,7 +5996,10 @@
     "label": {
       "slug": "palkia-ex",
       "eng": "Palkia ex"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4639,7 +6010,10 @@
     "label": {
       "slug": "manaphy",
       "eng": "Manaphy"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4650,7 +6024,11 @@
     "label": {
       "slug": "magnemite",
       "eng": "Magnemite"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4661,7 +6039,11 @@
     "label": {
       "slug": "magneton",
       "eng": "Magneton"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4672,7 +6054,11 @@
     "label": {
       "slug": "magnezone",
       "eng": "Magnezone"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4683,7 +6069,11 @@
     "label": {
       "slug": "voltorb",
       "eng": "Voltorb"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4694,7 +6084,11 @@
     "label": {
       "slug": "electrode",
       "eng": "Electrode"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4705,7 +6099,10 @@
     "label": {
       "slug": "electabuzz",
       "eng": "Electabuzz"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -4716,7 +6113,10 @@
     "label": {
       "slug": "electivire",
       "eng": "Electivire"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -4727,7 +6127,10 @@
     "label": {
       "slug": "shinx",
       "eng": "Shinx"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -4738,7 +6141,10 @@
     "label": {
       "slug": "luxio",
       "eng": "Luxio"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -4749,7 +6155,10 @@
     "label": {
       "slug": "luxray",
       "eng": "Luxray"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -4760,7 +6169,10 @@
     "label": {
       "slug": "pachirisu-ex",
       "eng": "Pachirisu ex"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -4771,7 +6183,10 @@
     "label": {
       "slug": "rotom",
       "eng": "Rotom"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4782,7 +6197,11 @@
     "label": {
       "slug": "togepi",
       "eng": "Togepi"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4793,7 +6212,11 @@
     "label": {
       "slug": "togetic",
       "eng": "Togetic"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4804,7 +6227,11 @@
     "label": {
       "slug": "togekiss",
       "eng": "Togekiss"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4815,7 +6242,10 @@
     "label": {
       "slug": "misdreavus",
       "eng": "Misdreavus"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4826,7 +6256,10 @@
     "label": {
       "slug": "mismagius-ex",
       "eng": "Mismagius ex"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4837,7 +6270,10 @@
     "label": {
       "slug": "ralts",
       "eng": "Ralts"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -4848,7 +6284,10 @@
     "label": {
       "slug": "kirlia",
       "eng": "Kirlia"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -4859,7 +6298,10 @@
     "label": {
       "slug": "duskull",
       "eng": "Duskull"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -4870,7 +6312,10 @@
     "label": {
       "slug": "dusclops",
       "eng": "Dusclops"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -4881,7 +6326,10 @@
     "label": {
       "slug": "dusknoir",
       "eng": "Dusknoir"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -4892,7 +6340,10 @@
     "label": {
       "slug": "drifloon",
       "eng": "Drifloon"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -4903,7 +6354,10 @@
     "label": {
       "slug": "drifblim",
       "eng": "Drifblim"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -4914,7 +6368,11 @@
     "label": {
       "slug": "uxie",
       "eng": "Uxie"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4925,7 +6383,11 @@
     "label": {
       "slug": "mesprit",
       "eng": "Mesprit"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4936,7 +6398,11 @@
     "label": {
       "slug": "azelf",
       "eng": "Azelf"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4947,7 +6413,10 @@
     "label": {
       "slug": "giratina",
       "eng": "Giratina"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4958,7 +6427,10 @@
     "label": {
       "slug": "cresselia",
       "eng": "Cresselia"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4969,7 +6441,10 @@
     "label": {
       "slug": "rhyhorn",
       "eng": "Rhyhorn"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4980,7 +6455,10 @@
     "label": {
       "slug": "rhydon",
       "eng": "Rhydon"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -4991,7 +6469,10 @@
     "label": {
       "slug": "rhyperior",
       "eng": "Rhyperior"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5002,7 +6483,10 @@
     "label": {
       "slug": "gligar",
       "eng": "Gligar"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5013,7 +6497,10 @@
     "label": {
       "slug": "gliscor",
       "eng": "Gliscor"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5024,7 +6511,10 @@
     "label": {
       "slug": "hitmontop",
       "eng": "Hitmontop"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5035,7 +6525,11 @@
     "label": {
       "slug": "nosepass",
       "eng": "Nosepass"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5046,7 +6540,11 @@
     "label": {
       "slug": "regirock",
       "eng": "Regirock"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5057,7 +6555,10 @@
     "label": {
       "slug": "cranidos",
       "eng": "Cranidos"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5068,7 +6569,10 @@
     "label": {
       "slug": "rampardos",
       "eng": "Rampardos"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5079,7 +6583,10 @@
     "label": {
       "slug": "wormadam",
       "eng": "Wormadam"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5090,7 +6597,10 @@
     "label": {
       "slug": "riolu",
       "eng": "Riolu"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5101,7 +6611,10 @@
     "label": {
       "slug": "lucario",
       "eng": "Lucario"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5112,7 +6625,10 @@
     "label": {
       "slug": "hippopotas",
       "eng": "Hippopotas"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5123,7 +6639,10 @@
     "label": {
       "slug": "hippowdon",
       "eng": "Hippowdon"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5134,7 +6653,10 @@
     "label": {
       "slug": "gallade-ex",
       "eng": "Gallade ex"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5145,7 +6667,10 @@
     "label": {
       "slug": "murkrow",
       "eng": "Murkrow"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5156,7 +6681,10 @@
     "label": {
       "slug": "honchkrow",
       "eng": "Honchkrow"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5167,7 +6695,10 @@
     "label": {
       "slug": "sneasel",
       "eng": "Sneasel"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5178,7 +6709,10 @@
     "label": {
       "slug": "weavile-ex",
       "eng": "Weavile ex"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5189,7 +6723,11 @@
     "label": {
       "slug": "poochyena",
       "eng": "Poochyena"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5200,7 +6738,11 @@
     "label": {
       "slug": "mightyena",
       "eng": "Mightyena"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5211,7 +6753,10 @@
     "label": {
       "slug": "stunky",
       "eng": "Stunky"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5222,7 +6767,10 @@
     "label": {
       "slug": "skuntank",
       "eng": "Skuntank"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5233,7 +6781,10 @@
     "label": {
       "slug": "spiritomb",
       "eng": "Spiritomb"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5244,7 +6795,11 @@
     "label": {
       "slug": "skorupi",
       "eng": "Skorupi"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5255,7 +6810,11 @@
     "label": {
       "slug": "drapion",
       "eng": "Drapion"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5266,7 +6825,10 @@
     "label": {
       "slug": "croagunk",
       "eng": "Croagunk"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5277,7 +6839,10 @@
     "label": {
       "slug": "toxicroak",
       "eng": "Toxicroak"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5288,7 +6853,10 @@
     "label": {
       "slug": "darkrai",
       "eng": "Darkrai"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5299,7 +6867,10 @@
     "label": {
       "slug": "darkrai-ex",
       "eng": "Darkrai ex"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5310,7 +6881,11 @@
     "label": {
       "slug": "skarmory",
       "eng": "Skarmory"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5321,7 +6896,10 @@
     "label": {
       "slug": "registeel",
       "eng": "Registeel"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5332,7 +6910,10 @@
     "label": {
       "slug": "shieldon",
       "eng": "Shieldon"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5343,7 +6924,10 @@
     "label": {
       "slug": "bastiodon",
       "eng": "Bastiodon"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5354,7 +6938,10 @@
     "label": {
       "slug": "wormadam",
       "eng": "Wormadam"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5365,7 +6952,10 @@
     "label": {
       "slug": "bronzor",
       "eng": "Bronzor"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5376,7 +6966,10 @@
     "label": {
       "slug": "bronzong",
       "eng": "Bronzong"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5387,7 +6980,11 @@
     "label": {
       "slug": "probopass",
       "eng": "Probopass"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5398,7 +6995,10 @@
     "label": {
       "slug": "dialga-ex",
       "eng": "Dialga ex"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5409,7 +7009,10 @@
     "label": {
       "slug": "heatran",
       "eng": "Heatran"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5420,7 +7023,10 @@
     "label": {
       "slug": "gible",
       "eng": "Gible"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5431,7 +7037,10 @@
     "label": {
       "slug": "gabite",
       "eng": "Gabite"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5442,7 +7051,10 @@
     "label": {
       "slug": "garchomp",
       "eng": "Garchomp"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5453,7 +7065,10 @@
     "label": {
       "slug": "lickitung",
       "eng": "Lickitung"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5464,7 +7079,10 @@
     "label": {
       "slug": "lickilicky-ex",
       "eng": "Lickilicky ex"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5475,7 +7093,11 @@
     "label": {
       "slug": "eevee",
       "eng": "Eevee"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5486,7 +7108,10 @@
     "label": {
       "slug": "porygon",
       "eng": "Porygon"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5497,7 +7122,10 @@
     "label": {
       "slug": "porygon2",
       "eng": "Porygon2"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5508,7 +7136,10 @@
     "label": {
       "slug": "porygon-z",
       "eng": "Porygon-Z"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5519,7 +7150,11 @@
     "label": {
       "slug": "aipom",
       "eng": "Aipom"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5530,7 +7165,11 @@
     "label": {
       "slug": "ambipom",
       "eng": "Ambipom"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5541,7 +7180,10 @@
     "label": {
       "slug": "starly",
       "eng": "Starly"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5552,7 +7194,10 @@
     "label": {
       "slug": "staravia",
       "eng": "Staravia"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5563,7 +7208,10 @@
     "label": {
       "slug": "staraptor",
       "eng": "Staraptor"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5574,7 +7222,10 @@
     "label": {
       "slug": "bidoof",
       "eng": "Bidoof"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5585,7 +7236,10 @@
     "label": {
       "slug": "bibarel",
       "eng": "Bibarel"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5596,7 +7250,10 @@
     "label": {
       "slug": "buneary",
       "eng": "Buneary"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5607,7 +7264,10 @@
     "label": {
       "slug": "lopunny",
       "eng": "Lopunny"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5618,7 +7278,10 @@
     "label": {
       "slug": "glameow",
       "eng": "Glameow"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5629,7 +7292,10 @@
     "label": {
       "slug": "purugly",
       "eng": "Purugly"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5640,7 +7306,10 @@
     "label": {
       "slug": "chatot",
       "eng": "Chatot"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5651,7 +7320,11 @@
     "label": {
       "slug": "fan-rotom",
       "eng": "Fan Rotom"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5662,7 +7335,11 @@
     "label": {
       "slug": "regigigas",
       "eng": "Regigigas"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5673,7 +7350,10 @@
     "label": {
       "slug": "skull-fossil",
       "eng": "Skull Fossil"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5684,7 +7364,10 @@
     "label": {
       "slug": "armor-fossil",
       "eng": "Armor Fossil"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5695,7 +7378,10 @@
     "label": {
       "slug": "pokemon-communication",
       "eng": "Pokémon Communication"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5706,7 +7392,10 @@
     "label": {
       "slug": "giant-cape",
       "eng": "Giant Cape"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5717,7 +7406,10 @@
     "label": {
       "slug": "rocky-helmet",
       "eng": "Rocky Helmet"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5728,7 +7420,10 @@
     "label": {
       "slug": "lum-berry",
       "eng": "Lum Berry"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5739,7 +7434,10 @@
     "label": {
       "slug": "cyrus",
       "eng": "Cyrus"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5750,7 +7448,10 @@
     "label": {
       "slug": "team-galactic-grunt",
       "eng": "Team Galactic Grunt"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5761,7 +7462,10 @@
     "label": {
       "slug": "cynthia",
       "eng": "Cynthia"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5772,7 +7476,10 @@
     "label": {
       "slug": "volkner",
       "eng": "Volkner"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5783,7 +7490,10 @@
     "label": {
       "slug": "dawn",
       "eng": "Dawn"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5794,7 +7504,10 @@
     "label": {
       "slug": "mars",
       "eng": "Mars"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5805,7 +7518,10 @@
     "label": {
       "slug": "tangrowth",
       "eng": "Tangrowth"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5816,7 +7532,10 @@
     "label": {
       "slug": "combee",
       "eng": "Combee"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5827,7 +7546,10 @@
     "label": {
       "slug": "carnivine",
       "eng": "Carnivine"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5838,7 +7560,10 @@
     "label": {
       "slug": "shaymin",
       "eng": "Shaymin"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5849,7 +7574,10 @@
     "label": {
       "slug": "mamoswine",
       "eng": "Mamoswine"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5860,7 +7588,10 @@
     "label": {
       "slug": "gastrodon",
       "eng": "Gastrodon"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5871,7 +7602,10 @@
     "label": {
       "slug": "manaphy",
       "eng": "Manaphy"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5882,7 +7616,10 @@
     "label": {
       "slug": "shinx",
       "eng": "Shinx"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5893,7 +7630,10 @@
     "label": {
       "slug": "rotom",
       "eng": "Rotom"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5904,7 +7644,10 @@
     "label": {
       "slug": "drifloon",
       "eng": "Drifloon"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5915,7 +7658,10 @@
     "label": {
       "slug": "mesprit",
       "eng": "Mesprit"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5926,7 +7672,10 @@
     "label": {
       "slug": "giratina",
       "eng": "Giratina"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5937,7 +7686,10 @@
     "label": {
       "slug": "cresselia",
       "eng": "Cresselia"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5948,7 +7700,10 @@
     "label": {
       "slug": "rhyperior",
       "eng": "Rhyperior"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5959,7 +7714,10 @@
     "label": {
       "slug": "lucario",
       "eng": "Lucario"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -5970,7 +7728,10 @@
     "label": {
       "slug": "hippopotas",
       "eng": "Hippopotas"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5981,7 +7742,10 @@
     "label": {
       "slug": "spiritomb",
       "eng": "Spiritomb"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -5992,7 +7756,10 @@
     "label": {
       "slug": "croagunk",
       "eng": "Croagunk"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -6003,7 +7770,10 @@
     "label": {
       "slug": "heatran",
       "eng": "Heatran"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -6014,7 +7784,10 @@
     "label": {
       "slug": "garchomp",
       "eng": "Garchomp"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -6025,7 +7798,10 @@
     "label": {
       "slug": "staraptor",
       "eng": "Staraptor"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -6036,7 +7812,10 @@
     "label": {
       "slug": "bidoof",
       "eng": "Bidoof"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -6047,7 +7826,10 @@
     "label": {
       "slug": "glameow",
       "eng": "Glameow"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -6058,7 +7840,10 @@
     "label": {
       "slug": "regigigas",
       "eng": "Regigigas"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -6069,7 +7854,10 @@
     "label": {
       "slug": "yanmega-ex",
       "eng": "Yanmega ex"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -6080,7 +7868,10 @@
     "label": {
       "slug": "infernape-ex",
       "eng": "Infernape ex"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -6091,7 +7882,10 @@
     "label": {
       "slug": "palkia-ex",
       "eng": "Palkia ex"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -6102,7 +7896,10 @@
     "label": {
       "slug": "pachirisu-ex",
       "eng": "Pachirisu ex"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -6113,7 +7910,10 @@
     "label": {
       "slug": "mismagius-ex",
       "eng": "Mismagius ex"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -6124,7 +7924,10 @@
     "label": {
       "slug": "gallade-ex",
       "eng": "Gallade ex"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -6135,7 +7938,10 @@
     "label": {
       "slug": "weavile-ex",
       "eng": "Weavile ex"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -6146,7 +7952,10 @@
     "label": {
       "slug": "darkrai-ex",
       "eng": "Darkrai ex"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -6157,7 +7966,10 @@
     "label": {
       "slug": "dialga-ex",
       "eng": "Dialga ex"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -6168,7 +7980,10 @@
     "label": {
       "slug": "lickilicky-ex",
       "eng": "Lickilicky ex"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -6179,7 +7994,10 @@
     "label": {
       "slug": "cyrus",
       "eng": "Cyrus"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -6190,7 +8008,10 @@
     "label": {
       "slug": "team-galactic-grunt",
       "eng": "Team Galactic Grunt"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -6201,7 +8022,10 @@
     "label": {
       "slug": "cynthia",
       "eng": "Cynthia"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -6212,7 +8036,10 @@
     "label": {
       "slug": "volkner",
       "eng": "Volkner"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -6223,7 +8050,10 @@
     "label": {
       "slug": "dawn",
       "eng": "Dawn"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -6234,7 +8064,10 @@
     "label": {
       "slug": "mars",
       "eng": "Mars"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -6245,7 +8078,10 @@
     "label": {
       "slug": "yanmega-ex",
       "eng": "Yanmega ex"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -6256,7 +8092,10 @@
     "label": {
       "slug": "infernape-ex",
       "eng": "Infernape ex"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -6267,7 +8106,10 @@
     "label": {
       "slug": "pachirisu-ex",
       "eng": "Pachirisu ex"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -6278,7 +8120,10 @@
     "label": {
       "slug": "mismagius-ex",
       "eng": "Mismagius ex"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -6289,7 +8134,10 @@
     "label": {
       "slug": "gallade-ex",
       "eng": "Gallade ex"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -6300,7 +8148,10 @@
     "label": {
       "slug": "weavile-ex",
       "eng": "Weavile ex"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -6311,7 +8162,10 @@
     "label": {
       "slug": "darkrai-ex",
       "eng": "Darkrai ex"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -6322,7 +8176,10 @@
     "label": {
       "slug": "lickilicky-ex",
       "eng": "Lickilicky ex"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -6333,7 +8190,10 @@
     "label": {
       "slug": "palkia-ex",
       "eng": "Palkia ex"
-    }
+    },
+    "packs": [
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -6344,7 +8204,10 @@
     "label": {
       "slug": "dialga-ex",
       "eng": "Dialga ex"
-    }
+    },
+    "packs": [
+      "Dialga"
+    ]
   },
   {
     "set": "A2",
@@ -6355,7 +8218,11 @@
     "label": {
       "slug": "palkia-ex",
       "eng": "Palkia ex"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2",
@@ -6366,7 +8233,11 @@
     "label": {
       "slug": "dialga-ex",
       "eng": "Dialga ex"
-    }
+    },
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ]
   },
   {
     "set": "A2A",
@@ -6377,7 +8248,10 @@
     "label": {
       "slug": "heracross",
       "eng": "Heracross"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6388,7 +8262,10 @@
     "label": {
       "slug": "burmy",
       "eng": "Burmy"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6399,7 +8276,10 @@
     "label": {
       "slug": "mothim",
       "eng": "Mothim"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6410,7 +8290,10 @@
     "label": {
       "slug": "combee",
       "eng": "Combee"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6421,7 +8304,10 @@
     "label": {
       "slug": "vespiquen",
       "eng": "Vespiquen"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6432,7 +8318,10 @@
     "label": {
       "slug": "cherubi",
       "eng": "Cherubi"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6443,7 +8332,10 @@
     "label": {
       "slug": "cherrim",
       "eng": "Cherrim"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6454,7 +8346,10 @@
     "label": {
       "slug": "cherrim",
       "eng": "Cherrim"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6465,7 +8360,10 @@
     "label": {
       "slug": "carnivine",
       "eng": "Carnivine"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6476,7 +8374,10 @@
     "label": {
       "slug": "leafeon-ex",
       "eng": "Leafeon ex"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6487,7 +8388,10 @@
     "label": {
       "slug": "houndour",
       "eng": "Houndour"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6498,7 +8402,10 @@
     "label": {
       "slug": "houndoom",
       "eng": "Houndoom"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6509,7 +8416,10 @@
     "label": {
       "slug": "heatran",
       "eng": "Heatran"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6520,7 +8430,10 @@
     "label": {
       "slug": "marill",
       "eng": "Marill"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6531,7 +8444,10 @@
     "label": {
       "slug": "azumarill",
       "eng": "Azumarill"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6542,7 +8458,10 @@
     "label": {
       "slug": "barboach",
       "eng": "Barboach"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6553,7 +8472,10 @@
     "label": {
       "slug": "whiscash",
       "eng": "Whiscash"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6564,7 +8486,10 @@
     "label": {
       "slug": "snorunt",
       "eng": "Snorunt"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6575,7 +8500,10 @@
     "label": {
       "slug": "froslass",
       "eng": "Froslass"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6586,7 +8514,10 @@
     "label": {
       "slug": "snover",
       "eng": "Snover"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6597,7 +8528,10 @@
     "label": {
       "slug": "abomasnow",
       "eng": "Abomasnow"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6608,7 +8542,10 @@
     "label": {
       "slug": "glaceon-ex",
       "eng": "Glaceon ex"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6619,7 +8556,10 @@
     "label": {
       "slug": "palkia",
       "eng": "Palkia"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6630,7 +8570,10 @@
     "label": {
       "slug": "phione",
       "eng": "Phione"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6641,7 +8584,10 @@
     "label": {
       "slug": "pikachu",
       "eng": "Pikachu"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6652,7 +8598,10 @@
     "label": {
       "slug": "raichu",
       "eng": "Raichu"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6663,7 +8612,10 @@
     "label": {
       "slug": "electrike",
       "eng": "Electrike"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6674,7 +8626,10 @@
     "label": {
       "slug": "manectric",
       "eng": "Manectric"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6685,7 +8640,10 @@
     "label": {
       "slug": "clefairy",
       "eng": "Clefairy"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6696,7 +8654,10 @@
     "label": {
       "slug": "clefable",
       "eng": "Clefable"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6707,7 +8668,10 @@
     "label": {
       "slug": "gastly",
       "eng": "Gastly"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6718,7 +8682,10 @@
     "label": {
       "slug": "haunter",
       "eng": "Haunter"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6729,7 +8696,10 @@
     "label": {
       "slug": "gengar",
       "eng": "Gengar"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6740,7 +8710,10 @@
     "label": {
       "slug": "unown",
       "eng": "Unown"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6751,7 +8724,10 @@
     "label": {
       "slug": "rotom",
       "eng": "Rotom"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6762,7 +8738,10 @@
     "label": {
       "slug": "sudowoodo",
       "eng": "Sudowoodo"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6773,7 +8752,10 @@
     "label": {
       "slug": "phanpy",
       "eng": "Phanpy"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6784,7 +8766,10 @@
     "label": {
       "slug": "donphan",
       "eng": "Donphan"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6795,7 +8780,10 @@
     "label": {
       "slug": "larvitar",
       "eng": "Larvitar"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6806,7 +8794,10 @@
     "label": {
       "slug": "pupitar",
       "eng": "Pupitar"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6817,7 +8808,10 @@
     "label": {
       "slug": "tyranitar",
       "eng": "Tyranitar"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6828,7 +8822,10 @@
     "label": {
       "slug": "nosepass",
       "eng": "Nosepass"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6839,7 +8836,10 @@
     "label": {
       "slug": "meditite",
       "eng": "Meditite"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6850,7 +8850,10 @@
     "label": {
       "slug": "medicham",
       "eng": "Medicham"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6861,7 +8864,10 @@
     "label": {
       "slug": "gible",
       "eng": "Gible"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6872,7 +8878,10 @@
     "label": {
       "slug": "gabite",
       "eng": "Gabite"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6883,7 +8892,10 @@
     "label": {
       "slug": "garchomp-ex",
       "eng": "Garchomp ex"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6894,7 +8906,10 @@
     "label": {
       "slug": "zubat",
       "eng": "Zubat"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6905,7 +8920,10 @@
     "label": {
       "slug": "golbat",
       "eng": "Golbat"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6916,7 +8934,10 @@
     "label": {
       "slug": "crobat",
       "eng": "Crobat"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6927,7 +8948,10 @@
     "label": {
       "slug": "croagunk",
       "eng": "Croagunk"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6938,7 +8962,10 @@
     "label": {
       "slug": "toxicroak",
       "eng": "Toxicroak"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6949,7 +8976,10 @@
     "label": {
       "slug": "magnemite",
       "eng": "Magnemite"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6960,7 +8990,10 @@
     "label": {
       "slug": "magneton",
       "eng": "Magneton"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6971,7 +9004,10 @@
     "label": {
       "slug": "magnezone",
       "eng": "Magnezone"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6982,7 +9018,10 @@
     "label": {
       "slug": "mawile",
       "eng": "Mawile"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -6993,7 +9032,10 @@
     "label": {
       "slug": "probopass-ex",
       "eng": "Probopass ex"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7004,7 +9046,10 @@
     "label": {
       "slug": "bronzor",
       "eng": "Bronzor"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7015,7 +9060,10 @@
     "label": {
       "slug": "bronzong",
       "eng": "Bronzong"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7026,7 +9074,10 @@
     "label": {
       "slug": "dialga",
       "eng": "Dialga"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7037,7 +9088,10 @@
     "label": {
       "slug": "giratina",
       "eng": "Giratina"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7048,7 +9102,10 @@
     "label": {
       "slug": "eevee",
       "eng": "Eevee"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7059,7 +9116,10 @@
     "label": {
       "slug": "snorlax",
       "eng": "Snorlax"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7070,7 +9130,10 @@
     "label": {
       "slug": "hoothoot",
       "eng": "Hoothoot"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7081,7 +9144,10 @@
     "label": {
       "slug": "noctowl",
       "eng": "Noctowl"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7092,7 +9158,10 @@
     "label": {
       "slug": "starly",
       "eng": "Starly"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7103,7 +9172,10 @@
     "label": {
       "slug": "staravia",
       "eng": "Staravia"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7114,7 +9186,10 @@
     "label": {
       "slug": "staraptor",
       "eng": "Staraptor"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7125,7 +9200,10 @@
     "label": {
       "slug": "shaymin",
       "eng": "Shaymin"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7136,7 +9214,10 @@
     "label": {
       "slug": "arceus",
       "eng": "Arceus"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7147,7 +9228,10 @@
     "label": {
       "slug": "arceus-ex",
       "eng": "Arceus ex"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7158,7 +9242,10 @@
     "label": {
       "slug": "irida",
       "eng": "Irida"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7169,7 +9256,10 @@
     "label": {
       "slug": "celestic-town-elder",
       "eng": "Celestic Town Elder"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7180,7 +9270,10 @@
     "label": {
       "slug": "barry",
       "eng": "Barry"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7191,7 +9284,10 @@
     "label": {
       "slug": "adaman",
       "eng": "Adaman"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7202,7 +9298,10 @@
     "label": {
       "slug": "houndoom",
       "eng": "Houndoom"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7213,7 +9312,10 @@
     "label": {
       "slug": "marill",
       "eng": "Marill"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7224,7 +9326,10 @@
     "label": {
       "slug": "unown",
       "eng": "Unown"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7235,7 +9340,10 @@
     "label": {
       "slug": "sudowoodo",
       "eng": "Sudowoodo"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7246,7 +9354,10 @@
     "label": {
       "slug": "magnemite",
       "eng": "Magnemite"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7257,7 +9368,10 @@
     "label": {
       "slug": "shaymin",
       "eng": "Shaymin"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7268,7 +9382,10 @@
     "label": {
       "slug": "leafeon-ex",
       "eng": "Leafeon ex"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7279,7 +9396,10 @@
     "label": {
       "slug": "glaceon-ex",
       "eng": "Glaceon ex"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7290,7 +9410,10 @@
     "label": {
       "slug": "garchomp-ex",
       "eng": "Garchomp ex"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7301,7 +9424,10 @@
     "label": {
       "slug": "probopass-ex",
       "eng": "Probopass ex"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7312,7 +9438,10 @@
     "label": {
       "slug": "arceus-ex",
       "eng": "Arceus ex"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7323,7 +9452,10 @@
     "label": {
       "slug": "irida",
       "eng": "Irida"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7334,7 +9466,10 @@
     "label": {
       "slug": "celestic-town-elder",
       "eng": "Celestic Town Elder"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7345,7 +9480,10 @@
     "label": {
       "slug": "barry",
       "eng": "Barry"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7356,7 +9494,10 @@
     "label": {
       "slug": "adaman",
       "eng": "Adaman"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7367,7 +9508,10 @@
     "label": {
       "slug": "leafeon-ex",
       "eng": "Leafeon ex"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7378,7 +9522,10 @@
     "label": {
       "slug": "glaceon-ex",
       "eng": "Glaceon ex"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7389,7 +9536,10 @@
     "label": {
       "slug": "garchomp-ex",
       "eng": "Garchomp ex"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7400,7 +9550,10 @@
     "label": {
       "slug": "probopass-ex",
       "eng": "Probopass ex"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7411,7 +9564,10 @@
     "label": {
       "slug": "arceus-ex",
       "eng": "Arceus ex"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2A",
@@ -7422,7 +9578,10 @@
     "label": {
       "slug": "arceus-ex",
       "eng": "Arceus ex"
-    }
+    },
+    "packs": [
+      "Arceus"
+    ]
   },
   {
     "set": "A2B",
@@ -7433,7 +9592,10 @@
     "label": {
       "slug": "weedle",
       "eng": "Weedle"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7444,7 +9606,10 @@
     "label": {
       "slug": "kakuna",
       "eng": "Kakuna"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7455,7 +9620,10 @@
     "label": {
       "slug": "beedrill-ex",
       "eng": "Beedrill ex"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7466,7 +9634,10 @@
     "label": {
       "slug": "pinsir",
       "eng": "Pinsir"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7477,7 +9648,10 @@
     "label": {
       "slug": "sprigatito",
       "eng": "Sprigatito"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7488,7 +9662,10 @@
     "label": {
       "slug": "floragato",
       "eng": "Floragato"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7499,7 +9676,10 @@
     "label": {
       "slug": "meowscarada",
       "eng": "Meowscarada"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7510,7 +9690,10 @@
     "label": {
       "slug": "charmander",
       "eng": "Charmander"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7521,7 +9704,10 @@
     "label": {
       "slug": "charmeleon",
       "eng": "Charmeleon"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7532,7 +9718,10 @@
     "label": {
       "slug": "charizard-ex",
       "eng": "Charizard ex"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7543,7 +9732,10 @@
     "label": {
       "slug": "magmar",
       "eng": "Magmar"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7554,7 +9746,10 @@
     "label": {
       "slug": "magmortar",
       "eng": "Magmortar"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7565,7 +9760,10 @@
     "label": {
       "slug": "paldean-tauros",
       "eng": "Paldean Tauros"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7576,7 +9774,10 @@
     "label": {
       "slug": "tentacool",
       "eng": "Tentacool"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7587,7 +9788,10 @@
     "label": {
       "slug": "tentacruel",
       "eng": "Tentacruel"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7598,7 +9802,10 @@
     "label": {
       "slug": "buizel",
       "eng": "Buizel"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7609,7 +9816,10 @@
     "label": {
       "slug": "floatzel",
       "eng": "Floatzel"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7620,7 +9830,10 @@
     "label": {
       "slug": "wiglett",
       "eng": "Wiglett"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7631,7 +9844,10 @@
     "label": {
       "slug": "wugtrio-ex",
       "eng": "Wugtrio ex"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7642,7 +9858,10 @@
     "label": {
       "slug": "dondozo",
       "eng": "Dondozo"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7653,7 +9872,10 @@
     "label": {
       "slug": "tatsugiri",
       "eng": "Tatsugiri"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7664,7 +9886,10 @@
     "label": {
       "slug": "pikachu-ex",
       "eng": "Pikachu ex"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7675,7 +9900,10 @@
     "label": {
       "slug": "voltorb",
       "eng": "Voltorb"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7686,7 +9914,10 @@
     "label": {
       "slug": "electrode",
       "eng": "Electrode"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7697,7 +9928,10 @@
     "label": {
       "slug": "pachirisu",
       "eng": "Pachirisu"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7708,7 +9942,10 @@
     "label": {
       "slug": "pawmi",
       "eng": "Pawmi"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7719,7 +9956,10 @@
     "label": {
       "slug": "pawmo",
       "eng": "Pawmo"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7730,7 +9970,10 @@
     "label": {
       "slug": "pawmot",
       "eng": "Pawmot"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7741,7 +9984,10 @@
     "label": {
       "slug": "abra",
       "eng": "Abra"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7752,7 +9998,10 @@
     "label": {
       "slug": "kadabra",
       "eng": "Kadabra"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7763,7 +10012,10 @@
     "label": {
       "slug": "alakazam",
       "eng": "Alakazam"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7774,7 +10026,10 @@
     "label": {
       "slug": "mr-mime",
       "eng": "Mr. Mime"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7785,7 +10040,10 @@
     "label": {
       "slug": "drifloon",
       "eng": "Drifloon"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7796,7 +10054,10 @@
     "label": {
       "slug": "drifblim",
       "eng": "Drifblim"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7807,7 +10068,10 @@
     "label": {
       "slug": "giratina-ex",
       "eng": "Giratina ex"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7818,7 +10082,10 @@
     "label": {
       "slug": "gimmighoul",
       "eng": "Gimmighoul"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7829,7 +10096,10 @@
     "label": {
       "slug": "machop",
       "eng": "Machop"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7840,7 +10110,10 @@
     "label": {
       "slug": "machoke",
       "eng": "Machoke"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7851,7 +10124,10 @@
     "label": {
       "slug": "machamp",
       "eng": "Machamp"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7862,7 +10138,10 @@
     "label": {
       "slug": "hitmonlee",
       "eng": "Hitmonlee"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7873,7 +10152,10 @@
     "label": {
       "slug": "hitmonchan",
       "eng": "Hitmonchan"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7884,7 +10166,10 @@
     "label": {
       "slug": "riolu",
       "eng": "Riolu"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7895,7 +10180,10 @@
     "label": {
       "slug": "lucario-ex",
       "eng": "Lucario ex"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7906,7 +10194,10 @@
     "label": {
       "slug": "flamigo",
       "eng": "Flamigo"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7917,7 +10208,10 @@
     "label": {
       "slug": "ekans",
       "eng": "Ekans"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7928,7 +10222,10 @@
     "label": {
       "slug": "arbok",
       "eng": "Arbok"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7939,7 +10236,10 @@
     "label": {
       "slug": "paldean-wooper",
       "eng": "Paldean Wooper"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7950,7 +10250,10 @@
     "label": {
       "slug": "paldean-clodsire-ex",
       "eng": "Paldean Clodsire ex"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7961,7 +10264,10 @@
     "label": {
       "slug": "spiritomb",
       "eng": "Spiritomb"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7972,7 +10278,10 @@
     "label": {
       "slug": "shroodle",
       "eng": "Shroodle"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7983,7 +10292,10 @@
     "label": {
       "slug": "grafaiai",
       "eng": "Grafaiai"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -7994,7 +10306,10 @@
     "label": {
       "slug": "tinkatink",
       "eng": "Tinkatink"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8005,7 +10320,10 @@
     "label": {
       "slug": "tinkatuff",
       "eng": "Tinkatuff"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8016,7 +10334,10 @@
     "label": {
       "slug": "tinkaton-ex",
       "eng": "Tinkaton ex"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8027,7 +10348,10 @@
     "label": {
       "slug": "varoom",
       "eng": "Varoom"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8038,7 +10362,10 @@
     "label": {
       "slug": "revavroom",
       "eng": "Revavroom"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8049,7 +10376,10 @@
     "label": {
       "slug": "gholdengo",
       "eng": "Gholdengo"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8060,7 +10390,10 @@
     "label": {
       "slug": "rattata",
       "eng": "Rattata"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8071,7 +10404,10 @@
     "label": {
       "slug": "raticate",
       "eng": "Raticate"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8082,7 +10418,10 @@
     "label": {
       "slug": "jigglypuff",
       "eng": "Jigglypuff"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8093,7 +10432,10 @@
     "label": {
       "slug": "wigglytuff",
       "eng": "Wigglytuff"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8104,7 +10446,10 @@
     "label": {
       "slug": "lickitung",
       "eng": "Lickitung"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8115,7 +10460,10 @@
     "label": {
       "slug": "lickilicky",
       "eng": "Lickilicky"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8126,7 +10474,10 @@
     "label": {
       "slug": "bidoof",
       "eng": "Bidoof"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8137,7 +10488,10 @@
     "label": {
       "slug": "bibarel-ex",
       "eng": "Bibarel ex"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8148,7 +10502,10 @@
     "label": {
       "slug": "buneary",
       "eng": "Buneary"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8159,7 +10516,10 @@
     "label": {
       "slug": "lopunny",
       "eng": "Lopunny"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8170,7 +10530,10 @@
     "label": {
       "slug": "cyclizar",
       "eng": "Cyclizar"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8181,7 +10544,10 @@
     "label": {
       "slug": "iono",
       "eng": "Iono"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8192,7 +10558,10 @@
     "label": {
       "slug": "pokemon-center-lady",
       "eng": "Pokémon Center Lady"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8203,7 +10572,10 @@
     "label": {
       "slug": "red",
       "eng": "Red"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8214,7 +10586,10 @@
     "label": {
       "slug": "team-rocket-grunt",
       "eng": "Team Rocket Grunt"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8225,7 +10600,10 @@
     "label": {
       "slug": "meowscarada",
       "eng": "Meowscarada"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8236,7 +10614,10 @@
     "label": {
       "slug": "buizel",
       "eng": "Buizel"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8247,7 +10628,10 @@
     "label": {
       "slug": "tatsugiri",
       "eng": "Tatsugiri"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8258,7 +10642,10 @@
     "label": {
       "slug": "grafaiai",
       "eng": "Grafaiai"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8269,7 +10656,10 @@
     "label": {
       "slug": "gholdengo",
       "eng": "Gholdengo"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8280,7 +10670,10 @@
     "label": {
       "slug": "wigglytuff",
       "eng": "Wigglytuff"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8291,7 +10684,10 @@
     "label": {
       "slug": "beedrill-ex",
       "eng": "Beedrill ex"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8302,7 +10698,10 @@
     "label": {
       "slug": "charizard-ex",
       "eng": "Charizard ex"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8313,7 +10712,10 @@
     "label": {
       "slug": "wugtrio-ex",
       "eng": "Wugtrio ex"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8324,7 +10726,10 @@
     "label": {
       "slug": "pikachu-ex",
       "eng": "Pikachu ex"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8335,7 +10740,10 @@
     "label": {
       "slug": "giratina-ex",
       "eng": "Giratina ex"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8346,7 +10754,10 @@
     "label": {
       "slug": "lucario-ex",
       "eng": "Lucario ex"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8357,7 +10768,10 @@
     "label": {
       "slug": "paldean-clodsire-ex",
       "eng": "Paldean Clodsire ex"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8368,7 +10782,10 @@
     "label": {
       "slug": "tinkaton-ex",
       "eng": "Tinkaton ex"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8379,7 +10796,10 @@
     "label": {
       "slug": "bibarel-ex",
       "eng": "Bibarel ex"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8390,7 +10810,10 @@
     "label": {
       "slug": "iono",
       "eng": "Iono"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8401,7 +10824,10 @@
     "label": {
       "slug": "pokemon-center-lady",
       "eng": "Pokémon Center Lady"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8412,7 +10838,10 @@
     "label": {
       "slug": "red",
       "eng": "Red"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8423,7 +10852,10 @@
     "label": {
       "slug": "team-rocket-grunt",
       "eng": "Team Rocket Grunt"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8434,7 +10866,10 @@
     "label": {
       "slug": "pikachu-ex",
       "eng": "Pikachu ex"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8445,7 +10880,10 @@
     "label": {
       "slug": "paldean-clodsire-ex",
       "eng": "Paldean Clodsire ex"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8456,7 +10894,10 @@
     "label": {
       "slug": "tinkaton-ex",
       "eng": "Tinkaton ex"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8467,7 +10908,10 @@
     "label": {
       "slug": "bibarel-ex",
       "eng": "Bibarel ex"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8478,7 +10922,10 @@
     "label": {
       "slug": "giratina-ex",
       "eng": "Giratina ex"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8489,7 +10936,10 @@
     "label": {
       "slug": "weedle",
       "eng": "Weedle"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8500,7 +10950,10 @@
     "label": {
       "slug": "kakuna",
       "eng": "Kakuna"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8511,7 +10964,10 @@
     "label": {
       "slug": "charmander",
       "eng": "Charmander"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8522,7 +10978,10 @@
     "label": {
       "slug": "charmeleon",
       "eng": "Charmeleon"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8533,7 +10992,10 @@
     "label": {
       "slug": "wiglett",
       "eng": "Wiglett"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8544,7 +11006,10 @@
     "label": {
       "slug": "dondozo",
       "eng": "Dondozo"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8555,7 +11020,10 @@
     "label": {
       "slug": "pachirisu",
       "eng": "Pachirisu"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8566,7 +11034,10 @@
     "label": {
       "slug": "riolu",
       "eng": "Riolu"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8577,7 +11048,10 @@
     "label": {
       "slug": "varoom",
       "eng": "Varoom"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8588,7 +11062,10 @@
     "label": {
       "slug": "revavroom",
       "eng": "Revavroom"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8599,7 +11076,10 @@
     "label": {
       "slug": "beedrill-ex",
       "eng": "Beedrill ex"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8610,7 +11090,10 @@
     "label": {
       "slug": "charizard-ex",
       "eng": "Charizard ex"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8621,7 +11104,10 @@
     "label": {
       "slug": "wugtrio-ex",
       "eng": "Wugtrio ex"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8632,7 +11118,10 @@
     "label": {
       "slug": "lucario-ex",
       "eng": "Lucario ex"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A2B",
@@ -8643,7 +11132,10 @@
     "label": {
       "slug": "poke-ball",
       "eng": "Poké Ball"
-    }
+    },
+    "packs": [
+      "Shining"
+    ]
   },
   {
     "set": "A3",
@@ -8654,7 +11146,10 @@
     "label": {
       "slug": "exeggcute",
       "eng": "Exeggcute"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -8665,7 +11160,10 @@
     "label": {
       "slug": "alolan-exeggutor",
       "eng": "Alolan Exeggutor"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -8676,7 +11174,11 @@
     "label": {
       "slug": "surskit",
       "eng": "Surskit"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -8687,7 +11189,11 @@
     "label": {
       "slug": "masquerain",
       "eng": "Masquerain"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -8698,7 +11204,10 @@
     "label": {
       "slug": "maractus",
       "eng": "Maractus"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -8709,7 +11218,11 @@
     "label": {
       "slug": "karrablast",
       "eng": "Karrablast"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -8720,7 +11233,10 @@
     "label": {
       "slug": "phantump",
       "eng": "Phantump"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -8731,7 +11247,10 @@
     "label": {
       "slug": "trevenant",
       "eng": "Trevenant"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -8742,7 +11261,10 @@
     "label": {
       "slug": "rowlet",
       "eng": "Rowlet"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -8753,7 +11275,10 @@
     "label": {
       "slug": "rowlet",
       "eng": "Rowlet"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -8764,7 +11289,10 @@
     "label": {
       "slug": "dartrix",
       "eng": "Dartrix"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -8775,7 +11303,10 @@
     "label": {
       "slug": "decidueye-ex",
       "eng": "Decidueye ex"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -8786,7 +11317,10 @@
     "label": {
       "slug": "grubbin",
       "eng": "Grubbin"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -8797,7 +11331,11 @@
     "label": {
       "slug": "fomantis",
       "eng": "Fomantis"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -8808,7 +11346,11 @@
     "label": {
       "slug": "lurantis",
       "eng": "Lurantis"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -8819,7 +11361,10 @@
     "label": {
       "slug": "morelull",
       "eng": "Morelull"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -8830,7 +11375,10 @@
     "label": {
       "slug": "shiinotic",
       "eng": "Shiinotic"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -8841,7 +11389,10 @@
     "label": {
       "slug": "bounsweet",
       "eng": "Bounsweet"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -8852,7 +11403,10 @@
     "label": {
       "slug": "steenee",
       "eng": "Steenee"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -8863,7 +11417,10 @@
     "label": {
       "slug": "tsareena",
       "eng": "Tsareena"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -8874,7 +11431,10 @@
     "label": {
       "slug": "wimpod",
       "eng": "Wimpod"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -8885,7 +11445,10 @@
     "label": {
       "slug": "golisopod",
       "eng": "Golisopod"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -8896,7 +11459,10 @@
     "label": {
       "slug": "dhelmise-ex",
       "eng": "Dhelmise ex"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -8907,7 +11473,10 @@
     "label": {
       "slug": "tapu-bulu",
       "eng": "Tapu Bulu"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -8918,7 +11487,11 @@
     "label": {
       "slug": "growlithe",
       "eng": "Growlithe"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -8929,7 +11502,11 @@
     "label": {
       "slug": "arcanine",
       "eng": "Arcanine"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -8940,7 +11517,10 @@
     "label": {
       "slug": "alolan-marowak",
       "eng": "Alolan Marowak"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -8951,7 +11531,10 @@
     "label": {
       "slug": "fletchinder",
       "eng": "Fletchinder"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -8962,7 +11545,10 @@
     "label": {
       "slug": "talonflame",
       "eng": "Talonflame"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -8973,7 +11559,10 @@
     "label": {
       "slug": "litten",
       "eng": "Litten"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -8984,7 +11573,10 @@
     "label": {
       "slug": "litten",
       "eng": "Litten"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -8995,7 +11587,10 @@
     "label": {
       "slug": "torracat",
       "eng": "Torracat"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -9006,7 +11601,10 @@
     "label": {
       "slug": "incineroar-ex",
       "eng": "Incineroar ex"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -9017,7 +11615,10 @@
     "label": {
       "slug": "oricorio",
       "eng": "Oricorio"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9028,7 +11629,11 @@
     "label": {
       "slug": "salandit",
       "eng": "Salandit"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9039,7 +11644,11 @@
     "label": {
       "slug": "salazzle",
       "eng": "Salazzle"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9050,7 +11659,10 @@
     "label": {
       "slug": "turtonator",
       "eng": "Turtonator"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9061,7 +11673,11 @@
     "label": {
       "slug": "alolan-sandshrew",
       "eng": "Alolan Sandshrew"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9072,7 +11688,11 @@
     "label": {
       "slug": "alolan-sandslash",
       "eng": "Alolan Sandslash"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9083,7 +11703,10 @@
     "label": {
       "slug": "alolan-vulpix",
       "eng": "Alolan Vulpix"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9094,7 +11717,10 @@
     "label": {
       "slug": "alolan-ninetales",
       "eng": "Alolan Ninetales"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9105,7 +11731,10 @@
     "label": {
       "slug": "shellder",
       "eng": "Shellder"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -9116,7 +11745,10 @@
     "label": {
       "slug": "cloyster",
       "eng": "Cloyster"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -9127,7 +11759,11 @@
     "label": {
       "slug": "lapras",
       "eng": "Lapras"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9138,7 +11774,10 @@
     "label": {
       "slug": "popplio",
       "eng": "Popplio"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9149,7 +11788,10 @@
     "label": {
       "slug": "popplio",
       "eng": "Popplio"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -9160,7 +11802,10 @@
     "label": {
       "slug": "brionne",
       "eng": "Brionne"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9171,7 +11816,10 @@
     "label": {
       "slug": "primarina",
       "eng": "Primarina"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9182,7 +11830,10 @@
     "label": {
       "slug": "crabominable-ex",
       "eng": "Crabominable ex"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -9193,7 +11844,10 @@
     "label": {
       "slug": "wishiwashi",
       "eng": "Wishiwashi"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9204,7 +11858,10 @@
     "label": {
       "slug": "wishiwashi-ex",
       "eng": "Wishiwashi ex"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9215,7 +11872,10 @@
     "label": {
       "slug": "dewpider",
       "eng": "Dewpider"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -9226,7 +11886,10 @@
     "label": {
       "slug": "araquanid",
       "eng": "Araquanid"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -9237,7 +11900,10 @@
     "label": {
       "slug": "pyukumuku",
       "eng": "Pyukumuku"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9248,7 +11914,11 @@
     "label": {
       "slug": "bruxish",
       "eng": "Bruxish"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9259,7 +11929,10 @@
     "label": {
       "slug": "tapu-fini",
       "eng": "Tapu Fini"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9270,7 +11943,10 @@
     "label": {
       "slug": "pikachu",
       "eng": "Pikachu"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -9281,7 +11957,10 @@
     "label": {
       "slug": "alolan-raichu-ex",
       "eng": "Alolan Raichu ex"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -9292,7 +11971,10 @@
     "label": {
       "slug": "alolan-geodude",
       "eng": "Alolan Geodude"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -9303,7 +11985,10 @@
     "label": {
       "slug": "alolan-graveler",
       "eng": "Alolan Graveler"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -9314,7 +11999,10 @@
     "label": {
       "slug": "alolan-golem",
       "eng": "Alolan Golem"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -9325,7 +12013,11 @@
     "label": {
       "slug": "helioptile",
       "eng": "Helioptile"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9336,7 +12028,11 @@
     "label": {
       "slug": "heliolisk",
       "eng": "Heliolisk"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9347,7 +12043,10 @@
     "label": {
       "slug": "charjabug",
       "eng": "Charjabug"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9358,7 +12057,10 @@
     "label": {
       "slug": "vikavolt",
       "eng": "Vikavolt"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9369,7 +12071,10 @@
     "label": {
       "slug": "oricorio",
       "eng": "Oricorio"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -9380,7 +12085,10 @@
     "label": {
       "slug": "togedemaru",
       "eng": "Togedemaru"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9391,7 +12099,10 @@
     "label": {
       "slug": "tapu-koko",
       "eng": "Tapu Koko"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -9402,7 +12113,10 @@
     "label": {
       "slug": "mr-mime",
       "eng": "Mr. Mime"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -9413,7 +12127,11 @@
     "label": {
       "slug": "sableye",
       "eng": "Sableye"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9424,7 +12142,11 @@
     "label": {
       "slug": "spoink",
       "eng": "Spoink"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9435,7 +12157,11 @@
     "label": {
       "slug": "grumpig",
       "eng": "Grumpig"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9446,7 +12172,10 @@
     "label": {
       "slug": "lunatone",
       "eng": "Lunatone"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9457,7 +12186,11 @@
     "label": {
       "slug": "shuppet",
       "eng": "Shuppet"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9468,7 +12201,11 @@
     "label": {
       "slug": "banette",
       "eng": "Banette"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9479,7 +12216,10 @@
     "label": {
       "slug": "oricorio",
       "eng": "Oricorio"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -9490,7 +12230,10 @@
     "label": {
       "slug": "oricorio",
       "eng": "Oricorio"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9501,7 +12244,10 @@
     "label": {
       "slug": "cutiefly",
       "eng": "Cutiefly"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -9512,7 +12258,10 @@
     "label": {
       "slug": "ribombee",
       "eng": "Ribombee"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -9523,7 +12272,10 @@
     "label": {
       "slug": "comfey",
       "eng": "Comfey"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -9534,7 +12286,10 @@
     "label": {
       "slug": "sandygast",
       "eng": "Sandygast"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -9545,7 +12300,10 @@
     "label": {
       "slug": "palossand",
       "eng": "Palossand"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -9556,7 +12314,10 @@
     "label": {
       "slug": "mimikyu",
       "eng": "Mimikyu"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9567,7 +12328,10 @@
     "label": {
       "slug": "tapu-lele",
       "eng": "Tapu Lele"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9578,7 +12342,11 @@
     "label": {
       "slug": "cosmog",
       "eng": "Cosmog"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9589,7 +12357,11 @@
     "label": {
       "slug": "cosmoem",
       "eng": "Cosmoem"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9600,7 +12372,10 @@
     "label": {
       "slug": "lunala-ex",
       "eng": "Lunala ex"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9611,7 +12386,10 @@
     "label": {
       "slug": "necrozma",
       "eng": "Necrozma"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9622,7 +12400,10 @@
     "label": {
       "slug": "cubone",
       "eng": "Cubone"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9633,7 +12414,11 @@
     "label": {
       "slug": "makuhita",
       "eng": "Makuhita"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9644,7 +12429,11 @@
     "label": {
       "slug": "hariyama",
       "eng": "Hariyama"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9655,7 +12444,10 @@
     "label": {
       "slug": "solrock",
       "eng": "Solrock"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -9666,7 +12458,11 @@
     "label": {
       "slug": "drilbur",
       "eng": "Drilbur"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9677,7 +12473,10 @@
     "label": {
       "slug": "timburr",
       "eng": "Timburr"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9688,7 +12487,10 @@
     "label": {
       "slug": "gurdurr",
       "eng": "Gurdurr"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9699,7 +12501,10 @@
     "label": {
       "slug": "conkeldurr",
       "eng": "Conkeldurr"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9710,7 +12515,10 @@
     "label": {
       "slug": "crabrawler",
       "eng": "Crabrawler"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -9721,7 +12529,10 @@
     "label": {
       "slug": "rockruff",
       "eng": "Rockruff"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9732,7 +12543,10 @@
     "label": {
       "slug": "rockruff",
       "eng": "Rockruff"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -9743,7 +12557,10 @@
     "label": {
       "slug": "lycanroc",
       "eng": "Lycanroc"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -9754,7 +12571,10 @@
     "label": {
       "slug": "lycanroc",
       "eng": "Lycanroc"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9765,7 +12585,10 @@
     "label": {
       "slug": "mudbray",
       "eng": "Mudbray"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -9776,7 +12599,10 @@
     "label": {
       "slug": "mudsdale",
       "eng": "Mudsdale"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -9787,7 +12613,10 @@
     "label": {
       "slug": "passimian-ex",
       "eng": "Passimian ex"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9798,7 +12627,10 @@
     "label": {
       "slug": "minior",
       "eng": "Minior"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9809,7 +12641,10 @@
     "label": {
       "slug": "alolan-rattata",
       "eng": "Alolan Rattata"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9820,7 +12655,10 @@
     "label": {
       "slug": "alolan-raticate",
       "eng": "Alolan Raticate"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9831,7 +12669,10 @@
     "label": {
       "slug": "alolan-meowth",
       "eng": "Alolan Meowth"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -9842,7 +12683,10 @@
     "label": {
       "slug": "alolan-persian",
       "eng": "Alolan Persian"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -9853,7 +12697,10 @@
     "label": {
       "slug": "alolan-grimer",
       "eng": "Alolan Grimer"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9864,7 +12711,10 @@
     "label": {
       "slug": "alolan-muk-ex",
       "eng": "Alolan Muk ex"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9875,7 +12725,10 @@
     "label": {
       "slug": "absol",
       "eng": "Absol"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9886,7 +12739,11 @@
     "label": {
       "slug": "trubbish",
       "eng": "Trubbish"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9897,7 +12754,11 @@
     "label": {
       "slug": "garbodor",
       "eng": "Garbodor"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9908,7 +12769,10 @@
     "label": {
       "slug": "mareanie",
       "eng": "Mareanie"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9919,7 +12783,10 @@
     "label": {
       "slug": "toxapex",
       "eng": "Toxapex"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9930,7 +12797,11 @@
     "label": {
       "slug": "alolan-diglett",
       "eng": "Alolan Diglett"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9941,7 +12812,11 @@
     "label": {
       "slug": "alolan-dugtrio",
       "eng": "Alolan Dugtrio"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9952,7 +12827,11 @@
     "label": {
       "slug": "excadrill",
       "eng": "Excadrill"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9963,7 +12842,11 @@
     "label": {
       "slug": "escavalier",
       "eng": "Escavalier"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -9974,7 +12857,10 @@
     "label": {
       "slug": "klefki",
       "eng": "Klefki"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -9985,7 +12871,10 @@
     "label": {
       "slug": "solgaleo-ex",
       "eng": "Solgaleo ex"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -9996,7 +12885,10 @@
     "label": {
       "slug": "magearna",
       "eng": "Magearna"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10007,7 +12899,10 @@
     "label": {
       "slug": "drampa",
       "eng": "Drampa"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10018,7 +12913,10 @@
     "label": {
       "slug": "jangmo-o",
       "eng": "Jangmo-o"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10029,7 +12927,10 @@
     "label": {
       "slug": "hakamo-o",
       "eng": "Hakamo-o"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10040,7 +12941,10 @@
     "label": {
       "slug": "kommo-o",
       "eng": "Kommo-o"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10051,7 +12955,11 @@
     "label": {
       "slug": "tauros",
       "eng": "Tauros"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10062,7 +12970,11 @@
     "label": {
       "slug": "skitty",
       "eng": "Skitty"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10073,7 +12985,11 @@
     "label": {
       "slug": "delcatty",
       "eng": "Delcatty"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10084,7 +13000,10 @@
     "label": {
       "slug": "fletchling",
       "eng": "Fletchling"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10095,7 +13014,10 @@
     "label": {
       "slug": "hawlucha",
       "eng": "Hawlucha"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10106,7 +13028,11 @@
     "label": {
       "slug": "pikipek",
       "eng": "Pikipek"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10117,7 +13043,11 @@
     "label": {
       "slug": "trumbeak",
       "eng": "Trumbeak"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10128,7 +13058,11 @@
     "label": {
       "slug": "toucannon",
       "eng": "Toucannon"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10139,7 +13073,10 @@
     "label": {
       "slug": "yungoos",
       "eng": "Yungoos"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10150,7 +13087,10 @@
     "label": {
       "slug": "gumshoos",
       "eng": "Gumshoos"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10161,7 +13101,10 @@
     "label": {
       "slug": "stufful",
       "eng": "Stufful"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10172,7 +13115,10 @@
     "label": {
       "slug": "bewear",
       "eng": "Bewear"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10183,7 +13129,10 @@
     "label": {
       "slug": "oranguru",
       "eng": "Oranguru"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10194,7 +13143,10 @@
     "label": {
       "slug": "komala",
       "eng": "Komala"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10205,7 +13157,11 @@
     "label": {
       "slug": "big-malasada",
       "eng": "Big Malasada"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10216,7 +13172,10 @@
     "label": {
       "slug": "fishing-net",
       "eng": "Fishing Net"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10227,7 +13186,11 @@
     "label": {
       "slug": "rare-candy",
       "eng": "Rare Candy"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10238,7 +13201,10 @@
     "label": {
       "slug": "rotom-dex",
       "eng": "Rotom Dex"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10249,7 +13215,10 @@
     "label": {
       "slug": "poison-barb",
       "eng": "Poison Barb"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10260,7 +13229,10 @@
     "label": {
       "slug": "leaf-cape",
       "eng": "Leaf Cape"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10271,7 +13243,10 @@
     "label": {
       "slug": "acerola",
       "eng": "Acerola"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10282,7 +13257,10 @@
     "label": {
       "slug": "ilima",
       "eng": "Ilima"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10293,7 +13271,10 @@
     "label": {
       "slug": "kiawe",
       "eng": "Kiawe"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10304,7 +13285,10 @@
     "label": {
       "slug": "guzma",
       "eng": "Guzma"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10315,7 +13299,10 @@
     "label": {
       "slug": "lana",
       "eng": "Lana"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10326,7 +13313,10 @@
     "label": {
       "slug": "sophocles",
       "eng": "Sophocles"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10337,7 +13327,10 @@
     "label": {
       "slug": "mallow",
       "eng": "Mallow"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10348,7 +13341,10 @@
     "label": {
       "slug": "lillie",
       "eng": "Lillie"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10359,7 +13355,10 @@
     "label": {
       "slug": "alolan-exeggutor",
       "eng": "Alolan Exeggutor"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10370,7 +13369,10 @@
     "label": {
       "slug": "morelull",
       "eng": "Morelull"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10381,7 +13383,10 @@
     "label": {
       "slug": "tsareena",
       "eng": "Tsareena"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10392,7 +13397,10 @@
     "label": {
       "slug": "tapu-bulu",
       "eng": "Tapu Bulu"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10403,7 +13411,10 @@
     "label": {
       "slug": "alolan-marowak",
       "eng": "Alolan Marowak"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10414,7 +13425,10 @@
     "label": {
       "slug": "turtonator",
       "eng": "Turtonator"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10425,7 +13439,10 @@
     "label": {
       "slug": "alolan-vulpix",
       "eng": "Alolan Vulpix"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10436,7 +13453,10 @@
     "label": {
       "slug": "pyukumuku",
       "eng": "Pyukumuku"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10447,7 +13467,10 @@
     "label": {
       "slug": "tapu-fini",
       "eng": "Tapu Fini"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10458,7 +13481,10 @@
     "label": {
       "slug": "oricorio",
       "eng": "Oricorio"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10469,7 +13495,10 @@
     "label": {
       "slug": "tapu-koko",
       "eng": "Tapu Koko"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10480,7 +13509,10 @@
     "label": {
       "slug": "cutiefly",
       "eng": "Cutiefly"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10491,7 +13523,10 @@
     "label": {
       "slug": "comfey",
       "eng": "Comfey"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10502,7 +13537,10 @@
     "label": {
       "slug": "sandygast",
       "eng": "Sandygast"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10513,7 +13551,10 @@
     "label": {
       "slug": "tapu-lele",
       "eng": "Tapu Lele"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10524,7 +13565,10 @@
     "label": {
       "slug": "cosmog",
       "eng": "Cosmog"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10535,7 +13579,10 @@
     "label": {
       "slug": "rockruff",
       "eng": "Rockruff"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10546,7 +13593,10 @@
     "label": {
       "slug": "mudsdale",
       "eng": "Mudsdale"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10557,7 +13607,10 @@
     "label": {
       "slug": "minior",
       "eng": "Minior"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10568,7 +13621,10 @@
     "label": {
       "slug": "magearna",
       "eng": "Magearna"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10579,7 +13635,10 @@
     "label": {
       "slug": "drampa",
       "eng": "Drampa"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10590,7 +13649,10 @@
     "label": {
       "slug": "pikipek",
       "eng": "Pikipek"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10601,7 +13663,10 @@
     "label": {
       "slug": "bewear",
       "eng": "Bewear"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10612,7 +13677,10 @@
     "label": {
       "slug": "komala",
       "eng": "Komala"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10623,7 +13691,10 @@
     "label": {
       "slug": "decidueye-ex",
       "eng": "Decidueye ex"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10634,7 +13705,10 @@
     "label": {
       "slug": "dhelmise-ex",
       "eng": "Dhelmise ex"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10645,7 +13719,10 @@
     "label": {
       "slug": "incineroar-ex",
       "eng": "Incineroar ex"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10656,7 +13733,10 @@
     "label": {
       "slug": "crabominable-ex",
       "eng": "Crabominable ex"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10667,7 +13747,10 @@
     "label": {
       "slug": "wishiwashi-ex",
       "eng": "Wishiwashi ex"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10678,7 +13761,10 @@
     "label": {
       "slug": "alolan-raichu-ex",
       "eng": "Alolan Raichu ex"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10689,7 +13775,10 @@
     "label": {
       "slug": "lunala-ex",
       "eng": "Lunala ex"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10700,7 +13789,10 @@
     "label": {
       "slug": "passimian-ex",
       "eng": "Passimian ex"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10711,7 +13803,10 @@
     "label": {
       "slug": "alolan-muk-ex",
       "eng": "Alolan Muk ex"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10722,7 +13817,10 @@
     "label": {
       "slug": "solgaleo-ex",
       "eng": "Solgaleo ex"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10733,7 +13831,10 @@
     "label": {
       "slug": "acerola",
       "eng": "Acerola"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10744,7 +13845,10 @@
     "label": {
       "slug": "ilima",
       "eng": "Ilima"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10755,7 +13859,10 @@
     "label": {
       "slug": "kiawe",
       "eng": "Kiawe"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10766,7 +13873,10 @@
     "label": {
       "slug": "guzma",
       "eng": "Guzma"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10777,7 +13887,10 @@
     "label": {
       "slug": "lana",
       "eng": "Lana"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10788,7 +13901,10 @@
     "label": {
       "slug": "sophocles",
       "eng": "Sophocles"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10799,7 +13915,10 @@
     "label": {
       "slug": "mallow",
       "eng": "Mallow"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10810,7 +13929,10 @@
     "label": {
       "slug": "lillie",
       "eng": "Lillie"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10821,7 +13943,10 @@
     "label": {
       "slug": "decidueye-ex",
       "eng": "Decidueye ex"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10832,7 +13957,10 @@
     "label": {
       "slug": "dhelmise-ex",
       "eng": "Dhelmise ex"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10843,7 +13971,10 @@
     "label": {
       "slug": "incineroar-ex",
       "eng": "Incineroar ex"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10854,7 +13985,10 @@
     "label": {
       "slug": "crabominable-ex",
       "eng": "Crabominable ex"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10865,7 +13999,10 @@
     "label": {
       "slug": "wishiwashi-ex",
       "eng": "Wishiwashi ex"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10876,7 +14013,10 @@
     "label": {
       "slug": "alolan-raichu-ex",
       "eng": "Alolan Raichu ex"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10887,7 +14027,10 @@
     "label": {
       "slug": "lunala-ex",
       "eng": "Lunala ex"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10898,7 +14041,10 @@
     "label": {
       "slug": "passimian-ex",
       "eng": "Passimian ex"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10909,7 +14055,10 @@
     "label": {
       "slug": "alolan-muk-ex",
       "eng": "Alolan Muk ex"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10920,7 +14069,10 @@
     "label": {
       "slug": "solgaleo-ex",
       "eng": "Solgaleo ex"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10931,7 +14083,10 @@
     "label": {
       "slug": "guzma",
       "eng": "Guzma"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10942,7 +14097,10 @@
     "label": {
       "slug": "lillie",
       "eng": "Lillie"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10953,7 +14111,10 @@
     "label": {
       "slug": "bulbasaur",
       "eng": "Bulbasaur"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10964,7 +14125,10 @@
     "label": {
       "slug": "ivysaur",
       "eng": "Ivysaur"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10975,7 +14139,10 @@
     "label": {
       "slug": "venusaur",
       "eng": "Venusaur"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -10986,7 +14153,10 @@
     "label": {
       "slug": "exeggcute",
       "eng": "Exeggcute"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -10997,7 +14167,10 @@
     "label": {
       "slug": "exeggutor",
       "eng": "Exeggutor"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -11008,7 +14181,10 @@
     "label": {
       "slug": "squirtle",
       "eng": "Squirtle"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -11019,7 +14195,10 @@
     "label": {
       "slug": "wartortle",
       "eng": "Wartortle"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -11030,7 +14209,10 @@
     "label": {
       "slug": "blastoise",
       "eng": "Blastoise"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -11041,7 +14223,10 @@
     "label": {
       "slug": "staryu",
       "eng": "Staryu"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -11052,7 +14237,10 @@
     "label": {
       "slug": "starmie",
       "eng": "Starmie"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -11063,7 +14251,10 @@
     "label": {
       "slug": "gastly",
       "eng": "Gastly"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -11074,7 +14265,10 @@
     "label": {
       "slug": "haunter",
       "eng": "Haunter"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -11085,7 +14279,10 @@
     "label": {
       "slug": "gengar",
       "eng": "Gengar"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -11096,7 +14293,10 @@
     "label": {
       "slug": "machop",
       "eng": "Machop"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -11107,7 +14307,10 @@
     "label": {
       "slug": "machoke",
       "eng": "Machoke"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -11118,7 +14321,10 @@
     "label": {
       "slug": "machamp",
       "eng": "Machamp"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -11129,7 +14335,10 @@
     "label": {
       "slug": "cubone",
       "eng": "Cubone"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -11140,7 +14349,10 @@
     "label": {
       "slug": "marowak",
       "eng": "Marowak"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -11151,7 +14363,10 @@
     "label": {
       "slug": "jigglypuff",
       "eng": "Jigglypuff"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -11162,7 +14377,10 @@
     "label": {
       "slug": "wigglytuff",
       "eng": "Wigglytuff"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -11173,7 +14391,10 @@
     "label": {
       "slug": "venusaur-ex",
       "eng": "Venusaur ex"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -11184,7 +14405,10 @@
     "label": {
       "slug": "exeggutor-ex",
       "eng": "Exeggutor ex"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -11195,7 +14419,10 @@
     "label": {
       "slug": "blastoise-ex",
       "eng": "Blastoise ex"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -11206,7 +14433,10 @@
     "label": {
       "slug": "starmie-ex",
       "eng": "Starmie ex"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -11217,7 +14447,10 @@
     "label": {
       "slug": "gengar-ex",
       "eng": "Gengar ex"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -11228,7 +14461,10 @@
     "label": {
       "slug": "machamp-ex",
       "eng": "Machamp ex"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -11239,7 +14475,10 @@
     "label": {
       "slug": "marowak-ex",
       "eng": "Marowak ex"
-    }
+    },
+    "packs": [
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -11250,7 +14489,10 @@
     "label": {
       "slug": "wigglytuff-ex",
       "eng": "Wigglytuff ex"
-    }
+    },
+    "packs": [
+      "Solgaleo"
+    ]
   },
   {
     "set": "A3",
@@ -11261,7 +14503,11 @@
     "label": {
       "slug": "lunala-ex",
       "eng": "Lunala ex"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "A3",
@@ -11272,7 +14518,11 @@
     "label": {
       "slug": "solgaleo-ex",
       "eng": "Solgaleo ex"
-    }
+    },
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
   },
   {
     "set": "PROMO-A",

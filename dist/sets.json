@@ -5,7 +5,8 @@
     "count": 286,
     "label": {
       "en": "Genetic Apex"
-    }
+    },
+    "packs": ["Charizard", "Mewtwo", "Pikachu"]
   },
   {
     "code": "A1A",
@@ -13,7 +14,8 @@
     "count": 85,
     "label": {
       "en": "Mythical Island"
-    }
+    },
+    "packs": ["Mew"]
   },
   {
     "code": "A2",
@@ -21,7 +23,8 @@
     "count": 207,
     "label": {
       "en": "Space-Time Smackdown"
-    }
+    },
+    "packs": ["Dialga", "Palkia"]
   },
   {
     "code": "A2A",
@@ -29,7 +32,8 @@
     "count": 96,
     "label": {
       "en": "Triumphant Light"
-    }
+    },
+    "packs": ["Arceus"]
   },
   {
     "code": "A2B",
@@ -37,7 +41,8 @@
     "count": 111,
     "label": {
       "en": "Shining Revelry"
-    }
+    },
+    "packs": ["Shining"]
   },
   {
     "code": "A3",
@@ -45,13 +50,24 @@
     "count": 239,
     "label": {
       "en": "Celestial Guardians"
-    }
+    },
+    "packs": ["Lunala", "Solgaleo"]
   },
   {
     "code": "PROMO-A",
     "releaseDate": "2024-10-30",
     "label": {
       "en": "Promo A"
-    }
+    },
+    "packs": [
+      "Vol. 1",
+      "Vol. 2",
+      "Vol. 3",
+      "Vol. 4",
+      "Vol. 5",
+      "Vol. 6",
+      "Vol. 7",
+      "Vol. 8"
+    ]
   }
 ]

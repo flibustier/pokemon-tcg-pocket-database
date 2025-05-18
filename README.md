@@ -36,8 +36,9 @@ https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/refs/ta
 You can import the database into your project using the following code:
 
 ```js
-import cards from "pokemon-tcg-pocket-database/dist/cards.json";
 import sets from "pokemon-tcg-pocket-database/dist/sets.json";
+import cards from "pokemon-tcg-pocket-database/dist/cards.json";
+import rarity from "pokemon-tcg-pocket-database/dist/rarity.json";
 ```
 
 ### Accessing the Data
@@ -50,8 +51,9 @@ The `cards.json` file contains an array of card objects, each with the following
 - `rarityCode`: The rarity code of the card.
 - `imageName`: The name of the card image file.
 - `label`: An object containing the slug and English name of the card.
+- `packs`: An array of packs where the card can be found.
 
-Rarity codes are as follows:
+Rarity codes are as follows (use `rarity.json` for this mapping):
 
 - C: "Common",
 - U: "Uncommon",
@@ -62,12 +64,6 @@ Rarity codes are as follows:
 - SAR: "Special Art Rare",
 - IM: "Immersive Rare",
 - UR: "Crown Rare",
-
-> You can import the rarity codes mapping using :
-
-```js
-import rarity from "pokemon-tcg-pocket-database/dist/rarity.json";
-```
 
 ### Example
 
@@ -83,7 +79,8 @@ Here is an example of a card object (`cards.json`):
   "label": {
     "slug": "bulbasaur",
     "eng": "Bulbasaur"
-  }
+  },
+  "packs": ["Mewtwo"]
 }
 ```
 
@@ -96,7 +93,8 @@ Here is an example of a set object (`sets.json`):
   "count": 239,
   "label": {
     "en": "Celestial Guardians"
-  }
+  },
+  "packs": ["Lunala", "Solgaleo"]
 }
 ```
 
