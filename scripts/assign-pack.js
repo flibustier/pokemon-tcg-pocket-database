@@ -41,7 +41,9 @@ $(".card-grid__cell").each((index, element) => {
   const cardData = cards.find((card) => card.set === hrefParts[1].toUpperCase() && card.number === parseInt(hrefParts[2]));
 
   if (cardData) {
-    if (!cardData.packs.includes(packName)) {
+    if (!cardData.packs) {
+        cardData.packs = [packName];
+    } else if (!cardData.packs.includes(packName)) {
         cardData.packs.push(packName);
     } 
   } else {
