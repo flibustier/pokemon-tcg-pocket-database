@@ -54,6 +54,15 @@
     "packs": ["Lunala", "Solgaleo"]
   },
   {
+    "code": "A3A",
+    "releaseDate": "2025-05-29",
+    "count": 103,
+    "label": {
+      "en": "Extradimensional Crisis"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
     "code": "PROMO-A",
     "releaseDate": "2024-10-30",
     "label": {

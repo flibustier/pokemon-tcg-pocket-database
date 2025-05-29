@@ -12299,6 +12299,1242 @@
     "packs": ["Solgaleo", "Lunala"]
   },
   {
+    "set": "A3A",
+    "number": 1,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_007430_00_CHURINE_C.webp",
+    "label": {
+      "slug": "petilil",
+      "eng": "Petilil"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 2,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_007440_00_DREDEAR_C.webp",
+    "label": {
+      "slug": "lilligant",
+      "eng": "Lilligant"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 3,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_007450_00_MOKUROH_C.webp",
+    "label": {
+      "slug": "rowlet",
+      "eng": "Rowlet"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 4,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_007460_00_FUKUTHROW_U.webp",
+    "label": {
+      "slug": "dartrix",
+      "eng": "Dartrix"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 5,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_007470_00_JUNAIPER_R.webp",
+    "label": {
+      "slug": "decidueye",
+      "eng": "Decidueye"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 6,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_007480_00_MASSIVOONex_RR.webp",
+    "label": {
+      "slug": "buzzwole-ex",
+      "eng": "Buzzwole ex"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 7,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_007490_00_PHEROACHE_U.webp",
+    "label": {
+      "slug": "pheromosa",
+      "eng": "Pheromosa"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 8,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_007250_00_KAMITURUGI_C.webp",
+    "label": {
+      "slug": "kartana",
+      "eng": "Kartana"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 9,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_007260_00_ZUGADOON_U.webp",
+    "label": {
+      "slug": "blacephalon",
+      "eng": "Blacephalon"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 10,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_007500_00_MANTAIN_C.webp",
+    "label": {
+      "slug": "mantine",
+      "eng": "Mantine"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 11,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_007510_00_KIBANHA_C.webp",
+    "label": {
+      "slug": "carvanha",
+      "eng": "Carvanha"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 12,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_007520_00_SAMEHADER_U.webp",
+    "label": {
+      "slug": "sharpedo",
+      "eng": "Sharpedo"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 13,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_007530_00_KOLINK_C.webp",
+    "label": {
+      "slug": "shinx",
+      "eng": "Shinx"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 14,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_007540_00_LUXIO_C.webp",
+    "label": {
+      "slug": "luxio",
+      "eng": "Luxio"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 15,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_007550_00_RENTORAR_R.webp",
+    "label": {
+      "slug": "luxray",
+      "eng": "Luxray"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 16,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_007560_00_SHIMAMA_C.webp",
+    "label": {
+      "slug": "blitzle",
+      "eng": "Blitzle"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 17,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_007570_00_ZEBRAIKA_C.webp",
+    "label": {
+      "slug": "zebstrika",
+      "eng": "Zebstrika"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 18,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_007580_00_EMOLGA_C.webp",
+    "label": {
+      "slug": "emolga",
+      "eng": "Emolga"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 19,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_007420_00_KAPU-KOKEKOex_RR.webp",
+    "label": {
+      "slug": "tapu-koko-ex",
+      "eng": "Tapu Koko ex"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 20,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_007270_00_DENJYUMOKU_U.webp",
+    "label": {
+      "slug": "xurkitree",
+      "eng": "Xurkitree"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 21,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_007410_00_ZERAORA_R.webp",
+    "label": {
+      "slug": "zeraora",
+      "eng": "Zeraora"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 22,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_007590_00_PIPPI_C.webp",
+    "label": {
+      "slug": "clefairy",
+      "eng": "Clefairy"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 23,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_007600_00_PIXY_U.webp",
+    "label": {
+      "slug": "clefable",
+      "eng": "Clefable"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 24,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_007610_00_BOKUREI_C.webp",
+    "label": {
+      "slug": "phantump",
+      "eng": "Phantump"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 25,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_007620_00_OHROT_C.webp",
+    "label": {
+      "slug": "trevenant",
+      "eng": "Trevenant"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 26,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_007630_00_NEMASYU_C.webp",
+    "label": {
+      "slug": "morelull",
+      "eng": "Morelull"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 27,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_007640_00_MASHADE_R.webp",
+    "label": {
+      "slug": "shiinotic",
+      "eng": "Shiinotic"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 28,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_007650_00_ASANAN_C.webp",
+    "label": {
+      "slug": "meditite",
+      "eng": "Meditite"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 29,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_007660_00_CHAREM_U.webp",
+    "label": {
+      "slug": "medicham",
+      "eng": "Medicham"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 30,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_007670_00_YAJILON_C.webp",
+    "label": {
+      "slug": "baltoy",
+      "eng": "Baltoy"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 31,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_007680_00_NENDOLL_U.webp",
+    "label": {
+      "slug": "claydol",
+      "eng": "Claydol"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 32,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_007690_00_IWANKO_C.webp",
+    "label": {
+      "slug": "rockruff",
+      "eng": "Rockruff"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 33,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_007700_00_LUGARUGANTASOGARENOSUGATA_RR.webp",
+    "label": {
+      "slug": "lycanroc-ex",
+      "eng": "Lycanroc ex"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 34,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_007710_00_NAGETUKESARU_C.webp",
+    "label": {
+      "slug": "passimian",
+      "eng": "Passimian"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 35,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_007720_00_SUNABA_C.webp",
+    "label": {
+      "slug": "sandygast",
+      "eng": "Sandygast"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 36,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_007730_00_SIRODETHNA_U.webp",
+    "label": {
+      "slug": "palossand",
+      "eng": "Palossand"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 37,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_007740_00_ALOLANYARTH_C.webp",
+    "label": {
+      "slug": "alolan-meowth",
+      "eng": "Alolan Meowth"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 38,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_007750_00_ALOLAPERSIAN_U.webp",
+    "label": {
+      "slug": "alolan-persian",
+      "eng": "Alolan Persian"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 39,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_007760_00_MEGUROCO_C.webp",
+    "label": {
+      "slug": "sandile",
+      "eng": "Sandile"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 40,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_007770_00_WARUVILE_C.webp",
+    "label": {
+      "slug": "krokorok",
+      "eng": "Krokorok"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 41,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_007780_00_WARUVIAL_U.webp",
+    "label": {
+      "slug": "krookodile",
+      "eng": "Krookodile"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 42,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_007790_00_UTUROID_R.webp",
+    "label": {
+      "slug": "nihilego",
+      "eng": "Nihilego"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 43,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_007800_00_AKUZIKINGex_RR.webp",
+    "label": {
+      "slug": "guzzlord-ex",
+      "eng": "Guzzlord ex"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 44,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_007370_00_BEVENOM_C.webp",
+    "label": {
+      "slug": "poipole",
+      "eng": "Poipole"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 45,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_007810_00_AGOYON_R.webp",
+    "label": {
+      "slug": "naganadel",
+      "eng": "Naganadel"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 46,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_007820_00_ALOLADIGDA_C.webp",
+    "label": {
+      "slug": "alolan-diglett",
+      "eng": "Alolan Diglett"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 47,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_007830_00_ALOLADUGTRIOex_RR.webp",
+    "label": {
+      "slug": "alolan-dugtrio-ex",
+      "eng": "Alolan Dugtrio ex"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 48,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_007840_00_COKODORA_C.webp",
+    "label": {
+      "slug": "aron",
+      "eng": "Aron"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 49,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_007850_00_KODORA_C.webp",
+    "label": {
+      "slug": "lairon",
+      "eng": "Lairon"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 50,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_007860_00_BOSSGODORA_U.webp",
+    "label": {
+      "slug": "aggron",
+      "eng": "Aggron"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 51,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_007870_00_TESSEED_C.webp",
+    "label": {
+      "slug": "ferroseed",
+      "eng": "Ferroseed"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 52,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_007880_00_NUTREY_U.webp",
+    "label": {
+      "slug": "ferrothorn",
+      "eng": "Ferrothorn"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 53,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_007300_00_TUNDETUNDE_U.webp",
+    "label": {
+      "slug": "stakataka",
+      "eng": "Stakataka"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 54,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_007890_00_YORTERRIE_C.webp",
+    "label": {
+      "slug": "lillipup",
+      "eng": "Lillipup"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 55,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_007900_00_HERDERRIE_C.webp",
+    "label": {
+      "slug": "herdier",
+      "eng": "Herdier"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 56,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_007910_00_MOOLAND_U.webp",
+    "label": {
+      "slug": "stoutland",
+      "eng": "Stoutland"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 57,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_007380_00_NUIKOGUMA_C.webp",
+    "label": {
+      "slug": "stufful",
+      "eng": "Stufful"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 58,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_007920_00_KITERUGUMA_U.webp",
+    "label": {
+      "slug": "bewear",
+      "eng": "Bewear"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 59,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_007930_00_YAREYUUTAN_C.webp",
+    "label": {
+      "slug": "oranguru",
+      "eng": "Oranguru"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 60,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_007940_00_TYPENULL_U.webp",
+    "label": {
+      "slug": "type-null",
+      "eng": "Type: Null"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 61,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_007950_00_SILVADY_R.webp",
+    "label": {
+      "slug": "silvally",
+      "eng": "Silvally"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 62,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_007960_00_TEKKAGUYA_R.webp",
+    "label": {
+      "slug": "celesteela",
+      "eng": "Celesteela"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 63,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_000600_00_BISUTOWORU_U.webp",
+    "label": {
+      "slug": "beast-wall",
+      "eng": "Beast Wall"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 64,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_000610_00_MUSHIYOKESUPUREI_U.webp",
+    "label": {
+      "slug": "repel",
+      "eng": "Repel"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 65,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_000620_00_EREKIKORD_U.webp",
+    "label": {
+      "slug": "electrical-cord",
+      "eng": "Electrical Cord"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 66,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_000630_00_BISUTONAITO_U.webp",
+    "label": {
+      "slug": "beastite",
+      "eng": "Beastite"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 67,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_000640_00_GLAZIO_U.webp",
+    "label": {
+      "slug": "gladion",
+      "eng": "Gladion"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 68,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_000650_00_HANDSOME_U.webp",
+    "label": {
+      "slug": "looker",
+      "eng": "Looker"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 69,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_000660_00_LUSAMINE_U.webp",
+    "label": {
+      "slug": "lusamine",
+      "eng": "Lusamine"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 70,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_007450_00_MOKUROH_AR.webp",
+    "label": {
+      "slug": "rowlet",
+      "eng": "Rowlet"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 71,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_007490_00_PHEROACHE_AR.webp",
+    "label": {
+      "slug": "pheromosa",
+      "eng": "Pheromosa"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 72,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_007260_00_ZUGADOON_AR.webp",
+    "label": {
+      "slug": "blacephalon",
+      "eng": "Blacephalon"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 73,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_007740_00_ALOLANYARTH_AR.webp",
+    "label": {
+      "slug": "alolan-meowth",
+      "eng": "Alolan Meowth"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 74,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_007950_00_SILVADY_AR.webp",
+    "label": {
+      "slug": "silvally",
+      "eng": "Silvally"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 75,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_007960_00_TEKKAGUYA_AR.webp",
+    "label": {
+      "slug": "celesteela",
+      "eng": "Celesteela"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 76,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_007480_00_MASSIVOONex_SR.webp",
+    "label": {
+      "slug": "buzzwole-ex",
+      "eng": "Buzzwole ex"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 77,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_007420_00_KAPU-KOKEKOex_SR.webp",
+    "label": {
+      "slug": "tapu-koko-ex",
+      "eng": "Tapu Koko ex"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 78,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_007700_00_LUGARUGANex_SR.webp",
+    "label": {
+      "slug": "lycanroc-ex",
+      "eng": "Lycanroc ex"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 79,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_007800_00_AKUZIKINGex_SR.webp",
+    "label": {
+      "slug": "guzzlord-ex",
+      "eng": "Guzzlord ex"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 80,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_007830_00_ALOLADUGTRIOex_SR.webp",
+    "label": {
+      "slug": "alolan-dugtrio-ex",
+      "eng": "Alolan Dugtrio ex"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 81,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cTR_20_000640_00_GLAZIO_SR.webp",
+    "label": {
+      "slug": "gladion",
+      "eng": "Gladion"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 82,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cTR_20_000650_00_HANDSOME_SR.webp",
+    "label": {
+      "slug": "looker",
+      "eng": "Looker"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 83,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cTR_20_000660_00_LUSAMINE_SR.webp",
+    "label": {
+      "slug": "lusamine",
+      "eng": "Lusamine"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 84,
+    "rarity": "Special Art Rare",
+    "rarityCode": "SAR",
+    "imageName": "cPK_20_007420_01_KAPU-KOKEKOex_SAR.webp",
+    "label": {
+      "slug": "tapu-koko-ex",
+      "eng": "Tapu Koko ex"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 85,
+    "rarity": "Special Art Rare",
+    "rarityCode": "SAR",
+    "imageName": "cPK_20_007700_01_LUGARUGANex_SAR.webp",
+    "label": {
+      "slug": "lycanroc-ex",
+      "eng": "Lycanroc ex"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 86,
+    "rarity": "Special Art Rare",
+    "rarityCode": "SAR",
+    "imageName": "cPK_20_007800_01_AKUZIKINGex_SAR.webp",
+    "label": {
+      "slug": "guzzlord-ex",
+      "eng": "Guzzlord ex"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 87,
+    "rarity": "Special Art Rare",
+    "rarityCode": "SAR",
+    "imageName": "cPK_20_007830_01_ALOLADUGTRIOex_SAR.webp",
+    "label": {
+      "slug": "alolan-dugtrio-ex",
+      "eng": "Alolan Dugtrio ex"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 88,
+    "rarity": "Immersive Rare",
+    "rarityCode": "IM",
+    "imageName": "cPK_20_007480_01_MASSIVOONex_IM.webp",
+    "label": {
+      "slug": "buzzwole-ex",
+      "eng": "Buzzwole ex"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 89,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_000390_00_GARDIE_S.webp",
+    "label": {
+      "slug": "growlithe",
+      "eng": "Growlithe"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 90,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_000400_00_WINDIE_S.webp",
+    "label": {
+      "slug": "arcanine",
+      "eng": "Arcanine"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 91,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_000870_00_KEROMATSU_S.webp",
+    "label": {
+      "slug": "froakie",
+      "eng": "Froakie"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 92,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_000880_00_GEKOGASHIRA_S.webp",
+    "label": {
+      "slug": "frogadier",
+      "eng": "Frogadier"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 93,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_000890_00_GEKKOUGA_S.webp",
+    "label": {
+      "slug": "greninja",
+      "eng": "Greninja"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 94,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_001270_00_ROUGELA_S.webp",
+    "label": {
+      "slug": "jynx",
+      "eng": "Jynx"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 95,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_001860_00_POPPO_S.webp",
+    "label": {
+      "slug": "pidgey",
+      "eng": "Pidgey"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 96,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_001870_00_PIGEON_S.webp",
+    "label": {
+      "slug": "pidgeotto",
+      "eng": "Pidgeotto"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 97,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_001880_01_PIGEOT_S.webp",
+    "label": {
+      "slug": "pidgeot",
+      "eng": "Pidgeot"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 98,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_002080_00_PTERA_S.webp",
+    "label": {
+      "slug": "aerodactyl",
+      "eng": "Aerodactyl"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 99,
+    "rarity": "Shiny Super Rare",
+    "rarityCode": "SSR",
+    "imageName": "cPK_20_002170_02_CELEBIex_SSR.webp",
+    "label": {
+      "slug": "celebi-ex",
+      "eng": "Celebi ex"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 100,
+    "rarity": "Shiny Super Rare",
+    "rarityCode": "SSR",
+    "imageName": "cPK_20_000410_01_WINDIEex_SSR.webp",
+    "label": {
+      "slug": "arcanine-ex",
+      "eng": "Arcanine ex"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 101,
+    "rarity": "Shiny Super Rare",
+    "rarityCode": "SSR",
+    "imageName": "cPK_20_002590_02_PTERAex_SSR.webp",
+    "label": {
+      "slug": "aerodactyl-ex",
+      "eng": "Aerodactyl ex"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 102,
+    "rarity": "Shiny Super Rare",
+    "rarityCode": "SSR",
+    "imageName": "cPK_20_002720_01_PIGEOTex_SSR.webp",
+    "label": {
+      "slug": "pidgeot-ex",
+      "eng": "Pidgeot ex"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
+    "set": "A3A",
+    "number": 103,
+    "rarity": "Crown Rare",
+    "rarityCode": "UR",
+    "imageName": "cPK_20_007790_00_UTUROID_UR.webp",
+    "label": {
+      "slug": "nihilego",
+      "eng": "Nihilego"
+    },
+    "packs": ["Extradimensional"]
+  },
+  {
     "set": "PROMO-A",
     "number": 1,
     "rarity": "Common",
