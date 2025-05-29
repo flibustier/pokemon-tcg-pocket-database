@@ -14376,5 +14376,122 @@
       "eng": "Toucannon"
     },
     "packs": ["Vol. 8"]
+  },
+  {
+    "set": "PROMO-A",
+    "number": 74,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_90_007410_00_ZERAORA_AR.webp",
+    "label": {
+      "slug": "zeraora",
+      "eng": "Zeraora"
+    }
+  },
+  {
+    "set": "PROMO-A",
+    "number": 75,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_90_007250_00_KAMITURUGI_C.webp",
+    "label": {
+      "slug": "kartana",
+      "eng": "Kartana"
+    },
+    "packs": ["Vol. 9"]
+  },
+  {
+    "set": "PROMO-A",
+    "number": 76,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_90_007260_00_ZUGADOON_C.webp",
+    "label": {
+      "slug": "blacephalon",
+      "eng": "Blacephalon"
+    },
+    "packs": ["Vol. 9"]
+  },
+  {
+    "set": "PROMO-A",
+    "number": 77,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_90_007270_00_DENJYUMOKU_C.webp",
+    "label": {
+      "slug": "xurkitree",
+      "eng": "Xurkitree"
+    },
+    "packs": ["Vol. 9"]
+  },
+  {
+    "set": "PROMO-A",
+    "number": 78,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_90_007280_00_NECROZMAAKATSUKINOTSUBASA_R.webp",
+    "label": {
+      "slug": "dawn-wings-necrozma",
+      "eng": "Dawn Wings Necrozma"
+    },
+    "packs": ["Vol. 9"]
+  },
+  {
+    "set": "PROMO-A",
+    "number": 79,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_90_007290_00_NECROZMATASOGARENOTATEGAMI_R.webp",
+    "label": {
+      "slug": "dusk-mane-necrozma",
+      "eng": "Dusk Mane Necrozma"
+    },
+    "packs": ["Vol. 9"]
+  },
+  {
+    "set": "PROMO-A",
+    "number": 80,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_90_007300_00_TUNDETUNDE_C.webp",
+    "label": {
+      "slug": "stakataka",
+      "eng": "Stakataka"
+    },
+    "packs": ["Vol. 9"]
+  },
+  {
+    "set": "PROMO-A",
+    "number": 81,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_90_007310_00_NECROZMAULTRANECROZMAex_RR.webp",
+    "label": {
+      "slug": "ultra-necrozma-ex",
+      "eng": "Ultra Necrozma ex"
+    },
+    "packs": ["Vol. 9"]
+  },
+  {
+    "set": "PROMO-A",
+    "number": 82,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_90_007370_00_BEVENOM_R.webp",
+    "label": {
+      "slug": "poipole",
+      "eng": "Poipole"
+    }
+  },
+  {
+    "set": "PROMO-A",
+    "number": 83,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_90_007380_00_NUIKOGUMA_R.webp",
+    "label": {
+      "slug": "stufful",
+      "eng": "Stufful"
+    }
   }
 ]
