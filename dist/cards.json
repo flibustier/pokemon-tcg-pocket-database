@@ -14493,5 +14493,1289 @@
       "slug": "stufful",
       "eng": "Stufful"
     }
+  },
+  {
+    "set": "A3B",
+    "number": 1,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_007970_00_TROPIUS_U.webp",
+    "label": {
+      "slug": "tropius",
+      "eng": "Tropius"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 2,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_007980_00_LEAFIA_R.webp",
+    "label": {
+      "slug": "leafeon",
+      "eng": "Leafeon"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 3,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_007990_00_AMAKAJI_C.webp",
+    "label": {
+      "slug": "bounsweet",
+      "eng": "Bounsweet"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 4,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008000_00_AMAMAIKO_C.webp",
+    "label": {
+      "slug": "steenee",
+      "eng": "Steenee"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 5,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_008010_00_AMAJO_U.webp",
+    "label": {
+      "slug": "tsareena",
+      "eng": "Tsareena"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 6,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008020_00_KAJICCHU_C.webp",
+    "label": {
+      "slug": "applin",
+      "eng": "Applin"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 7,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_008030_00_TARUPPLE_U.webp",
+    "label": {
+      "slug": "appletun",
+      "eng": "Appletun"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 8,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_008040_00_BOOSTER_R.webp",
+    "label": {
+      "slug": "flareon",
+      "eng": "Flareon"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 9,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_008050_00_BOOSTERex_RR.webp",
+    "label": {
+      "slug": "flareon-ex",
+      "eng": "Flareon ex"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 10,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008060_00_COTOISE_C.webp",
+    "label": {
+      "slug": "torkoal",
+      "eng": "Torkoal"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 11,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008070_00_NYABBY_C.webp",
+    "label": {
+      "slug": "litten",
+      "eng": "Litten"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 12,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008080_00_NYAHEAT_C.webp",
+    "label": {
+      "slug": "torracat",
+      "eng": "Torracat"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 13,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_008090_00_GAOGAEN_U.webp",
+    "label": {
+      "slug": "incineroar",
+      "eng": "Incineroar"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 14,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008100_00_YATOUMORI_C.webp",
+    "label": {
+      "slug": "salandit",
+      "eng": "Salandit"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 15,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_008110_00_ENNEWT_U.webp",
+    "label": {
+      "slug": "salazzle",
+      "eng": "Salazzle"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 16,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_008120_00_SHOWERS_R.webp",
+    "label": {
+      "slug": "vaporeon",
+      "eng": "Vaporeon"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 17,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_008130_00_GLACIA_R.webp",
+    "label": {
+      "slug": "glaceon",
+      "eng": "Glaceon"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 18,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_007320_00_VANIPETI_C.webp",
+    "label": {
+      "slug": "vanillite",
+      "eng": "Vanillite"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 19,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008140_00_VANIRICH_C.webp",
+    "label": {
+      "slug": "vanillish",
+      "eng": "Vanillish"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 20,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_008150_00_BAIVANILLA_U.webp",
+    "label": {
+      "slug": "vanilluxe",
+      "eng": "Vanilluxe"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 21,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008160_00_MAMANBOU_C.webp",
+    "label": {
+      "slug": "alomomola",
+      "eng": "Alomomola"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 22,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008170_00_ASHIMARI_C.webp",
+    "label": {
+      "slug": "popplio",
+      "eng": "Popplio"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 23,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008180_00_OSYAMARI_C.webp",
+    "label": {
+      "slug": "brionne",
+      "eng": "Brionne"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 24,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_008190_00_ASHIRENEex_RR.webp",
+    "label": {
+      "slug": "primarina-ex",
+      "eng": "Primarina ex"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 25,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_007330_00_THUNDERS_R.webp",
+    "label": {
+      "slug": "jolteon",
+      "eng": "Jolteon"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 26,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008200_00_BACHURU_C.webp",
+    "label": {
+      "slug": "joltik",
+      "eng": "Joltik"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 27,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_008210_00_DENTULA_U.webp",
+    "label": {
+      "slug": "galvantula",
+      "eng": "Galvantula"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 28,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_008220_00_EIFIE_R.webp",
+    "label": {
+      "slug": "espeon",
+      "eng": "Espeon"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 29,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008230_00_KOROMORI_C.webp",
+    "label": {
+      "slug": "woobat",
+      "eng": "Woobat"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 30,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_008240_00_KOKOROMORI_U.webp",
+    "label": {
+      "slug": "swoobat",
+      "eng": "Swoobat"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 31,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008250_00_PEROPPAFU_C.webp",
+    "label": {
+      "slug": "swirlix",
+      "eng": "Swirlix"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 32,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_008260_00_PEROREAM_U.webp",
+    "label": {
+      "slug": "slurpuff",
+      "eng": "Slurpuff"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 33,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_008270_00_NYMPHIA_R.webp",
+    "label": {
+      "slug": "sylveon",
+      "eng": "Sylveon"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 34,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_008280_00_NYMPHIAex_RR.webp",
+    "label": {
+      "slug": "sylveon-ex",
+      "eng": "Sylveon ex"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 35,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_008290_00_MIMIKKYU_U.webp",
+    "label": {
+      "slug": "mimikyu",
+      "eng": "Mimikyu"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 36,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008300_00_MAHOMIL_C.webp",
+    "label": {
+      "slug": "milcery",
+      "eng": "Milcery"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 37,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_007340_00_MAWHIP_U.webp",
+    "label": {
+      "slug": "alcremie",
+      "eng": "Alcremie"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 38,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008310_00_DOJOACH_C.webp",
+    "label": {
+      "slug": "barboach",
+      "eng": "Barboach"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 39,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_008320_00_NAMAZUN_U.webp",
+    "label": {
+      "slug": "whiscash",
+      "eng": "Whiscash"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 40,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008330_00_KOJOFU_C.webp",
+    "label": {
+      "slug": "mienfoo",
+      "eng": "Mienfoo"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 41,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_008340_00_KOJONDO_U.webp",
+    "label": {
+      "slug": "mienshao",
+      "eng": "Mienshao"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 42,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008350_00_MELECIE_C.webp",
+    "label": {
+      "slug": "carbink",
+      "eng": "Carbink"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 43,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_008360_00_BRACKY_R.webp",
+    "label": {
+      "slug": "umbreon",
+      "eng": "Umbreon"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 44,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008370_00_YAMIRAMI_C.webp",
+    "label": {
+      "slug": "sableye",
+      "eng": "Sableye"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 45,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008380_00_CHORONEKO_C.webp",
+    "label": {
+      "slug": "purrloin",
+      "eng": "Purrloin"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 46,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_008390_00_LEPARDAS_U.webp",
+    "label": {
+      "slug": "liepard",
+      "eng": "Liepard"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 47,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008400_00_KUCHEAT_C.webp",
+    "label": {
+      "slug": "mawile",
+      "eng": "Mawile"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 48,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_007390_00_TOGEDEMARU_C.webp",
+    "label": {
+      "slug": "togedemaru",
+      "eng": "Togedemaru"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 49,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008410_00_MELTAN_C.webp",
+    "label": {
+      "slug": "meltan",
+      "eng": "Meltan"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 50,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_008420_00_MELMETAL_U.webp",
+    "label": {
+      "slug": "melmetal",
+      "eng": "Melmetal"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 51,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008430_00_MINIRYU_C.webp",
+    "label": {
+      "slug": "dratini",
+      "eng": "Dratini"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 52,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008440_00_HAKURYU_C.webp",
+    "label": {
+      "slug": "dragonair",
+      "eng": "Dragonair"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 53,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_008450_00_KAIRYUex_RR.webp",
+    "label": {
+      "slug": "dragonite-ex",
+      "eng": "Dragonite ex"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 54,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_008460_00_JIJILONG_U.webp",
+    "label": {
+      "slug": "drampa",
+      "eng": "Drampa"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 55,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008470_00_EIEVUI_C.webp",
+    "label": {
+      "slug": "eevee",
+      "eng": "Eevee"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 56,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_008480_00_EIEVUIex_RR.webp",
+    "label": {
+      "slug": "eevee-ex",
+      "eng": "Eevee ex"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 57,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_008490_00_KABIGONex_RR.webp",
+    "label": {
+      "slug": "snorlax-ex",
+      "eng": "Snorlax ex"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 58,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008500_00_EIPAM_C.webp",
+    "label": {
+      "slug": "aipom",
+      "eng": "Aipom"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 59,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_008510_00_ETEBOTH_U.webp",
+    "label": {
+      "slug": "ambipom",
+      "eng": "Ambipom"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 60,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008520_00_PERAP_C.webp",
+    "label": {
+      "slug": "chatot",
+      "eng": "Chatot"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 61,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008530_00_TABUNNE_C.webp",
+    "label": {
+      "slug": "audino",
+      "eng": "Audino"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 62,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008540_00_CHILLARMY_C.webp",
+    "label": {
+      "slug": "minccino",
+      "eng": "Minccino"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 63,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_008550_00_CHILLACCINO_U.webp",
+    "label": {
+      "slug": "cinccino",
+      "eng": "Cinccino"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 64,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008560_00_HOSHIGARISU_C.webp",
+    "label": {
+      "slug": "skwovet",
+      "eng": "Skwovet"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 65,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_007400_00_YOKUBARISU_U.webp",
+    "label": {
+      "slug": "greedent",
+      "eng": "Greedent"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 66,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_000670_00_IIBUINOBAKKU_U.webp",
+    "label": {
+      "slug": "eevee-bag",
+      "eng": "Eevee Bag"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 67,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_000680_00_TABENOKOSHI_U.webp",
+    "label": {
+      "slug": "leftovers",
+      "eng": "Leftovers"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 68,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_000690_00_HAU_U.webp",
+    "label": {
+      "slug": "hau",
+      "eng": "Hau"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 69,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_000700_00_BOTAN_U.webp",
+    "label": {
+      "slug": "penny",
+      "eng": "Penny"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 70,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_007980_00_LEAFIA_AR.webp",
+    "label": {
+      "slug": "leafeon",
+      "eng": "Leafeon"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 71,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_008040_00_BOOSTER_AR.webp",
+    "label": {
+      "slug": "flareon",
+      "eng": "Flareon"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 72,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_008120_00_SHOWERS_AR.webp",
+    "label": {
+      "slug": "vaporeon",
+      "eng": "Vaporeon"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 73,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_008130_00_GLACIA_AR.webp",
+    "label": {
+      "slug": "glaceon",
+      "eng": "Glaceon"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 74,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_007330_00_THUNDERS_AR.webp",
+    "label": {
+      "slug": "jolteon",
+      "eng": "Jolteon"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 75,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_008220_00_EIFIE_AR.webp",
+    "label": {
+      "slug": "espeon",
+      "eng": "Espeon"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 76,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_008270_00_NYMPHIA_AR.webp",
+    "label": {
+      "slug": "sylveon",
+      "eng": "Sylveon"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 77,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_008360_00_BRACKY_AR.webp",
+    "label": {
+      "slug": "umbreon",
+      "eng": "Umbreon"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 78,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_008470_00_EIEVUI_AR.webp",
+    "label": {
+      "slug": "eevee",
+      "eng": "Eevee"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 79,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_008050_00_BOOSTERex_SR.webp",
+    "label": {
+      "slug": "flareon-ex",
+      "eng": "Flareon ex"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 80,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_008190_00_ASHIRENEex_SR.webp",
+    "label": {
+      "slug": "primarina-ex",
+      "eng": "Primarina ex"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 81,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_008280_00_NYMPHIAex_SR.webp",
+    "label": {
+      "slug": "sylveon-ex",
+      "eng": "Sylveon ex"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 82,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_008450_00_KAIRYUex_SR.webp",
+    "label": {
+      "slug": "dragonite-ex",
+      "eng": "Dragonite ex"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 83,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_008480_00_EIEVUIex_SR.webp",
+    "label": {
+      "slug": "eevee-ex",
+      "eng": "Eevee ex"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 84,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_008490_00_KABIGONex_SR.webp",
+    "label": {
+      "slug": "snorlax-ex",
+      "eng": "Snorlax ex"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 85,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cTR_20_000690_00_HAU_SR.webp",
+    "label": {
+      "slug": "hau",
+      "eng": "Hau"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 86,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cTR_20_000700_00_BOTAN_SR.webp",
+    "label": {
+      "slug": "penny",
+      "eng": "Penny"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 87,
+    "rarity": "Special Art Rare",
+    "rarityCode": "SAR",
+    "imageName": "cPK_20_008050_01_BOOSTERex_SAR.webp",
+    "label": {
+      "slug": "flareon-ex",
+      "eng": "Flareon ex"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 88,
+    "rarity": "Special Art Rare",
+    "rarityCode": "SAR",
+    "imageName": "cPK_20_008190_01_ASHIRENEex_SAR.webp",
+    "label": {
+      "slug": "primarina-ex",
+      "eng": "Primarina ex"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 89,
+    "rarity": "Special Art Rare",
+    "rarityCode": "SAR",
+    "imageName": "cPK_20_008280_01_NYMPHIAex_SAR.webp",
+    "label": {
+      "slug": "sylveon-ex",
+      "eng": "Sylveon ex"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 90,
+    "rarity": "Special Art Rare",
+    "rarityCode": "SAR",
+    "imageName": "cPK_20_008450_01_KAIRYUex_SAR.webp",
+    "label": {
+      "slug": "dragonite-ex",
+      "eng": "Dragonite ex"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 91,
+    "rarity": "Special Art Rare",
+    "rarityCode": "SAR",
+    "imageName": "cPK_20_008490_01_KABIGONex_SAR.webp",
+    "label": {
+      "slug": "snorlax-ex",
+      "eng": "Snorlax ex"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 92,
+    "rarity": "Immersive Rare",
+    "rarityCode": "IM",
+    "imageName": "cPK_20_008480_01_EIEVUIex_IM.webp",
+    "label": {
+      "slug": "eevee-ex",
+      "eng": "Eevee ex"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 93,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_005240_00_KAILIOS_S.webp",
+    "label": {
+      "slug": "pinsir",
+      "eng": "Pinsir"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 94,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_000790_01_LAPLACE_S.webp",
+    "label": {
+      "slug": "lapras",
+      "eng": "Lapras"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 95,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_003350_00_BIRIRIDAMA_S.webp",
+    "label": {
+      "slug": "voltorb",
+      "eng": "Voltorb"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 96,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_003360_00_MARUMINE_S.webp",
+    "label": {
+      "slug": "electrode",
+      "eng": "Electrode"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 97,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_003490_00_RALTS_S.webp",
+    "label": {
+      "slug": "ralts",
+      "eng": "Ralts"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 98,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_003500_00_KIRLIA_S.webp",
+    "label": {
+      "slug": "kirlia",
+      "eng": "Kirlia"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 99,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_001320_00_SIRNIGHT_S.webp",
+    "label": {
+      "slug": "gardevoir",
+      "eng": "Gardevoir"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 100,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_001640_00_ARBO_S.webp",
+    "label": {
+      "slug": "ekans",
+      "eng": "Ekans"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 101,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_001650_00_ARBOK_S.webp",
+    "label": {
+      "slug": "arbok",
+      "eng": "Arbok"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 102,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_001980_00_KAMONEGI_S.webp",
+    "label": {
+      "slug": "farfetchd",
+      "eng": "Farfetch’d"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 103,
+    "rarity": "Shiny Super Rare",
+    "rarityCode": "SSR",
+    "imageName": "cPK_20_000470_02_FIREex_SSR.webp",
+    "label": {
+      "slug": "moltres-ex",
+      "eng": "Moltres ex"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 104,
+    "rarity": "Shiny Super Rare",
+    "rarityCode": "SSR",
+    "imageName": "cPK_20_000840_02_FREEZERex_SSR.webp",
+    "label": {
+      "slug": "articuno-ex",
+      "eng": "Articuno ex"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 105,
+    "rarity": "Shiny Super Rare",
+    "rarityCode": "SSR",
+    "imageName": "cPK_20_001040_02_THUNDERex_SSR.webp",
+    "label": {
+      "slug": "zapdos-ex",
+      "eng": "Zapdos ex"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 106,
+    "rarity": "Shiny Super Rare",
+    "rarityCode": "SSR",
+    "imageName": "cPK_20_003760_02_ERUREIDOex_SSR.webp",
+    "label": {
+      "slug": "gallade-ex",
+      "eng": "Gallade ex"
+    },
+    "packs": ["Eevee"]
+  },
+  {
+    "set": "A3B",
+    "number": 107,
+    "rarity": "Crown Rare",
+    "rarityCode": "UR",
+    "imageName": "cTR_20_000670_00_IIBUINOBAKKU_UR.webp",
+    "label": {
+      "slug": "eevee-bag",
+      "eng": "Eevee Bag"
+    },
+    "packs": ["Eevee"]
   }
 ]

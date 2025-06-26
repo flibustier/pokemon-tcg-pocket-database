@@ -8,6 +8,8 @@ const html = fs.readFileSync("./scraps.html", "utf8");
 const $ = cheerio.load(html);
 const cards = [...existing];
 
+const packName = process.argv[2];
+
 $(".card-grid__cell").each((index, element) => {
   const $card = $(element);
   const hrefParts = $card.find("a").attr("href").split("/").filter(Boolean);
@@ -34,6 +36,7 @@ $(".card-grid__cell").each((index, element) => {
       slug: hrefParts[3],
       eng: figcaption,
     },
+    packs: [packName]
   };
 
   cards.push(cardData);

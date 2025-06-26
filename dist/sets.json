@@ -63,6 +63,15 @@
     "packs": ["Extradimensional"]
   },
   {
+    "code": "A3B",
+    "releaseDate": "2025-06-26",
+    "count": 107,
+    "label": {
+      "en": "Eevee Grove"
+    },
+    "packs": ["Eevee"]
+  },
+  {
     "code": "PROMO-A",
     "releaseDate": "2024-10-30",
     "label": {
