@@ -14819,6 +14819,2898 @@
     "packs": ["Eevee"]
   },
   {
+    "set": "A4",
+    "number": 1,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008570_00_NAZONOKUSA_C.webp",
+    "label": {
+      "slug": "oddish",
+      "eng": "Oddish"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 2,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_008580_00_KUSAIHANA_U.webp",
+    "label": {
+      "slug": "gloom",
+      "eng": "Gloom"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 3,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_008590_00_KIREIHANA_R.webp",
+    "label": {
+      "slug": "bellossom",
+      "eng": "Bellossom"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 4,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008600_00_MONJARA_C.webp",
+    "label": {
+      "slug": "tangela",
+      "eng": "Tangela"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 5,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_008610_00_MOJUMBO_R.webp",
+    "label": {
+      "slug": "tangrowth",
+      "eng": "Tangrowth"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 6,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008620_00_STRIKE_C.webp",
+    "label": {
+      "slug": "scyther",
+      "eng": "Scyther"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 7,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008630_00_KAILIOS_C.webp",
+    "label": {
+      "slug": "pinsir",
+      "eng": "Pinsir"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 8,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008640_00_CHICORITA_C.webp",
+    "label": {
+      "slug": "chikorita",
+      "eng": "Chikorita"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 9,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_008650_00_BAYLEAF_U.webp",
+    "label": {
+      "slug": "bayleef",
+      "eng": "Bayleef"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 10,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_008660_00_MEGANIUM_R.webp",
+    "label": {
+      "slug": "meganium",
+      "eng": "Meganium"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 11,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008670_00_REDIBA_C.webp",
+    "label": {
+      "slug": "ledyba",
+      "eng": "Ledyba"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 12,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008680_00_REDIAN_C.webp",
+    "label": {
+      "slug": "ledian",
+      "eng": "Ledian"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 13,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008690_00_HANECCO_C.webp",
+    "label": {
+      "slug": "hoppip",
+      "eng": "Hoppip"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 14,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_008700_00_POPOCCO_U.webp",
+    "label": {
+      "slug": "skiploom",
+      "eng": "Skiploom"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 15,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_008710_00_WATACCO_R.webp",
+    "label": {
+      "slug": "jumpluff",
+      "eng": "Jumpluff"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 16,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008720_00_HIMANUTS_C.webp",
+    "label": {
+      "slug": "sunkern",
+      "eng": "Sunkern"
+    },
+    "packs": ["Lugia", "Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 17,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_008730_00_KIMAWARI_U.webp",
+    "label": {
+      "slug": "sunflora",
+      "eng": "Sunflora"
+    },
+    "packs": ["Lugia", "Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 18,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008740_00_YANYANMA_C.webp",
+    "label": {
+      "slug": "yanma",
+      "eng": "Yanma"
+    },
+    "packs": ["Lugia", "Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 19,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_008750_00_MEGAYANMA_U.webp",
+    "label": {
+      "slug": "yanmega",
+      "eng": "Yanmega"
+    },
+    "packs": ["Lugia", "Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 20,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008760_00_KUNUGIDAMA_C.webp",
+    "label": {
+      "slug": "pineco",
+      "eng": "Pineco"
+    },
+    "packs": ["Lugia", "Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 21,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_008770_00_TSUBOTSUBOex_RR.webp",
+    "label": {
+      "slug": "shuckle-ex",
+      "eng": "Shuckle ex"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 22,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_008780_00_HERACROS_R.webp",
+    "label": {
+      "slug": "heracross",
+      "eng": "Heracross"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 23,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008790_00_CHERINBO_C.webp",
+    "label": {
+      "slug": "cherubi",
+      "eng": "Cherubi"
+    },
+    "packs": ["Lugia", "Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 24,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_008800_00_CHERRIM_U.webp",
+    "label": {
+      "slug": "cherrim",
+      "eng": "Cherrim"
+    },
+    "packs": ["Lugia", "Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 25,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008810_00_ROKON_C.webp",
+    "label": {
+      "slug": "vulpix",
+      "eng": "Vulpix"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 26,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_008820_00_KYUKON_R.webp",
+    "label": {
+      "slug": "ninetales",
+      "eng": "Ninetales"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 27,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008830_00_HINOARASHI_C.webp",
+    "label": {
+      "slug": "cyndaquil",
+      "eng": "Cyndaquil"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 28,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_008840_00_MAGMARASHI_U.webp",
+    "label": {
+      "slug": "quilava",
+      "eng": "Quilava"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 29,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_008850_00_BAKPHOON_R.webp",
+    "label": {
+      "slug": "typhlosion",
+      "eng": "Typhlosion"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 30,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008860_00_MAGMAG_C.webp",
+    "label": {
+      "slug": "slugma",
+      "eng": "Slugma"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 31,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_008870_00_MAGCARGOT_U.webp",
+    "label": {
+      "slug": "magcargo",
+      "eng": "Magcargo"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 32,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_008880_00_BUBY_R.webp",
+    "label": {
+      "slug": "magby",
+      "eng": "Magby"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 33,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_008890_00_ENTEI_R.webp",
+    "label": {
+      "slug": "entei",
+      "eng": "Entei"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 34,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_008900_00_HOUOUex_RR.webp",
+    "label": {
+      "slug": "ho-oh-ex",
+      "eng": "Ho-Oh ex"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 35,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008910_00_DARUMAKKA_C.webp",
+    "label": {
+      "slug": "darumaka",
+      "eng": "Darumaka"
+    },
+    "packs": ["Lugia", "Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 36,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_008920_00_HIHIDARUMA_U.webp",
+    "label": {
+      "slug": "darmanitan",
+      "eng": "Darmanitan"
+    },
+    "packs": ["Lugia", "Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 37,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008930_00_KUITARAN_C.webp",
+    "label": {
+      "slug": "heatmor",
+      "eng": "Heatmor"
+    },
+    "packs": ["Lugia", "Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 38,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008940_00_NYOROMO_C.webp",
+    "label": {
+      "slug": "poliwag",
+      "eng": "Poliwag"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 39,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_008950_00_NYOROZO_U.webp",
+    "label": {
+      "slug": "poliwhirl",
+      "eng": "Poliwhirl"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 40,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_008960_00_NYOROTONO_R.webp",
+    "label": {
+      "slug": "politoed",
+      "eng": "Politoed"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 41,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_008970_00_TATTU_C.webp",
+    "label": {
+      "slug": "horsea",
+      "eng": "Horsea"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 42,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_008980_00_SEADRA_U.webp",
+    "label": {
+      "slug": "seadra",
+      "eng": "Seadra"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 43,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_008990_00_KINGDRAex_RR.webp",
+    "label": {
+      "slug": "kingdra-ex",
+      "eng": "Kingdra ex"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 44,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009000_00_KOIKING_C.webp",
+    "label": {
+      "slug": "magikarp",
+      "eng": "Magikarp"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 45,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_009010_00_GYARADOS_R.webp",
+    "label": {
+      "slug": "gyarados",
+      "eng": "Gyarados"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 46,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009020_00_WANINOKO_C.webp",
+    "label": {
+      "slug": "totodile",
+      "eng": "Totodile"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 47,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_009030_00_ALLIGATES_U.webp",
+    "label": {
+      "slug": "croconaw",
+      "eng": "Croconaw"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 48,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_009040_00_ORDILE_R.webp",
+    "label": {
+      "slug": "feraligatr",
+      "eng": "Feraligatr"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 49,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009050_00_MARIL_C.webp",
+    "label": {
+      "slug": "marill",
+      "eng": "Marill"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 50,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_009060_00_MARILLI_U.webp",
+    "label": {
+      "slug": "azumarill",
+      "eng": "Azumarill"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 51,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009070_00_UPAH_C.webp",
+    "label": {
+      "slug": "wooper",
+      "eng": "Wooper"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 52,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_009080_00_NUOH_U.webp",
+    "label": {
+      "slug": "quagsire",
+      "eng": "Quagsire"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 53,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_009090_00_HARYSEN_U.webp",
+    "label": {
+      "slug": "qwilfish",
+      "eng": "Qwilfish"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 54,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009100_00_SUNNYGO_C.webp",
+    "label": {
+      "slug": "corsola",
+      "eng": "Corsola"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 55,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009110_00_TEPPOUO_C.webp",
+    "label": {
+      "slug": "remoraid",
+      "eng": "Remoraid"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 56,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_009120_00_OKUTANK_R.webp",
+    "label": {
+      "slug": "octillery",
+      "eng": "Octillery"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 57,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_009130_00_DELIBIRD_U.webp",
+    "label": {
+      "slug": "delibird",
+      "eng": "Delibird"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 58,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_009140_00_MANTAIN_U.webp",
+    "label": {
+      "slug": "mantine",
+      "eng": "Mantine"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 59,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_009150_00_SUICUNE_R.webp",
+    "label": {
+      "slug": "suicune",
+      "eng": "Suicune"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 60,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009160_00_HEIGANI_C.webp",
+    "label": {
+      "slug": "corphish",
+      "eng": "Corphish"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 61,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_009170_00_SHIZARIGER_R.webp",
+    "label": {
+      "slug": "crawdaunt",
+      "eng": "Crawdaunt"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 62,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009180_00_KOARUHIE_C.webp",
+    "label": {
+      "slug": "ducklett",
+      "eng": "Ducklett"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 63,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_009190_00_SWANNA_U.webp",
+    "label": {
+      "slug": "swanna",
+      "eng": "Swanna"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 64,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009200_00_CHONCHIE_C.webp",
+    "label": {
+      "slug": "chinchou",
+      "eng": "Chinchou"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 65,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_009210_00_LANTERNex_RR.webp",
+    "label": {
+      "slug": "lanturn-ex",
+      "eng": "Lanturn ex"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 66,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_009220_00_PICHU_R.webp",
+    "label": {
+      "slug": "pichu",
+      "eng": "Pichu"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 67,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009230_00_MERRIEP_C.webp",
+    "label": {
+      "slug": "mareep",
+      "eng": "Mareep"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 68,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_009240_00_MOKOKO_U.webp",
+    "label": {
+      "slug": "flaaffy",
+      "eng": "Flaaffy"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 69,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_009250_00_DENRYU_R.webp",
+    "label": {
+      "slug": "ampharos",
+      "eng": "Ampharos"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 70,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_009260_00_ELEKID_R.webp",
+    "label": {
+      "slug": "elekid",
+      "eng": "Elekid"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 71,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_009270_00_RAIKOU_R.webp",
+    "label": {
+      "slug": "raikou",
+      "eng": "Raikou"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 72,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009280_00_EMOLGA_C.webp",
+    "label": {
+      "slug": "emolga",
+      "eng": "Emolga"
+    },
+    "packs": ["Lugia", "Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 73,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009290_00_YADON_C.webp",
+    "label": {
+      "slug": "slowpoke",
+      "eng": "Slowpoke"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 74,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_009300_00_YADOKING_U.webp",
+    "label": {
+      "slug": "slowking",
+      "eng": "Slowking"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 75,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_009310_00_MUCHUL_R.webp",
+    "label": {
+      "slug": "smoochum",
+      "eng": "Smoochum"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 76,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009320_00_ROUGELA_C.webp",
+    "label": {
+      "slug": "jynx",
+      "eng": "Jynx"
+    },
+    "packs": ["Lugia", "Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 77,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_009330_00_PY_R.webp",
+    "label": {
+      "slug": "cleffa",
+      "eng": "Cleffa"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 78,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009340_00_TOGEPY_C.webp",
+    "label": {
+      "slug": "togepi",
+      "eng": "Togepi"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 79,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_009350_00_TOGECHICK_U.webp",
+    "label": {
+      "slug": "togetic",
+      "eng": "Togetic"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 80,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_009360_00_TOGEKISS_R.webp",
+    "label": {
+      "slug": "togekiss",
+      "eng": "Togekiss"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 81,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009370_00_NATY_C.webp",
+    "label": {
+      "slug": "natu",
+      "eng": "Natu"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 82,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_009380_00_NATIO_R.webp",
+    "label": {
+      "slug": "xatu",
+      "eng": "Xatu"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 83,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_009390_00_EIFIEex_RR.webp",
+    "label": {
+      "slug": "espeon-ex",
+      "eng": "Espeon ex"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 84,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_009400_00_UNKNOWN_R.webp",
+    "label": {
+      "slug": "unown",
+      "eng": "Unown"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 85,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_009410_00_UNKNOWN_R.webp",
+    "label": {
+      "slug": "unown",
+      "eng": "Unown"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 86,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009420_00_SONANS_C.webp",
+    "label": {
+      "slug": "wobbuffet",
+      "eng": "Wobbuffet"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 87,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009430_00_KIRINRIKI_C.webp",
+    "label": {
+      "slug": "girafarig",
+      "eng": "Girafarig"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 88,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009440_00_BULU_C.webp",
+    "label": {
+      "slug": "snubbull",
+      "eng": "Snubbull"
+    },
+    "packs": ["Lugia", "Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 89,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_009450_00_GRANBULU_U.webp",
+    "label": {
+      "slug": "granbull",
+      "eng": "Granbull"
+    },
+    "packs": ["Lugia", "Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 90,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009460_00_MUNNA_C.webp",
+    "label": {
+      "slug": "munna",
+      "eng": "Munna"
+    },
+    "packs": ["Lugia", "Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 91,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_009470_00_MUSHARNA_U.webp",
+    "label": {
+      "slug": "musharna",
+      "eng": "Musharna"
+    },
+    "packs": ["Lugia", "Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 92,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009480_00_IWARK_C.webp",
+    "label": {
+      "slug": "onix",
+      "eng": "Onix"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 93,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009490_00_USOKKIE_C.webp",
+    "label": {
+      "slug": "sudowoodo",
+      "eng": "Sudowoodo"
+    },
+    "packs": ["Lugia", "Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 94,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009500_00_GLIGER_C.webp",
+    "label": {
+      "slug": "gligar",
+      "eng": "Gligar"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 95,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_009510_00_GLION_U.webp",
+    "label": {
+      "slug": "gliscor",
+      "eng": "Gliscor"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 96,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009520_00_URIMOO_C.webp",
+    "label": {
+      "slug": "swinub",
+      "eng": "Swinub"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 97,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_009530_00_INOMOO_U.webp",
+    "label": {
+      "slug": "piloswine",
+      "eng": "Piloswine"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 98,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_009540_00_MAMMOO_R.webp",
+    "label": {
+      "slug": "mamoswine",
+      "eng": "Mamoswine"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 99,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009550_00_GOMAZOU_C.webp",
+    "label": {
+      "slug": "phanpy",
+      "eng": "Phanpy"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 100,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_009560_00_DONFANex_RR.webp",
+    "label": {
+      "slug": "donphan-ex",
+      "eng": "Donphan ex"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 101,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_009570_00_BALKIE_R.webp",
+    "label": {
+      "slug": "tyrogue",
+      "eng": "Tyrogue"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 102,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009580_00_KAPOERER_C.webp",
+    "label": {
+      "slug": "hitmontop",
+      "eng": "Hitmontop"
+    },
+    "packs": ["Lugia", "Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 103,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009590_00_YOGIRAS_C.webp",
+    "label": {
+      "slug": "larvitar",
+      "eng": "Larvitar"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 104,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_009600_00_SANAGIRAS_U.webp",
+    "label": {
+      "slug": "pupitar",
+      "eng": "Pupitar"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 105,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009610_00_KAMETETE_C.webp",
+    "label": {
+      "slug": "binacle",
+      "eng": "Binacle"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 106,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_009620_00_GAMENODES_U.webp",
+    "label": {
+      "slug": "barbaracle",
+      "eng": "Barbaracle"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 107,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009630_00_ZUBAT_C.webp",
+    "label": {
+      "slug": "zubat",
+      "eng": "Zubat"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 108,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_009640_00_GOLBAT_U.webp",
+    "label": {
+      "slug": "golbat",
+      "eng": "Golbat"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 109,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_009650_00_CROBATex_RR.webp",
+    "label": {
+      "slug": "crobat-ex",
+      "eng": "Crobat ex"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 110,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009660_00_ITOMARU_C.webp",
+    "label": {
+      "slug": "spinarak",
+      "eng": "Spinarak"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 111,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_009670_00_ARIADOS_U.webp",
+    "label": {
+      "slug": "ariados",
+      "eng": "Ariados"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 112,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_009680_00_BRACKYex_RR.webp",
+    "label": {
+      "slug": "umbreon-ex",
+      "eng": "Umbreon ex"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 113,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009690_00_YAMIKARASU_C.webp",
+    "label": {
+      "slug": "murkrow",
+      "eng": "Murkrow"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 114,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_009700_00_DONGKARASU_U.webp",
+    "label": {
+      "slug": "honchkrow",
+      "eng": "Honchkrow"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 115,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009710_00_NYULA_C.webp",
+    "label": {
+      "slug": "sneasel",
+      "eng": "Sneasel"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 116,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_009720_00_MANYULA_U.webp",
+    "label": {
+      "slug": "weavile",
+      "eng": "Weavile"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 117,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009730_00_DELVIL_C.webp",
+    "label": {
+      "slug": "houndour",
+      "eng": "Houndour"
+    },
+    "packs": ["Lugia", "Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 118,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_009740_00_HELLGAR_U.webp",
+    "label": {
+      "slug": "houndoom",
+      "eng": "Houndoom"
+    },
+    "packs": ["Lugia", "Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 119,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_009750_00_BANGIRAS_R.webp",
+    "label": {
+      "slug": "tyranitar",
+      "eng": "Tyranitar"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 120,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_009760_00_ABSOL_U.webp",
+    "label": {
+      "slug": "absol",
+      "eng": "Absol"
+    },
+    "packs": ["Lugia", "Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 121,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_009770_00_FORETOS_U.webp",
+    "label": {
+      "slug": "forretress",
+      "eng": "Forretress"
+    },
+    "packs": ["Lugia", "Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 122,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_009780_00_HAGANEIL_R.webp",
+    "label": {
+      "slug": "steelix",
+      "eng": "Steelix"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 123,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_009790_00_HASSAM_R.webp",
+    "label": {
+      "slug": "scizor",
+      "eng": "Scizor"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 124,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_009800_00_AIRMDex_RR.webp",
+    "label": {
+      "slug": "skarmory-ex",
+      "eng": "Skarmory ex"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 125,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009810_00_KUCHEAT_C.webp",
+    "label": {
+      "slug": "mawile",
+      "eng": "Mawile"
+    },
+    "packs": ["Lugia", "Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 126,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009820_00_GIARU_C.webp",
+    "label": {
+      "slug": "klink",
+      "eng": "Klink"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 127,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_009830_00_GIGIARU_U.webp",
+    "label": {
+      "slug": "klang",
+      "eng": "Klang"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 128,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_009840_00_GIGIGIARU_R.webp",
+    "label": {
+      "slug": "klinklang",
+      "eng": "Klinklang"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 129,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009850_00_ONISUZUME_C.webp",
+    "label": {
+      "slug": "spearow",
+      "eng": "Spearow"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 130,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009860_00_ONIDRILL_C.webp",
+    "label": {
+      "slug": "fearow",
+      "eng": "Fearow"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 131,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009870_00_LUCKY_C.webp",
+    "label": {
+      "slug": "chansey",
+      "eng": "Chansey"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 132,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_009880_00_HAPPINAS_R.webp",
+    "label": {
+      "slug": "blissey",
+      "eng": "Blissey"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 133,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_009890_00_GARURA_R.webp",
+    "label": {
+      "slug": "kangaskhan",
+      "eng": "Kangaskhan"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 134,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009900_00_EIEVUI_C.webp",
+    "label": {
+      "slug": "eevee",
+      "eng": "Eevee"
+    },
+    "packs": ["Lugia", "Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 135,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009910_00_PORYGON_C.webp",
+    "label": {
+      "slug": "porygon",
+      "eng": "Porygon"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 136,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_009920_00_PORYGON2_U.webp",
+    "label": {
+      "slug": "porygon2",
+      "eng": "Porygon2"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 137,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_009930_00_PORYGON-Z_R.webp",
+    "label": {
+      "slug": "porygon-z",
+      "eng": "Porygon-Z"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 138,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009940_00_OTACHI_C.webp",
+    "label": {
+      "slug": "sentret",
+      "eng": "Sentret"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 139,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009950_00_OOTACHI_C.webp",
+    "label": {
+      "slug": "furret",
+      "eng": "Furret"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 140,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009960_00_HOHO_C.webp",
+    "label": {
+      "slug": "hoothoot",
+      "eng": "Hoothoot"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 141,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009970_00_YORUNOZUKU_C.webp",
+    "label": {
+      "slug": "noctowl",
+      "eng": "Noctowl"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 142,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009980_00_EIPAM_C.webp",
+    "label": {
+      "slug": "aipom",
+      "eng": "Aipom"
+    },
+    "packs": ["Lugia", "Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 143,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_009990_00_ETEBOTH_C.webp",
+    "label": {
+      "slug": "ambipom",
+      "eng": "Ambipom"
+    },
+    "packs": ["Lugia", "Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 144,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_010000_00_NOKOCCHI_C.webp",
+    "label": {
+      "slug": "dunsparce",
+      "eng": "Dunsparce"
+    },
+    "packs": ["Lugia", "Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 145,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_010010_00_HIMEGUMA_C.webp",
+    "label": {
+      "slug": "teddiursa",
+      "eng": "Teddiursa"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 146,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_010020_00_RINGUMA_U.webp",
+    "label": {
+      "slug": "ursaring",
+      "eng": "Ursaring"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 147,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_010030_00_ODOSHISHI_U.webp",
+    "label": {
+      "slug": "stantler",
+      "eng": "Stantler"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 148,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_010040_00_DOBLE_U.webp",
+    "label": {
+      "slug": "smeargle",
+      "eng": "Smeargle"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 149,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_010050_00_LUGIAex_RR.webp",
+    "label": {
+      "slug": "lugia-ex",
+      "eng": "Lugia ex"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 150,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_010060_00_BUFFRON_U.webp",
+    "label": {
+      "slug": "bouffalant",
+      "eng": "Bouffalant"
+    },
+    "packs": ["Lugia", "Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 151,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_000710_00_EREMENTARUTSUKEKAE_U.webp",
+    "label": {
+      "slug": "elemental-switch",
+      "eng": "Elemental Switch"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 152,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_000720_00_ZEHIGAMEJOURO_U.webp",
+    "label": {
+      "slug": "squirt-bottle",
+      "eng": "Squirt Bottle"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 153,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_000730_00_GOUTETUNOMAEKAKE_U.webp",
+    "label": {
+      "slug": "steel-apron",
+      "eng": "Steel Apron"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 154,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_000740_00_DARKPENDANTO_U.webp",
+    "label": {
+      "slug": "dark-pendant",
+      "eng": "Dark Pendant"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 155,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_000750_00_RESUKYUSUKAFU_U.webp",
+    "label": {
+      "slug": "rescue-scarf",
+      "eng": "Rescue Scarf"
+    },
+    "packs": ["Lugia", "Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 156,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_000760_00_ITSUKI_U.webp",
+    "label": {
+      "slug": "will",
+      "eng": "Will"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 157,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_000770_00_KOTONE_U.webp",
+    "label": {
+      "slug": "lyra",
+      "eng": "Lyra"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 158,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_000780_00_SILVER_U.webp",
+    "label": {
+      "slug": "silver",
+      "eng": "Silver"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 159,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_000790_00_FISHER_U.webp",
+    "label": {
+      "slug": "fisher",
+      "eng": "Fisher"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 160,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_000800_00_MIKAN_U.webp",
+    "label": {
+      "slug": "jasmine",
+      "eng": "Jasmine"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 161,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_000810_00_HIKER_U.webp",
+    "label": {
+      "slug": "hiker",
+      "eng": "Hiker"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 162,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_008640_00_CHICORITA_AR.webp",
+    "label": {
+      "slug": "chikorita",
+      "eng": "Chikorita"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 163,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_008590_00_KIREIHANA_AR.webp",
+    "label": {
+      "slug": "bellossom",
+      "eng": "Bellossom"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 164,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_008780_00_HERACROS_AR.webp",
+    "label": {
+      "slug": "heracross",
+      "eng": "Heracross"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 165,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_008830_00_HINOARASHI_AR.webp",
+    "label": {
+      "slug": "cyndaquil",
+      "eng": "Cyndaquil"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 166,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_008880_00_BUBY_AR.webp",
+    "label": {
+      "slug": "magby",
+      "eng": "Magby"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 167,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_009020_00_WANINOKO_AR.webp",
+    "label": {
+      "slug": "totodile",
+      "eng": "Totodile"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 168,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_009090_00_HARYSEN_AR.webp",
+    "label": {
+      "slug": "qwilfish",
+      "eng": "Qwilfish"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 169,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_009120_00_OKUTANK_AR.webp",
+    "label": {
+      "slug": "octillery",
+      "eng": "Octillery"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 170,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_009130_00_DELIBIRD_AR.webp",
+    "label": {
+      "slug": "delibird",
+      "eng": "Delibird"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 171,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_009220_00_PICHU_AR.webp",
+    "label": {
+      "slug": "pichu",
+      "eng": "Pichu"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 172,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_009250_00_DENRYU_AR.webp",
+    "label": {
+      "slug": "ampharos",
+      "eng": "Ampharos"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 173,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_009340_00_TOGEPY_AR.webp",
+    "label": {
+      "slug": "togepi",
+      "eng": "Togepi"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 174,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_009380_00_NATIO_AR.webp",
+    "label": {
+      "slug": "xatu",
+      "eng": "Xatu"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 175,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_009420_00_SONANS_AR.webp",
+    "label": {
+      "slug": "wobbuffet",
+      "eng": "Wobbuffet"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 176,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_009500_00_GLIGER_AR.webp",
+    "label": {
+      "slug": "gligar",
+      "eng": "Gligar"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 177,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_009660_00_ITOMARU_AR.webp",
+    "label": {
+      "slug": "spinarak",
+      "eng": "Spinarak"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 178,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_009690_00_YAMIKARASU_AR.webp",
+    "label": {
+      "slug": "murkrow",
+      "eng": "Murkrow"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 179,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_009750_00_BANGIRAS_AR.webp",
+    "label": {
+      "slug": "tyranitar",
+      "eng": "Tyranitar"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 180,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_009790_00_HASSAM_AR.webp",
+    "label": {
+      "slug": "scizor",
+      "eng": "Scizor"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 181,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_009940_00_OTACHI_AR.webp",
+    "label": {
+      "slug": "sentret",
+      "eng": "Sentret"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 182,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_009960_00_HOHO_AR.webp",
+    "label": {
+      "slug": "hoothoot",
+      "eng": "Hoothoot"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 183,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_010030_00_ODOSHISHI_AR.webp",
+    "label": {
+      "slug": "stantler",
+      "eng": "Stantler"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 184,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_010040_00_DOBLE_AR.webp",
+    "label": {
+      "slug": "smeargle",
+      "eng": "Smeargle"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 185,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_009880_00_HAPPINAS_AR.webp",
+    "label": {
+      "slug": "blissey",
+      "eng": "Blissey"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 186,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_008770_00_TSUBOTSUBOex_SR.webp",
+    "label": {
+      "slug": "shuckle-ex",
+      "eng": "Shuckle ex"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 187,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_008900_00_HOUOUex_SR.webp",
+    "label": {
+      "slug": "ho-oh-ex",
+      "eng": "Ho-Oh ex"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 188,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_008990_00_KINGDRAex_SR.webp",
+    "label": {
+      "slug": "kingdra-ex",
+      "eng": "Kingdra ex"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 189,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_009210_00_LANTERNex_SR.webp",
+    "label": {
+      "slug": "lanturn-ex",
+      "eng": "Lanturn ex"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 190,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_009390_00_EIFIEex_SR.webp",
+    "label": {
+      "slug": "espeon-ex",
+      "eng": "Espeon ex"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 191,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_009560_00_DONFANex_SR.webp",
+    "label": {
+      "slug": "donphan-ex",
+      "eng": "Donphan ex"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 192,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_009650_00_CROBATex_SR.webp",
+    "label": {
+      "slug": "crobat-ex",
+      "eng": "Crobat ex"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 193,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_009680_00_BRACKYex_SR.webp",
+    "label": {
+      "slug": "umbreon-ex",
+      "eng": "Umbreon ex"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 194,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_009800_00_AIRMDex_SR.webp",
+    "label": {
+      "slug": "skarmory-ex",
+      "eng": "Skarmory ex"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 195,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_010050_00_LUGIAex_SR.webp",
+    "label": {
+      "slug": "lugia-ex",
+      "eng": "Lugia ex"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 196,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cTR_20_000760_00_ITSUKI_SR.webp",
+    "label": {
+      "slug": "will",
+      "eng": "Will"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 197,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cTR_20_000770_00_KOTONE_SR.webp",
+    "label": {
+      "slug": "lyra",
+      "eng": "Lyra"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 198,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cTR_20_000780_00_SILVER_SR.webp",
+    "label": {
+      "slug": "silver",
+      "eng": "Silver"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 199,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cTR_20_000790_00_FISHER_SR.webp",
+    "label": {
+      "slug": "fisher",
+      "eng": "Fisher"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 200,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cTR_20_000800_00_MIKAN_SR.webp",
+    "label": {
+      "slug": "jasmine",
+      "eng": "Jasmine"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 201,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cTR_20_000810_00_HIKER_SR.webp",
+    "label": {
+      "slug": "hiker",
+      "eng": "Hiker"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 202,
+    "rarity": "Special Art Rare",
+    "rarityCode": "SAR",
+    "imageName": "cPK_20_008770_01_TSUBOTSUBOex_SAR.webp",
+    "label": {
+      "slug": "shuckle-ex",
+      "eng": "Shuckle ex"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 203,
+    "rarity": "Special Art Rare",
+    "rarityCode": "SAR",
+    "imageName": "cPK_20_008990_01_KINGDRAex_SAR.webp",
+    "label": {
+      "slug": "kingdra-ex",
+      "eng": "Kingdra ex"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 204,
+    "rarity": "Special Art Rare",
+    "rarityCode": "SAR",
+    "imageName": "cPK_20_009210_01_LANTERNex_SAR.webp",
+    "label": {
+      "slug": "lanturn-ex",
+      "eng": "Lanturn ex"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 205,
+    "rarity": "Special Art Rare",
+    "rarityCode": "SAR",
+    "imageName": "cPK_20_009390_01_EIFIEex_SAR.webp",
+    "label": {
+      "slug": "espeon-ex",
+      "eng": "Espeon ex"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 206,
+    "rarity": "Special Art Rare",
+    "rarityCode": "SAR",
+    "imageName": "cPK_20_009560_01_DONFANex_SAR.webp",
+    "label": {
+      "slug": "donphan-ex",
+      "eng": "Donphan ex"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 207,
+    "rarity": "Special Art Rare",
+    "rarityCode": "SAR",
+    "imageName": "cPK_20_009650_01_CROBATex_SAR.webp",
+    "label": {
+      "slug": "crobat-ex",
+      "eng": "Crobat ex"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 208,
+    "rarity": "Special Art Rare",
+    "rarityCode": "SAR",
+    "imageName": "cPK_20_009680_01_BRACKYex_SAR.webp",
+    "label": {
+      "slug": "umbreon-ex",
+      "eng": "Umbreon ex"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 209,
+    "rarity": "Special Art Rare",
+    "rarityCode": "SAR",
+    "imageName": "cPK_20_009800_01_AIRMDex_SAR.webp",
+    "label": {
+      "slug": "skarmory-ex",
+      "eng": "Skarmory ex"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 210,
+    "rarity": "Immersive Rare",
+    "rarityCode": "IM",
+    "imageName": "cPK_20_008900_01_HOUOUex_IM.webp",
+    "label": {
+      "slug": "ho-oh-ex",
+      "eng": "Ho-Oh ex"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 211,
+    "rarity": "Immersive Rare",
+    "rarityCode": "IM",
+    "imageName": "cPK_20_010050_01_LUGIAex_IM.webp",
+    "label": {
+      "slug": "lugia-ex",
+      "eng": "Lugia ex"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 212,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_008740_00_YANYANMA_S.webp",
+    "label": {
+      "slug": "yanma",
+      "eng": "Yanma"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 213,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_008040_01_BOOSTER_S.webp",
+    "label": {
+      "slug": "flareon",
+      "eng": "Flareon"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 214,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_002310_00_KOIKING_S.webp",
+    "label": {
+      "slug": "magikarp",
+      "eng": "Magikarp"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 215,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_009010_00_GYARADOS_S.webp",
+    "label": {
+      "slug": "gyarados",
+      "eng": "Gyarados"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 216,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_000800_00_SHOWERS_S.webp",
+    "label": {
+      "slug": "vaporeon",
+      "eng": "Vaporeon"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 217,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_000970_00_COIL_S.webp",
+    "label": {
+      "slug": "magnemite",
+      "eng": "Magnemite"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 218,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_000980_00_RARECOIL_S.webp",
+    "label": {
+      "slug": "magneton",
+      "eng": "Magneton"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 219,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_007330_01_THUNDERS_S.webp",
+    "label": {
+      "slug": "jolteon",
+      "eng": "Jolteon"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 220,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_003470_00_MUMA_S.webp",
+    "label": {
+      "slug": "misdreavus",
+      "eng": "Misdreavus"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 221,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_002540_00_MANKEY_S.webp",
+    "label": {
+      "slug": "mankey",
+      "eng": "Mankey"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 222,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_001420_00_OKORIZARU_S.webp",
+    "label": {
+      "slug": "primeape",
+      "eng": "Primeape"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 223,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_001660_00_NIDORAN%E2%99%80_S.webp",
+    "label": {
+      "slug": "nidoran",
+      "eng": "Nidoran♀"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 224,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_001670_00_NIDORINA_S.webp",
+    "label": {
+      "slug": "nidorina",
+      "eng": "Nidorina"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 225,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_001680_01_NIDOQUEEN_S.webp",
+    "label": {
+      "slug": "nidoqueen",
+      "eng": "Nidoqueen"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 226,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_001690_00_NIDORAN%E2%99%82_S.webp",
+    "label": {
+      "slug": "nidoran",
+      "eng": "Nidoran♂"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 227,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_001700_00_NIDORINO_S.webp",
+    "label": {
+      "slug": "nidorino",
+      "eng": "Nidorino"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 228,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_001710_01_NIDOKING_S.webp",
+    "label": {
+      "slug": "nidoking",
+      "eng": "Nidoking"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 229,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_009710_00_NYULA_S.webp",
+    "label": {
+      "slug": "sneasel",
+      "eng": "Sneasel"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 230,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_004050_00_BERORINGA_S.webp",
+    "label": {
+      "slug": "lickitung",
+      "eng": "Lickitung"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 231,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_009900_00_EIEVUI_S.webp",
+    "label": {
+      "slug": "eevee",
+      "eng": "Eevee"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 232,
+    "rarity": "Shiny Super Rare",
+    "rarityCode": "SSR",
+    "imageName": "cPK_20_002880_02_MEGAYANMAex_SSR.webp",
+    "label": {
+      "slug": "yanmega-ex",
+      "eng": "Yanmega ex"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 233,
+    "rarity": "Shiny Super Rare",
+    "rarityCode": "SSR",
+    "imageName": "cPK_20_004340_02_LEAFIAex_SSR.webp",
+    "label": {
+      "slug": "leafeon-ex",
+      "eng": "Leafeon ex"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 234,
+    "rarity": "Shiny Super Rare",
+    "rarityCode": "SSR",
+    "imageName": "cPK_20_002320_01_GYARADOSex_SSR.webp",
+    "label": {
+      "slug": "gyarados-ex",
+      "eng": "Gyarados ex"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 235,
+    "rarity": "Shiny Super Rare",
+    "rarityCode": "SSR",
+    "imageName": "cPK_20_004460_02_GLACIAex_SSR.webp",
+    "label": {
+      "slug": "glaceon-ex",
+      "eng": "Glaceon ex"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 236,
+    "rarity": "Shiny Super Rare",
+    "rarityCode": "SSR",
+    "imageName": "cPK_20_003420_02_PACHIRISUex_SSR.webp",
+    "label": {
+      "slug": "pachirisu-ex",
+      "eng": "Pachirisu ex"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 237,
+    "rarity": "Shiny Super Rare",
+    "rarityCode": "SSR",
+    "imageName": "cPK_20_003480_02_MUMARGIex_SSR.webp",
+    "label": {
+      "slug": "mismagius-ex",
+      "eng": "Mismagius ex"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 238,
+    "rarity": "Shiny Super Rare",
+    "rarityCode": "SSR",
+    "imageName": "cPK_20_003800_02_MANYULAex_SSR.webp",
+    "label": {
+      "slug": "weavile-ex",
+      "eng": "Weavile ex"
+    },
+    "packs": ["Lugia"]
+  },
+  {
+    "set": "A4",
+    "number": 239,
+    "rarity": "Shiny Super Rare",
+    "rarityCode": "SSR",
+    "imageName": "cPK_20_004060_02_BEROBELTex_SSR.webp",
+    "label": {
+      "slug": "lickilicky-ex",
+      "eng": "Lickilicky ex"
+    },
+    "packs": ["Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 240,
+    "rarity": "Crown Rare",
+    "rarityCode": "UR",
+    "imageName": "cPK_20_008900_02_HOUOUex_UR.webp",
+    "label": {
+      "slug": "ho-oh-ex",
+      "eng": "Ho-Oh ex"
+    },
+    "packs": ["Lugia", "Ho-Oh"]
+  },
+  {
+    "set": "A4",
+    "number": 241,
+    "rarity": "Crown Rare",
+    "rarityCode": "UR",
+    "imageName": "cPK_20_010050_02_LUGIAex_UR.webp",
+    "label": {
+      "slug": "lugia-ex",
+      "eng": "Lugia ex"
+    },
+    "packs": ["Lugia", "Ho-Oh"]
+  },
+  {
     "set": "PROMO-A",
     "number": 1,
     "rarity": "Common",

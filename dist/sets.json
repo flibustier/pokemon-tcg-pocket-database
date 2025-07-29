@@ -72,6 +72,15 @@
     "packs": ["Eevee"]
   },
   {
+    "code": "A4",
+    "releaseDate": "2025-07-30",
+    "count": 241,
+    "label": {
+      "en": "Wisdom of Sea and Sky"
+    },
+    "packs": ["Ho-Oh", "Lugia"]
+  },
+  {
     "code": "PROMO-A",
     "releaseDate": "2024-10-30",
     "label": {
