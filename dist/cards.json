@@ -18773,5 +18773,98 @@
       "slug": "eevee",
       "eng": "Eevee"
     }
+  },
+  {
+    "set": "PROMO-A",
+    "number": 93,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_90_009330_00_PY_AR.webp",
+    "label": {
+      "slug": "cleffa",
+      "eng": "Cleffa"
+    }
+  },
+  {
+    "set": "PROMO-A",
+    "number": 94,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_90_010070_00_TATTU_C.webp",
+    "label": {
+      "slug": "horsea",
+      "eng": "Horsea"
+    },
+    "packs": ["Vol. 11"]
+  },
+  {
+    "set": "PROMO-A",
+    "number": 95,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_90_010080_00_CHONCHIE_C.webp",
+    "label": {
+      "slug": "chinchou",
+      "eng": "Chinchou"
+    },
+    "packs": ["Vol. 11"]
+  },
+  {
+    "set": "PROMO-A",
+    "number": 96,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_90_009740_00_HELLGAR_C.webp",
+    "label": {
+      "slug": "houndoom",
+      "eng": "Houndoom"
+    },
+    "packs": ["Vol. 11"]
+  },
+  {
+    "set": "PROMO-A",
+    "number": 97,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_90_009890_00_GARURA_R.webp",
+    "label": {
+      "slug": "kangaskhan",
+      "eng": "Kangaskhan"
+    },
+    "packs": ["Vol. 11"]
+  },
+  {
+    "set": "PROMO-A",
+    "number": 98,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_90_010090_00_HAPPINASex_RR.webp",
+    "label": {
+      "slug": "blissey-ex",
+      "eng": "Blissey ex"
+    },
+    "packs": ["Vol. 11"]
+  },
+  {
+    "set": "PROMO-A",
+    "number": 99,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_90_009050_00_MARIL_R.webp",
+    "label": {
+      "slug": "marill",
+      "eng": "Marill"
+    }
+  },
+  {
+    "set": "PROMO-A",
+    "number": 100,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_90_009720_00_MANYULA_R.webp",
+    "label": {
+      "slug": "weavile",
+      "eng": "Weavile"
+    }
   }
 ]

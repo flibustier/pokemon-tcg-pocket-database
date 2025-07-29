@@ -39,7 +39,9 @@ $(".card-grid__cell").each((index, element) => {
     packs: [packName]
   };
 
-  cards.push(cardData);
+  if (!existing.find((card) => card.number === cardData.number && card.set === cardData.set)) {
+    cards.push(cardData);
+  }
 });
 
 const result = JSON.stringify(cards, null, 2);
