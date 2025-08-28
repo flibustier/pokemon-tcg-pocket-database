@@ -81,6 +81,15 @@
     "packs": ["Ho-Oh", "Lugia"]
   },
   {
+    "code": "A4A",
+    "releaseDate": "2025-08-28",
+    "count": 105,
+    "label": {
+      "en": "Secluded Springs"
+    },
+    "packs": ["Secluded"]
+  },
+  {
     "code": "PROMO-A",
     "releaseDate": "2024-10-30",
     "label": {
