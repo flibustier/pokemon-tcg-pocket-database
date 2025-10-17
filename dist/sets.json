@@ -31,7 +31,9 @@
     "releaseDate": "2025-02-28",
     "count": 96,
     "label": {
-      "en": "Triumphant Light"
+      "en": "Triumphant Light",
+      "fr": "Lumière Triomphante",
+      "es": "Luz Triunfal"
     },
     "packs": ["Arceus"]
   },
@@ -90,6 +92,15 @@
     "packs": ["Secluded"]
   },
   {
+    "code": "A4B",
+    "releaseDate": "2025-09-30",
+    "count": 379,
+    "label": {
+      "en": "Deluxe Pack: ex"
+    },
+    "packs": ["Deluxe"]
+  },
+  {
     "code": "PROMO-A",
     "releaseDate": "2024-10-30",
     "label": {
@@ -103,7 +114,12 @@
       "Vol. 5",
       "Vol. 6",
       "Vol. 7",
-      "Vol. 8"
+      "Vol. 8",
+      "Vol. 9",
+      "Vol. 10",
+      "Vol. 11",
+      "Vol. 12",
+      "Vol. 13"
     ]
   }
 ]
