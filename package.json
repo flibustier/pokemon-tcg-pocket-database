@@ -8,7 +8,9 @@
     "dist/rarity.json"
   ],
   "scripts": {
-    "generate": "deno --allow-read --allow-write --allow-env ./scripts/create-db.js"
+    "generate": "deno --allow-read --allow-write --allow-env ./scripts/create-db.js",
+    "download": "bun ./scripts/download-images.ts",
+    "sqliteDB": "bun ./scripts/convert-to-sqlite.ts"
   },
   "keywords": [
     "pokemon",
@@ -29,6 +31,8 @@
   },
   "homepage": "https://github.com/flibustier/pokemon-tcg-pocket-database#readme",
   "devDependencies": {
-    "cheerio": "1.0.0"
+    "cheerio": "^1.1.2",
+    "@types/bun": "latest",
+    "typescript": "^5"
   }
 }
