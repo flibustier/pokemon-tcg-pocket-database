@@ -103,6 +103,7 @@
   {
     "code": "PROMO-A",
     "releaseDate": "2024-10-30",
+    "count": 117,
     "label": {
       "en": "Promo A"
     },
@@ -121,5 +122,22 @@
       "Vol. 12",
       "Vol. 13"
     ]
+  },
+  {
+    "code": "B1",
+    "releaseDate": "2025-10-30",
+    "count": 331,
+    "label": {
+      "en": "Mega Rising"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "code": "PROMO-B",
+    "releaseDate": "2025-10-30",
+    "label": {
+      "en": "Promo B"
+    },
+    "packs": []
   }
 ]

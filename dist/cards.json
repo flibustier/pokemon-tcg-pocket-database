@@ -24871,5 +24871,4109 @@
       "slug": "absol",
       "eng": "Absol"
     }
+  },
+  {
+    "set": "B1",
+    "number": 1,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_010830_00_KAILIOS_C.webp",
+    "label": {
+      "slug": "pinsir",
+      "eng": "Pinsir"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 2,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_010840_00_MEGAKAILIOSex_RR.webp",
+    "label": {
+      "slug": "mega-pinsir-ex",
+      "eng": "Mega Pinsir ex"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 3,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_010850_00_KEMUSSO_C.webp",
+    "label": {
+      "slug": "wurmple",
+      "eng": "Wurmple"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 4,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_010860_00_KARASALIS_C.webp",
+    "label": {
+      "slug": "silcoon",
+      "eng": "Silcoon"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 5,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_010870_00_AGEHUNT_R.webp",
+    "label": {
+      "slug": "beautifly",
+      "eng": "Beautifly"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 6,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_010880_00_MAYULD_C.webp",
+    "label": {
+      "slug": "cascoon",
+      "eng": "Cascoon"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 7,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_010890_00_DOKUCALE_R.webp",
+    "label": {
+      "slug": "dustox",
+      "eng": "Dustox"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 8,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_010900_00_TANEBOH_C.webp",
+    "label": {
+      "slug": "seedot",
+      "eng": "Seedot"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 9,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_010910_00_KONOHANA_U.webp",
+    "label": {
+      "slug": "nuzleaf",
+      "eng": "Nuzleaf"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 10,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_010920_00_DIRTENG_R.webp",
+    "label": {
+      "slug": "shiftry",
+      "eng": "Shiftry"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 11,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_010930_00_KINOCOCO_C.webp",
+    "label": {
+      "slug": "shroomish",
+      "eng": "Shroomish"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 12,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_010940_00_KINOGASSA_U.webp",
+    "label": {
+      "slug": "breloom",
+      "eng": "Breloom"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 13,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_010950_00_YANAPPU_C.webp",
+    "label": {
+      "slug": "pansage",
+      "eng": "Pansage"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 14,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_010960_00_YANAKKIE_C.webp",
+    "label": {
+      "slug": "simisage",
+      "eng": "Simisage"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 15,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_010970_00_MONMEN_C.webp",
+    "label": {
+      "slug": "cottonee",
+      "eng": "Cottonee"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 16,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_010980_00_ELFUUNex_RR.webp",
+    "label": {
+      "slug": "whimsicott-ex",
+      "eng": "Whimsicott ex"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 17,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_010990_00_CHURINE_C.webp",
+    "label": {
+      "slug": "petilil",
+      "eng": "Petilil"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 18,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_011000_00_DREDEAR_R.webp",
+    "label": {
+      "slug": "lilligant",
+      "eng": "Lilligant"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 19,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011010_00_MARACACCHI_C.webp",
+    "label": {
+      "slug": "maractus",
+      "eng": "Maractus"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 20,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_011020_00_VIRIZION_R.webp",
+    "label": {
+      "slug": "virizion",
+      "eng": "Virizion"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 21,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011030_00_MEECLE_C.webp",
+    "label": {
+      "slug": "skiddo",
+      "eng": "Skiddo"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 22,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011040_00_GOGOAT_C.webp",
+    "label": {
+      "slug": "gogoat",
+      "eng": "Gogoat"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 23,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011050_00_BOKUREI_C.webp",
+    "label": {
+      "slug": "phantump",
+      "eng": "Phantump"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 24,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_011060_00_OHROT_U.webp",
+    "label": {
+      "slug": "trevenant",
+      "eng": "Trevenant"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 25,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011070_00_SARUNORI_C.webp",
+    "label": {
+      "slug": "grookey",
+      "eng": "Grookey"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 26,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_011080_00_BACHINKEY_U.webp",
+    "label": {
+      "slug": "thwackey",
+      "eng": "Thwackey"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 27,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_011090_00_GORIRANDER_R.webp",
+    "label": {
+      "slug": "rillaboom",
+      "eng": "Rillaboom"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 28,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011100_00_GARDIE_C.webp",
+    "label": {
+      "slug": "growlithe",
+      "eng": "Growlithe"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 29,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_011110_00_WINDIE_U.webp",
+    "label": {
+      "slug": "arcanine",
+      "eng": "Arcanine"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 30,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011120_00_PONYTA_C.webp",
+    "label": {
+      "slug": "ponyta",
+      "eng": "Ponyta"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 31,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_011130_00_GALLOPex_RR.webp",
+    "label": {
+      "slug": "rapidash-ex",
+      "eng": "Rapidash ex"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 32,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_011140_00_HOUOU_R.webp",
+    "label": {
+      "slug": "ho-oh",
+      "eng": "Ho-Oh"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 33,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011150_00_ACHAMO_C.webp",
+    "label": {
+      "slug": "torchic",
+      "eng": "Torchic"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 34,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_011160_00_WAKASYAMO_U.webp",
+    "label": {
+      "slug": "combusken",
+      "eng": "Combusken"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 35,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_011170_00_BURSYAMO_R.webp",
+    "label": {
+      "slug": "blaziken",
+      "eng": "Blaziken"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 36,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_011180_00_MEGABURSYAMOex_RR.webp",
+    "label": {
+      "slug": "mega-blaziken-ex",
+      "eng": "Mega Blaziken ex"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 37,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011190_00_BAOPPU_C.webp",
+    "label": {
+      "slug": "pansear",
+      "eng": "Pansear"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 38,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011200_00_BAOKKIE_C.webp",
+    "label": {
+      "slug": "simisear",
+      "eng": "Simisear"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 39,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011210_00_DARUMAKKA_C.webp",
+    "label": {
+      "slug": "darumaka",
+      "eng": "Darumaka"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 40,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_011220_00_HIHIDARUMA_U.webp",
+    "label": {
+      "slug": "darmanitan",
+      "eng": "Darmanitan"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 41,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011230_00_HITOMOSHI_C.webp",
+    "label": {
+      "slug": "litwick",
+      "eng": "Litwick"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 42,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_011240_00_LAMPLER_U.webp",
+    "label": {
+      "slug": "lampent",
+      "eng": "Lampent"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 43,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_011250_00_CHANDELA_R.webp",
+    "label": {
+      "slug": "chandelure",
+      "eng": "Chandelure"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 44,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011260_00_KUITARAN_C.webp",
+    "label": {
+      "slug": "heatmor",
+      "eng": "Heatmor"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 45,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011270_00_SHISHIKO_C.webp",
+    "label": {
+      "slug": "litleo",
+      "eng": "Litleo"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 46,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_011280_00_KAENJISHI_R.webp",
+    "label": {
+      "slug": "pyroar",
+      "eng": "Pyroar"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 47,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_011290_00_BAKUGAMES_U.webp",
+    "label": {
+      "slug": "turtonator",
+      "eng": "Turtonator"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 48,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011300_00_KODUCK_C.webp",
+    "label": {
+      "slug": "psyduck",
+      "eng": "Psyduck"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 49,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011310_00_GOLDUCK_C.webp",
+    "label": {
+      "slug": "golduck",
+      "eng": "Golduck"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 50,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011320_00_KOIKING_C.webp",
+    "label": {
+      "slug": "magikarp",
+      "eng": "Magikarp"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 51,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_011330_00_GYARADOS_R.webp",
+    "label": {
+      "slug": "gyarados",
+      "eng": "Gyarados"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 52,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_011340_00_MEGAGYARADOSex_RR.webp",
+    "label": {
+      "slug": "mega-gyarados-ex",
+      "eng": "Mega Gyarados ex"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 53,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011350_00_HASSBOH_C.webp",
+    "label": {
+      "slug": "lotad",
+      "eng": "Lotad"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 54,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_011360_00_HASUBRERO_U.webp",
+    "label": {
+      "slug": "lombre",
+      "eng": "Lombre"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 55,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_011370_00_RUNPAPPA_R.webp",
+    "label": {
+      "slug": "ludicolo",
+      "eng": "Ludicolo"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 56,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011380_00_HOERUKO_C.webp",
+    "label": {
+      "slug": "wailmer",
+      "eng": "Wailmer"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 57,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_011390_00_WHALOH_R.webp",
+    "label": {
+      "slug": "wailord",
+      "eng": "Wailord"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 58,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011400_00_HEIGANI_C.webp",
+    "label": {
+      "slug": "corphish",
+      "eng": "Corphish"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 59,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_011410_00_SHIZARIGER_U.webp",
+    "label": {
+      "slug": "crawdaunt",
+      "eng": "Crawdaunt"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 60,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011420_00_LOVECUS_C.webp",
+    "label": {
+      "slug": "luvdisc",
+      "eng": "Luvdisc"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 61,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011430_00_HIYAPPU_C.webp",
+    "label": {
+      "slug": "panpour",
+      "eng": "Panpour"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 62,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011440_00_HIYAKKIE_C.webp",
+    "label": {
+      "slug": "simipour",
+      "eng": "Simipour"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 63,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011450_00_OTAMARO_C.webp",
+    "label": {
+      "slug": "tympole",
+      "eng": "Tympole"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 64,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011460_00_GAMAGARU_C.webp",
+    "label": {
+      "slug": "palpitoad",
+      "eng": "Palpitoad"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 65,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_011470_00_GAMAGEROGE_U.webp",
+    "label": {
+      "slug": "seismitoad",
+      "eng": "Seismitoad"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 66,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_011480_00_PROTOGA_U.webp",
+    "label": {
+      "slug": "tirtouga",
+      "eng": "Tirtouga"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 67,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_011490_00_ABAGOURA_R.webp",
+    "label": {
+      "slug": "carracosta",
+      "eng": "Carracosta"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 68,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011500_00_PURURILL_C.webp",
+    "label": {
+      "slug": "frillish",
+      "eng": "Frillish"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 69,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_011510_00_BURUNGEL_R.webp",
+    "label": {
+      "slug": "jellicent",
+      "eng": "Jellicent"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 70,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_011520_00_KELDEOITSUMONOSUGATA_R.webp",
+    "label": {
+      "slug": "keldeo",
+      "eng": "Keldeo"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 71,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011530_00_KEROMATSU_C.webp",
+    "label": {
+      "slug": "froakie",
+      "eng": "Froakie"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 72,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_011540_00_GEKOGASHIRA_U.webp",
+    "label": {
+      "slug": "frogadier",
+      "eng": "Frogadier"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 73,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_011550_00_GEKKOUGAex_RR.webp",
+    "label": {
+      "slug": "greninja-ex",
+      "eng": "Greninja ex"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 74,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011560_00_KACHIKOHRU_C.webp",
+    "label": {
+      "slug": "bergmite",
+      "eng": "Bergmite"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 75,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_011570_00_CREBASE_U.webp",
+    "label": {
+      "slug": "avalugg",
+      "eng": "Avalugg"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 76,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011580_00_KAMUKAME_C.webp",
+    "label": {
+      "slug": "chewtle",
+      "eng": "Chewtle"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 77,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_011590_00_KAJIRIGAME_U.webp",
+    "label": {
+      "slug": "drednaw",
+      "eng": "Drednaw"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 78,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011600_00_SASIKAMASU_C.webp",
+    "label": {
+      "slug": "arrokuda",
+      "eng": "Arrokuda"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 79,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_011610_00_KAMASUJAW_U.webp",
+    "label": {
+      "slug": "barraskewda",
+      "eng": "Barraskewda"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 80,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_011620_00_KORIPPO_R.webp",
+    "label": {
+      "slug": "eiscue",
+      "eng": "Eiscue"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 81,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_011630_00_THUNDERSex_RR.webp",
+    "label": {
+      "slug": "jolteon-ex",
+      "eng": "Jolteon ex"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 82,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011640_00_MERRIEP_C.webp",
+    "label": {
+      "slug": "mareep",
+      "eng": "Mareep"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 83,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_011650_00_MOKOKO_U.webp",
+    "label": {
+      "slug": "flaaffy",
+      "eng": "Flaaffy"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 84,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_011660_00_DENRYU_R.webp",
+    "label": {
+      "slug": "ampharos",
+      "eng": "Ampharos"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 85,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_011670_00_MEGADENRYUex_RR.webp",
+    "label": {
+      "slug": "mega-ampharos-ex",
+      "eng": "Mega Ampharos ex"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 86,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011680_00_KOLINK_C.webp",
+    "label": {
+      "slug": "shinx",
+      "eng": "Shinx"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 87,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_011690_00_LUXIO_U.webp",
+    "label": {
+      "slug": "luxio",
+      "eng": "Luxio"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 88,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_011700_00_RENTORAR_R.webp",
+    "label": {
+      "slug": "luxray",
+      "eng": "Luxray"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 89,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011710_00_PACHIRISU_C.webp",
+    "label": {
+      "slug": "pachirisu",
+      "eng": "Pachirisu"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 90,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011720_00_SHIMAMA_C.webp",
+    "label": {
+      "slug": "blitzle",
+      "eng": "Blitzle"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 91,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_011730_00_ZEBRAIKA_U.webp",
+    "label": {
+      "slug": "zebstrika",
+      "eng": "Zebstrika"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 92,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011740_00_BACHURU_C.webp",
+    "label": {
+      "slug": "joltik",
+      "eng": "Joltik"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 93,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_011750_00_DENTULA_U.webp",
+    "label": {
+      "slug": "galvantula",
+      "eng": "Galvantula"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 94,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011760_00_DEDENNE_C.webp",
+    "label": {
+      "slug": "dedenne",
+      "eng": "Dedenne"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 95,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011770_00_WANPACHI_C.webp",
+    "label": {
+      "slug": "yamper",
+      "eng": "Yamper"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 96,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_011780_00_PULSEWAN_U.webp",
+    "label": {
+      "slug": "boltund",
+      "eng": "Boltund"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 97,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011790_00_NATY_C.webp",
+    "label": {
+      "slug": "natu",
+      "eng": "Natu"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 98,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_011800_00_NATIO_U.webp",
+    "label": {
+      "slug": "xatu",
+      "eng": "Xatu"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 99,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011810_00_MUMA_C.webp",
+    "label": {
+      "slug": "misdreavus",
+      "eng": "Misdreavus"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 100,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_011820_00_MUMARGI_U.webp",
+    "label": {
+      "slug": "mismagius",
+      "eng": "Mismagius"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 101,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011830_00_YAMIRAMI_C.webp",
+    "label": {
+      "slug": "sableye",
+      "eng": "Sableye"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 102,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_011840_00_MEGATYLTALISex_RR.webp",
+    "label": {
+      "slug": "mega-altaria-ex",
+      "eng": "Mega Altaria ex"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 103,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011850_00_YOMAWARU_C.webp",
+    "label": {
+      "slug": "duskull",
+      "eng": "Duskull"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 104,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_011860_00_SAMAYOURU_U.webp",
+    "label": {
+      "slug": "dusclops",
+      "eng": "Dusclops"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 105,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_011870_00_YONOIR_R.webp",
+    "label": {
+      "slug": "dusknoir",
+      "eng": "Dusknoir"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 106,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_011880_00_JIRACHI_R.webp",
+    "label": {
+      "slug": "jirachi",
+      "eng": "Jirachi"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 107,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011890_00_FUWANTE_C.webp",
+    "label": {
+      "slug": "drifloon",
+      "eng": "Drifloon"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 108,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_011900_00_FUWARIDE_U.webp",
+    "label": {
+      "slug": "drifblim",
+      "eng": "Drifblim"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 109,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_011910_00_LISYAN_R.webp",
+    "label": {
+      "slug": "chingling",
+      "eng": "Chingling"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 110,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011920_00_DESUMASU_C.webp",
+    "label": {
+      "slug": "yamask",
+      "eng": "Yamask"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 111,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_011930_00_DESUKARN_R.webp",
+    "label": {
+      "slug": "cofagrigus",
+      "eng": "Cofagrigus"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 112,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011940_00_GOTHIMU_C.webp",
+    "label": {
+      "slug": "gothita",
+      "eng": "Gothita"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 113,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_011950_00_GOTHIMIRU_U.webp",
+    "label": {
+      "slug": "gothorita",
+      "eng": "Gothorita"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 114,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_011960_00_GOTHIRUSELLE_R.webp",
+    "label": {
+      "slug": "gothitelle",
+      "eng": "Gothitelle"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 115,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011970_00_SHUSHUPU_C.webp",
+    "label": {
+      "slug": "spritzee",
+      "eng": "Spritzee"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 116,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_011980_00_FREFUWAN_U.webp",
+    "label": {
+      "slug": "aromatisse",
+      "eng": "Aromatisse"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 117,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_011990_00_PEROPPAFU_C.webp",
+    "label": {
+      "slug": "swirlix",
+      "eng": "Swirlix"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 118,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_012000_00_PEROREAM_U.webp",
+    "label": {
+      "slug": "slurpuff",
+      "eng": "Slurpuff"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 119,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012010_00_MELECIE_C.webp",
+    "label": {
+      "slug": "carbink",
+      "eng": "Carbink"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 120,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_012020_00_CLEFFY_R.webp",
+    "label": {
+      "slug": "klefki",
+      "eng": "Klefki"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 121,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_012030_00_YESSANMESUNOSUGATA_RR.webp",
+    "label": {
+      "slug": "indeedee-ex",
+      "eng": "Indeedee ex"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 122,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012040_00_SAND_C.webp",
+    "label": {
+      "slug": "sandshrew",
+      "eng": "Sandshrew"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 123,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_012050_00_SANDPAN_U.webp",
+    "label": {
+      "slug": "sandslash",
+      "eng": "Sandslash"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 124,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_012060_00_EBIWALARex_RR.webp",
+    "label": {
+      "slug": "hitmonchan-ex",
+      "eng": "Hitmonchan ex"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 125,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012070_00_USOKKIE_C.webp",
+    "label": {
+      "slug": "sudowoodo",
+      "eng": "Sudowoodo"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 126,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012080_00_MAKUNOSHITA_C.webp",
+    "label": {
+      "slug": "makuhita",
+      "eng": "Makuhita"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 127,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_012090_00_HARITEYAMA_U.webp",
+    "label": {
+      "slug": "hariyama",
+      "eng": "Hariyama"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 128,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012100_00_HIPPOPOTAS_C.webp",
+    "label": {
+      "slug": "hippopotas",
+      "eng": "Hippopotas"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 129,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_012110_00_KABALDON_U.webp",
+    "label": {
+      "slug": "hippowdon",
+      "eng": "Hippowdon"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 130,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012120_00_MEGUROCO_C.webp",
+    "label": {
+      "slug": "sandile",
+      "eng": "Sandile"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 131,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_012130_00_WARUVILE_U.webp",
+    "label": {
+      "slug": "krokorok",
+      "eng": "Krokorok"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 132,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_012140_00_WARUVIAL_R.webp",
+    "label": {
+      "slug": "krookodile",
+      "eng": "Krookodile"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 133,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_012150_00_ARCHEN_U.webp",
+    "label": {
+      "slug": "archen",
+      "eng": "Archen"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 134,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_012160_00_ARCHEOS_R.webp",
+    "label": {
+      "slug": "archeops",
+      "eng": "Archeops"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 135,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012170_00_GOBIT_C.webp",
+    "label": {
+      "slug": "golett",
+      "eng": "Golett"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 136,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_012180_00_GOLOOG_R.webp",
+    "label": {
+      "slug": "golurk",
+      "eng": "Golurk"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 137,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_012190_00_TERRAKION_R.webp",
+    "label": {
+      "slug": "terrakion",
+      "eng": "Terrakion"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 138,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012200_00_YANCHAM_C.webp",
+    "label": {
+      "slug": "pancham",
+      "eng": "Pancham"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 139,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012210_00_MAKENKANI_C.webp",
+    "label": {
+      "slug": "crabrawler",
+      "eng": "Crabrawler"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 140,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_012220_00_KEKENKANI_U.webp",
+    "label": {
+      "slug": "crabominable",
+      "eng": "Crabominable"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 141,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012230_00_NUIKOGUMA_C.webp",
+    "label": {
+      "slug": "stufful",
+      "eng": "Stufful"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 142,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_012240_00_KITERUGUMA_U.webp",
+    "label": {
+      "slug": "bewear",
+      "eng": "Bewear"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 143,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012250_00_SUNABA_C.webp",
+    "label": {
+      "slug": "sandygast",
+      "eng": "Sandygast"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 144,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_012260_00_SIRODETHNA_U.webp",
+    "label": {
+      "slug": "palossand",
+      "eng": "Palossand"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 145,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012270_00_TANDON_C.webp",
+    "label": {
+      "slug": "rolycoly",
+      "eng": "Rolycoly"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 146,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_012280_00_TOROGGON_U.webp",
+    "label": {
+      "slug": "carkol",
+      "eng": "Carkol"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 147,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_012290_00_SEKITANZAN_R.webp",
+    "label": {
+      "slug": "coalossal",
+      "eng": "Coalossal"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 148,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012300_00_YAMIKARASU_C.webp",
+    "label": {
+      "slug": "murkrow",
+      "eng": "Murkrow"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 149,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_012310_00_DONGKARASU_R.webp",
+    "label": {
+      "slug": "honchkrow",
+      "eng": "Honchkrow"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 150,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_012320_00_ABSOL_U.webp",
+    "label": {
+      "slug": "absol",
+      "eng": "Absol"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 151,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_012330_00_MEGAABSOLex_RR.webp",
+    "label": {
+      "slug": "mega-absol-ex",
+      "eng": "Mega Absol ex"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 152,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012340_00_SCORUPI_C.webp",
+    "label": {
+      "slug": "skorupi",
+      "eng": "Skorupi"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 153,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_012350_00_DORAPION_U.webp",
+    "label": {
+      "slug": "drapion",
+      "eng": "Drapion"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 154,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_012360_00_DARKRAI_R.webp",
+    "label": {
+      "slug": "darkrai",
+      "eng": "Darkrai"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 155,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012370_00_MONOZU_C.webp",
+    "label": {
+      "slug": "deino",
+      "eng": "Deino"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 156,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_012380_00_DIHEAD_U.webp",
+    "label": {
+      "slug": "zweilous",
+      "eng": "Zweilous"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 157,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_012390_00_SAZANDORA_R.webp",
+    "label": {
+      "slug": "hydreigon",
+      "eng": "Hydreigon"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 158,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_012400_00_GORONDA_R.webp",
+    "label": {
+      "slug": "pangoro",
+      "eng": "Pangoro"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 159,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012410_00_KUZUMO_C.webp",
+    "label": {
+      "slug": "skrelp",
+      "eng": "Skrelp"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 160,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_012420_00_DRAMIDOROex_RR.webp",
+    "label": {
+      "slug": "dragalge-ex",
+      "eng": "Dragalge ex"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 161,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012430_00_HIDOIDE_C.webp",
+    "label": {
+      "slug": "mareanie",
+      "eng": "Mareanie"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 162,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_012440_00_DOHIDOIDE_U.webp",
+    "label": {
+      "slug": "toxapex",
+      "eng": "Toxapex"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 163,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012450_00_BEROBA_C.webp",
+    "label": {
+      "slug": "impidimp",
+      "eng": "Impidimp"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 164,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_012460_00_GIMOH_U.webp",
+    "label": {
+      "slug": "morgrem",
+      "eng": "Morgrem"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 165,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_012470_00_OHLONGE_R.webp",
+    "label": {
+      "slug": "grimmsnarl",
+      "eng": "Grimmsnarl"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 166,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012480_00_TESSEED_C.webp",
+    "label": {
+      "slug": "ferroseed",
+      "eng": "Ferroseed"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 167,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_012490_00_NUTREY_U.webp",
+    "label": {
+      "slug": "ferrothorn",
+      "eng": "Ferrothorn"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 168,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012500_00_AIANT_C.webp",
+    "label": {
+      "slug": "durant",
+      "eng": "Durant"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 169,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_012510_00_COBALON_R.webp",
+    "label": {
+      "slug": "cobalion",
+      "eng": "Cobalion"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 170,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012520_00_HITOTSUKI_C.webp",
+    "label": {
+      "slug": "honedge",
+      "eng": "Honedge"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 171,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_012530_00_NIDANGILL_U.webp",
+    "label": {
+      "slug": "doublade",
+      "eng": "Doublade"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 172,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_012540_00_GILLGARDBLADEFORME_R.webp",
+    "label": {
+      "slug": "aegislash",
+      "eng": "Aegislash"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 173,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012550_00_MELTAN_C.webp",
+    "label": {
+      "slug": "meltan",
+      "eng": "Meltan"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 174,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_012560_00_MELMETALex_RR.webp",
+    "label": {
+      "slug": "melmetal-ex",
+      "eng": "Melmetal ex"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 175,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_012570_00_ARMORGA_R.webp",
+    "label": {
+      "slug": "corviknight",
+      "eng": "Corviknight"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 176,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012580_00_CRIMGAN_C.webp",
+    "label": {
+      "slug": "druddigon",
+      "eng": "Druddigon"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 177,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012590_00_NUMERA_C.webp",
+    "label": {
+      "slug": "goomy",
+      "eng": "Goomy"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 178,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_012600_00_NUMEIL_U.webp",
+    "label": {
+      "slug": "sliggoo",
+      "eng": "Sliggoo"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 179,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_012610_00_NUMELGON_R.webp",
+    "label": {
+      "slug": "goodra",
+      "eng": "Goodra"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 180,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012620_00_POPPO_C.webp",
+    "label": {
+      "slug": "pidgey",
+      "eng": "Pidgey"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 181,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012630_00_PIGEON_C.webp",
+    "label": {
+      "slug": "pidgeotto",
+      "eng": "Pidgeotto"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 182,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_012640_00_PIGEOT_U.webp",
+    "label": {
+      "slug": "pidgeot",
+      "eng": "Pidgeot"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 183,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_012650_00_KENTAUROSex_RR.webp",
+    "label": {
+      "slug": "tauros-ex",
+      "eng": "Tauros ex"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 184,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012660_00_EIEVUI_C.webp",
+    "label": {
+      "slug": "eevee",
+      "eng": "Eevee"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 185,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012670_00_EIPAM_C.webp",
+    "label": {
+      "slug": "aipom",
+      "eng": "Aipom"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 186,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_012680_00_ETEBOTH_U.webp",
+    "label": {
+      "slug": "ambipom",
+      "eng": "Ambipom"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 187,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012690_00_MILTANK_C.webp",
+    "label": {
+      "slug": "miltank",
+      "eng": "Miltank"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 188,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012700_00_JIGUZAGUMA_C.webp",
+    "label": {
+      "slug": "zigzagoon",
+      "eng": "Zigzagoon"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 189,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_012710_00_MASSUGUMA_U.webp",
+    "label": {
+      "slug": "linoone",
+      "eng": "Linoone"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 190,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012720_00_GONYONYO_C.webp",
+    "label": {
+      "slug": "whismur",
+      "eng": "Whismur"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 191,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012730_00_DOGOHMB_C.webp",
+    "label": {
+      "slug": "loudred",
+      "eng": "Loudred"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 192,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_012740_00_BAKUONG_R.webp",
+    "label": {
+      "slug": "exploud",
+      "eng": "Exploud"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 193,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012750_00_ENECO_C.webp",
+    "label": {
+      "slug": "skitty",
+      "eng": "Skitty"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 194,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_012760_00_ENEKORORO_R.webp",
+    "label": {
+      "slug": "delcatty",
+      "eng": "Delcatty"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 195,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012770_00_PATCHEEL_C.webp",
+    "label": {
+      "slug": "spinda",
+      "eng": "Spinda"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 196,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012780_00_TYLTTO_C.webp",
+    "label": {
+      "slug": "swablu",
+      "eng": "Swablu"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 197,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_012790_00_TYLTALIS_R.webp",
+    "label": {
+      "slug": "altaria",
+      "eng": "Altaria"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 198,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012800_00_PERAP_C.webp",
+    "label": {
+      "slug": "chatot",
+      "eng": "Chatot"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 199,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012810_00_MINEZUMI_C.webp",
+    "label": {
+      "slug": "patrat",
+      "eng": "Patrat"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 200,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_012820_00_MIRUHOG_U.webp",
+    "label": {
+      "slug": "watchog",
+      "eng": "Watchog"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 201,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012830_00_YORTERRIE_C.webp",
+    "label": {
+      "slug": "lillipup",
+      "eng": "Lillipup"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 202,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_012840_00_HERDERRIE_U.webp",
+    "label": {
+      "slug": "herdier",
+      "eng": "Herdier"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 203,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_012850_00_MOOLAND_R.webp",
+    "label": {
+      "slug": "stoutland",
+      "eng": "Stoutland"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 204,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012860_00_WASHIBON_C.webp",
+    "label": {
+      "slug": "rufflet",
+      "eng": "Rufflet"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 205,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_012870_00_WARRGLE_U.webp",
+    "label": {
+      "slug": "braviary",
+      "eng": "Braviary"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 206,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_012880_00_TRIMMIENYASEINOSUGATA_U.webp",
+    "label": {
+      "slug": "furfrou",
+      "eng": "Furfrou"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 207,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_012880_01_TRIMMIENHEARTCUT_U.webp",
+    "label": {
+      "slug": "furfrou",
+      "eng": "Furfrou"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 208,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_012880_02_TRIMMIENKINGDOMCUT_U.webp",
+    "label": {
+      "slug": "furfrou",
+      "eng": "Furfrou"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 209,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012890_00_KOKOGARA_C.webp",
+    "label": {
+      "slug": "rookidee",
+      "eng": "Rookidee"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 210,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_012900_00_AOGARASU_U.webp",
+    "label": {
+      "slug": "corvisquire",
+      "eng": "Corvisquire"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 211,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_012910_00_WOOLUU_C.webp",
+    "label": {
+      "slug": "wooloo",
+      "eng": "Wooloo"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 212,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_012920_00_BAIWOOLUU_U.webp",
+    "label": {
+      "slug": "dubwool",
+      "eng": "Dubwool"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 213,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_000870_00_ITAZURAROULETTE_U.webp",
+    "label": {
+      "slug": "prank-spinner",
+      "eng": "Prank Spinner"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 214,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cTR_10_000880_00_HANENOKASEKI_C.webp",
+    "label": {
+      "slug": "plume-fossil",
+      "eng": "Plume Fossil"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 215,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_000890_00_HITHAMMER_U.webp",
+    "label": {
+      "slug": "hitting-hammer",
+      "eng": "Hitting Hammer"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 216,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cTR_10_000900_00_FUTANOKASEKI_C.webp",
+    "label": {
+      "slug": "cover-fossil",
+      "eng": "Cover Fossil"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 217,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_000910_00_FUREIMUPACCHI_U.webp",
+    "label": {
+      "slug": "flame-patch",
+      "eng": "Flame Patch"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 218,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_000920_00_OBONNOMI_U.webp",
+    "label": {
+      "slug": "sitrus-berry",
+      "eng": "Sitrus Berry"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 219,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_000930_00_BABYMET_U.webp",
+    "label": {
+      "slug": "heavy-helmet",
+      "eng": "Heavy Helmet"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 220,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_000940_00_LUCKYMITTENS_U.webp",
+    "label": {
+      "slug": "lucky-mittens",
+      "eng": "Lucky Mittens"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 221,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_000950_00_SHIZUI_U.webp",
+    "label": {
+      "slug": "marlon",
+      "eng": "Marlon"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 222,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_000960_00_HALA_U.webp",
+    "label": {
+      "slug": "hala",
+      "eng": "Hala"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 223,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_000970_00_HARUKA_U.webp",
+    "label": {
+      "slug": "may",
+      "eng": "May"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 224,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_000980_00_MELISSA_U.webp",
+    "label": {
+      "slug": "fantina",
+      "eng": "Fantina"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 225,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_000990_00_MONOMANEMUSUME_U.webp",
+    "label": {
+      "slug": "copycat",
+      "eng": "Copycat"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 226,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_001000_00_RUCHIA_U.webp",
+    "label": {
+      "slug": "lisia",
+      "eng": "Lisia"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 227,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_010870_00_AGEHUNT_AR.webp",
+    "label": {
+      "slug": "beautifly",
+      "eng": "Beautifly"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 228,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_011030_00_MEECLE_AR.webp",
+    "label": {
+      "slug": "skiddo",
+      "eng": "Skiddo"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 229,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_011090_00_GORIRANDER_AR.webp",
+    "label": {
+      "slug": "rillaboom",
+      "eng": "Rillaboom"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 230,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_011100_00_GARDIE_AR.webp",
+    "label": {
+      "slug": "growlithe",
+      "eng": "Growlithe"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 231,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_011250_00_CHANDELA_AR.webp",
+    "label": {
+      "slug": "chandelure",
+      "eng": "Chandelure"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 232,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_011320_00_KOIKING_AR.webp",
+    "label": {
+      "slug": "magikarp",
+      "eng": "Magikarp"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 233,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_011370_00_RUNPAPPA_AR.webp",
+    "label": {
+      "slug": "ludicolo",
+      "eng": "Ludicolo"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 234,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_011510_00_BURUNGEL_AR.webp",
+    "label": {
+      "slug": "jellicent",
+      "eng": "Jellicent"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 235,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_011520_00_KELDEOITSUMONOSUGATA_AR.webp",
+    "label": {
+      "slug": "keldeo",
+      "eng": "Keldeo"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 236,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_011620_00_KORIPPO_AR.webp",
+    "label": {
+      "slug": "eiscue",
+      "eng": "Eiscue"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 237,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_011700_00_RENTORAR_AR.webp",
+    "label": {
+      "slug": "luxray",
+      "eng": "Luxray"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 238,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_011930_00_DESUKARN_AR.webp",
+    "label": {
+      "slug": "cofagrigus",
+      "eng": "Cofagrigus"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 239,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_011940_00_GOTHIMU_AR.webp",
+    "label": {
+      "slug": "gothita",
+      "eng": "Gothita"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 240,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_012080_00_MAKUNOSHITA_AR.webp",
+    "label": {
+      "slug": "makuhita",
+      "eng": "Makuhita"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 241,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_012110_00_KABALDON_AR.webp",
+    "label": {
+      "slug": "hippowdon",
+      "eng": "Hippowdon"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 242,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_012160_00_ARCHEOS_AR.webp",
+    "label": {
+      "slug": "archeops",
+      "eng": "Archeops"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 243,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_012200_00_YANCHAM_AR.webp",
+    "label": {
+      "slug": "pancham",
+      "eng": "Pancham"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 244,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_012310_00_DONGKARASU_AR.webp",
+    "label": {
+      "slug": "honchkrow",
+      "eng": "Honchkrow"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 245,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_012390_00_SAZANDORA_AR.webp",
+    "label": {
+      "slug": "hydreigon",
+      "eng": "Hydreigon"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 246,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_012570_00_ARMORGA_AR.webp",
+    "label": {
+      "slug": "corviknight",
+      "eng": "Corviknight"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 247,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_012590_00_NUMERA_AR.webp",
+    "label": {
+      "slug": "goomy",
+      "eng": "Goomy"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 248,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_012760_00_ENEKORORO_AR.webp",
+    "label": {
+      "slug": "delcatty",
+      "eng": "Delcatty"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 249,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_012850_00_MOOLAND_AR.webp",
+    "label": {
+      "slug": "stoutland",
+      "eng": "Stoutland"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 250,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_012860_00_WASHIBON_AR.webp",
+    "label": {
+      "slug": "rufflet",
+      "eng": "Rufflet"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 251,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_010840_00_MEGAKAILIOSex_SR.webp",
+    "label": {
+      "slug": "mega-pinsir-ex",
+      "eng": "Mega Pinsir ex"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 252,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_010980_00_ELFUUNex_SR.webp",
+    "label": {
+      "slug": "whimsicott-ex",
+      "eng": "Whimsicott ex"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 253,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_011130_00_GALLOPex_SR.webp",
+    "label": {
+      "slug": "rapidash-ex",
+      "eng": "Rapidash ex"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 254,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_011180_00_MEGABURSYAMOex_SR.webp",
+    "label": {
+      "slug": "mega-blaziken-ex",
+      "eng": "Mega Blaziken ex"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 255,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_011340_00_MEGAGYARADOSex_SR.webp",
+    "label": {
+      "slug": "mega-gyarados-ex",
+      "eng": "Mega Gyarados ex"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 256,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_011550_00_GEKKOUGAex_SR.webp",
+    "label": {
+      "slug": "greninja-ex",
+      "eng": "Greninja ex"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 257,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_011630_00_THUNDERSex_SR.webp",
+    "label": {
+      "slug": "jolteon-ex",
+      "eng": "Jolteon ex"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 258,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_011670_00_MEGADENRYUex_SR.webp",
+    "label": {
+      "slug": "mega-ampharos-ex",
+      "eng": "Mega Ampharos ex"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 259,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_011840_00_MEGATYLTALISex_SR.webp",
+    "label": {
+      "slug": "mega-altaria-ex",
+      "eng": "Mega Altaria ex"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 260,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_012030_00_YESSANMESUNOSUGATA_SR.webp",
+    "label": {
+      "slug": "indeedee-ex",
+      "eng": "Indeedee ex"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 261,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_012060_00_EBIWALARex_SR.webp",
+    "label": {
+      "slug": "hitmonchan-ex",
+      "eng": "Hitmonchan ex"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 262,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_012330_00_MEGAABSOLex_SR.webp",
+    "label": {
+      "slug": "mega-absol-ex",
+      "eng": "Mega Absol ex"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 263,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_012420_00_DRAMIDOROex_SR.webp",
+    "label": {
+      "slug": "dragalge-ex",
+      "eng": "Dragalge ex"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 264,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_012560_00_MELMETALex_SR.webp",
+    "label": {
+      "slug": "melmetal-ex",
+      "eng": "Melmetal ex"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 265,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_012650_00_KENTAUROSex_SR.webp",
+    "label": {
+      "slug": "tauros-ex",
+      "eng": "Tauros ex"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 266,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cTR_20_000950_00_SHIZUI_SR.webp",
+    "label": {
+      "slug": "marlon",
+      "eng": "Marlon"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 267,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cTR_20_000960_00_HALA_SR.webp",
+    "label": {
+      "slug": "hala",
+      "eng": "Hala"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 268,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cTR_20_000970_00_HARUKA_SR.webp",
+    "label": {
+      "slug": "may",
+      "eng": "May"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 269,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cTR_20_000980_00_MELISSA_SR.webp",
+    "label": {
+      "slug": "fantina",
+      "eng": "Fantina"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 270,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cTR_20_000990_00_MONOMANEMUSUME_SR.webp",
+    "label": {
+      "slug": "copycat",
+      "eng": "Copycat"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 271,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cTR_20_001000_00_RUCHIA_SR.webp",
+    "label": {
+      "slug": "lisia",
+      "eng": "Lisia"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 272,
+    "rarity": "Special Art Rare",
+    "rarityCode": "SAR",
+    "imageName": "cPK_20_010840_01_MEGAKAILIOSex_SAR.webp",
+    "label": {
+      "slug": "mega-pinsir-ex",
+      "eng": "Mega Pinsir ex"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 273,
+    "rarity": "Special Art Rare",
+    "rarityCode": "SAR",
+    "imageName": "cPK_20_010980_01_ELFUUNex_SAR.webp",
+    "label": {
+      "slug": "whimsicott-ex",
+      "eng": "Whimsicott ex"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 274,
+    "rarity": "Special Art Rare",
+    "rarityCode": "SAR",
+    "imageName": "cPK_20_011130_01_GALLOPex_SAR.webp",
+    "label": {
+      "slug": "rapidash-ex",
+      "eng": "Rapidash ex"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 275,
+    "rarity": "Special Art Rare",
+    "rarityCode": "SAR",
+    "imageName": "cPK_20_011550_01_GEKKOUGAex_SAR.webp",
+    "label": {
+      "slug": "greninja-ex",
+      "eng": "Greninja ex"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 276,
+    "rarity": "Special Art Rare",
+    "rarityCode": "SAR",
+    "imageName": "cPK_20_011630_01_THUNDERSex_SAR.webp",
+    "label": {
+      "slug": "jolteon-ex",
+      "eng": "Jolteon ex"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 277,
+    "rarity": "Special Art Rare",
+    "rarityCode": "SAR",
+    "imageName": "cPK_20_011670_01_MEGADENRYUex_SAR.webp",
+    "label": {
+      "slug": "mega-ampharos-ex",
+      "eng": "Mega Ampharos ex"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 278,
+    "rarity": "Special Art Rare",
+    "rarityCode": "SAR",
+    "imageName": "cPK_20_012030_01_YESSANMESUNOSUGATA_SAR.webp",
+    "label": {
+      "slug": "indeedee-ex",
+      "eng": "Indeedee ex"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 279,
+    "rarity": "Special Art Rare",
+    "rarityCode": "SAR",
+    "imageName": "cPK_20_012060_01_EBIWALARex_SAR.webp",
+    "label": {
+      "slug": "hitmonchan-ex",
+      "eng": "Hitmonchan ex"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 280,
+    "rarity": "Special Art Rare",
+    "rarityCode": "SAR",
+    "imageName": "cPK_20_012330_01_MEGAABSOLex_SAR.webp",
+    "label": {
+      "slug": "mega-absol-ex",
+      "eng": "Mega Absol ex"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 281,
+    "rarity": "Special Art Rare",
+    "rarityCode": "SAR",
+    "imageName": "cPK_20_012420_01_DRAMIDOROex_SAR.webp",
+    "label": {
+      "slug": "dragalge-ex",
+      "eng": "Dragalge ex"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 282,
+    "rarity": "Special Art Rare",
+    "rarityCode": "SAR",
+    "imageName": "cPK_20_012560_01_MELMETALex_SAR.webp",
+    "label": {
+      "slug": "melmetal-ex",
+      "eng": "Melmetal ex"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 283,
+    "rarity": "Special Art Rare",
+    "rarityCode": "SAR",
+    "imageName": "cPK_20_012650_01_KENTAUROSex_SAR.webp",
+    "label": {
+      "slug": "tauros-ex",
+      "eng": "Tauros ex"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 284,
+    "rarity": "Immersive Rare",
+    "rarityCode": "IM",
+    "imageName": "cPK_20_011180_01_MEGABURSYAMOex_IM.webp",
+    "label": {
+      "slug": "mega-blaziken-ex",
+      "eng": "Mega Blaziken ex"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 285,
+    "rarity": "Immersive Rare",
+    "rarityCode": "IM",
+    "imageName": "cPK_20_011340_01_MEGAGYARADOSex_IM.webp",
+    "label": {
+      "slug": "mega-gyarados-ex",
+      "eng": "Mega Gyarados ex"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 286,
+    "rarity": "Immersive Rare",
+    "rarityCode": "IM",
+    "imageName": "cPK_20_011840_01_MEGATYLTALISex_IM.webp",
+    "label": {
+      "slug": "mega-altaria-ex",
+      "eng": "Mega Altaria ex"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 287,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_000180_00_MADATSUBOMI_S.webp",
+    "label": {
+      "slug": "bellsprout",
+      "eng": "Bellsprout"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 288,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_000190_00_UTSUDON_S.webp",
+    "label": {
+      "slug": "weepinbell",
+      "eng": "Weepinbell"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 289,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_000200_00_UTSUBOT_S.webp",
+    "label": {
+      "slug": "victreebel",
+      "eng": "Victreebel"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 290,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_005910_00_MOKUROH_S.webp",
+    "label": {
+      "slug": "rowlet",
+      "eng": "Rowlet"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 291,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_007460_00_FUKUTHROW_S.webp",
+    "label": {
+      "slug": "dartrix",
+      "eng": "Dartrix"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 292,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_000460_00_FIRE_S.webp",
+    "label": {
+      "slug": "moltres",
+      "eng": "Moltres"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 293,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_006110_00_NYABBY_S.webp",
+    "label": {
+      "slug": "litten",
+      "eng": "Litten"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 294,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_006130_00_NYAHEAT_S.webp",
+    "label": {
+      "slug": "torracat",
+      "eng": "Torracat"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 295,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_010330_00_NYOROMO_S.webp",
+    "label": {
+      "slug": "poliwag",
+      "eng": "Poliwag"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 296,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_000600_00_NYOROZO_S.webp",
+    "label": {
+      "slug": "poliwhirl",
+      "eng": "Poliwhirl"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 297,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_000610_00_NYOROBON_S.webp",
+    "label": {
+      "slug": "poliwrath",
+      "eng": "Poliwrath"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 298,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_000830_00_FREEZER_S.webp",
+    "label": {
+      "slug": "articuno",
+      "eng": "Articuno"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 299,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_003310_01_MANAPHY_S.webp",
+    "label": {
+      "slug": "manaphy",
+      "eng": "Manaphy"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 300,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_006260_00_ASHIMARI_S.webp",
+    "label": {
+      "slug": "popplio",
+      "eng": "Popplio"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 301,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_008180_00_OSYAMARI_S.webp",
+    "label": {
+      "slug": "brionne",
+      "eng": "Brionne"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 302,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_001030_00_THUNDER_S.webp",
+    "label": {
+      "slug": "zapdos",
+      "eng": "Zapdos"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 303,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_006470_01_ODORIDORIPACHIPACHISTYLE_S.webp",
+    "label": {
+      "slug": "oricorio",
+      "eng": "Oricorio"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 304,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_007410_00_ZERAORA_S.webp",
+    "label": {
+      "slug": "zeraora",
+      "eng": "Zeraora"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 305,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_001240_00_SLEEPE_S.webp",
+    "label": {
+      "slug": "drowzee",
+      "eng": "Drowzee"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 306,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_001250_00_SLEEPER_S.webp",
+    "label": {
+      "slug": "hypno",
+      "eng": "Hypno"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 307,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_001470_00_ISITSUBUTE_S.webp",
+    "label": {
+      "slug": "geodude",
+      "eng": "Geodude"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 308,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_002570_00_GOLONE_S.webp",
+    "label": {
+      "slug": "graveler",
+      "eng": "Graveler"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 309,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_002580_00_GOLONYA_S.webp",
+    "label": {
+      "slug": "golem",
+      "eng": "Golem"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 310,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_006790_01_IWANKO_S.webp",
+    "label": {
+      "slug": "rockruff",
+      "eng": "Rockruff"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 311,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_006980_00_ALOLADIGDA_S.webp",
+    "label": {
+      "slug": "alolan-diglett",
+      "eng": "Alolan Diglett"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 312,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_001960_01_NYARTH_S.webp",
+    "label": {
+      "slug": "meowth",
+      "eng": "Meowth"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 313,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_001970_00_PERSIAN_S.webp",
+    "label": {
+      "slug": "persian",
+      "eng": "Persian"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 314,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_001990_00_DODO_S.webp",
+    "label": {
+      "slug": "doduo",
+      "eng": "Doduo"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 315,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_002000_00_DODORIO_S.webp",
+    "label": {
+      "slug": "dodrio",
+      "eng": "Dodrio"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 316,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_004160_01_BIPPA_S.webp",
+    "label": {
+      "slug": "bidoof",
+      "eng": "Bidoof"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 317,
+    "rarity": "Shiny Super Rare",
+    "rarityCode": "SSR",
+    "imageName": "cPK_20_005930_02_JUNAIPERex_SSR.webp",
+    "label": {
+      "slug": "decidueye-ex",
+      "eng": "Decidueye ex"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 318,
+    "rarity": "Shiny Super Rare",
+    "rarityCode": "SSR",
+    "imageName": "cPK_20_006140_02_GAOGAENex_SSR.webp",
+    "label": {
+      "slug": "incineroar-ex",
+      "eng": "Incineroar ex"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 319,
+    "rarity": "Shiny Super Rare",
+    "rarityCode": "SSR",
+    "imageName": "cPK_20_003300_04_PALKIAex_SSR.webp",
+    "label": {
+      "slug": "palkia-ex",
+      "eng": "Palkia ex"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 320,
+    "rarity": "Shiny Super Rare",
+    "rarityCode": "SSR",
+    "imageName": "cPK_20_008190_02_ASHIRENEex_SSR.webp",
+    "label": {
+      "slug": "primarina-ex",
+      "eng": "Primarina ex"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 321,
+    "rarity": "Shiny Super Rare",
+    "rarityCode": "SSR",
+    "imageName": "cPK_20_005410_02_PIKACHUex_SSR.webp",
+    "label": {
+      "slug": "pikachu-ex",
+      "eng": "Pikachu ex"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 322,
+    "rarity": "Shiny Super Rare",
+    "rarityCode": "SSR",
+    "imageName": "cPK_20_007420_02_KAPU-KOKEKOex_SSR.webp",
+    "label": {
+      "slug": "tapu-koko-ex",
+      "eng": "Tapu Koko ex"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 323,
+    "rarity": "Shiny Super Rare",
+    "rarityCode": "SSR",
+    "imageName": "cPK_20_007700_02_LUGARUGANex_SSR.webp",
+    "label": {
+      "slug": "lycanroc-ex",
+      "eng": "Lycanroc ex"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 324,
+    "rarity": "Shiny Super Rare",
+    "rarityCode": "SSR",
+    "imageName": "cPK_20_006850_02_NAGETUKESARUex_SSR.webp",
+    "label": {
+      "slug": "passimian-ex",
+      "eng": "Passimian ex"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 325,
+    "rarity": "Shiny Super Rare",
+    "rarityCode": "SSR",
+    "imageName": "cPK_20_007830_02_ALOLADUGTRIOex_SSR.webp",
+    "label": {
+      "slug": "alolan-dugtrio-ex",
+      "eng": "Alolan Dugtrio ex"
+    },
+    "packs": ["Mega Blaziken"]
+  },
+  {
+    "set": "B1",
+    "number": 326,
+    "rarity": "Shiny Super Rare",
+    "rarityCode": "SSR",
+    "imageName": "cPK_20_004000_04_DIALGAex_SSR.webp",
+    "label": {
+      "slug": "dialga-ex",
+      "eng": "Dialga ex"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 327,
+    "rarity": "Shiny Super Rare",
+    "rarityCode": "SSR",
+    "imageName": "cPK_20_005790_02_BEADARUex_SSR.webp",
+    "label": {
+      "slug": "bibarel-ex",
+      "eng": "Bibarel ex"
+    },
+    "packs": ["Mega Altaria"]
+  },
+  {
+    "set": "B1",
+    "number": 328,
+    "rarity": "Shiny Super Rare",
+    "rarityCode": "SSR",
+    "imageName": "cPK_20_004950_04_ARCEUSex_SSR.webp",
+    "label": {
+      "slug": "arceus-ex",
+      "eng": "Arceus ex"
+    },
+    "packs": ["Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 329,
+    "rarity": "Crown Rare",
+    "rarityCode": "UR",
+    "imageName": "cPK_20_011000_00_DREDEAR_UR.webp",
+    "label": {
+      "slug": "lilligant",
+      "eng": "Lilligant"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 330,
+    "rarity": "Crown Rare",
+    "rarityCode": "UR",
+    "imageName": "cPK_20_012020_00_CLEFFY_UR.webp",
+    "label": {
+      "slug": "klefki",
+      "eng": "Klefki"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "B1",
+    "number": 331,
+    "rarity": "Crown Rare",
+    "rarityCode": "UR",
+    "imageName": "cTR_20_000910_00_FUREIMUPACCHI_UR.webp",
+    "label": {
+      "slug": "flame-patch",
+      "eng": "Flame Patch"
+    },
+    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 1,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_90_004490_00_PIKACHU_AR.webp",
+    "label": {
+      "slug": "pikachu",
+      "eng": "Pikachu"
+    },
+    "packs": []
+  },
+  {
+    "set": "PROMO-B",
+    "number": 2,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_90_012930_00_CHURINE_C.webp",
+    "label": {
+      "slug": "petilil",
+      "eng": "Petilil"
+    },
+    "packs": []
+  },
+  {
+    "set": "PROMO-B",
+    "number": 3,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_90_012940_00_KEROMATSU_C.webp",
+    "label": {
+      "slug": "froakie",
+      "eng": "Froakie"
+    },
+    "packs": []
+  },
+  {
+    "set": "PROMO-B",
+    "number": 4,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_90_011700_00_RENTORAR_R.webp",
+    "label": {
+      "slug": "luxray",
+      "eng": "Luxray"
+    },
+    "packs": []
+  },
+  {
+    "set": "PROMO-B",
+    "number": 5,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_90_012620_00_POPPO_C.webp",
+    "label": {
+      "slug": "pidgey",
+      "eng": "Pidgey"
+    },
+    "packs": []
+  },
+  {
+    "set": "PROMO-B",
+    "number": 6,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_90_012950_00_MEGAPIGEOTex_RR.webp",
+    "label": {
+      "slug": "mega-pidgeot-ex",
+      "eng": "Mega Pidgeot ex"
+    },
+    "packs": []
+  },
+  {
+    "set": "PROMO-B",
+    "number": 7,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_90_011150_00_ACHAMO_R.webp",
+    "label": {
+      "slug": "torchic",
+      "eng": "Torchic"
+    },
+    "packs": []
+  },
+  {
+    "set": "PROMO-B",
+    "number": 8,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_90_011300_00_KODUCK_R.webp",
+    "label": {
+      "slug": "psyduck",
+      "eng": "Psyduck"
+    },
+    "packs": []
+  },
+  {
+    "set": "PROMO-B",
+    "number": 9,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_90_012330_00_MEGAABSOLex_RR.webp",
+    "label": {
+      "slug": "mega-absol-ex",
+      "eng": "Mega Absol ex"
+    },
+    "packs": []
+  },
+  {
+    "set": "PROMO-B",
+    "number": 10,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_90_011900_00_FUWARIDE_R.webp",
+    "label": {
+      "slug": "drifblim",
+      "eng": "Drifblim"
+    },
+    "packs": []
+  },
+  {
+    "set": "PROMO-B",
+    "number": 11,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_90_012660_00_EIEVUI_R.webp",
+    "label": {
+      "slug": "eevee",
+      "eng": "Eevee"
+    },
+    "packs": []
   }
 ]
