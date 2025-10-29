@@ -9,7 +9,9 @@
   ],
   "scripts": {
     "generate": "deno --allow-read --allow-write --allow-env ./scripts/create-db.js",
+    "assign": "bun ./scripts/assign-pack.js",
     "download": "bun ./scripts/download-images.ts",
+    "convert": "./scripts/convert.sh",
     "sqliteDB": "bun ./scripts/convert-to-sqlite.ts"
   },
   "keywords": [

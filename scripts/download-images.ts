@@ -58,7 +58,7 @@ const downloadImages = async () => {
       console.info(`Starting download of set ${set.code}`);
       for (const lang of LANGUAGES) {
         const setImageName = `LOGO_expansion_${
-          set.code === "PROMO-A" ? set.code : capitalize(set.code)
+          set.code.startsWith("PROMO") ? set.code : capitalize(set.code)
         }_${lang}.webp`;
         const path = join(__dirname, IMAGE_DIRECTORY, "sets", setImageName);
         if (!existsSync(path)) {

@@ -36,11 +36,14 @@ $(".card-grid__cell").each((index, element) => {
       slug: hrefParts[3],
       eng: figcaption,
     },
-    packs: [packName]
+    packs: packName ? [packName] : [],
   };
 
-  if (!existing.find((card) => card.number === cardData.number && card.set === cardData.set)) {
+  const existingCard = cards.find((card) => card.number === cardData.number && card.set === cardData.set)
+  if (!existingCard) {
     cards.push(cardData);
+  } else if (packName) {
+    existingCard.packs.unshift(packName);
   }
 });
 
