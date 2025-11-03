@@ -47,9 +47,8 @@ $(".card-grid__cell").each((index, element) => {
   }
 });
 
-const result = JSON.stringify(cards, null, 2);
-
-fs.writeFileSync("./dist/cards.json", result);
+fs.writeFileSync("./dist/cards.json", JSON.stringify(cards, null, 2));
+fs.writeFileSync("./dist/cards.min.json", JSON.stringify(cards));
 
 const sets = [...new Set(cards.map((card) => card.set))];
 
