@@ -1,152 +1,157 @@
-[
-  {
-    "code": "A1",
-    "releaseDate": "2024-10-30",
-    "count": 286,
-    "label": {
-      "en": "Genetic Apex"
+{
+  "A": [
+    {
+      "code": "A1",
+      "releaseDate": "2024-10-30",
+      "count": 286,
+      "name": {
+        "en": "Genetic Apex"
+      },
+      "packs": ["Charizard", "Mewtwo", "Pikachu"]
     },
-    "packs": ["Charizard", "Mewtwo", "Pikachu"]
-  },
-  {
-    "code": "A1A",
-    "releaseDate": "2024-12-17",
-    "count": 85,
-    "label": {
-      "en": "Mythical Island"
+    {
+      "code": "A1a",
+      "releaseDate": "2024-12-17",
+      "count": 85,
+      "name": {
+        "en": "Mythical Island"
+      },
+      "packs": ["Mew"]
     },
-    "packs": ["Mew"]
-  },
-  {
-    "code": "A2",
-    "releaseDate": "2025-01-29",
-    "count": 207,
-    "label": {
-      "en": "Space-Time Smackdown"
+    {
+      "code": "A2",
+      "releaseDate": "2025-01-29",
+      "count": 207,
+      "name": {
+        "en": "Space-Time Smackdown"
+      },
+      "packs": ["Dialga", "Palkia"]
     },
-    "packs": ["Dialga", "Palkia"]
-  },
-  {
-    "code": "A2A",
-    "releaseDate": "2025-02-28",
-    "count": 96,
-    "label": {
-      "en": "Triumphant Light",
-      "fr": "Lumière Triomphante",
-      "es": "Luz Triunfal"
+    {
+      "code": "A2a",
+      "releaseDate": "2025-02-28",
+      "count": 96,
+      "name": {
+        "en": "Triumphant Light",
+        "fr": "Lumière Triomphante",
+        "es": "Luz Triunfal"
+      },
+      "packs": ["Arceus"]
     },
-    "packs": ["Arceus"]
-  },
-  {
-    "code": "A2B",
-    "releaseDate": "2025-03-27",
-    "count": 111,
-    "label": {
-      "en": "Shining Revelry"
+    {
+      "code": "A2b",
+      "releaseDate": "2025-03-27",
+      "count": 111,
+      "name": {
+        "en": "Shining Revelry"
+      },
+      "packs": ["Shining"]
     },
-    "packs": ["Shining"]
-  },
-  {
-    "code": "A3",
-    "releaseDate": "2025-04-30",
-    "count": 239,
-    "label": {
-      "en": "Celestial Guardians"
+    {
+      "code": "A3",
+      "releaseDate": "2025-04-30",
+      "count": 239,
+      "name": {
+        "en": "Celestial Guardians"
+      },
+      "packs": ["Lunala", "Solgaleo"]
     },
-    "packs": ["Lunala", "Solgaleo"]
-  },
-  {
-    "code": "A3A",
-    "releaseDate": "2025-05-29",
-    "count": 103,
-    "label": {
-      "en": "Extradimensional Crisis"
+    {
+      "code": "A3a",
+      "releaseDate": "2025-05-29",
+      "count": 103,
+      "name": {
+        "en": "Extradimensional Crisis"
+      },
+      "packs": ["Extradimensional"]
     },
-    "packs": ["Extradimensional"]
-  },
-  {
-    "code": "A3B",
-    "releaseDate": "2025-06-26",
-    "count": 107,
-    "label": {
-      "en": "Eevee Grove"
+    {
+      "code": "A3b",
+      "releaseDate": "2025-06-26",
+      "count": 107,
+      "name": {
+        "en": "Eevee Grove"
+      },
+      "packs": ["Eevee"]
     },
-    "packs": ["Eevee"]
-  },
-  {
-    "code": "A4",
-    "releaseDate": "2025-07-30",
-    "count": 241,
-    "label": {
-      "en": "Wisdom of Sea and Sky"
+    {
+      "code": "A4",
+      "releaseDate": "2025-07-30",
+      "count": 241,
+      "name": {
+        "en": "Wisdom of Sea and Sky"
+      },
+      "packs": ["Ho-Oh", "Lugia"]
     },
-    "packs": ["Ho-Oh", "Lugia"]
-  },
-  {
-    "code": "A4A",
-    "releaseDate": "2025-08-28",
-    "count": 105,
-    "label": {
-      "en": "Secluded Springs"
+    {
+      "code": "A4a",
+      "releaseDate": "2025-08-28",
+      "count": 105,
+      "name": {
+        "en": "Secluded Springs"
+      },
+      "packs": ["Secluded"]
     },
-    "packs": ["Secluded"]
-  },
-  {
-    "code": "A4B",
-    "releaseDate": "2025-09-30",
-    "count": 379,
-    "label": {
-      "en": "Deluxe Pack: ex"
+    {
+      "code": "A4b",
+      "releaseDate": "2025-09-30",
+      "count": 379,
+      "name": {
+        "en": "Deluxe Pack: ex"
+      },
+      "packs": ["Deluxe"]
     },
-    "packs": ["Deluxe"]
-  },
-  {
-    "code": "PROMO-A",
-    "releaseDate": "2024-10-30",
-    "count": 117,
-    "label": {
-      "en": "Promo A"
+    {
+      "code": "PROMO-A",
+      "releaseDate": "2024-10-30",
+      "count": 117,
+      "name": {
+        "en": "Promo A"
+      },
+      "packs": [
+        "Vol. 1",
+        "Vol. 2",
+        "Vol. 3",
+        "Vol. 4",
+        "Vol. 5",
+        "Vol. 6",
+        "Vol. 7",
+        "Vol. 8",
+        "Vol. 9",
+        "Vol. 10",
+        "Vol. 11",
+        "Vol. 12",
+        "Vol. 13"
+      ]
+    }
+  ],
+  "B": [
+    {
+      "code": "B1",
+      "releaseDate": "2025-10-30",
+      "count": 331,
+      "name": {
+        "en": "Mega Rising"
+      },
+      "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
     },
-    "packs": [
-      "Vol. 1",
-      "Vol. 2",
-      "Vol. 3",
-      "Vol. 4",
-      "Vol. 5",
-      "Vol. 6",
-      "Vol. 7",
-      "Vol. 8",
-      "Vol. 9",
-      "Vol. 10",
-      "Vol. 11",
-      "Vol. 12",
-      "Vol. 13"
-    ]
-  },
-  {
-    "code": "B1",
-    "releaseDate": "2025-10-30",
-    "count": 331,
-    "label": {
-      "en": "Mega Rising"
+
+    {
+      "code": "B1a",
+      "releaseDate": "2025-12-17",
+      "count": 103,
+      "name": {
+        "en": "Crimson Blaze"
+      },
+      "packs": ["Crimson Blaze"]
     },
-    "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
-  },
-  {
-    "code": "B1A",
-    "releaseDate": "2025-12-17",
-    "count": 103,
-    "label": {
-      "en": "Crimson Blaze"
-    },
-    "packs": ["Crimson Blaze"]
-  },
-  {
-    "code": "PROMO-B",
-    "releaseDate": "2025-10-30",
-    "label": {
-      "en": "Promo B"
-    },
-    "packs": ["B Series Vol. 1", "B Series Vol. 2", "B Series Vol. 3"]
-  }
-]
+    {
+      "code": "PROMO-B",
+      "releaseDate": "2025-10-30",
+      "name": {
+        "en": "Promo B"
+      },
+      "packs": ["B Series Vol. 1", "B Series Vol. 2", "B Series Vol. 3"]
+    }
+  ]
+}
