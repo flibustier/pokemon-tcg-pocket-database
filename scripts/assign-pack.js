@@ -17,7 +17,7 @@ process.exit(1);
 
 const packName = process.argv[2];
 
-if (!existingSets.find((set) => set.packs.includes(packName))) {
+if (!Object.values(existingSets).find((set) => set.packs.includes(packName))) {
     console.error(`Pack ${packName} not found in any set`);
     process.exit(1);
 }

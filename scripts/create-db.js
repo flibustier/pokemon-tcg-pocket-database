@@ -1,6 +1,5 @@
 import fs from "node:fs";
 import * as cheerio from "cheerio";
-import rarityMap from "../dist/rarity.json" with { type: "json" };
 import existing from "../dist/cards.json" with { type: "json" };
 
 const html = fs.readFileSync("./scraps.html", "utf8");
@@ -20,22 +19,14 @@ $(".card-grid__cell").each((index, element) => {
   const imageName = imgSrc.split("/CardPreviews/")[1].split("?")[0];
 
   // Extract rarity code from image name
-  const rarityCode = imageName.split("_").pop().split(".")[0];
-
-  if (!Object.keys(rarityMap).includes(rarityCode )) {
-    console.error(rarityCode + " is not declared")
-  }
+  const rarity = imageName.split("_").pop().split(".")[0];
 
   const cardData = {
-    set: hrefParts[1].toUpperCase(),
+    set: hrefParts[1],
     number: parseInt(hrefParts[2]),
-    rarity: rarityMap[rarityCode],
-    rarityCode,
+    rarity,
     imageName: imageName,
-    label: {
-      slug: hrefParts[3],
-      eng: figcaption,
-    },
+    name: figcaption,
     packs: packName ? [packName] : [],
   };
 
