@@ -1,13 +1,101 @@
 {
-  "C": "Common",
-  "U": "Uncommon",
-  "R": "Rare",
-  "RR": "Double Rare",
-  "AR": "Art Rare",
-  "SR": "Super Rare",
-  "SAR": "Special Art Rare",
-  "IM": "Immersive Rare",
-  "UR": "Crown Rare",
-  "S": "Shiny",
-  "SSR": "Shiny Super Rare"
+  "C": {
+    "label": "Common",
+    "image": "diamond.webp",
+    "count": 1,
+    "group": "Diamond",
+    "tradeable": true,
+    "tradePrice": 0,
+    "points": 35
+  },
+  "U": {
+    "label": "Uncommon",
+    "image": "diamond.webp",
+    "count": 2,
+    "group": "Diamond",
+    "tradeable": true,
+    "tradePrice": 0,
+    "points": 70
+  },
+  "R": {
+    "label": "Rare",
+    "image": "diamond.webp",
+    "count": 3,
+    "group": "Diamond",
+    "tradeable": true,
+    "tradePrice": 1200,
+    "points": 150
+  },
+  "RR": {
+    "label": "Double Rare",
+    "image": "diamond.webp",
+    "count": 4,
+    "group": "Diamond",
+    "tradeable": true,
+    "tradePrice": 5000,
+    "points": 500
+  },
+  "AR": {
+    "label": "Art Rare",
+    "image": "star.webp",
+    "count": 1,
+    "group": "Star",
+    "tradeable": true,
+    "tradePrice": 4000,
+    "points": 400
+  },
+  "SR": {
+    "label": "Super Rare",
+    "image": "star.webp",
+    "count": 2,
+    "group": "Star",
+    "tradeable": true,
+    "tradePrice": 25000,
+    "points": 1250
+  },
+  "SAR": {
+    "label": "Special Art Rare",
+    "image": "star.webp",
+    "count": 2,
+    "group": "Star",
+    "tradeable": true,
+    "tradePrice": 25000,
+    "points": 1250
+  },
+  "IM": {
+    "label": "Immersive Rare",
+    "image": "star.webp",
+    "count": 3,
+    "group": "Star",
+    "tradeable": false,
+    "tradePrice": null,
+    "points": 1500
+  },
+  "UR": {
+    "label": "Crown Rare",
+    "image": "crown.webp",
+    "count": 1,
+    "group": "Crown",
+    "tradeable": false,
+    "tradePrice": null,
+    "points": 2500
+  },
+  "S": {
+    "label": "Shiny",
+    "image": "shiny-star.webp",
+    "count": 1,
+    "group": "Shiny",
+    "tradeable": true,
+    "tradePrice": 10000,
+    "points": 1000
+  },
+  "SSR": {
+    "label": "Shiny Super Rare",
+    "image": "shiny-star.webp",
+    "count": 2,
+    "group": "Shiny",
+    "tradeable": true,
+    "tradePrice": 30000,
+    "points": 1350
+  }
 }
