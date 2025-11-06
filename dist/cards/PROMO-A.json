@@ -1,6 +1,5 @@
 [
   {
-    "id": "PROMO-A-1",
     "set": "PROMO-A",
     "number": 1,
     "rarity": "C",
@@ -8,7 +7,6 @@
     "image": "cTR_90_000010_00_KIZUGUSURI_C.webp"
   },
   {
-    "id": "PROMO-A-2",
     "set": "PROMO-A",
     "number": 2,
     "rarity": "C",
@@ -16,7 +14,6 @@
     "image": "cTR_90_000020_00_SPEEDER_C.webp"
   },
   {
-    "id": "PROMO-A-3",
     "set": "PROMO-A",
     "number": 3,
     "rarity": "C",
@@ -24,7 +21,6 @@
     "image": "cTR_90_000050_00_HANDSCOPE_C.webp"
   },
   {
-    "id": "PROMO-A-4",
     "set": "PROMO-A",
     "number": 4,
     "rarity": "C",
@@ -32,7 +28,6 @@
     "image": "cTR_90_000060_00_POKEMONZUKAN_C.webp"
   },
   {
-    "id": "PROMO-A-5",
     "set": "PROMO-A",
     "number": 5,
     "rarity": "C",
@@ -40,7 +35,6 @@
     "image": "cTR_90_000030_00_MONSTERBALL_C.webp"
   },
   {
-    "id": "PROMO-A-6",
     "set": "PROMO-A",
     "number": 6,
     "rarity": "C",
@@ -48,7 +42,6 @@
     "image": "cTR_90_000070_00_REDCARD_C.webp"
   },
   {
-    "id": "PROMO-A-7",
     "set": "PROMO-A",
     "number": 7,
     "rarity": "C",
@@ -56,7 +49,6 @@
     "image": "cTR_90_000040_00_HAKASENOKENKYU_C.webp"
   },
   {
-    "id": "PROMO-A-8",
     "set": "PROMO-A",
     "number": 8,
     "rarity": "C",
@@ -64,7 +56,6 @@
     "image": "cTR_90_000060_01_POKEMONZUKAN_C.webp"
   },
   {
-    "id": "PROMO-A-9",
     "set": "PROMO-A",
     "number": 9,
     "rarity": "AR",
@@ -72,7 +63,6 @@
     "image": "cPK_90_000940_02_PIKACHU_AR.webp"
   },
   {
-    "id": "PROMO-A-10",
     "set": "PROMO-A",
     "number": 10,
     "rarity": "AR",
@@ -80,7 +70,6 @@
     "image": "cPK_90_001280_00_MEWTWO_AR.webp"
   },
   {
-    "id": "PROMO-A-11",
     "set": "PROMO-A",
     "number": 11,
     "rarity": "R",
@@ -88,7 +77,6 @@
     "image": "cPK_90_002020_00_LUCKY_R.webp"
   },
   {
-    "id": "PROMO-A-12",
     "set": "PROMO-A",
     "number": 12,
     "rarity": "R",
@@ -96,7 +84,6 @@
     "image": "cPK_90_001960_00_NYARTH_R.webp"
   },
   {
-    "id": "PROMO-A-13",
     "set": "PROMO-A",
     "number": 13,
     "rarity": "R",
@@ -107,7 +94,6 @@
     ]
   },
   {
-    "id": "PROMO-A-14",
     "set": "PROMO-A",
     "number": 14,
     "rarity": "RR",
@@ -118,7 +104,6 @@
     ]
   },
   {
-    "id": "PROMO-A-15",
     "set": "PROMO-A",
     "number": 15,
     "rarity": "C",
@@ -129,7 +114,6 @@
     ]
   },
   {
-    "id": "PROMO-A-16",
     "set": "PROMO-A",
     "number": 16,
     "rarity": "C",
@@ -140,7 +124,6 @@
     ]
   },
   {
-    "id": "PROMO-A-17",
     "set": "PROMO-A",
     "number": 17,
     "rarity": "C",
@@ -151,7 +134,6 @@
     ]
   },
   {
-    "id": "PROMO-A-18",
     "set": "PROMO-A",
     "number": 18,
     "rarity": "AR",
@@ -162,7 +144,6 @@
     ]
   },
   {
-    "id": "PROMO-A-19",
     "set": "PROMO-A",
     "number": 19,
     "rarity": "R",
@@ -173,7 +154,6 @@
     ]
   },
   {
-    "id": "PROMO-A-20",
     "set": "PROMO-A",
     "number": 20,
     "rarity": "C",
@@ -184,7 +164,6 @@
     ]
   },
   {
-    "id": "PROMO-A-21",
     "set": "PROMO-A",
     "number": 21,
     "rarity": "C",
@@ -195,7 +174,6 @@
     ]
   },
   {
-    "id": "PROMO-A-22",
     "set": "PROMO-A",
     "number": 22,
     "rarity": "C",
@@ -206,7 +184,6 @@
     ]
   },
   {
-    "id": "PROMO-A-23",
     "set": "PROMO-A",
     "number": 23,
     "rarity": "R",
@@ -214,7 +191,6 @@
     "image": "cPK_90_000010_00_FUSHIGIDANE_R.webp"
   },
   {
-    "id": "PROMO-A-24",
     "set": "PROMO-A",
     "number": 24,
     "rarity": "R",
@@ -222,7 +198,6 @@
     "image": "cPK_90_000970_00_COIL_R.webp"
   },
   {
-    "id": "PROMO-A-25",
     "set": "PROMO-A",
     "number": 25,
     "rarity": "RR",
@@ -230,7 +205,6 @@
     "image": "cPK_90_000470_00_FIREex_RR.webp"
   },
   {
-    "id": "PROMO-A-26",
     "set": "PROMO-A",
     "number": 26,
     "rarity": "AR",
@@ -238,7 +212,6 @@
     "image": "cPK_90_000940_00_PIKACHU_AR.webp"
   },
   {
-    "id": "PROMO-A-27",
     "set": "PROMO-A",
     "number": 27,
     "rarity": "C",
@@ -249,7 +222,6 @@
     ]
   },
   {
-    "id": "PROMO-A-28",
     "set": "PROMO-A",
     "number": 28,
     "rarity": "R",
@@ -260,7 +232,6 @@
     ]
   },
   {
-    "id": "PROMO-A-29",
     "set": "PROMO-A",
     "number": 29,
     "rarity": "AR",
@@ -271,7 +242,6 @@
     ]
   },
   {
-    "id": "PROMO-A-30",
     "set": "PROMO-A",
     "number": 30,
     "rarity": "C",
@@ -282,7 +252,6 @@
     ]
   },
   {
-    "id": "PROMO-A-31",
     "set": "PROMO-A",
     "number": 31,
     "rarity": "C",
@@ -293,7 +262,6 @@
     ]
   },
   {
-    "id": "PROMO-A-32",
     "set": "PROMO-A",
     "number": 32,
     "rarity": "R",
@@ -301,7 +269,6 @@
     "image": "cPK_90_000330_00_HITOKAGE_R.webp"
   },
   {
-    "id": "PROMO-A-33",
     "set": "PROMO-A",
     "number": 33,
     "rarity": "R",
@@ -309,7 +276,6 @@
     "image": "cPK_90_000530_00_ZENIGAME_R.webp"
   },
   {
-    "id": "PROMO-A-34",
     "set": "PROMO-A",
     "number": 34,
     "rarity": "AR",
@@ -317,7 +283,6 @@
     "image": "cPK_90_003160_00_POCHAMA_AR.webp"
   },
   {
-    "id": "PROMO-A-35",
     "set": "PROMO-A",
     "number": 35,
     "rarity": "C",
@@ -328,7 +293,6 @@
     ]
   },
   {
-    "id": "PROMO-A-36",
     "set": "PROMO-A",
     "number": 36,
     "rarity": "R",
@@ -339,7 +303,6 @@
     ]
   },
   {
-    "id": "PROMO-A-37",
     "set": "PROMO-A",
     "number": 37,
     "rarity": "RR",
@@ -350,7 +313,6 @@
     ]
   },
   {
-    "id": "PROMO-A-38",
     "set": "PROMO-A",
     "number": 38,
     "rarity": "C",
@@ -361,7 +323,6 @@
     ]
   },
   {
-    "id": "PROMO-A-39",
     "set": "PROMO-A",
     "number": 39,
     "rarity": "C",
@@ -372,7 +333,6 @@
     ]
   },
   {
-    "id": "PROMO-A-40",
     "set": "PROMO-A",
     "number": 40,
     "rarity": "R",
@@ -380,7 +340,6 @@
     "image": "cPK_90_003080_00_HIKOZARU_R.webp"
   },
   {
-    "id": "PROMO-A-41",
     "set": "PROMO-A",
     "number": 41,
     "rarity": "R",
@@ -388,7 +347,6 @@
     "image": "cPK_90_003440_00_TOGEPY_R.webp"
   },
   {
-    "id": "PROMO-A-42",
     "set": "PROMO-A",
     "number": 42,
     "rarity": "RR",
@@ -396,7 +354,6 @@
     "image": "cPK_90_003910_00_DARKRAIex_RR.webp"
   },
   {
-    "id": "PROMO-A-43",
     "set": "PROMO-A",
     "number": 43,
     "rarity": "C",
@@ -407,7 +364,6 @@
     ]
   },
   {
-    "id": "PROMO-A-44",
     "set": "PROMO-A",
     "number": 44,
     "rarity": "R",
@@ -418,7 +374,6 @@
     ]
   },
   {
-    "id": "PROMO-A-45",
     "set": "PROMO-A",
     "number": 45,
     "rarity": "C",
@@ -429,7 +384,6 @@
     ]
   },
   {
-    "id": "PROMO-A-46",
     "set": "PROMO-A",
     "number": 46,
     "rarity": "AR",
@@ -440,7 +394,6 @@
     ]
   },
   {
-    "id": "PROMO-A-47",
     "set": "PROMO-A",
     "number": 47,
     "rarity": "C",
@@ -451,7 +404,6 @@
     ]
   },
   {
-    "id": "PROMO-A-48",
     "set": "PROMO-A",
     "number": 48,
     "rarity": "R",
@@ -459,7 +411,6 @@
     "image": "cPK_90_003310_00_MANAPHY_R.webp"
   },
   {
-    "id": "PROMO-A-49",
     "set": "PROMO-A",
     "number": 49,
     "rarity": "R",
@@ -467,7 +418,6 @@
     "image": "cPK_90_004870_00_KABIGON_R.webp"
   },
   {
-    "id": "PROMO-A-50",
     "set": "PROMO-A",
     "number": 50,
     "rarity": "SSR",
@@ -475,7 +425,6 @@
     "image": "cPK_90_001290_00_MEWTWOex_SSR.webp"
   },
   {
-    "id": "PROMO-A-51",
     "set": "PROMO-A",
     "number": 51,
     "rarity": "S",
@@ -483,7 +432,6 @@
     "image": "cPK_90_005090_00_MOTOTOKAGE_S.webp"
   },
   {
-    "id": "PROMO-A-52",
     "set": "PROMO-A",
     "number": 52,
     "rarity": "AR",
@@ -491,7 +439,6 @@
     "image": "cPK_90_005080_00_NYAHOJA_AR.webp"
   },
   {
-    "id": "PROMO-A-53",
     "set": "PROMO-A",
     "number": 53,
     "rarity": "C",
@@ -502,7 +449,6 @@
     ]
   },
   {
-    "id": "PROMO-A-54",
     "set": "PROMO-A",
     "number": 54,
     "rarity": "AR",
@@ -513,7 +459,6 @@
     ]
   },
   {
-    "id": "PROMO-A-55",
     "set": "PROMO-A",
     "number": 55,
     "rarity": "R",
@@ -524,7 +469,6 @@
     ]
   },
   {
-    "id": "PROMO-A-56",
     "set": "PROMO-A",
     "number": 56,
     "rarity": "C",
@@ -535,7 +479,6 @@
     ]
   },
   {
-    "id": "PROMO-A-57",
     "set": "PROMO-A",
     "number": 57,
     "rarity": "C",
@@ -546,7 +489,6 @@
     ]
   },
   {
-    "id": "PROMO-A-58",
     "set": "PROMO-A",
     "number": 58,
     "rarity": "R",
@@ -554,7 +496,6 @@
     "image": "cPK_90_005060_00_PACHIRISU_R.webp"
   },
   {
-    "id": "PROMO-A-59",
     "set": "PROMO-A",
     "number": 59,
     "rarity": "R",
@@ -562,7 +503,6 @@
     "image": "cPK_90_005070_00_RIOLU_R.webp"
   },
   {
-    "id": "PROMO-A-60",
     "set": "PROMO-A",
     "number": 60,
     "rarity": "C",
@@ -573,7 +513,6 @@
     ]
   },
   {
-    "id": "PROMO-A-61",
     "set": "PROMO-A",
     "number": 61,
     "rarity": "C",
@@ -584,7 +523,6 @@
     ]
   },
   {
-    "id": "PROMO-A-62",
     "set": "PROMO-A",
     "number": 62,
     "rarity": "C",
@@ -595,7 +533,6 @@
     ]
   },
   {
-    "id": "PROMO-A-63",
     "set": "PROMO-A",
     "number": 63,
     "rarity": "R",
@@ -606,7 +543,6 @@
     ]
   },
   {
-    "id": "PROMO-A-64",
     "set": "PROMO-A",
     "number": 64,
     "rarity": "RR",
@@ -617,7 +553,6 @@
     ]
   },
   {
-    "id": "PROMO-A-65",
     "set": "PROMO-A",
     "number": 65,
     "rarity": "SR",
@@ -625,7 +560,6 @@
     "image": "cPK_90_010820_01_RAYQUAZAex_SR.webp"
   },
   {
-    "id": "PROMO-A-66",
     "set": "PROMO-A",
     "number": 66,
     "rarity": "AR",
@@ -633,7 +567,6 @@
     "image": "cPK_90_006640_00_MIMIKKYU_AR.webp"
   },
   {
-    "id": "PROMO-A-67",
     "set": "PROMO-A",
     "number": 67,
     "rarity": "R",
@@ -641,7 +574,6 @@
     "image": "cPK_90_006660_00_COSMOG_R.webp"
   },
   {
-    "id": "PROMO-A-68",
     "set": "PROMO-A",
     "number": 68,
     "rarity": "R",
@@ -649,7 +581,6 @@
     "image": "cPK_90_006810_00_LUGARUGAN_R.webp"
   },
   {
-    "id": "PROMO-A-69",
     "set": "PROMO-A",
     "number": 69,
     "rarity": "R",
@@ -660,7 +591,6 @@
     ]
   },
   {
-    "id": "PROMO-A-70",
     "set": "PROMO-A",
     "number": 70,
     "rarity": "AR",
@@ -671,7 +601,6 @@
     ]
   },
   {
-    "id": "PROMO-A-71",
     "set": "PROMO-A",
     "number": 71,
     "rarity": "C",
@@ -682,7 +611,6 @@
     ]
   },
   {
-    "id": "PROMO-A-72",
     "set": "PROMO-A",
     "number": 72,
     "rarity": "C",
@@ -693,7 +621,6 @@
     ]
   },
   {
-    "id": "PROMO-A-73",
     "set": "PROMO-A",
     "number": 73,
     "rarity": "C",
@@ -704,7 +631,6 @@
     ]
   },
   {
-    "id": "PROMO-A-74",
     "set": "PROMO-A",
     "number": 74,
     "rarity": "AR",
@@ -712,7 +638,6 @@
     "image": "cPK_90_007410_00_ZERAORA_AR.webp"
   },
   {
-    "id": "PROMO-A-75",
     "set": "PROMO-A",
     "number": 75,
     "rarity": "C",
@@ -723,7 +648,6 @@
     ]
   },
   {
-    "id": "PROMO-A-76",
     "set": "PROMO-A",
     "number": 76,
     "rarity": "C",
@@ -734,7 +658,6 @@
     ]
   },
   {
-    "id": "PROMO-A-77",
     "set": "PROMO-A",
     "number": 77,
     "rarity": "C",
@@ -745,7 +668,6 @@
     ]
   },
   {
-    "id": "PROMO-A-78",
     "set": "PROMO-A",
     "number": 78,
     "rarity": "R",
@@ -756,7 +678,6 @@
     ]
   },
   {
-    "id": "PROMO-A-79",
     "set": "PROMO-A",
     "number": 79,
     "rarity": "R",
@@ -767,7 +688,6 @@
     ]
   },
   {
-    "id": "PROMO-A-80",
     "set": "PROMO-A",
     "number": 80,
     "rarity": "C",
@@ -778,7 +698,6 @@
     ]
   },
   {
-    "id": "PROMO-A-81",
     "set": "PROMO-A",
     "number": 81,
     "rarity": "RR",
@@ -789,7 +708,6 @@
     ]
   },
   {
-    "id": "PROMO-A-82",
     "set": "PROMO-A",
     "number": 82,
     "rarity": "R",
@@ -797,7 +715,6 @@
     "image": "cPK_90_007370_00_BEVENOM_R.webp"
   },
   {
-    "id": "PROMO-A-83",
     "set": "PROMO-A",
     "number": 83,
     "rarity": "R",
@@ -805,7 +722,6 @@
     "image": "cPK_90_007380_00_NUIKOGUMA_R.webp"
   },
   {
-    "id": "PROMO-A-84",
     "set": "PROMO-A",
     "number": 84,
     "rarity": "RR",
@@ -813,7 +729,6 @@
     "image": "cPK_90_007420_00_KAPU-KOKEKOex_RR.webp"
   },
   {
-    "id": "PROMO-A-85",
     "set": "PROMO-A",
     "number": 85,
     "rarity": "C",
@@ -824,7 +739,6 @@
     ]
   },
   {
-    "id": "PROMO-A-86",
     "set": "PROMO-A",
     "number": 86,
     "rarity": "R",
@@ -835,7 +749,6 @@
     ]
   },
   {
-    "id": "PROMO-A-87",
     "set": "PROMO-A",
     "number": 87,
     "rarity": "AR",
@@ -846,7 +759,6 @@
     ]
   },
   {
-    "id": "PROMO-A-88",
     "set": "PROMO-A",
     "number": 88,
     "rarity": "C",
@@ -857,7 +769,6 @@
     ]
   },
   {
-    "id": "PROMO-A-89",
     "set": "PROMO-A",
     "number": 89,
     "rarity": "C",
@@ -868,7 +779,6 @@
     ]
   },
   {
-    "id": "PROMO-A-90",
     "set": "PROMO-A",
     "number": 90,
     "rarity": "R",
@@ -876,7 +786,6 @@
     "image": "cPK_90_007390_00_TOGEDEMARU_R.webp"
   },
   {
-    "id": "PROMO-A-91",
     "set": "PROMO-A",
     "number": 91,
     "rarity": "R",
@@ -884,7 +793,6 @@
     "image": "cPK_90_007400_00_YOKUBARISU_R.webp"
   },
   {
-    "id": "PROMO-A-92",
     "set": "PROMO-A",
     "number": 92,
     "rarity": "R",
@@ -892,7 +800,6 @@
     "image": "cPK_90_002060_00_EIEVUI_R.webp"
   },
   {
-    "id": "PROMO-A-93",
     "set": "PROMO-A",
     "number": 93,
     "rarity": "AR",
@@ -900,7 +807,6 @@
     "image": "cPK_90_009330_00_PY_AR.webp"
   },
   {
-    "id": "PROMO-A-94",
     "set": "PROMO-A",
     "number": 94,
     "rarity": "C",
@@ -911,7 +817,6 @@
     ]
   },
   {
-    "id": "PROMO-A-95",
     "set": "PROMO-A",
     "number": 95,
     "rarity": "C",
@@ -922,7 +827,6 @@
     ]
   },
   {
-    "id": "PROMO-A-96",
     "set": "PROMO-A",
     "number": 96,
     "rarity": "C",
@@ -933,7 +837,6 @@
     ]
   },
   {
-    "id": "PROMO-A-97",
     "set": "PROMO-A",
     "number": 97,
     "rarity": "R",
@@ -944,7 +847,6 @@
     ]
   },
   {
-    "id": "PROMO-A-98",
     "set": "PROMO-A",
     "number": 98,
     "rarity": "RR",
@@ -955,7 +857,6 @@
     ]
   },
   {
-    "id": "PROMO-A-99",
     "set": "PROMO-A",
     "number": 99,
     "rarity": "R",
@@ -963,7 +864,6 @@
     "image": "cPK_90_009050_00_MARIL_R.webp"
   },
   {
-    "id": "PROMO-A-100",
     "set": "PROMO-A",
     "number": 100,
     "rarity": "R",
@@ -971,7 +871,6 @@
     "image": "cPK_90_009720_00_MANYULA_R.webp"
   },
   {
-    "id": "PROMO-A-101",
     "set": "PROMO-A",
     "number": 101,
     "rarity": "AR",
@@ -979,7 +878,6 @@
     "image": "cPK_90_010200_00_LATIAS_AR.webp"
   },
   {
-    "id": "PROMO-A-102",
     "set": "PROMO-A",
     "number": 102,
     "rarity": "C",
@@ -990,7 +888,6 @@
     ]
   },
   {
-    "id": "PROMO-A-103",
     "set": "PROMO-A",
     "number": 103,
     "rarity": "C",
@@ -1001,7 +898,6 @@
     ]
   },
   {
-    "id": "PROMO-A-104",
     "set": "PROMO-A",
     "number": 104,
     "rarity": "R",
@@ -1012,7 +908,6 @@
     ]
   },
   {
-    "id": "PROMO-A-105",
     "set": "PROMO-A",
     "number": 105,
     "rarity": "C",
@@ -1023,7 +918,6 @@
     ]
   },
   {
-    "id": "PROMO-A-106",
     "set": "PROMO-A",
     "number": 106,
     "rarity": "AR",
@@ -1034,7 +928,6 @@
     ]
   },
   {
-    "id": "PROMO-A-107",
     "set": "PROMO-A",
     "number": 107,
     "rarity": "R",
@@ -1042,7 +935,6 @@
     "image": "cPK_90_010180_00_MILTANK_R.webp"
   },
   {
-    "id": "PROMO-A-108",
     "set": "PROMO-A",
     "number": 108,
     "rarity": "R",
@@ -1050,7 +942,6 @@
     "image": "cPK_90_010190_00_GOMAZOU_R.webp"
   },
   {
-    "id": "PROMO-A-109",
     "set": "PROMO-A",
     "number": 109,
     "rarity": "SAR",
@@ -1058,7 +949,6 @@
     "image": "cPK_90_008480_00_EIEVUIex_SAR.webp"
   },
   {
-    "id": "PROMO-A-110",
     "set": "PROMO-A",
     "number": 110,
     "rarity": "RR",
@@ -1066,7 +956,6 @@
     "image": "cPK_90_010210_00_ENTEIex_RR.webp"
   },
   {
-    "id": "PROMO-A-111",
     "set": "PROMO-A",
     "number": 111,
     "rarity": "C",
@@ -1077,7 +966,6 @@
     ]
   },
   {
-    "id": "PROMO-A-112",
     "set": "PROMO-A",
     "number": 112,
     "rarity": "RR",
@@ -1088,7 +976,6 @@
     ]
   },
   {
-    "id": "PROMO-A-113",
     "set": "PROMO-A",
     "number": 113,
     "rarity": "C",
@@ -1099,7 +986,6 @@
     ]
   },
   {
-    "id": "PROMO-A-114",
     "set": "PROMO-A",
     "number": 114,
     "rarity": "C",
@@ -1110,7 +996,6 @@
     ]
   },
   {
-    "id": "PROMO-A-115",
     "set": "PROMO-A",
     "number": 115,
     "rarity": "R",
@@ -1121,7 +1006,6 @@
     ]
   },
   {
-    "id": "PROMO-A-116",
     "set": "PROMO-A",
     "number": 116,
     "rarity": "R",
@@ -1129,7 +1013,6 @@
     "image": "cPK_90_003030_00_SHAYMIN_R.webp"
   },
   {
-    "id": "PROMO-A-117",
     "set": "PROMO-A",
     "number": 117,
     "rarity": "R",
