@@ -3,15 +3,12 @@ import fs from "node:fs";
 import existing from "../dist/cards.json" with { type: "json" };
 
 const cards = existing.map((card) => {
-    const id = card.set + '-' + card.number;
-
   return {
-    id,
     set: card.set,
     number: card.number,
-    rarity: card.rarityCode,
-    name: card.label.eng,
-    image: card.imageName,
+    rarity: card.rarityCode || card.rarity,
+    name: card.label?.eng || card.name,
+    image: card.imageName || card.image,
     ...(card.packs && card.packs.length > 0 ? { packs: card.packs } : {} ),
   }
 })
