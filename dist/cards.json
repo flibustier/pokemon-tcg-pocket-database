@@ -28975,5 +28975,1241 @@
       "eng": "Eevee"
     },
     "packs": []
+  },
+  {
+    "set": "B1A",
+    "number": 1,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_013070_00_FUSHIGIDANE_C.webp",
+    "label": {
+      "slug": "bulbasaur",
+      "eng": "Bulbasaur"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 2,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_013080_00_FUSHIGISOU_U.webp",
+    "label": {
+      "slug": "ivysaur",
+      "eng": "Ivysaur"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 3,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_013090_00_FUSHIGIBANA_R.webp",
+    "label": {
+      "slug": "venusaur",
+      "eng": "Venusaur"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 4,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_013100_00_MEGAFUSHIGIBANAex_RR.webp",
+    "label": {
+      "slug": "mega-venusaur-ex",
+      "eng": "Mega Venusaur ex"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 5,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_013110_00_ITOMARU_C.webp",
+    "label": {
+      "slug": "spinarak",
+      "eng": "Spinarak"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 6,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_013120_00_ARIADOS_U.webp",
+    "label": {
+      "slug": "ariados",
+      "eng": "Ariados"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 7,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_013130_00_HIMANUTS_C.webp",
+    "label": {
+      "slug": "sunkern",
+      "eng": "Sunkern"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 8,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_013140_00_KIMAWARI_U.webp",
+    "label": {
+      "slug": "sunflora",
+      "eng": "Sunflora"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 9,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_013150_00_MINOMUCCHI_C.webp",
+    "label": {
+      "slug": "burmy",
+      "eng": "Burmy"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 10,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_013160_00_GAMALE_C.webp",
+    "label": {
+      "slug": "mothim",
+      "eng": "Mothim"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 11,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_013170_00_HITOKAGE_C.webp",
+    "label": {
+      "slug": "charmander",
+      "eng": "Charmander"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 12,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_012980_00_LIZARDO_U.webp",
+    "label": {
+      "slug": "charmeleon",
+      "eng": "Charmeleon"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 13,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_013180_00_LIZARDON_R.webp",
+    "label": {
+      "slug": "charizard",
+      "eng": "Charizard"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 14,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_013190_00_MEGALIZARDONYex_RR.webp",
+    "label": {
+      "slug": "mega-charizard-y-ex",
+      "eng": "Mega Charizard Y ex"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 15,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_013200_00_DELVIL_C.webp",
+    "label": {
+      "slug": "houndour",
+      "eng": "Houndour"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 16,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_013210_00_HELLGAR_C.webp",
+    "label": {
+      "slug": "houndoom",
+      "eng": "Houndoom"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 17,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_013220_00_ZENIGAME_C.webp",
+    "label": {
+      "slug": "squirtle",
+      "eng": "Squirtle"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 18,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_013230_00_KAMEIL_U.webp",
+    "label": {
+      "slug": "wartortle",
+      "eng": "Wartortle"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 19,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_013240_00_KAMEX_R.webp",
+    "label": {
+      "slug": "blastoise",
+      "eng": "Blastoise"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 20,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_013250_00_MEGAKAMEXex_RR.webp",
+    "label": {
+      "slug": "mega-blastoise-ex",
+      "eng": "Mega Blastoise ex"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 21,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_013260_00_BASSRAOAKASUJINOSUGATA_C.webp",
+    "label": {
+      "slug": "basculin",
+      "eng": "Basculin"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 22,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_013270_00_UDEPPOU_C.webp",
+    "label": {
+      "slug": "clauncher",
+      "eng": "Clauncher"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 23,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_013280_00_BLOSTER_U.webp",
+    "label": {
+      "slug": "clawitzer",
+      "eng": "Clawitzer"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 24,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_013290_00_COIL_C.webp",
+    "label": {
+      "slug": "magnemite",
+      "eng": "Magnemite"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 25,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_013300_00_RARECOIL_U.webp",
+    "label": {
+      "slug": "magneton",
+      "eng": "Magneton"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 26,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_013310_00_JIBACOIL_R.webp",
+    "label": {
+      "slug": "magnezone",
+      "eng": "Magnezone"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 27,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_013320_00_EMOLGA_C.webp",
+    "label": {
+      "slug": "emolga",
+      "eng": "Emolga"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 28,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_013330_00_ERIKITERU_C.webp",
+    "label": {
+      "slug": "helioptile",
+      "eng": "Helioptile"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 29,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_013030_00_ELEZARD_U.webp",
+    "label": {
+      "slug": "heliolisk",
+      "eng": "Heliolisk"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 30,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_013340_00_MUMA_C.webp",
+    "label": {
+      "slug": "misdreavus",
+      "eng": "Misdreavus"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 31,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_013350_00_MUMARGI_U.webp",
+    "label": {
+      "slug": "mismagius",
+      "eng": "Mismagius"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 32,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_013360_00_UNIRAN_C.webp",
+    "label": {
+      "slug": "solosis",
+      "eng": "Solosis"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 33,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_013370_00_DOUBLAN_C.webp",
+    "label": {
+      "slug": "duosion",
+      "eng": "Duosion"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 34,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_013380_00_LANCULUS_R.webp",
+    "label": {
+      "slug": "reuniclus",
+      "eng": "Reuniclus"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 35,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_013390_00_SHUSHUPU_C.webp",
+    "label": {
+      "slug": "spritzee",
+      "eng": "Spritzee"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 36,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_013400_00_FREFUWAN_C.webp",
+    "label": {
+      "slug": "aromatisse",
+      "eng": "Aromatisse"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 37,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_013410_00_XERNEAS_R.webp",
+    "label": {
+      "slug": "xerneas",
+      "eng": "Xerneas"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 38,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_013420_00_IWARK_C.webp",
+    "label": {
+      "slug": "onix",
+      "eng": "Onix"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 39,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_013430_00_MAKUNOSHITA_C.webp",
+    "label": {
+      "slug": "makuhita",
+      "eng": "Makuhita"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 40,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_013440_00_HARITEYAMA_U.webp",
+    "label": {
+      "slug": "hariyama",
+      "eng": "Hariyama"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 41,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_013450_00_NOSEPASS_C.webp",
+    "label": {
+      "slug": "nosepass",
+      "eng": "Nosepass"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 42,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_013460_00_MEGAMIMILOPex_RR.webp",
+    "label": {
+      "slug": "mega-lopunny-ex",
+      "eng": "Mega Lopunny ex"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 43,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_013470_00_KOJOFU_C.webp",
+    "label": {
+      "slug": "mienfoo",
+      "eng": "Mienfoo"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 44,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_013480_00_KOJONDO_C.webp",
+    "label": {
+      "slug": "mienshao",
+      "eng": "Mienshao"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 45,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_013490_00_BETBETER_C.webp",
+    "label": {
+      "slug": "grimer",
+      "eng": "Grimer"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 46,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_013500_00_BETBETON_C.webp",
+    "label": {
+      "slug": "muk",
+      "eng": "Muk"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 47,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_013510_00_CHORONEKO_C.webp",
+    "label": {
+      "slug": "purrloin",
+      "eng": "Purrloin"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 48,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_013520_00_LEPARDAS_U.webp",
+    "label": {
+      "slug": "liepard",
+      "eng": "Liepard"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 49,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_013530_00_YABUKURON_C.webp",
+    "label": {
+      "slug": "trubbish",
+      "eng": "Trubbish"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 50,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_013540_00_DUSTDAS_U.webp",
+    "label": {
+      "slug": "garbodor",
+      "eng": "Garbodor"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 51,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_013550_00_HAGANEIL_U.webp",
+    "label": {
+      "slug": "steelix",
+      "eng": "Steelix"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 52,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_10_013560_00_MEGAHAGANEILex_RR.webp",
+    "label": {
+      "slug": "mega-steelix-ex",
+      "eng": "Mega Steelix ex"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 53,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_013570_00_DAINOSE_U.webp",
+    "label": {
+      "slug": "probopass",
+      "eng": "Probopass"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 54,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_013010_00_GENESECT_R.webp",
+    "label": {
+      "slug": "genesect",
+      "eng": "Genesect"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 55,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_013060_00_METAMON_U.webp",
+    "label": {
+      "slug": "ditto",
+      "eng": "Ditto"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 56,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_013580_00_PORYGON_C.webp",
+    "label": {
+      "slug": "porygon",
+      "eng": "Porygon"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 57,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_013590_00_PORYGON2_U.webp",
+    "label": {
+      "slug": "porygon2",
+      "eng": "Porygon2"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 58,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_10_013600_00_PORYGON-Z_R.webp",
+    "label": {
+      "slug": "porygon-z",
+      "eng": "Porygon-Z"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 59,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_013610_00_MUKKURU_C.webp",
+    "label": {
+      "slug": "starly",
+      "eng": "Starly"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 60,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_013620_00_MUKUBIRD_C.webp",
+    "label": {
+      "slug": "staravia",
+      "eng": "Staravia"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 61,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_013630_00_MUKUHAWK_U.webp",
+    "label": {
+      "slug": "staraptor",
+      "eng": "Staraptor"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 62,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_10_013040_00_MIMIROL_C.webp",
+    "label": {
+      "slug": "buneary",
+      "eng": "Buneary"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 63,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_013640_00_MIMILOP_U.webp",
+    "label": {
+      "slug": "lopunny",
+      "eng": "Lopunny"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 64,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_013650_00_BUFFRON_U.webp",
+    "label": {
+      "slug": "bouffalant",
+      "eng": "Bouffalant"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 65,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cPK_10_013660_00_TRIMMIENKABUKICUT_U.webp",
+    "label": {
+      "slug": "furfrou",
+      "eng": "Furfrou"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 66,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_001010_00_CITRONNORYUKKU_U.webp",
+    "label": {
+      "slug": "clemonts-backpack",
+      "eng": "Clemont’s Backpack"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 67,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_001020_00_SOUJYUKUEKISU_U.webp",
+    "label": {
+      "slug": "quick-grow-extract",
+      "eng": "Quick-Grow Extract"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 68,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_001030_00_CITRON_U.webp",
+    "label": {
+      "slug": "clemont",
+      "eng": "Clemont"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 69,
+    "rarity": "Uncommon",
+    "rarityCode": "U",
+    "imageName": "cTR_10_001040_00_SERENA_U.webp",
+    "label": {
+      "slug": "serena",
+      "eng": "Serena"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 70,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_013120_00_ARIADOS_AR.webp",
+    "label": {
+      "slug": "ariados",
+      "eng": "Ariados"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 71,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_013140_00_KIMAWARI_AR.webp",
+    "label": {
+      "slug": "sunflora",
+      "eng": "Sunflora"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 72,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_013380_00_LANCULUS_AR.webp",
+    "label": {
+      "slug": "reuniclus",
+      "eng": "Reuniclus"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 73,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_013410_00_XERNEAS_AR.webp",
+    "label": {
+      "slug": "xerneas",
+      "eng": "Xerneas"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 74,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_013530_00_YABUKURON_AR.webp",
+    "label": {
+      "slug": "trubbish",
+      "eng": "Trubbish"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 75,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_20_013040_00_MIMIROL_AR.webp",
+    "label": {
+      "slug": "buneary",
+      "eng": "Buneary"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 76,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_013100_00_MEGAFUSHIGIBANAex_SR.webp",
+    "label": {
+      "slug": "mega-venusaur-ex",
+      "eng": "Mega Venusaur ex"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 77,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_013190_00_MEGALIZARDONYex_SR.webp",
+    "label": {
+      "slug": "mega-charizard-y-ex",
+      "eng": "Mega Charizard Y ex"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 78,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_013250_00_MEGAKAMEXex_SR.webp",
+    "label": {
+      "slug": "mega-blastoise-ex",
+      "eng": "Mega Blastoise ex"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 79,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_013460_00_MEGAMIMILOPex_SR.webp",
+    "label": {
+      "slug": "mega-lopunny-ex",
+      "eng": "Mega Lopunny ex"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 80,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cPK_20_013560_00_MEGAHAGANEILex_SR.webp",
+    "label": {
+      "slug": "mega-steelix-ex",
+      "eng": "Mega Steelix ex"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 81,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cTR_20_001030_00_CITRON_SR.webp",
+    "label": {
+      "slug": "clemont",
+      "eng": "Clemont"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 82,
+    "rarity": "Super Rare",
+    "rarityCode": "SR",
+    "imageName": "cTR_20_001040_00_SERENA_SR.webp",
+    "label": {
+      "slug": "serena",
+      "eng": "Serena"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 83,
+    "rarity": "Special Art Rare",
+    "rarityCode": "SAR",
+    "imageName": "cPK_20_013100_01_MEGAFUSHIGIBANAex_SAR.webp",
+    "label": {
+      "slug": "mega-venusaur-ex",
+      "eng": "Mega Venusaur ex"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 84,
+    "rarity": "Special Art Rare",
+    "rarityCode": "SAR",
+    "imageName": "cPK_20_013250_01_MEGAKAMEXex_SAR.webp",
+    "label": {
+      "slug": "mega-blastoise-ex",
+      "eng": "Mega Blastoise ex"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 85,
+    "rarity": "Special Art Rare",
+    "rarityCode": "SAR",
+    "imageName": "cPK_20_013460_01_MEGAMIMILOPex_SAR.webp",
+    "label": {
+      "slug": "mega-lopunny-ex",
+      "eng": "Mega Lopunny ex"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 86,
+    "rarity": "Special Art Rare",
+    "rarityCode": "SAR",
+    "imageName": "cPK_20_013560_01_MEGAHAGANEILex_SAR.webp",
+    "label": {
+      "slug": "mega-steelix-ex",
+      "eng": "Mega Steelix ex"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 87,
+    "rarity": "Immersive Rare",
+    "rarityCode": "IM",
+    "imageName": "cPK_20_013190_01_MEGALIZARDONYex_IM.webp",
+    "label": {
+      "slug": "mega-charizard-y-ex",
+      "eng": "Mega Charizard Y ex"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 88,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_008570_00_NAZONOKUSA_S.webp",
+    "label": {
+      "slug": "oddish",
+      "eng": "Oddish"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 89,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_008580_00_KUSAIHANA_S.webp",
+    "label": {
+      "slug": "gloom",
+      "eng": "Gloom"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 90,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_000130_00_RUFFRESIA_S.webp",
+    "label": {
+      "slug": "vileplume",
+      "eng": "Vileplume"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 91,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_013180_00_LIZARDON_S.webp",
+    "label": {
+      "slug": "charizard",
+      "eng": "Charizard"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 92,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_006230_00_SHELLDER_S.webp",
+    "label": {
+      "slug": "shellder",
+      "eng": "Shellder"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 93,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_006240_00_PARSHEN_S.webp",
+    "label": {
+      "slug": "cloyster",
+      "eng": "Cloyster"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 94,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_012040_00_SAND_S.webp",
+    "label": {
+      "slug": "sandshrew",
+      "eng": "Sandshrew"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 95,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_012050_00_SANDPAN_S.webp",
+    "label": {
+      "slug": "sandslash",
+      "eng": "Sandslash"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 96,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_007940_00_TYPENULL_S.webp",
+    "label": {
+      "slug": "type-null",
+      "eng": "Type: Null"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 97,
+    "rarity": "Shiny",
+    "rarityCode": "S",
+    "imageName": "cPK_20_007950_01_SILVADY_S.webp",
+    "label": {
+      "slug": "silvally",
+      "eng": "Silvally"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 98,
+    "rarity": "Shiny Super Rare",
+    "rarityCode": "SSR",
+    "imageName": "cPK_20_007480_03_MASSIVOONex_SSR.webp",
+    "label": {
+      "slug": "buzzwole-ex",
+      "eng": "Buzzwole ex"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 99,
+    "rarity": "Shiny Super Rare",
+    "rarityCode": "SSR",
+    "imageName": "cPK_20_006680_04_LUNALAex_SSR.webp",
+    "label": {
+      "slug": "lunala-ex",
+      "eng": "Lunala ex"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 100,
+    "rarity": "Shiny Super Rare",
+    "rarityCode": "SSR",
+    "imageName": "cPK_20_007800_02_AKUZIKINGex_SSR.webp",
+    "label": {
+      "slug": "guzzlord-ex",
+      "eng": "Guzzlord ex"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 101,
+    "rarity": "Shiny Super Rare",
+    "rarityCode": "SSR",
+    "imageName": "cPK_20_007030_04_SOLGALEOex_SSR.webp",
+    "label": {
+      "slug": "solgaleo-ex",
+      "eng": "Solgaleo ex"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 102,
+    "rarity": "Crown Rare",
+    "rarityCode": "UR",
+    "imageName": "cPK_20_012540_00_GILLGARDBLADEFORME_UR.webp",
+    "label": {
+      "slug": "aegislash",
+      "eng": "Aegislash"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "B1A",
+    "number": 103,
+    "rarity": "Crown Rare",
+    "rarityCode": "UR",
+    "imageName": "cTR_20_001020_00_SOUJYUKUEKISU_UR.webp",
+    "label": {
+      "slug": "quick-grow-extract",
+      "eng": "Quick-Grow Extract"
+    },
+    "packs": ["Crimson Blaze"]
   }
 ]

@@ -133,6 +133,15 @@
     "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
   },
   {
+    "code": "B1A",
+    "releaseDate": "2025-12-17",
+    "count": 103,
+    "label": {
+      "en": "Crimson Blaze"
+    },
+    "packs": ["Crimson Blaze"]
+  },
+  {
     "code": "PROMO-B",
     "releaseDate": "2025-10-30",
     "label": {
