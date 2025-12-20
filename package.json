@@ -1,6 +1,6 @@
 {
   "name": "pokemon-tcg-pocket-database",
-  "version": "1.13.0",
+  "version": "1.14.0",
   "description": "Pokemon TCG Pocket complete cards and sets JSON database",
   "files": [
     "dist/cards.json",
@@ -14,7 +14,8 @@
     "assign": "bun ./scripts/assign-pack.js",
     "download": "bun ./scripts/download-images.ts",
     "convert": "./scripts/convert.sh",
-    "sqliteDB": "bun ./scripts/convert-to-sqlite.ts"
+    "sqliteDB": "bun ./scripts/convert-to-sqlite.ts",
+    "scrap": "bun ./scripts/scraps.ts"
   },
   "keywords": [
     "pokemon",

@@ -56,7 +56,14 @@ $(".card-grid__cell").each((index, element) => {
     (card) => card.number === cardData.number && card.set === cardData.set
   );
   if (!existingCard) {
-    cards.push(cardData);
+    const lastSameSetIndex = cards.findLastIndex(
+      (card) => card.set === cardData.set
+    );
+    if (lastSameSetIndex === -1) {
+      cards.push(cardData);
+    } else {
+      cards.splice(lastSameSetIndex + 1, 0, cardData);
+    }
   } else if (packName) {
     existingCard.packs.unshift(packName);
   }

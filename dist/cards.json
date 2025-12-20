@@ -28845,138 +28845,6 @@
     "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
   },
   {
-    "set": "PROMO-B",
-    "number": 1,
-    "rarity": "Art Rare",
-    "rarityCode": "AR",
-    "imageName": "cPK_90_004490_00_PIKACHU_AR.webp",
-    "label": {
-      "slug": "pikachu",
-      "eng": "Pikachu"
-    },
-    "packs": []
-  },
-  {
-    "set": "PROMO-B",
-    "number": 2,
-    "rarity": "Common",
-    "rarityCode": "C",
-    "imageName": "cPK_90_012930_00_CHURINE_C.webp",
-    "label": {
-      "slug": "petilil",
-      "eng": "Petilil"
-    },
-    "packs": []
-  },
-  {
-    "set": "PROMO-B",
-    "number": 3,
-    "rarity": "Common",
-    "rarityCode": "C",
-    "imageName": "cPK_90_012940_00_KEROMATSU_C.webp",
-    "label": {
-      "slug": "froakie",
-      "eng": "Froakie"
-    },
-    "packs": []
-  },
-  {
-    "set": "PROMO-B",
-    "number": 4,
-    "rarity": "Rare",
-    "rarityCode": "R",
-    "imageName": "cPK_90_011700_00_RENTORAR_R.webp",
-    "label": {
-      "slug": "luxray",
-      "eng": "Luxray"
-    },
-    "packs": []
-  },
-  {
-    "set": "PROMO-B",
-    "number": 5,
-    "rarity": "Common",
-    "rarityCode": "C",
-    "imageName": "cPK_90_012620_00_POPPO_C.webp",
-    "label": {
-      "slug": "pidgey",
-      "eng": "Pidgey"
-    },
-    "packs": []
-  },
-  {
-    "set": "PROMO-B",
-    "number": 6,
-    "rarity": "Double Rare",
-    "rarityCode": "RR",
-    "imageName": "cPK_90_012950_00_MEGAPIGEOTex_RR.webp",
-    "label": {
-      "slug": "mega-pidgeot-ex",
-      "eng": "Mega Pidgeot ex"
-    },
-    "packs": []
-  },
-  {
-    "set": "PROMO-B",
-    "number": 7,
-    "rarity": "Rare",
-    "rarityCode": "R",
-    "imageName": "cPK_90_011150_00_ACHAMO_R.webp",
-    "label": {
-      "slug": "torchic",
-      "eng": "Torchic"
-    },
-    "packs": []
-  },
-  {
-    "set": "PROMO-B",
-    "number": 8,
-    "rarity": "Rare",
-    "rarityCode": "R",
-    "imageName": "cPK_90_011300_00_KODUCK_R.webp",
-    "label": {
-      "slug": "psyduck",
-      "eng": "Psyduck"
-    },
-    "packs": []
-  },
-  {
-    "set": "PROMO-B",
-    "number": 9,
-    "rarity": "Double Rare",
-    "rarityCode": "RR",
-    "imageName": "cPK_90_012330_00_MEGAABSOLex_RR.webp",
-    "label": {
-      "slug": "mega-absol-ex",
-      "eng": "Mega Absol ex"
-    },
-    "packs": []
-  },
-  {
-    "set": "PROMO-B",
-    "number": 10,
-    "rarity": "Rare",
-    "rarityCode": "R",
-    "imageName": "cPK_90_011900_00_FUWARIDE_R.webp",
-    "label": {
-      "slug": "drifblim",
-      "eng": "Drifblim"
-    },
-    "packs": []
-  },
-  {
-    "set": "PROMO-B",
-    "number": 11,
-    "rarity": "Rare",
-    "rarityCode": "R",
-    "imageName": "cPK_90_012660_00_EIEVUI_R.webp",
-    "label": {
-      "slug": "eevee",
-      "eng": "Eevee"
-    },
-    "packs": []
-  },
-  {
     "set": "B1A",
     "number": 1,
     "rarity": "Common",
@@ -30211,5 +30079,293 @@
       "eng": "Quick-Grow Extract"
     },
     "packs": ["Crimson Blaze"]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 1,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_90_004490_00_PIKACHU_AR.webp",
+    "label": {
+      "slug": "pikachu",
+      "eng": "Pikachu"
+    },
+    "packs": []
+  },
+  {
+    "set": "PROMO-B",
+    "number": 2,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_90_012930_00_CHURINE_C.webp",
+    "label": {
+      "slug": "petilil",
+      "eng": "Petilil"
+    },
+    "packs": ["B Series Vol. 1"]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 3,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_90_012940_00_KEROMATSU_C.webp",
+    "label": {
+      "slug": "froakie",
+      "eng": "Froakie"
+    },
+    "packs": ["B Series Vol. 1"]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 4,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_90_011700_00_RENTORAR_R.webp",
+    "label": {
+      "slug": "luxray",
+      "eng": "Luxray"
+    },
+    "packs": ["B Series Vol. 1"]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 5,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_90_012620_00_POPPO_C.webp",
+    "label": {
+      "slug": "pidgey",
+      "eng": "Pidgey"
+    },
+    "packs": ["B Series Vol. 1"]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 6,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_90_012950_00_MEGAPIGEOTex_RR.webp",
+    "label": {
+      "slug": "mega-pidgeot-ex",
+      "eng": "Mega Pidgeot ex"
+    },
+    "packs": ["B Series Vol. 1"]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 7,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_90_011150_00_ACHAMO_R.webp",
+    "label": {
+      "slug": "torchic",
+      "eng": "Torchic"
+    },
+    "packs": []
+  },
+  {
+    "set": "PROMO-B",
+    "number": 8,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_90_011300_00_KODUCK_R.webp",
+    "label": {
+      "slug": "psyduck",
+      "eng": "Psyduck"
+    },
+    "packs": []
+  },
+  {
+    "set": "PROMO-B",
+    "number": 9,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_90_012330_00_MEGAABSOLex_RR.webp",
+    "label": {
+      "slug": "mega-absol-ex",
+      "eng": "Mega Absol ex"
+    },
+    "packs": []
+  },
+  {
+    "set": "PROMO-B",
+    "number": 10,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_90_011900_00_FUWARIDE_R.webp",
+    "label": {
+      "slug": "drifblim",
+      "eng": "Drifblim"
+    },
+    "packs": []
+  },
+  {
+    "set": "PROMO-B",
+    "number": 11,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_90_012660_00_EIEVUI_R.webp",
+    "label": {
+      "slug": "eevee",
+      "eng": "Eevee"
+    },
+    "packs": []
+  },
+  {
+    "set": "PROMO-B",
+    "number": 12,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_90_013060_00_METAMON_AR.webp",
+    "label": {
+      "slug": "ditto",
+      "eng": "Ditto"
+    },
+    "packs": []
+  },
+  {
+    "set": "PROMO-B",
+    "number": 13,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_90_011110_00_WINDIE_C.webp",
+    "label": {
+      "slug": "arcanine",
+      "eng": "Arcanine"
+    },
+    "packs": ["B Series Vol. 2"]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 14,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_90_012960_00_KOIKING_C.webp",
+    "label": {
+      "slug": "magikarp",
+      "eng": "Magikarp"
+    },
+    "packs": ["B Series Vol. 2"]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 15,
+    "rarity": "Art Rare",
+    "rarityCode": "AR",
+    "imageName": "cPK_90_011640_00_MERRIEP_AR.webp",
+    "label": {
+      "slug": "mareep",
+      "eng": "Mareep"
+    },
+    "packs": ["B Series Vol. 2"]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 16,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_90_012140_00_WARUVIAL_R.webp",
+    "label": {
+      "slug": "krookodile",
+      "eng": "Krookodile"
+    },
+    "packs": ["B Series Vol. 2"]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 17,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_90_012970_00_TYLTTO_C.webp",
+    "label": {
+      "slug": "swablu",
+      "eng": "Swablu"
+    },
+    "packs": ["B Series Vol. 2"]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 18,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_90_013030_00_ELEZARD_R.webp",
+    "label": {
+      "slug": "heliolisk",
+      "eng": "Heliolisk"
+    },
+    "packs": []
+  },
+  {
+    "set": "PROMO-B",
+    "number": 19,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_90_013040_00_MIMIROL_R.webp",
+    "label": {
+      "slug": "buneary",
+      "eng": "Buneary"
+    },
+    "packs": []
+  },
+  {
+    "set": "PROMO-B",
+    "number": 20,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_90_012980_00_LIZARDO_C.webp",
+    "label": {
+      "slug": "charmeleon",
+      "eng": "Charmeleon"
+    },
+    "packs": ["B Series Vol. 3"]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 21,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_90_012990_00_IWARK_C.webp",
+    "label": {
+      "slug": "onix",
+      "eng": "Onix"
+    },
+    "packs": ["B Series Vol. 3"]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 22,
+    "rarity": "Common",
+    "rarityCode": "C",
+    "imageName": "cPK_90_013000_00_LUCHABULL_C.webp",
+    "label": {
+      "slug": "hawlucha",
+      "eng": "Hawlucha"
+    },
+    "packs": ["B Series Vol. 3"]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 23,
+    "rarity": "Rare",
+    "rarityCode": "R",
+    "imageName": "cPK_90_013010_00_GENESECT_R.webp",
+    "label": {
+      "slug": "genesect",
+      "eng": "Genesect"
+    },
+    "packs": ["B Series Vol. 3"]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 24,
+    "rarity": "Double Rare",
+    "rarityCode": "RR",
+    "imageName": "cPK_90_013020_00_MEGALATIOSex_RR.webp",
+    "label": {
+      "slug": "mega-latios-ex",
+      "eng": "Mega Latios ex"
+    },
+    "packs": ["B Series Vol. 3"]
   }
 ]
