@@ -18,15 +18,15 @@ const LANGUAGES = [
 ];
 
 interface Card {
-  imageName: string;
+  image: string;
 }
 
 const imagePath = (card: Card) =>
-  join(__dirname, IMAGE_DIRECTORY, "cards", card.imageName);
+  join(__dirname, IMAGE_DIRECTORY, "cards", card.image);
 
 const downloadImage = async (card: Card) => {
   const result = await fetch(
-    process.env.ASSETS_CARD_IMAGES_ENDPOINT + "/" + card.imageName
+    process.env.ASSETS_CARD_IMAGES_ENDPOINT + "/" + card.image
   );
   const path = imagePath(card);
   await Bun.write(path, result);
@@ -47,14 +47,14 @@ const downloadImages = async () => {
   for await (const card of cards) {
     try {
       await downloadImage(card);
-      console.log(`Downloaded ${card.imageName}`);
+      console.log(`Downloaded ${card.image}`);
     } catch (err) {
-      console.error(`Failed to download ${card.imageName}: ${err}`);
+      console.error(`Failed to download ${card.image}: ${err}`);
     }
   }
 
   if (process.env.ASSETS_SET_IMAGES_ENDPOINT) {
-    for (const set of sets) {
+    for (const set of Object.values(sets).flat()) {
       console.info(`Starting download of set ${set.code}`);
       for (const lang of LANGUAGES) {
         const setImageName = `LOGO_expansion_${
