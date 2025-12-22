@@ -2,7 +2,7 @@ node_modules
 package
 *.tgz
 .DS_Store
-
+.save
 scraps.html
 .env
 dist/images/cards
