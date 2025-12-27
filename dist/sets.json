@@ -5,7 +5,15 @@
       "releaseDate": "2024-10-30",
       "count": 286,
       "name": {
-        "en": "Genetic Apex"
+        "en": "Genetic Apex",
+        "fr": "Puissance Génétique",
+        "de": "Unschlagbare Gene",
+        "zh": "最強的基因",
+        "pt": "Dominação Genética",
+        "es": "Genes Formidables",
+        "it": "Geni Supremi",
+        "ja": "最強の遺伝子",
+        "ko": "최강의유전자"
       },
       "packs": ["Charizard", "Mewtwo", "Pikachu"]
     },
@@ -14,7 +22,15 @@
       "releaseDate": "2024-12-17",
       "count": 85,
       "name": {
-        "en": "Mythical Island"
+        "en": "Mythical Island",
+        "ja": "幻想のいる島",
+        "fr": "L'Île Fabuleuse",
+        "de": "Mysteriöse Insel",
+        "es": "La Isla Singular",
+        "it": "L'Isola Misteriosa",
+        "pt": "Ilha Mítica",
+        "zh": "幻遊鳥",
+        "ko": "환상이있는섬"
       },
       "packs": ["Mew"]
     },
