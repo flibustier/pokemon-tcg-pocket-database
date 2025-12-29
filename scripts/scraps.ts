@@ -1,6 +1,6 @@
 import fs from "node:fs";
 import * as cheerio from "cheerio";
-import rarityMap from "../dist/rarity.json";
+import rarityMap from "../dist/rarities.json";
 import existing from "../dist/cards.json";
 
 if (process.argv.length < 3) {
@@ -35,20 +35,12 @@ $(".card-grid__cell").each((index, element) => {
   // Extract rarity code from image name
   const rarityCode = imageName.split("_").pop().split(".")[0];
 
-  if (!Object.keys(rarityMap).includes(rarityCode)) {
-    console.error(rarityCode + " is not declared");
-  }
-
   const cardData = {
     set: hrefParts[1].toUpperCase(),
     number: parseInt(hrefParts[2]),
-    rarity: rarityMap[rarityCode],
-    rarityCode,
-    imageName: imageName,
-    label: {
-      slug: hrefParts[3],
-      eng: figcaption,
-    },
+    rarity: rarityCode,
+    image: imageName,
+    name: figcaption,
     packs: packName ? [packName] : [],
   };
 
@@ -72,14 +64,10 @@ $(".card-grid__cell").each((index, element) => {
 fs.writeFileSync("./dist/cards.json", JSON.stringify(cards, null, 2));
 fs.writeFileSync("./dist/cards.min.json", JSON.stringify(cards));
 
-const sets = [...new Set(cards.map((card) => card.set))];
+const sets = [...new Set(cards.map(({ set }) => set))];
 
 for (const set of sets) {
   const setCards = cards.filter((card) => card.set === set);
-
-  for (let i = 1; i <= setCards.length; i++) {
-    if (!setCards.find((card) => card.number === i)) {
-      console.error(`Missing card number ${i} in set ${set}`);
-    }
-  }
+  fs.writeFileSync(`./dist/cards/${set}.json`, JSON.stringify(setCards, null, 2));
+  fs.writeFileSync(`./dist/cards/${set}.min.json`, JSON.stringify(setCards));
 }

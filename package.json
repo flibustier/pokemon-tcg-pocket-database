@@ -1,21 +1,22 @@
 {
   "name": "pokemon-tcg-pocket-database",
-  "version": "1.14.0",
+  "version": "2.0.0-beta.4",
   "description": "Pokemon TCG Pocket complete cards and sets JSON database",
   "files": [
     "dist/cards.json",
     "dist/cards.min.json",
+    "dist/cards/*.json",
     "dist/sets.json",
-    "dist/rarity.json",
-    "dist/pullRates.json"
+    "dist/rarities.json",
+    "dist/pullRates.json",
+    "dist/images/cards/*",
+    "dist/images/rarities/*",
+    "dist/images/sets/*"
   ],
   "scripts": {
-    "generate": "deno --allow-read --allow-write --allow-env ./scripts/create-db.js",
-    "assign": "bun ./scripts/assign-pack.js",
+    "scraping": "bun ./scripts/scraps.ts",
     "download": "bun ./scripts/download-images.ts",
-    "convert": "./scripts/convert.sh",
-    "sqliteDB": "bun ./scripts/convert-to-sqlite.ts",
-    "scrap": "bun ./scripts/scraps.ts"
+    "sqliteDB": "bun ./scripts/convert-to-sqlite.ts"
   },
   "keywords": [
     "pokemon",
