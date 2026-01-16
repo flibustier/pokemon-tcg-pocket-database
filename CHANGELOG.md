@@ -115,8 +115,6 @@ Just use: `import cards from "pokemon-tcg-pocket-database/dist/cards.extra.json"
 
 ### Embedded images
 
-You can find cards images, rarity images, sets images, directly from:
+You can find rarity images directly from:
 
-- `dist/images/cards`
 - `dist/images/rarities`
-- `dist/images/sets`
