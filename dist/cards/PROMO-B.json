@@ -353,5 +353,69 @@
     "rarity": "R",
     "image": "cPK_90_015740_00_PALDEADOOH_R.webp",
     "name": "Paldean Clodsire"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 41,
+    "rarity": "RR",
+    "image": "cPK_90_015460_00_PAOJIANex_RR.webp",
+    "name": "Chien-Pao ex",
+    "packs": []
+  },
+  {
+    "set": "PROMO-B",
+    "number": 42,
+    "rarity": "AR",
+    "image": "cPK_90_016000_00_YADON_AR.webp",
+    "name": "Slowpoke",
+    "packs": []
+  },
+  {
+    "set": "PROMO-B",
+    "number": 43,
+    "rarity": "C",
+    "image": "cPK_90_016010_00_RAKURAI_C.webp",
+    "name": "Electrike",
+    "packs": []
+  },
+  {
+    "set": "PROMO-B",
+    "number": 44,
+    "rarity": "C",
+    "image": "cPK_90_016020_00_BURORON_C.webp",
+    "name": "Varoom",
+    "packs": []
+  },
+  {
+    "set": "PROMO-B",
+    "number": 45,
+    "rarity": "R",
+    "image": "cPK_90_016030_00_ONONOKUS_R.webp",
+    "name": "Haxorus",
+    "packs": []
+  },
+  {
+    "set": "PROMO-B",
+    "number": 46,
+    "rarity": "C",
+    "image": "cPK_90_016040_00_PERAP_C.webp",
+    "name": "Chatot",
+    "packs": []
+  },
+  {
+    "set": "PROMO-B",
+    "number": 47,
+    "rarity": "R",
+    "image": "cPK_90_016050_00_GHOS_R.webp",
+    "name": "Gastly",
+    "packs": []
+  },
+  {
+    "set": "PROMO-B",
+    "number": 48,
+    "rarity": "R",
+    "image": "cPK_90_016060_00_PUKURIN_R.webp",
+    "name": "Wigglytuff",
+    "packs": []
   }
 ]

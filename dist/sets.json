@@ -179,6 +179,15 @@
       "packs": ["Paldean"]
     },
     {
+      "code": "B2b",
+      "releaseDate": "2026-03-26",
+      "count": 117,
+      "name": {
+        "en": "Mega Shine"
+      },
+      "packs": ["Mega Shine"]
+    },
+    {
       "code": "PROMO-B",
       "releaseDate": "2025-10-30",
       "name": {

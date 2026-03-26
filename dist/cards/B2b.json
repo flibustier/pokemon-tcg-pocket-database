@@ -1,0 +1,1172 @@
+[
+  {
+    "set": "B2b",
+    "number": 1,
+    "rarity": "C",
+    "image": "cPK_10_016070_00_STRIKE_C.webp",
+    "name": "Scyther",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 2,
+    "rarity": "C",
+    "image": "cPK_10_016080_00_KUNUGIDAMA_C.webp",
+    "name": "Pineco",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 3,
+    "rarity": "C",
+    "image": "cPK_10_016090_00_BARUBEAT_C.webp",
+    "name": "Volbeat",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 4,
+    "rarity": "C",
+    "image": "cPK_10_016100_00_ILLUMISE_C.webp",
+    "name": "Illumise",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 5,
+    "rarity": "C",
+    "image": "cPK_10_016110_00_BOKUREI_C.webp",
+    "name": "Phantump",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 6,
+    "rarity": "U",
+    "image": "cPK_10_016120_00_OHROT_U.webp",
+    "name": "Trevenant",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 7,
+    "rarity": "C",
+    "image": "cPK_10_016130_00_HITOKAGE_C.webp",
+    "name": "Charmander",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 8,
+    "rarity": "U",
+    "image": "cPK_10_016140_00_LIZARDO_U.webp",
+    "name": "Charmeleon",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 9,
+    "rarity": "RR",
+    "image": "cPK_10_016150_00_MEGALIZARDONXex_RR.webp",
+    "name": "Mega Charizard X ex",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 10,
+    "rarity": "C",
+    "image": "cPK_10_016160_00_PONYTA_C.webp",
+    "name": "Ponyta",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 11,
+    "rarity": "C",
+    "image": "cPK_10_016170_00_GALLOP_C.webp",
+    "name": "Rapidash",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 12,
+    "rarity": "C",
+    "image": "cPK_10_016180_00_BOOBER_C.webp",
+    "name": "Magmar",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 13,
+    "rarity": "U",
+    "image": "cPK_10_016190_00_BOOBURN_U.webp",
+    "name": "Magmortar",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 14,
+    "rarity": "C",
+    "image": "cPK_10_016200_00_PALDEAKENTAUROS_C.webp",
+    "name": "Paldean Tauros",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 15,
+    "rarity": "C",
+    "image": "cPK_10_016000_00_YADON_C.webp",
+    "name": "Slowpoke",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 16,
+    "rarity": "RR",
+    "image": "cPK_10_016210_00_MEGAYADORANex_RR.webp",
+    "name": "Mega Slowbro ex",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 17,
+    "rarity": "U",
+    "image": "cPK_10_016220_00_LAPLACE_U.webp",
+    "name": "Lapras",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 18,
+    "rarity": "C",
+    "image": "cPK_10_016230_00_POCHAMA_C.webp",
+    "name": "Piplup",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 19,
+    "rarity": "U",
+    "image": "cPK_10_016240_00_POTTAISHI_U.webp",
+    "name": "Prinplup",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 20,
+    "rarity": "R",
+    "image": "cPK_10_016250_00_EMPERTE_R.webp",
+    "name": "Empoleon",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 21,
+    "rarity": "U",
+    "image": "cPK_10_016260_00_PHIONE_U.webp",
+    "name": "Phione",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 22,
+    "rarity": "C",
+    "image": "cPK_10_016270_00_PIKACHU_C.webp",
+    "name": "Pikachu",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 23,
+    "rarity": "U",
+    "image": "cPK_10_016280_00_RAICHU_U.webp",
+    "name": "Raichu",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 24,
+    "rarity": "C",
+    "image": "cPK_10_016290_00_ELEBOO_C.webp",
+    "name": "Electabuzz",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 25,
+    "rarity": "U",
+    "image": "cPK_10_016300_00_ELEKIBLE_U.webp",
+    "name": "Electivire",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 26,
+    "rarity": "C",
+    "image": "cPK_10_016310_00_RAKURAI_C.webp",
+    "name": "Electrike",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 27,
+    "rarity": "RR",
+    "image": "cPK_10_016320_00_MEGALIVOLTex_RR.webp",
+    "name": "Mega Manectric ex",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 28,
+    "rarity": "C",
+    "image": "cPK_10_016330_00_SLEEPE_C.webp",
+    "name": "Drowzee",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 29,
+    "rarity": "U",
+    "image": "cPK_10_016340_00_SLEEPER_U.webp",
+    "name": "Hypno",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 30,
+    "rarity": "R",
+    "image": "cPK_10_016350_00_MEW_R.webp",
+    "name": "Mew",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 31,
+    "rarity": "C",
+    "image": "cPK_10_016360_00_BANEBOO_C.webp",
+    "name": "Spoink",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 32,
+    "rarity": "U",
+    "image": "cPK_10_016370_00_BOOPIG_U.webp",
+    "name": "Grumpig",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 33,
+    "rarity": "C",
+    "image": "cPK_10_016380_00_DIGDA_C.webp",
+    "name": "Diglett",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 34,
+    "rarity": "U",
+    "image": "cPK_10_016390_00_DUGTRIO_U.webp",
+    "name": "Dugtrio",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 35,
+    "rarity": "R",
+    "image": "cPK_10_016400_00_GROUDON_R.webp",
+    "name": "Groudon",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 36,
+    "rarity": "C",
+    "image": "cPK_10_016410_00_LUCHABULL_C.webp",
+    "name": "Hawlucha",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 37,
+    "rarity": "C",
+    "image": "cPK_10_016050_00_GHOS_C.webp",
+    "name": "Gastly",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 38,
+    "rarity": "U",
+    "image": "cPK_10_016420_00_GHOST_U.webp",
+    "name": "Haunter",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 39,
+    "rarity": "RR",
+    "image": "cPK_10_016430_00_MEGAGANGARex_RR.webp",
+    "name": "Mega Gengar ex",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 40,
+    "rarity": "R",
+    "image": "cPK_10_016440_00_DARKRAI_R.webp",
+    "name": "Darkrai",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 41,
+    "rarity": "C",
+    "image": "cPK_10_016450_00_YABUKURON_C.webp",
+    "name": "Trubbish",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 42,
+    "rarity": "C",
+    "image": "cPK_10_016460_00_DUSTDAS_C.webp",
+    "name": "Garbodor",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 43,
+    "rarity": "C",
+    "image": "cPK_10_016470_00_ZORUA_C.webp",
+    "name": "Zorua",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 44,
+    "rarity": "R",
+    "image": "cPK_10_016480_00_ZOROARK_R.webp",
+    "name": "Zoroark",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 45,
+    "rarity": "C",
+    "image": "cPK_10_016490_00_MORPEKO_C.webp",
+    "name": "Morpeko",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 46,
+    "rarity": "U",
+    "image": "cPK_10_016500_00_FORETOS_U.webp",
+    "name": "Forretress",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 47,
+    "rarity": "RR",
+    "image": "cPK_10_016510_00_MEGAHASSAMex_RR.webp",
+    "name": "Mega Scizor ex",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 48,
+    "rarity": "U",
+    "image": "cPK_10_016520_00_KAMITURUGI_U.webp",
+    "name": "Kartana",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 49,
+    "rarity": "C",
+    "image": "cPK_10_016530_00_BURORON_C.webp",
+    "name": "Varoom",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 50,
+    "rarity": "R",
+    "image": "cPK_10_016540_00_BUROROROOM_R.webp",
+    "name": "Revavroom",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 51,
+    "rarity": "C",
+    "image": "cPK_10_016550_00_MINIRYU_C.webp",
+    "name": "Dratini",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 52,
+    "rarity": "U",
+    "image": "cPK_10_016560_00_HAKURYU_U.webp",
+    "name": "Dragonair",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 53,
+    "rarity": "R",
+    "image": "cPK_10_016570_00_KAIRYU_R.webp",
+    "name": "Dragonite",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 54,
+    "rarity": "C",
+    "image": "cPK_10_016580_00_KIBAGO_C.webp",
+    "name": "Axew",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 55,
+    "rarity": "U",
+    "image": "cPK_10_016590_00_ONONDO_U.webp",
+    "name": "Fraxure",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 56,
+    "rarity": "R",
+    "image": "cPK_10_016030_00_ONONOKUS_R.webp",
+    "name": "Haxorus",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 57,
+    "rarity": "C",
+    "image": "cPK_10_016600_00_CRIMGAN_C.webp",
+    "name": "Druddigon",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 58,
+    "rarity": "C",
+    "image": "cPK_10_016610_00_PURIN_C.webp",
+    "name": "Jigglypuff",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 59,
+    "rarity": "C",
+    "image": "cPK_10_016060_00_PUKURIN_C.webp",
+    "name": "Wigglytuff",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 60,
+    "rarity": "U",
+    "image": "cPK_10_016620_00_MILTANK_U.webp",
+    "name": "Miltank",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 61,
+    "rarity": "C",
+    "image": "cPK_10_016040_00_PERAP_C.webp",
+    "name": "Chatot",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 62,
+    "rarity": "C",
+    "image": "cPK_10_016630_00_CHILLARMY_C.webp",
+    "name": "Minccino",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 63,
+    "rarity": "C",
+    "image": "cPK_10_016640_00_CHILLACCINO_C.webp",
+    "name": "Cinccino",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 64,
+    "rarity": "U",
+    "image": "cPK_10_016650_00_TRIMMIEN_U.webp",
+    "name": "Furfrou",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 65,
+    "rarity": "U",
+    "image": "cTR_10_001230_00_IJIWARULETTER_U.webp",
+    "name": "Nasty Notice",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 66,
+    "rarity": "U",
+    "image": "cTR_10_001240_00_MAINTENANCE_U.webp",
+    "name": "Maintenance",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 67,
+    "rarity": "U",
+    "image": "cTR_10_001250_00_IRIS_U.webp",
+    "name": "Iris",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 68,
+    "rarity": "U",
+    "image": "cTR_10_001260_00_CALME_U.webp",
+    "name": "Calem",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 69,
+    "rarity": "U",
+    "image": "cTR_10_001270_00_HAIKINGUCOURSE_U.webp",
+    "name": "Hiking Trail",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 70,
+    "rarity": "AR",
+    "image": "cPK_20_016220_00_LAPLACE_AR.webp",
+    "name": "Lapras",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 71,
+    "rarity": "AR",
+    "image": "cPK_20_016250_00_EMPERTE_AR.webp",
+    "name": "Empoleon",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 72,
+    "rarity": "AR",
+    "image": "cPK_20_016400_00_GROUDON_AR.webp",
+    "name": "Groudon",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 73,
+    "rarity": "AR",
+    "image": "cPK_20_016490_00_MORPEKO_AR.webp",
+    "name": "Morpeko",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 74,
+    "rarity": "AR",
+    "image": "cPK_20_016540_00_BUROROROOM_AR.webp",
+    "name": "Revavroom",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 75,
+    "rarity": "AR",
+    "image": "cPK_20_016620_00_MILTANK_AR.webp",
+    "name": "Miltank",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 76,
+    "rarity": "SR",
+    "image": "cPK_20_016150_00_MEGALIZARDONXex_SR.webp",
+    "name": "Mega Charizard X ex",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 77,
+    "rarity": "SR",
+    "image": "cPK_20_016210_00_MEGAYADORANex_SR.webp",
+    "name": "Mega Slowbro ex",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 78,
+    "rarity": "SR",
+    "image": "cPK_20_016320_00_MEGALIVOLTex_SR.webp",
+    "name": "Mega Manectric ex",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 79,
+    "rarity": "SR",
+    "image": "cPK_20_016430_00_MEGAGANGARex_SR.webp",
+    "name": "Mega Gengar ex",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 80,
+    "rarity": "SR",
+    "image": "cPK_20_016510_00_MEGAHASSAMex_SR.webp",
+    "name": "Mega Scizor ex",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 81,
+    "rarity": "SR",
+    "image": "cTR_20_001250_00_IRIS_SR.webp",
+    "name": "Iris",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 82,
+    "rarity": "SR",
+    "image": "cTR_20_001260_00_CALME_SR.webp",
+    "name": "Calem",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 83,
+    "rarity": "SAR",
+    "image": "cPK_20_016210_01_MEGAYADORANex_SAR.webp",
+    "name": "Mega Slowbro ex",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 84,
+    "rarity": "SAR",
+    "image": "cPK_20_016320_01_MEGALIVOLTex_SAR.webp",
+    "name": "Mega Manectric ex",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 85,
+    "rarity": "IM",
+    "image": "cPK_20_016350_00_MEW_IM.webp",
+    "name": "Mew",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 86,
+    "rarity": "IM",
+    "image": "cPK_20_016350_01_MEW_IM.webp",
+    "name": "Mew",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 87,
+    "rarity": "S",
+    "image": "cPK_20_016070_00_STRIKE_S.webp",
+    "name": "Scyther",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 88,
+    "rarity": "S",
+    "image": "cPK_20_016080_00_KUNUGIDAMA_S.webp",
+    "name": "Pineco",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 89,
+    "rarity": "S",
+    "image": "cPK_20_016110_00_BOKUREI_S.webp",
+    "name": "Phantump",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 90,
+    "rarity": "S",
+    "image": "cPK_20_016120_00_OHROT_S.webp",
+    "name": "Trevenant",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 91,
+    "rarity": "S",
+    "image": "cPK_20_016130_00_HITOKAGE_S.webp",
+    "name": "Charmander",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 92,
+    "rarity": "S",
+    "image": "cPK_20_016140_00_LIZARDO_S.webp",
+    "name": "Charmeleon",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 93,
+    "rarity": "S",
+    "image": "cPK_20_016160_00_PONYTA_S.webp",
+    "name": "Ponyta",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 94,
+    "rarity": "S",
+    "image": "cPK_20_016170_00_GALLOP_S.webp",
+    "name": "Rapidash",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 95,
+    "rarity": "S",
+    "image": "cPK_20_016000_00_YADON_S.webp",
+    "name": "Slowpoke",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 96,
+    "rarity": "S",
+    "image": "cPK_20_016270_00_PIKACHU_S.webp",
+    "name": "Pikachu",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 97,
+    "rarity": "S",
+    "image": "cPK_20_016280_00_RAICHU_S.webp",
+    "name": "Raichu",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 98,
+    "rarity": "S",
+    "image": "cPK_20_016310_00_RAKURAI_S.webp",
+    "name": "Electrike",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 99,
+    "rarity": "S",
+    "image": "cPK_20_016410_00_LUCHABULL_S.webp",
+    "name": "Hawlucha",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 100,
+    "rarity": "S",
+    "image": "cPK_20_016050_00_GHOS_S.webp",
+    "name": "Gastly",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 101,
+    "rarity": "S",
+    "image": "cPK_20_016420_00_GHOST_S.webp",
+    "name": "Haunter",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 102,
+    "rarity": "S",
+    "image": "cPK_20_016470_00_ZORUA_S.webp",
+    "name": "Zorua",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 103,
+    "rarity": "S",
+    "image": "cPK_20_016480_00_ZOROARK_S.webp",
+    "name": "Zoroark",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 104,
+    "rarity": "S",
+    "image": "cPK_20_016500_00_FORETOS_S.webp",
+    "name": "Forretress",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 105,
+    "rarity": "S",
+    "image": "cPK_20_016550_00_MINIRYU_S.webp",
+    "name": "Dratini",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 106,
+    "rarity": "S",
+    "image": "cPK_20_016560_00_HAKURYU_S.webp",
+    "name": "Dragonair",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 107,
+    "rarity": "S",
+    "image": "cPK_20_016570_00_KAIRYU_S.webp",
+    "name": "Dragonite",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 108,
+    "rarity": "S",
+    "image": "cPK_20_016580_00_KIBAGO_S.webp",
+    "name": "Axew",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 109,
+    "rarity": "S",
+    "image": "cPK_20_016590_00_ONONDO_S.webp",
+    "name": "Fraxure",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 110,
+    "rarity": "S",
+    "image": "cPK_20_016030_00_ONONOKUS_S.webp",
+    "name": "Haxorus",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 111,
+    "rarity": "SSR",
+    "image": "cPK_20_016150_01_MEGALIZARDONXex_SSR.webp",
+    "name": "Mega Charizard X ex",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 112,
+    "rarity": "SSR",
+    "image": "cPK_20_016210_02_MEGAYADORANex_SSR.webp",
+    "name": "Mega Slowbro ex",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 113,
+    "rarity": "SSR",
+    "image": "cPK_20_016320_02_MEGALIVOLTex_SSR.webp",
+    "name": "Mega Manectric ex",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 114,
+    "rarity": "SSR",
+    "image": "cPK_20_016430_01_MEGAGANGARex_SSR.webp",
+    "name": "Mega Gengar ex",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 115,
+    "rarity": "SSR",
+    "image": "cPK_20_016510_01_MEGAHASSAMex_SSR.webp",
+    "name": "Mega Scizor ex",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 116,
+    "rarity": "UR",
+    "image": "cPK_20_015180_00_OLIVA_UR.webp",
+    "name": "Arboliva",
+    "packs": [
+      "Mega Shine"
+    ]
+  },
+  {
+    "set": "B2b",
+    "number": 117,
+    "rarity": "UR",
+    "image": "cTR_20_001090_00_METARUKOABARIA_UR.webp",
+    "name": "Metal Core Barrier",
+    "packs": [
+      "Mega Shine"
+    ]
+  }
+]
