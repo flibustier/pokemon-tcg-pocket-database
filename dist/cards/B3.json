@@ -1,0 +1,2342 @@
+[
+  {
+    "set": "B3",
+    "number": 1,
+    "rarity": "C",
+    "image": "cPK_10_016660_00_MONJARA_C.webp",
+    "name": "Tangela",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 2,
+    "rarity": "U",
+    "image": "cPK_10_016670_00_MOJUMBO_U.webp",
+    "name": "Tangrowth",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 3,
+    "rarity": "U",
+    "image": "cPK_10_016680_00_HERACROS_U.webp",
+    "name": "Heracross",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 4,
+    "rarity": "R",
+    "image": "cPK_10_016690_00_CELEBI_R.webp",
+    "name": "Celebi",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 5,
+    "rarity": "C",
+    "image": "cPK_10_016700_00_KIMORI_C.webp",
+    "name": "Treecko",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 6,
+    "rarity": "U",
+    "image": "cPK_10_016710_00_JUPTILE_U.webp",
+    "name": "Grovyle",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 7,
+    "rarity": "R",
+    "image": "cPK_10_016720_00_JUKAIN_R.webp",
+    "name": "Sceptile",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 8,
+    "rarity": "RR",
+    "image": "cPK_10_016730_00_MEGAJUKAINex_RR.webp",
+    "name": "Mega Sceptile ex",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 9,
+    "rarity": "C",
+    "image": "cPK_10_016740_00_AMETAMA_C.webp",
+    "name": "Surskit",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 10,
+    "rarity": "C",
+    "image": "cPK_10_016750_00_AMEMOTH_C.webp",
+    "name": "Masquerain",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 11,
+    "rarity": "C",
+    "image": "cPK_10_016760_00_KINOCOCO_C.webp",
+    "name": "Shroomish",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 12,
+    "rarity": "U",
+    "image": "cPK_10_016770_00_KINOGASSA_U.webp",
+    "name": "Breloom",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 13,
+    "rarity": "R",
+    "image": "cPK_10_016780_00_SUBOMIE_R.webp",
+    "name": "Budew",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 14,
+    "rarity": "C",
+    "image": "cPK_10_016790_00_MUSKIPPA_C.webp",
+    "name": "Carnivine",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 15,
+    "rarity": "C",
+    "image": "cPK_10_016800_00_KURUMIRU_C.webp",
+    "name": "Sewaddle",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 16,
+    "rarity": "C",
+    "image": "cPK_10_016810_00_KURUMAYU_C.webp",
+    "name": "Swadloon",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 17,
+    "rarity": "U",
+    "image": "cPK_10_016820_00_HAHAKOMORI_U.webp",
+    "name": "Leavanny",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 18,
+    "rarity": "C",
+    "image": "cPK_10_016830_00_AIANT_C.webp",
+    "name": "Durant",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 19,
+    "rarity": "C",
+    "image": "cPK_10_016840_00_KAJICCHU_C.webp",
+    "name": "Applin",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 20,
+    "rarity": "R",
+    "image": "cPK_10_016850_00_APPRYU_R.webp",
+    "name": "Flapple",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 21,
+    "rarity": "C",
+    "image": "cPK_10_016860_00_DONMEL_C.webp",
+    "name": "Numel",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 22,
+    "rarity": "U",
+    "image": "cPK_10_016870_00_BAKUUDA_U.webp",
+    "name": "Camerupt",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 23,
+    "rarity": "RR",
+    "image": "cPK_10_016880_00_MEGABAKUUDAex_RR.webp",
+    "name": "Mega Camerupt ex",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 24,
+    "rarity": "C",
+    "image": "cPK_10_016890_00_POWALENTAIYOUNOSUGATA_C.webp",
+    "name": "Castform Sunny Form",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 25,
+    "rarity": "R",
+    "image": "cPK_10_016900_00_VICTINI_R.webp",
+    "name": "Victini",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 26,
+    "rarity": "C",
+    "image": "cPK_10_016910_00_POKABU_C.webp",
+    "name": "Tepig",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 27,
+    "rarity": "U",
+    "image": "cPK_10_016920_00_CHAOBOO_U.webp",
+    "name": "Pignite",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 28,
+    "rarity": "R",
+    "image": "cPK_10_016930_00_ENBUOH_R.webp",
+    "name": "Emboar",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 29,
+    "rarity": "C",
+    "image": "cPK_10_016940_00_DARUMAKKA_C.webp",
+    "name": "Darumaka",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 30,
+    "rarity": "U",
+    "image": "cPK_10_016950_00_HIHIDARUMA_U.webp",
+    "name": "Darmanitan",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 31,
+    "rarity": "C",
+    "image": "cPK_10_016960_00_MERLARVA_C.webp",
+    "name": "Larvesta",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 32,
+    "rarity": "U",
+    "image": "cPK_10_016970_00_ULGAMOTH_U.webp",
+    "name": "Volcarona",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 33,
+    "rarity": "C",
+    "image": "cPK_10_016980_00_NYOROMO_C.webp",
+    "name": "Poliwag",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 34,
+    "rarity": "U",
+    "image": "cPK_10_016990_00_NYOROZO_U.webp",
+    "name": "Poliwhirl",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 35,
+    "rarity": "R",
+    "image": "cPK_10_017000_00_NYOROTONO_R.webp",
+    "name": "Politoed",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 36,
+    "rarity": "U",
+    "image": "cPK_10_017010_00_PALDEAKENTAUROS_U.webp",
+    "name": "Paldean Tauros",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 37,
+    "rarity": "RR",
+    "image": "cPK_10_017020_00_SHOWERSex_RR.webp",
+    "name": "Vaporeon ex",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 38,
+    "rarity": "C",
+    "image": "cPK_10_017030_00_UPAH_C.webp",
+    "name": "Wooper",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 39,
+    "rarity": "U",
+    "image": "cPK_10_017040_00_NUOH_U.webp",
+    "name": "Quagsire",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 40,
+    "rarity": "C",
+    "image": "cPK_10_017050_00_POWALENAMAMIZUNOSUGATA_C.webp",
+    "name": "Castform Rainy Form",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 41,
+    "rarity": "C",
+    "image": "cPK_10_017060_00_POWALENYUKIGUMONOSUGATA_C.webp",
+    "name": "Castform Snowy Form",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 42,
+    "rarity": "C",
+    "image": "cPK_10_017070_00_PEARLULU_C.webp",
+    "name": "Clamperl",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 43,
+    "rarity": "U",
+    "image": "cPK_10_017080_00_HUNTAIL_U.webp",
+    "name": "Huntail",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 44,
+    "rarity": "U",
+    "image": "cPK_10_017090_00_SAKURABYSS_U.webp",
+    "name": "Gorebyss",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 45,
+    "rarity": "U",
+    "image": "cPK_10_017100_00_REGICE_U.webp",
+    "name": "Regice",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 46,
+    "rarity": "C",
+    "image": "cPK_10_017110_00_KUMASYUN_C.webp",
+    "name": "Cubchoo",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 47,
+    "rarity": "U",
+    "image": "cPK_10_017120_00_TUNBEAR_U.webp",
+    "name": "Beartic",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 48,
+    "rarity": "C",
+    "image": "cPK_10_017130_00_MESSON_C.webp",
+    "name": "Sobble",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 49,
+    "rarity": "U",
+    "image": "cPK_10_017140_00_JIMEREON_U.webp",
+    "name": "Drizzile",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 50,
+    "rarity": "R",
+    "image": "cPK_10_017150_00_INTEREON_R.webp",
+    "name": "Inteleon",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 51,
+    "rarity": "R",
+    "image": "cPK_10_017160_00_WULAOSURENGEKINOKATA_R.webp",
+    "name": "Rapid Strike Urshifu",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 52,
+    "rarity": "C",
+    "image": "cPK_10_017170_00_COIL_C.webp",
+    "name": "Magnemite",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 53,
+    "rarity": "U",
+    "image": "cPK_10_017180_00_RARECOIL_U.webp",
+    "name": "Magneton",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 54,
+    "rarity": "RR",
+    "image": "cPK_10_017190_00_JIBACOILex_RR.webp",
+    "name": "Magnezone ex",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 55,
+    "rarity": "C",
+    "image": "cPK_10_017200_00_BIRIRIDAMA_C.webp",
+    "name": "Voltorb",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 56,
+    "rarity": "C",
+    "image": "cPK_10_017210_00_MARUMINE_C.webp",
+    "name": "Electrode",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 57,
+    "rarity": "C",
+    "image": "cPK_10_017220_00_CHONCHIE_C.webp",
+    "name": "Chinchou",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 58,
+    "rarity": "U",
+    "image": "cPK_10_017230_00_LANTERN_U.webp",
+    "name": "Lanturn",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 59,
+    "rarity": "R",
+    "image": "cPK_10_017240_00_ZEKROM_R.webp",
+    "name": "Zekrom",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 60,
+    "rarity": "C",
+    "image": "cPK_10_017250_00_ELESON_C.webp",
+    "name": "Toxel",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 61,
+    "rarity": "R",
+    "image": "cPK_10_017260_00_STRINDER_R.webp",
+    "name": "Toxtricity",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 62,
+    "rarity": "C",
+    "image": "cPK_10_017270_00_MORPEKO_C.webp",
+    "name": "Morpeko",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 63,
+    "rarity": "C",
+    "image": "cPK_10_017280_00_RALTS_C.webp",
+    "name": "Ralts",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 64,
+    "rarity": "U",
+    "image": "cPK_10_017290_00_KIRLIA_U.webp",
+    "name": "Kirlia",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 65,
+    "rarity": "C",
+    "image": "cPK_10_017300_00_NYASPER_C.webp",
+    "name": "Espurr",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 66,
+    "rarity": "R",
+    "image": "cPK_10_017310_00_NYAONIX_R.webp",
+    "name": "Meowstic",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 67,
+    "rarity": "R",
+    "image": "cPK_10_017320_00_DIANCIE_R.webp",
+    "name": "Diancie",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 68,
+    "rarity": "C",
+    "image": "cPK_10_017330_00_ODORIDORI_C.webp",
+    "name": "Oricorio",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 69,
+    "rarity": "C",
+    "image": "cPK_10_017340_00_MIBRIM_C.webp",
+    "name": "Hatenna",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 70,
+    "rarity": "U",
+    "image": "cPK_10_017350_00_TEBRIM_U.webp",
+    "name": "Hattrem",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 71,
+    "rarity": "R",
+    "image": "cPK_10_017360_00_BRIMUON_R.webp",
+    "name": "Hatterene",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 72,
+    "rarity": "C",
+    "image": "cPK_10_017370_00_ANOKUSA_C.webp",
+    "name": "Bramblin",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 73,
+    "rarity": "R",
+    "image": "cPK_10_017380_00_ANOHORAGUSA_R.webp",
+    "name": "Brambleghast",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 74,
+    "rarity": "C",
+    "image": "cPK_10_017390_00_GLIGER_C.webp",
+    "name": "Gligar",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 75,
+    "rarity": "U",
+    "image": "cPK_10_017400_00_GLION_U.webp",
+    "name": "Gliscor",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 76,
+    "rarity": "C",
+    "image": "cPK_10_017410_00_NUCKRAR_C.webp",
+    "name": "Trapinch",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 77,
+    "rarity": "U",
+    "image": "cPK_10_017420_00_REGIROCK_U.webp",
+    "name": "Regirock",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 78,
+    "rarity": "R",
+    "image": "cPK_10_017430_00_USOHACHI_R.webp",
+    "name": "Bonsly",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 79,
+    "rarity": "C",
+    "image": "cPK_10_017440_00_RIOLU_C.webp",
+    "name": "Riolu",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 80,
+    "rarity": "R",
+    "image": "cPK_10_017450_00_LUCARIO_R.webp",
+    "name": "Lucario",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 81,
+    "rarity": "RR",
+    "image": "cPK_10_017460_00_MEGALUCARIOex_RR.webp",
+    "name": "Mega Lucario ex",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 82,
+    "rarity": "C",
+    "image": "cPK_10_017470_00_GUREGGRU_C.webp",
+    "name": "Croagunk",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 83,
+    "rarity": "U",
+    "image": "cPK_10_017480_00_DOKUROG_U.webp",
+    "name": "Toxicroak",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 84,
+    "rarity": "R",
+    "image": "cPK_10_017490_00_ERUREIDO_R.webp",
+    "name": "Gallade",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 85,
+    "rarity": "C",
+    "image": "cPK_10_017500_00_NAGEKI_C.webp",
+    "name": "Throh",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 86,
+    "rarity": "C",
+    "image": "cPK_10_017510_00_DAGEKI_C.webp",
+    "name": "Sawk",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 87,
+    "rarity": "C",
+    "image": "cPK_10_017520_00_ISHIZUMAI_C.webp",
+    "name": "Dwebble",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 88,
+    "rarity": "RR",
+    "image": "cPK_10_017530_00_IWAPALACEex_RR.webp",
+    "name": "Crustle ex",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 89,
+    "rarity": "R",
+    "image": "cPK_10_017540_00_MELOETTA_R.webp",
+    "name": "Meloetta",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 90,
+    "rarity": "C",
+    "image": "cPK_10_017550_00_NUIKOGUMA_C.webp",
+    "name": "Stufful",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 91,
+    "rarity": "U",
+    "image": "cPK_10_017560_00_KITERUGUMA_U.webp",
+    "name": "Bewear",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 92,
+    "rarity": "C",
+    "image": "cPK_10_017570_00_TANDON_C.webp",
+    "name": "Rolycoly",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 93,
+    "rarity": "U",
+    "image": "cPK_10_017580_00_TOROGGON_U.webp",
+    "name": "Carkol",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 94,
+    "rarity": "R",
+    "image": "cPK_10_017590_00_SEKITANZAN_R.webp",
+    "name": "Coalossal",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 95,
+    "rarity": "C",
+    "image": "cPK_10_017600_00_SUNAHEBI_C.webp",
+    "name": "Silicobra",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 96,
+    "rarity": "U",
+    "image": "cPK_10_017610_00_SADAIJA_U.webp",
+    "name": "Sandaconda",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 97,
+    "rarity": "C",
+    "image": "cPK_10_017620_00_DAKUMA_C.webp",
+    "name": "Kubfu",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 98,
+    "rarity": "C",
+    "image": "cPK_10_017630_00_ZUBAT_C.webp",
+    "name": "Zubat",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 99,
+    "rarity": "U",
+    "image": "cPK_10_017640_00_GOLBAT_U.webp",
+    "name": "Golbat",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 100,
+    "rarity": "R",
+    "image": "cPK_10_017650_00_CROBAT_R.webp",
+    "name": "Crobat",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 101,
+    "rarity": "C",
+    "image": "cPK_10_017660_00_DOGARS_C.webp",
+    "name": "Koffing",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 102,
+    "rarity": "U",
+    "image": "cPK_10_017670_00_MATADOGAS_U.webp",
+    "name": "Weezing",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 103,
+    "rarity": "C",
+    "image": "cPK_10_017680_00_HARYSEN_C.webp",
+    "name": "Qwilfish",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 104,
+    "rarity": "C",
+    "image": "cPK_10_017690_00_HABUNAKE_C.webp",
+    "name": "Seviper",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 105,
+    "rarity": "C",
+    "image": "cPK_10_017700_00_ZORUA_C.webp",
+    "name": "Zorua",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 106,
+    "rarity": "RR",
+    "image": "cPK_10_017710_00_ZOROARKex_RR.webp",
+    "name": "Zoroark ex",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 107,
+    "rarity": "C",
+    "image": "cPK_10_017720_00_TAMAGETAKE_C.webp",
+    "name": "Foongus",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 108,
+    "rarity": "U",
+    "image": "cPK_10_017730_00_MOROBARERU_U.webp",
+    "name": "Amoonguss",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 109,
+    "rarity": "C",
+    "image": "cPK_10_017740_00_VALCHAI_C.webp",
+    "name": "Vullaby",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 110,
+    "rarity": "U",
+    "image": "cPK_10_017750_00_VULGINA_U.webp",
+    "name": "Mandibuzz",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 111,
+    "rarity": "C",
+    "image": "cPK_10_017760_00_MAAIIKA_C.webp",
+    "name": "Inkay",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 112,
+    "rarity": "U",
+    "image": "cPK_10_017770_00_CALAMANERO_U.webp",
+    "name": "Malamar",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 113,
+    "rarity": "R",
+    "image": "cPK_10_017780_00_WULAOSUICHIGEKINOKATA_R.webp",
+    "name": "Single Strike Urshifu",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 114,
+    "rarity": "R",
+    "image": "cPK_10_017790_00_ZARUDE_R.webp",
+    "name": "Zarude",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 115,
+    "rarity": "R",
+    "image": "cPK_10_017800_00_OTOSHIDORI_R.webp",
+    "name": "Bombirdier",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 116,
+    "rarity": "U",
+    "image": "cPK_10_017810_00_REGISTEEL_U.webp",
+    "name": "Registeel",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 117,
+    "rarity": "C",
+    "image": "cPK_10_017820_00_DOHMIRROR_C.webp",
+    "name": "Bronzor",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 118,
+    "rarity": "U",
+    "image": "cPK_10_017830_00_DOHTAKUN_U.webp",
+    "name": "Bronzong",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 119,
+    "rarity": "C",
+    "image": "cPK_10_017840_00_KOMATANA_C.webp",
+    "name": "Pawniard",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 120,
+    "rarity": "U",
+    "image": "cPK_10_017850_00_KIRIKIZAN_U.webp",
+    "name": "Bisharp",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 121,
+    "rarity": "U",
+    "image": "cPK_10_017860_00_MAGEARNA_U.webp",
+    "name": "Magearna",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 122,
+    "rarity": "C",
+    "image": "cPK_10_017870_00_MELTAN_C.webp",
+    "name": "Meltan",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 123,
+    "rarity": "R",
+    "image": "cPK_10_017880_00_MELMETAL_R.webp",
+    "name": "Melmetal",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 124,
+    "rarity": "RR",
+    "image": "cPK_10_017890_00_ARMORGAex_RR.webp",
+    "name": "Corviknight ex",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 125,
+    "rarity": "U",
+    "image": "cPK_10_017900_00_VIBRAVA_U.webp",
+    "name": "Vibrava",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 126,
+    "rarity": "RR",
+    "image": "cPK_10_017910_00_FLYGONex_RR.webp",
+    "name": "Flygon ex",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 127,
+    "rarity": "C",
+    "image": "cPK_10_017920_00_LUCKY_C.webp",
+    "name": "Chansey",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 128,
+    "rarity": "R",
+    "image": "cPK_10_017930_00_HAPPINAS_R.webp",
+    "name": "Blissey",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 129,
+    "rarity": "C",
+    "image": "cPK_10_017940_00_EIEVUI_C.webp",
+    "name": "Eevee",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 130,
+    "rarity": "R",
+    "image": "cPK_10_017950_00_NOKOCCHI_R.webp",
+    "name": "Dunsparce",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 131,
+    "rarity": "C",
+    "image": "cPK_10_017960_00_HIMEGUMA_C.webp",
+    "name": "Teddiursa",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 132,
+    "rarity": "U",
+    "image": "cPK_10_017970_00_RINGUMA_U.webp",
+    "name": "Ursaring",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 133,
+    "rarity": "C",
+    "image": "cPK_10_017980_00_POWALEN_C.webp",
+    "name": "Castform",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 134,
+    "rarity": "R",
+    "image": "cPK_10_017990_00_REGIGIGAS_R.webp",
+    "name": "Regigigas",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 135,
+    "rarity": "C",
+    "image": "cPK_10_018000_00_MINEZUMI_C.webp",
+    "name": "Patrat",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 136,
+    "rarity": "C",
+    "image": "cPK_10_018010_00_MIRUHOG_C.webp",
+    "name": "Watchog",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 137,
+    "rarity": "C",
+    "image": "cPK_10_018020_00_YORTERRIE_C.webp",
+    "name": "Lillipup",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 138,
+    "rarity": "U",
+    "image": "cPK_10_018030_00_HERDERRIE_U.webp",
+    "name": "Herdier",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 139,
+    "rarity": "R",
+    "image": "cPK_10_018040_00_MOOLAND_R.webp",
+    "name": "Stoutland",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 140,
+    "rarity": "U",
+    "image": "cPK_10_018050_00_TABUNNE_U.webp",
+    "name": "Audino",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 141,
+    "rarity": "RR",
+    "image": "cPK_10_018060_00_MEGATABUNNEex_RR.webp",
+    "name": "Mega Audino ex",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 142,
+    "rarity": "C",
+    "image": "cPK_10_018070_00_CHILLARMY_C.webp",
+    "name": "Minccino",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 143,
+    "rarity": "C",
+    "image": "cPK_10_018080_00_CHILLACCINO_C.webp",
+    "name": "Cinccino",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 144,
+    "rarity": "U",
+    "image": "cPK_10_018090_00_TRIMMIEN_U.webp",
+    "name": "Furfrou",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 145,
+    "rarity": "C",
+    "image": "cPK_10_018100_00_KOKOGARA_C.webp",
+    "name": "Rookidee",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 146,
+    "rarity": "U",
+    "image": "cPK_10_018110_00_AOGARASU_U.webp",
+    "name": "Corvisquire",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 147,
+    "rarity": "U",
+    "image": "cTR_10_001280_00_FIELDBLOWER_U.webp",
+    "name": "Field Blower",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 148,
+    "rarity": "U",
+    "image": "cTR_10_001290_00_HAPPINESSEGG_U.webp",
+    "name": "Lucky Egg",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 149,
+    "rarity": "U",
+    "image": "cTR_10_001300_00_CORNI_U.webp",
+    "name": "Korrina",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 150,
+    "rarity": "U",
+    "image": "cTR_10_001310_00_TAXIDRIVER_U.webp",
+    "name": "Cabbie",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 151,
+    "rarity": "U",
+    "image": "cTR_10_001320_00_CHEREN_U.webp",
+    "name": "Cheren",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 152,
+    "rarity": "U",
+    "image": "cTR_10_001330_00_PARASOLGIRL_U.webp",
+    "name": "Parasol Lady",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 153,
+    "rarity": "U",
+    "image": "cTR_10_001340_00_AMAKUKAORUMORI_U.webp",
+    "name": "Fragrant Forest",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 154,
+    "rarity": "U",
+    "image": "cTR_10_001350_00_INISHIENOTOUGIJYOU_U.webp",
+    "name": "Arena of Antiquity",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 155,
+    "rarity": "U",
+    "image": "cTR_10_001360_00_KEKKAINOFIELD_U.webp",
+    "name": "Bounded Field",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 156,
+    "rarity": "AR",
+    "image": "cPK_20_016700_00_KIMORI_AR.webp",
+    "name": "Treecko",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 157,
+    "rarity": "AR",
+    "image": "cPK_20_016710_00_JUPTILE_AR.webp",
+    "name": "Grovyle",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 158,
+    "rarity": "AR",
+    "image": "cPK_20_016760_00_KINOCOCO_AR.webp",
+    "name": "Shroomish",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 159,
+    "rarity": "AR",
+    "image": "cPK_20_016780_00_SUBOMIE_AR.webp",
+    "name": "Budew",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 160,
+    "rarity": "AR",
+    "image": "cPK_20_016850_00_APPRYU_AR.webp",
+    "name": "Flapple",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 161,
+    "rarity": "AR",
+    "image": "cPK_20_016910_00_POKABU_AR.webp",
+    "name": "Tepig",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 162,
+    "rarity": "AR",
+    "image": "cPK_20_017040_00_NUOH_AR.webp",
+    "name": "Quagsire",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 163,
+    "rarity": "AR",
+    "image": "cPK_20_017240_00_ZEKROM_AR.webp",
+    "name": "Zekrom",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 164,
+    "rarity": "AR",
+    "image": "cPK_20_017270_00_MORPEKO_AR.webp",
+    "name": "Morpeko",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 165,
+    "rarity": "AR",
+    "image": "cPK_20_017310_00_NYAONIX_AR.webp",
+    "name": "Meowstic",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 166,
+    "rarity": "AR",
+    "image": "cPK_20_017330_00_ODORIDORI_AR.webp",
+    "name": "Oricorio",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 167,
+    "rarity": "AR",
+    "image": "cPK_20_017380_00_ANOHORAGUSA_AR.webp",
+    "name": "Brambleghast",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 168,
+    "rarity": "AR",
+    "image": "cPK_20_017430_00_USOHACHI_AR.webp",
+    "name": "Bonsly",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 169,
+    "rarity": "AR",
+    "image": "cPK_20_017440_00_RIOLU_AR.webp",
+    "name": "Riolu",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 170,
+    "rarity": "AR",
+    "image": "cPK_20_017540_00_MELOETTA_AR.webp",
+    "name": "Meloetta",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 171,
+    "rarity": "AR",
+    "image": "cPK_20_017580_00_TOROGGON_AR.webp",
+    "name": "Carkol",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 172,
+    "rarity": "AR",
+    "image": "cPK_20_017620_00_DAKUMA_AR.webp",
+    "name": "Kubfu",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 173,
+    "rarity": "AR",
+    "image": "cPK_20_017690_00_HABUNAKE_AR.webp",
+    "name": "Seviper",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 174,
+    "rarity": "AR",
+    "image": "cPK_20_017700_00_ZORUA_AR.webp",
+    "name": "Zorua",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 175,
+    "rarity": "AR",
+    "image": "cPK_20_017770_00_CALAMANERO_AR.webp",
+    "name": "Malamar",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 176,
+    "rarity": "AR",
+    "image": "cPK_20_017850_00_KIRIKIZAN_AR.webp",
+    "name": "Bisharp",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 177,
+    "rarity": "AR",
+    "image": "cPK_20_017870_00_MELTAN_AR.webp",
+    "name": "Meltan",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 178,
+    "rarity": "AR",
+    "image": "cPK_20_017980_00_POWALEN_AR.webp",
+    "name": "Castform",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 179,
+    "rarity": "AR",
+    "image": "cPK_20_018080_00_CHILLACCINO_AR.webp",
+    "name": "Cinccino",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 180,
+    "rarity": "SR",
+    "image": "cPK_20_016730_00_MEGAJUKAINex_SR.webp",
+    "name": "Mega Sceptile ex",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 181,
+    "rarity": "SR",
+    "image": "cPK_20_016880_00_MEGABAKUUDAex_SR.webp",
+    "name": "Mega Camerupt ex",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 182,
+    "rarity": "SR",
+    "image": "cPK_20_017020_00_SHOWERSex_SR.webp",
+    "name": "Vaporeon ex",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 183,
+    "rarity": "SR",
+    "image": "cPK_20_017190_00_JIBACOILex_SR.webp",
+    "name": "Magnezone ex",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 184,
+    "rarity": "SR",
+    "image": "cPK_20_017460_00_MEGALUCARIOex_SR.webp",
+    "name": "Mega Lucario ex",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 185,
+    "rarity": "SR",
+    "image": "cPK_20_017530_00_IWAPALACEex_SR.webp",
+    "name": "Crustle ex",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 186,
+    "rarity": "SR",
+    "image": "cPK_20_017710_00_ZOROARKex_SR.webp",
+    "name": "Zoroark ex",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 187,
+    "rarity": "SR",
+    "image": "cPK_20_017890_00_ARMORGAex_SR.webp",
+    "name": "Corviknight ex",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 188,
+    "rarity": "SR",
+    "image": "cPK_20_017910_00_FLYGONex_SR.webp",
+    "name": "Flygon ex",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 189,
+    "rarity": "SR",
+    "image": "cPK_20_018060_00_MEGATABUNNEex_SR.webp",
+    "name": "Mega Audino ex",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 190,
+    "rarity": "SR",
+    "image": "cTR_20_001300_00_CORNI_SR.webp",
+    "name": "Korrina",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 191,
+    "rarity": "SR",
+    "image": "cTR_20_001310_00_TAXIDRIVER_SR.webp",
+    "name": "Cabbie",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 192,
+    "rarity": "SR",
+    "image": "cTR_20_001320_00_CHEREN_SR.webp",
+    "name": "Cheren",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 193,
+    "rarity": "SR",
+    "image": "cTR_20_001330_00_PARASOLGIRL_SR.webp",
+    "name": "Parasol Lady",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 194,
+    "rarity": "SAR",
+    "image": "cPK_20_016730_01_MEGAJUKAINex_SAR.webp",
+    "name": "Mega Sceptile ex",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 195,
+    "rarity": "SAR",
+    "image": "cPK_20_016880_01_MEGABAKUUDAex_SAR.webp",
+    "name": "Mega Camerupt ex",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 196,
+    "rarity": "SAR",
+    "image": "cPK_20_017020_01_SHOWERSex_SAR.webp",
+    "name": "Vaporeon ex",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 197,
+    "rarity": "SAR",
+    "image": "cPK_20_017190_01_JIBACOILex_SAR.webp",
+    "name": "Magnezone ex",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 198,
+    "rarity": "SAR",
+    "image": "cPK_20_017530_01_IWAPALACEex_SAR.webp",
+    "name": "Crustle ex",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 199,
+    "rarity": "SAR",
+    "image": "cPK_20_017710_01_ZOROARKex_SAR.webp",
+    "name": "Zoroark ex",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 200,
+    "rarity": "SAR",
+    "image": "cPK_20_017890_01_ARMORGAex_SAR.webp",
+    "name": "Corviknight ex",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 201,
+    "rarity": "SAR",
+    "image": "cPK_20_017910_01_FLYGONex_SAR.webp",
+    "name": "Flygon ex",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 202,
+    "rarity": "SAR",
+    "image": "cPK_20_018060_01_MEGATABUNNEex_SAR.webp",
+    "name": "Mega Audino ex",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 203,
+    "rarity": "IM",
+    "image": "cPK_20_017130_00_MESSON_IM.webp",
+    "name": "Sobble",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 204,
+    "rarity": "IM",
+    "image": "cPK_20_017460_01_MEGALUCARIOex_IM.webp",
+    "name": "Mega Lucario ex",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 205,
+    "rarity": "S",
+    "image": "cPK_20_010970_00_MONMEN_S.webp",
+    "name": "Cottonee",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 206,
+    "rarity": "S",
+    "image": "cPK_20_011150_00_ACHAMO_S.webp",
+    "name": "Torchic",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 207,
+    "rarity": "S",
+    "image": "cPK_20_011160_00_WAKASYAMO_S.webp",
+    "name": "Combusken",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 208,
+    "rarity": "S",
+    "image": "cPK_20_011170_00_BURSYAMO_S.webp",
+    "name": "Blaziken",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 209,
+    "rarity": "S",
+    "image": "cPK_20_011500_00_PURURILL_S.webp",
+    "name": "Frillish",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 210,
+    "rarity": "S",
+    "image": "cPK_20_011510_01_BURUNGEL_S.webp",
+    "name": "Jellicent",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 211,
+    "rarity": "S",
+    "image": "cPK_20_013420_00_IWARK_S.webp",
+    "name": "Onix",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 212,
+    "rarity": "S",
+    "image": "cPK_20_017630_00_ZUBAT_S.webp",
+    "name": "Zubat",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 213,
+    "rarity": "S",
+    "image": "cPK_20_017640_00_GOLBAT_S.webp",
+    "name": "Golbat",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 214,
+    "rarity": "S",
+    "image": "cPK_20_017650_00_CROBAT_S.webp",
+    "name": "Crobat",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 215,
+    "rarity": "S",
+    "image": "cPK_20_013490_00_BETBETER_S.webp",
+    "name": "Grimer",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 216,
+    "rarity": "S",
+    "image": "cPK_20_013500_00_BETBETON_S.webp",
+    "name": "Muk",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 217,
+    "rarity": "S",
+    "image": "cPK_20_012320_00_ABSOL_S.webp",
+    "name": "Absol",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 218,
+    "rarity": "S",
+    "image": "cPK_20_012410_00_KUZUMO_S.webp",
+    "name": "Skrelp",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 219,
+    "rarity": "S",
+    "image": "cPK_20_013550_00_HAGANEIL_S.webp",
+    "name": "Steelix",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 220,
+    "rarity": "S",
+    "image": "cPK_20_017920_00_LUCKY_S.webp",
+    "name": "Chansey",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 221,
+    "rarity": "S",
+    "image": "cPK_20_017930_00_HAPPINAS_S.webp",
+    "name": "Blissey",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 222,
+    "rarity": "S",
+    "image": "cPK_20_013580_00_PORYGON_S.webp",
+    "name": "Porygon",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 223,
+    "rarity": "S",
+    "image": "cPK_20_013590_00_PORYGON2_S.webp",
+    "name": "Porygon2",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 224,
+    "rarity": "S",
+    "image": "cPK_20_013600_00_PORYGON-Z_S.webp",
+    "name": "Porygon-Z",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 225,
+    "rarity": "SSR",
+    "image": "cPK_20_010980_02_ELFUUNex_SSR.webp",
+    "name": "Whimsicott ex",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 226,
+    "rarity": "SSR",
+    "image": "cPK_20_011180_02_MEGABURSYAMOex_SSR.webp",
+    "name": "Mega Blaziken ex",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 227,
+    "rarity": "SSR",
+    "image": "cPK_20_011550_02_GEKKOUGAex_SSR.webp",
+    "name": "Greninja ex",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 228,
+    "rarity": "SSR",
+    "image": "cPK_20_011630_02_THUNDERSex_SSR.webp",
+    "name": "Jolteon ex",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 229,
+    "rarity": "SSR",
+    "image": "cPK_20_012060_02_EBIWALARex_SSR.webp",
+    "name": "Hitmonchan ex",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 230,
+    "rarity": "SSR",
+    "image": "cPK_20_012330_02_MEGAABSOLex_SSR.webp",
+    "name": "Mega Absol ex",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 231,
+    "rarity": "SSR",
+    "image": "cPK_20_012420_02_DRAMIDOROex_SSR.webp",
+    "name": "Dragalge ex",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 232,
+    "rarity": "SSR",
+    "image": "cPK_20_013560_02_MEGAHAGANEILex_SSR.webp",
+    "name": "Mega Steelix ex",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 233,
+    "rarity": "UR",
+    "image": "cPK_20_016690_00_CELEBI_UR.webp",
+    "name": "Celebi",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  },
+  {
+    "set": "B3",
+    "number": 234,
+    "rarity": "UR",
+    "image": "cPK_20_017800_00_OTOSHIDORI_UR.webp",
+    "name": "Bombirdier",
+    "packs": [
+      "Pulsing Aura"
+    ]
+  }
+]
