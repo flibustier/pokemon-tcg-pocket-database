@@ -359,8 +359,7 @@
     "number": 41,
     "rarity": "RR",
     "image": "cPK_90_015460_00_PAOJIANex_RR.webp",
-    "name": "Chien-Pao ex",
-    "packs": []
+    "name": "Chien-Pao ex"
   },
   {
     "set": "PROMO-B",
@@ -368,7 +367,9 @@
     "rarity": "AR",
     "image": "cPK_90_016000_00_YADON_AR.webp",
     "name": "Slowpoke",
-    "packs": []
+    "packs": [
+      "B Series Vol. 6"
+    ]
   },
   {
     "set": "PROMO-B",
@@ -376,7 +377,9 @@
     "rarity": "C",
     "image": "cPK_90_016010_00_RAKURAI_C.webp",
     "name": "Electrike",
-    "packs": []
+    "packs": [
+      "B Series Vol. 6"
+    ]
   },
   {
     "set": "PROMO-B",
@@ -384,7 +387,9 @@
     "rarity": "C",
     "image": "cPK_90_016020_00_BURORON_C.webp",
     "name": "Varoom",
-    "packs": []
+    "packs": [
+      "B Series Vol. 6"
+    ]
   },
   {
     "set": "PROMO-B",
@@ -392,7 +397,9 @@
     "rarity": "R",
     "image": "cPK_90_016030_00_ONONOKUS_R.webp",
     "name": "Haxorus",
-    "packs": []
+    "packs": [
+      "B Series Vol. 6"
+    ]
   },
   {
     "set": "PROMO-B",
@@ -400,22 +407,150 @@
     "rarity": "C",
     "image": "cPK_90_016040_00_PERAP_C.webp",
     "name": "Chatot",
-    "packs": []
+    "packs": [
+      "B Series Vol. 6"
+    ]
   },
   {
     "set": "PROMO-B",
     "number": 47,
     "rarity": "R",
     "image": "cPK_90_016050_00_GHOS_R.webp",
-    "name": "Gastly",
-    "packs": []
+    "name": "Gastly"
   },
   {
     "set": "PROMO-B",
     "number": 48,
     "rarity": "R",
     "image": "cPK_90_016060_00_PUKURIN_R.webp",
-    "name": "Wigglytuff",
-    "packs": []
+    "name": "Wigglytuff"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 49,
+    "rarity": "AR",
+    "image": "cPK_90_016900_00_VICTINI_AR.webp",
+    "name": "Victini"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 50,
+    "rarity": "U",
+    "image": "cPK_90_014360_00_MELOETTA_U.webp",
+    "name": "Meloetta",
+    "packs": [
+      "B Series Vol. 7"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 51,
+    "rarity": "C",
+    "image": "cPK_90_018860_00_ZYGARDE10%EF%BC%85FORME_C.webp",
+    "name": "Zygarde",
+    "packs": [
+      "B Series Vol. 7"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 52,
+    "rarity": "R",
+    "image": "cPK_90_018870_00_ZYGARDE50%EF%BC%85FORME_R.webp",
+    "name": "Zygarde",
+    "packs": [
+      "B Series Vol. 7"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 53,
+    "rarity": "RR",
+    "image": "cPK_90_018880_00_ZYGARDEPERFECTFORMEex_RR.webp",
+    "name": "Zygarde ex",
+    "packs": [
+      "B Series Vol. 7"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 54,
+    "rarity": "C",
+    "image": "cPK_90_012660_01_EIEVUI_C.webp",
+    "name": "Eevee",
+    "packs": [
+      "B Series Vol. 7"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 55,
+    "rarity": "SR",
+    "image": "cPK_90_018880_01_ZYGARDEPERFECTFORMEex_SR.webp",
+    "name": "Zygarde ex"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 56,
+    "rarity": "RR",
+    "image": "cPK_90_018900_00_MEGAHERACROSex_RR.webp",
+    "name": "Mega Heracross ex",
+    "packs": [
+      "B Series Vol. 8"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 57,
+    "rarity": "C",
+    "image": "cPK_90_016890_00_POWALENTAIYOUNOSUGATA_C.webp",
+    "name": "Castform Sunny Form",
+    "packs": [
+      "B Series Vol. 8"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 58,
+    "rarity": "C",
+    "image": "cPK_90_018910_00_POKABU_C.webp",
+    "name": "Tepig",
+    "packs": [
+      "B Series Vol. 8"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 59,
+    "rarity": "C",
+    "image": "cPK_90_018920_00_ISHIZUMAI_C.webp",
+    "name": "Dwebble",
+    "packs": [
+      "B Series Vol. 8"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 60,
+    "rarity": "R",
+    "image": "cPK_90_017790_00_ZARUDE_R.webp",
+    "name": "Zarude",
+    "packs": [
+      "B Series Vol. 8"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 61,
+    "rarity": "R",
+    "image": "cPK_90_016700_00_KIMORI_R.webp",
+    "name": "Treecko"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 62,
+    "rarity": "R",
+    "image": "cPK_90_017490_00_ERUREIDO_R.webp",
+    "name": "Gallade"
   }
 ]

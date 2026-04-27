@@ -14,10 +14,22 @@ if (process.argv.length > 2) {
   const url = process.argv[2] || "";
   const packName = process.argv[3];
 
-  console.log(`Scraping URL ${url}...`);
-  const response = await fetch(url);
+  let html = "";
 
-  const html = await response.text();
+  if (url === "scraps") {
+    console.log("Using scraps.html...");
+    html = fs.readFileSync("./scraps.html", "utf-8");
+  } else {
+    console.log(`Scraping URL ${url}...`);
+    const response = await fetch(url, {
+      headers: {
+        "User-Agent":
+          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+      },
+    });
+
+    html = await response.text();
+  }
 
   const $ = cheerio.load(html);
 
