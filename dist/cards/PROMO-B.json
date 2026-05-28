@@ -552,5 +552,76 @@
     "rarity": "R",
     "image": "cPK_90_017490_00_ERUREIDO_R.webp",
     "name": "Gallade"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 63,
+    "rarity": "RR",
+    "image": "cPK_90_015120_00_MASQUERNYAex_RR.webp",
+    "name": "Meowscarada ex"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 64,
+    "rarity": "C",
+    "image": "cPK_90_018930_00_CARBOU_C.webp",
+    "name": "Charcadet",
+    "packs": [
+      "B Series Vol. 9"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 65,
+    "rarity": "C",
+    "image": "cPK_90_018230_00_SHOWERS_C.webp",
+    "name": "Vaporeon",
+    "packs": [
+      "B Series Vol. 9"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 66,
+    "rarity": "RR",
+    "image": "cPK_90_018940_00_SOUBLADESex_RR.webp",
+    "name": "Ceruledge ex",
+    "packs": [
+      "B Series Vol. 9"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 67,
+    "rarity": "C",
+    "image": "cPK_90_018950_00_KOMATANA_C.webp",
+    "name": "Pawniard",
+    "packs": [
+      "B Series Vol. 9"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 68,
+    "rarity": "R",
+    "image": "cPK_90_018750_00_NOKOKOCCHI_R.webp",
+    "name": "Dudunsparce",
+    "packs": [
+      "B Series Vol. 9"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 69,
+    "rarity": "R",
+    "image": "cPK_90_015110_00_NYAROTE_R.webp",
+    "name": "Floragato"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 70,
+    "rarity": "R",
+    "image": "cPK_90_018550_00_YAMIRAMI_R.webp",
+    "name": "Sableye"
   }
 ]
