@@ -623,5 +623,76 @@
     "rarity": "R",
     "image": "cPK_90_018550_00_YAMIRAMI_R.webp",
     "name": "Sableye"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 71,
+    "rarity": "AR",
+    "image": "cPK_90_019030_00_KODUCK_AR.webp",
+    "name": "Psyduck"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 72,
+    "rarity": "C",
+    "image": "cPK_90_018960_00_HINBASS_C.webp",
+    "name": "Feebas",
+    "packs": [
+      "B Series Vol. 10"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 73,
+    "rarity": "R",
+    "image": "cPK_90_018970_00_YUKIMENOKO_R.webp",
+    "name": "Froslass",
+    "packs": [
+      "B Series Vol. 10"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 74,
+    "rarity": "U",
+    "image": "cPK_90_018980_00_RAICHU_U.webp",
+    "name": "Raichu",
+    "packs": [
+      "B Series Vol. 10"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 75,
+    "rarity": "C",
+    "image": "cPK_90_018990_00_NUOH_C.webp",
+    "name": "Quagsire",
+    "packs": [
+      "B Series Vol. 10"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 76,
+    "rarity": "AR",
+    "image": "cPK_90_019000_00_HISUIZORUA_AR.webp",
+    "name": "Hisuian Zorua",
+    "packs": [
+      "B Series Vol. 10"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 77,
+    "rarity": "R",
+    "image": "cPK_90_019010_00_GARDIE_R.webp",
+    "name": "Growlithe"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 78,
+    "rarity": "R",
+    "image": "cPK_90_019020_00_EMOLGA_R.webp",
+    "name": "Emolga"
   }
 ]

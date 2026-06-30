@@ -206,6 +206,15 @@
       "packs": ["Paradox Drive"]
     },
     {
+      "code": "B3b",
+      "releaseDate": "2026-06-30",
+      "count": 106,
+      "name": {
+        "en": "Everyday Wonders"
+      },
+      "packs": ["Everyday Wonders"]
+    },
+    {
       "code": "PROMO-B",
       "releaseDate": "2025-10-30",
       "name": {
