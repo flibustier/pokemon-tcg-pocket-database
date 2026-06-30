@@ -1,6 +1,6 @@
 {
   "name": "pokemon-tcg-pocket-database",
-  "version": "2.7.0",
+  "version": "2.8.0",
   "description": "Pokemon TCG Pocket complete cards and sets JSON database",
   "files": [
     "dist/*.json",
@@ -32,8 +32,8 @@
   },
   "homepage": "https://github.com/flibustier/pokemon-tcg-pocket-database#readme",
   "devDependencies": {
-    "cheerio": "^1.1.2",
+    "cheerio": "^1.2.0",
     "@types/bun": "latest",
-    "typescript": "^5"
+    "typescript": "latest"
   }
 }
