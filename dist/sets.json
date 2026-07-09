@@ -15,7 +15,11 @@
         "ja": "最強の遺伝子",
         "ko": "최강의유전자"
       },
-      "packs": ["Charizard", "Mewtwo", "Pikachu"]
+      "packs": [
+        "Charizard",
+        "Mewtwo",
+        "Pikachu"
+      ]
     },
     {
       "code": "A1a",
@@ -32,16 +36,22 @@
         "zh": "幻遊鳥",
         "ko": "환상이있는섬"
       },
-      "packs": ["Mew"]
+      "packs": [
+        "Mew"
+      ]
     },
     {
       "code": "A2",
       "releaseDate": "2025-01-29",
       "count": 207,
       "name": {
-        "en": "Space-Time Smackdown"
+        "en": "Space-Time Smackdown",
+        "fr": "Choc Spatio-Temporel"
       },
-      "packs": ["Dialga", "Palkia"]
+      "packs": [
+        "Dialga",
+        "Palkia"
+      ]
     },
     {
       "code": "A2a",
@@ -49,80 +59,106 @@
       "count": 96,
       "name": {
         "en": "Triumphant Light",
-        "fr": "Lumière Triomphante",
+        "fr": "Lumière Triomphale",
         "es": "Luz Triunfal"
       },
-      "packs": ["Arceus"]
+      "packs": [
+        "Arceus"
+      ]
     },
     {
       "code": "A2b",
       "releaseDate": "2025-03-27",
       "count": 111,
       "name": {
-        "en": "Shining Revelry"
+        "en": "Shining Revelry",
+        "fr": "Réjouissances Rayonnantes"
       },
-      "packs": ["Shining"]
+      "packs": [
+        "Shining"
+      ]
     },
     {
       "code": "A3",
       "releaseDate": "2025-04-30",
       "count": 239,
       "name": {
-        "en": "Celestial Guardians"
+        "en": "Celestial Guardians",
+        "fr": "Gardiens Célestes"
       },
-      "packs": ["Lunala", "Solgaleo"]
+      "packs": [
+        "Lunala",
+        "Solgaleo"
+      ]
     },
     {
       "code": "A3a",
       "releaseDate": "2025-05-29",
       "count": 103,
       "name": {
-        "en": "Extradimensional Crisis"
+        "en": "Extradimensional Crisis",
+        "fr": "Crise Interdimensionnelle"
       },
-      "packs": ["Extradimensional"]
+      "packs": [
+        "Extradimensional"
+      ]
     },
     {
       "code": "A3b",
       "releaseDate": "2025-06-26",
       "count": 107,
       "name": {
-        "en": "Eevee Grove"
+        "en": "Eevee Grove",
+        "fr": "La Clairière d'Évoli"
       },
-      "packs": ["Eevee"]
+      "packs": [
+        "Eevee"
+      ]
     },
     {
       "code": "A4",
       "releaseDate": "2025-07-30",
       "count": 241,
       "name": {
-        "en": "Wisdom of Sea and Sky"
+        "en": "Wisdom of Sea and Sky",
+        "fr": "Sagesse entre Ciel et Mer"
       },
-      "packs": ["Ho-Oh", "Lugia"]
+      "packs": [
+        "Ho-Oh",
+        "Lugia"
+      ]
     },
     {
       "code": "A4a",
       "releaseDate": "2025-08-28",
       "count": 105,
       "name": {
-        "en": "Secluded Springs"
+        "en": "Secluded Springs",
+        "fr": "Source Secrète"
       },
-      "packs": ["Secluded"]
+      "packs": [
+        "Secluded"
+      ]
     },
     {
       "code": "A4b",
       "releaseDate": "2025-09-30",
       "count": 379,
       "name": {
-        "en": "Deluxe Pack: ex"
+        "en": "Deluxe Pack: ex",
+        "fr": "Booster de Luxe ex"
       },
-      "packs": ["Deluxe"]
+      "packs": [
+        "Deluxe"
+      ]
     },
     {
       "code": "PROMO-A",
       "releaseDate": "2024-10-30",
       "count": 117,
       "name": {
-        "en": "Promo A"
+        "en": "Promo A",
+        "fr": "Promo-A"
       },
       "packs": [
         "Vol. 1",
@@ -147,80 +183,115 @@
       "releaseDate": "2025-10-30",
       "count": 331,
       "name": {
-        "en": "Mega Rising"
+        "en": "Mega Rising",
+        "fr": "Méga-Ascension"
       },
-      "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
+      "packs": [
+        "Mega Altaria",
+        "Mega Blaziken",
+        "Mega Gyarados"
+      ]
     },
     {
       "code": "B1a",
       "releaseDate": "2025-12-17",
       "count": 103,
       "name": {
-        "en": "Crimson Blaze"
+        "en": "Crimson Blaze",
+        "fr": "Embrasement Écarlate"
       },
-      "packs": ["Crimson Blaze"]
+      "packs": [
+        "Crimson Blaze"
+      ]
     },
     {
       "code": "B2",
       "releaseDate": "2026-01-29",
       "count": 234,
       "name": {
-        "en": "Fantastical Parade"
+        "en": "Fantastical Parade",
+        "fr": "Parade Onirique"
       },
-      "packs": ["Gardevoir"]
+      "packs": [
+        "Gardevoir"
+      ]
     },
     {
       "code": "B2a",
       "releaseDate": "2026-02-26",
       "count": 131,
       "name": {
-        "en": "Paldean Wonders"
+        "en": "Paldean Wonders",
+        "fr": "Merveilles de Paldea"
       },
-      "packs": ["Paldean"]
+      "packs": [
+        "Paldean"
+      ]
     },
     {
       "code": "B2b",
       "releaseDate": "2026-03-26",
       "count": 117,
       "name": {
-        "en": "Mega Shine"
+        "en": "Mega Shine",
+        "fr": "Méga-Rayonnement"
       },
-      "packs": ["Mega Shine"]
+      "packs": [
+        "Mega Shine"
+      ]
     },
     {
       "code": "B3",
       "releaseDate": "2026-04-28",
       "count": 257,
       "name": {
-        "en": "Pulsing Aura"
+        "en": "Pulsing Aura",
+        "fr": "Aura Palpitante"
       },
-      "packs": ["Pulsing Aura"]
+      "packs": [
+        "Pulsing Aura"
+      ]
     },
     {
       "code": "B3a",
       "releaseDate": "2026-05-28",
       "count": 109,
       "name": {
-        "en": "Paradox Drive"
+        "en": "Paradox Drive",
+        "fr": "Propulsion Paradoxe"
       },
-      "packs": ["Paradox Drive"]
+      "packs": [
+        "Paradox Drive"
+      ]
     },
     {
       "code": "B3b",
       "releaseDate": "2026-06-30",
       "count": 106,
       "name": {
-        "en": "Everyday Wonders"
+        "en": "Everyday Wonders",
+        "fr": "Jours Heureux"
       },
-      "packs": ["Everyday Wonders"]
+      "packs": [
+        "Everyday Wonders"
+      ]
     },
     {
       "code": "PROMO-B",
       "releaseDate": "2025-10-30",
       "name": {
-        "en": "Promo B"
+        "en": "Promo B",
+        "fr": "Promo-B"
       },
-      "packs": ["B Series Vol. 1", "B Series Vol. 2", "B Series Vol. 3"]
+      "packs": [
+        "B Series Vol. 1",
+        "B Series Vol. 2",
+        "B Series Vol. 3",
+        "B Series Vol. 4",
+        "B Series Vol. 5",
+        "B Series Vol. 6",
+        "B Series Vol. 7"
+      ]
     }
   ]
 }
