@@ -4,7 +4,10 @@
     "number": 1,
     "rarity": "C",
     "image": "cPK_10_015100_00_NYAHOJA_C.webp",
-    "name": "Sprigatito",
+    "name": {
+      "en": "Sprigatito",
+      "fr": "Poussacha"
+    },
     "packs": [
       "Paldean"
     ]
@@ -14,7 +17,10 @@
     "number": 2,
     "rarity": "C",
     "image": "cPK_10_015110_00_NYAROTE_C.webp",
-    "name": "Floragato",
+    "name": {
+      "en": "Floragato",
+      "fr": "Matourgeon"
+    },
     "packs": [
       "Paldean"
     ]
@@ -24,7 +30,10 @@
     "number": 3,
     "rarity": "RR",
     "image": "cPK_10_015120_00_MASQUERNYAex_RR.webp",
-    "name": "Meowscarada ex",
+    "name": {
+      "en": "Meowscarada ex",
+      "fr": "Miascarade-ex"
+    },
     "packs": [
       "Paldean"
     ]
@@ -34,7 +43,10 @@
     "number": 4,
     "rarity": "C",
     "image": "cPK_10_015130_00_TAMANTULA_C.webp",
-    "name": "Tarountula",
+    "name": {
+      "en": "Tarountula",
+      "fr": "Tissenboule"
+    },
     "packs": [
       "Paldean"
     ]
@@ -44,7 +56,10 @@
     "number": 5,
     "rarity": "U",
     "image": "cPK_10_015140_00_WANAIDER_U.webp",
-    "name": "Spidops",
+    "name": {
+      "en": "Spidops",
+      "fr": "Filentrappe"
+    },
     "packs": [
       "Paldean"
     ]
@@ -54,7 +69,10 @@
     "number": 6,
     "rarity": "C",
     "image": "cPK_10_015150_00_MAMEBATTA_C.webp",
-    "name": "Nymble",
+    "name": {
+      "en": "Nymble",
+      "fr": "Lilliterelle"
+    },
     "packs": [
       "Paldean"
     ]
@@ -64,7 +82,10 @@
     "number": 7,
     "rarity": "C",
     "image": "cPK_10_015160_00_MINIVE_C.webp",
-    "name": "Smoliv",
+    "name": {
+      "en": "Smoliv",
+      "fr": "Olivini"
+    },
     "packs": [
       "Paldean"
     ]
@@ -74,7 +95,10 @@
     "number": 8,
     "rarity": "C",
     "image": "cPK_10_015170_00_OLINYO_C.webp",
-    "name": "Dolliv",
+    "name": {
+      "en": "Dolliv",
+      "fr": "Olivado"
+    },
     "packs": [
       "Paldean"
     ]
@@ -84,7 +108,10 @@
     "number": 9,
     "rarity": "R",
     "image": "cPK_10_015180_00_OLIVA_R.webp",
-    "name": "Arboliva",
+    "name": {
+      "en": "Arboliva",
+      "fr": "Arboliva"
+    },
     "packs": [
       "Paldean"
     ]
@@ -94,7 +121,10 @@
     "number": 10,
     "rarity": "C",
     "image": "cPK_10_015190_00_ANOKUSA_C.webp",
-    "name": "Bramblin",
+    "name": {
+      "en": "Bramblin",
+      "fr": "Virovent"
+    },
     "packs": [
       "Paldean"
     ]
@@ -104,7 +134,10 @@
     "number": 11,
     "rarity": "U",
     "image": "cPK_10_015200_00_ANOHORAGUSA_U.webp",
-    "name": "Brambleghast",
+    "name": {
+      "en": "Brambleghast",
+      "fr": "Virevorreur"
+    },
     "packs": [
       "Paldean"
     ]
@@ -114,7 +147,10 @@
     "number": 12,
     "rarity": "C",
     "image": "cPK_10_015210_00_CAPSAIJI_C.webp",
-    "name": "Capsakid",
+    "name": {
+      "en": "Capsakid",
+      "fr": "Pimito"
+    },
     "packs": [
       "Paldean"
     ]
@@ -124,7 +160,10 @@
     "number": 13,
     "rarity": "U",
     "image": "cPK_10_015220_00_SCOVILLAIN_U.webp",
-    "name": "Scovillain",
+    "name": {
+      "en": "Scovillain",
+      "fr": "Scovilain"
+    },
     "packs": [
       "Paldean"
     ]
@@ -134,7 +173,10 @@
     "number": 14,
     "rarity": "C",
     "image": "cPK_10_015230_00_SHIGAROKO_C.webp",
-    "name": "Rellor",
+    "name": {
+      "en": "Rellor",
+      "fr": "Léboulérou"
+    },
     "packs": [
       "Paldean"
     ]
@@ -144,7 +186,10 @@
     "number": 15,
     "rarity": "R",
     "image": "cPK_10_015240_00_CHIONJEN_R.webp",
-    "name": "Wo-Chien",
+    "name": {
+      "en": "Wo-Chien",
+      "fr": "Chongjian"
+    },
     "packs": [
       "Paldean"
     ]
@@ -154,7 +199,10 @@
     "number": 16,
     "rarity": "C",
     "image": "cPK_10_015250_00_HOGATOR_C.webp",
-    "name": "Fuecoco",
+    "name": {
+      "en": "Fuecoco",
+      "fr": "Chochodile"
+    },
     "packs": [
       "Paldean"
     ]
@@ -164,7 +212,10 @@
     "number": 17,
     "rarity": "C",
     "image": "cPK_10_015260_00_ACHIGATOR_C.webp",
-    "name": "Crocalor",
+    "name": {
+      "en": "Crocalor",
+      "fr": "Crocogril"
+    },
     "packs": [
       "Paldean"
     ]
@@ -174,7 +225,10 @@
     "number": 18,
     "rarity": "R",
     "image": "cPK_10_015270_00_LAUDBON_R.webp",
-    "name": "Skeledirge",
+    "name": {
+      "en": "Skeledirge",
+      "fr": "Flâmigator"
+    },
     "packs": [
       "Paldean"
     ]
@@ -184,7 +238,10 @@
     "number": 19,
     "rarity": "C",
     "image": "cPK_10_015280_00_CARBOU_C.webp",
-    "name": "Charcadet",
+    "name": {
+      "en": "Charcadet",
+      "fr": "Charbambin"
+    },
     "packs": [
       "Paldean"
     ]
@@ -194,7 +251,10 @@
     "number": 20,
     "rarity": "RR",
     "image": "cPK_10_015290_00_GURENARMAex_RR.webp",
-    "name": "Armarouge ex",
+    "name": {
+      "en": "Armarouge ex",
+      "fr": "Carmadura-ex"
+    },
     "packs": [
       "Paldean"
     ]
@@ -204,7 +264,10 @@
     "number": 21,
     "rarity": "R",
     "image": "cPK_10_015300_00_YIYUI_R.webp",
-    "name": "Chi-Yu",
+    "name": {
+      "en": "Chi-Yu",
+      "fr": "Yuyu"
+    },
     "packs": [
       "Paldean"
     ]
@@ -214,7 +277,10 @@
     "number": 22,
     "rarity": "C",
     "image": "cPK_10_015310_00_KUWASSU_C.webp",
-    "name": "Quaxly",
+    "name": {
+      "en": "Quaxly",
+      "fr": "Coiffeton"
+    },
     "packs": [
       "Paldean"
     ]
@@ -224,7 +290,10 @@
     "number": 23,
     "rarity": "C",
     "image": "cPK_10_015320_00_WELKAMO_C.webp",
-    "name": "Quaxwell",
+    "name": {
+      "en": "Quaxwell",
+      "fr": "Canarbello"
+    },
     "packs": [
       "Paldean"
     ]
@@ -234,7 +303,10 @@
     "number": 24,
     "rarity": "R",
     "image": "cPK_10_015330_00_WANIVAL_R.webp",
-    "name": "Quaquaval",
+    "name": {
+      "en": "Quaquaval",
+      "fr": "Palmaval"
+    },
     "packs": [
       "Paldean"
     ]
@@ -244,7 +316,10 @@
     "number": 25,
     "rarity": "C",
     "image": "cPK_10_015340_00_UMIDIGDA_C.webp",
-    "name": "Wiglett",
+    "name": {
+      "en": "Wiglett",
+      "fr": "Taupikeau"
+    },
     "packs": [
       "Paldean"
     ]
@@ -254,7 +329,10 @@
     "number": 26,
     "rarity": "U",
     "image": "cPK_10_015350_00_UMITRIO_U.webp",
-    "name": "Wugtrio",
+    "name": {
+      "en": "Wugtrio",
+      "fr": "Triopikeau"
+    },
     "packs": [
       "Paldean"
     ]
@@ -264,7 +342,10 @@
     "number": 27,
     "rarity": "C",
     "image": "cPK_10_015360_00_NAMIIRUKA_C.webp",
-    "name": "Finizen",
+    "name": {
+      "en": "Finizen",
+      "fr": "Dofin"
+    },
     "packs": [
       "Paldean"
     ]
@@ -274,7 +355,10 @@
     "number": 28,
     "rarity": "R",
     "image": "cPK_10_015370_00_IRUKAMANMIGHTYFORME_R.webp",
-    "name": "Palafin",
+    "name": {
+      "en": "Palafin",
+      "fr": "Superdofin"
+    },
     "packs": [
       "Paldean"
     ]
@@ -284,7 +368,10 @@
     "number": 29,
     "rarity": "C",
     "image": "cPK_10_015380_00_ARUKUJIRA_C.webp",
-    "name": "Cetoddle",
+    "name": {
+      "en": "Cetoddle",
+      "fr": "Piétacé"
+    },
     "packs": [
       "Paldean"
     ]
@@ -294,7 +381,10 @@
     "number": 30,
     "rarity": "U",
     "image": "cPK_10_015390_00_HULKUJIRA_U.webp",
-    "name": "Cetitan",
+    "name": {
+      "en": "Cetitan",
+      "fr": "Balbalèze"
+    },
     "packs": [
       "Paldean"
     ]
@@ -304,7 +394,10 @@
     "number": 31,
     "rarity": "U",
     "image": "cPK_10_015400_00_MIGALUSA_U.webp",
-    "name": "Veluza",
+    "name": {
+      "en": "Veluza",
+      "fr": "Délestin"
+    },
     "packs": [
       "Paldean"
     ]
@@ -314,7 +407,10 @@
     "number": 32,
     "rarity": "U",
     "image": "cPK_10_015410_00_HEYRUSHER_U.webp",
-    "name": "Dondozo",
+    "name": {
+      "en": "Dondozo",
+      "fr": "Oyacata"
+    },
     "packs": [
       "Paldean"
     ]
@@ -324,7 +420,10 @@
     "number": 33,
     "rarity": "U",
     "image": "cPK_10_015420_00_SYARITATSU_U.webp",
-    "name": "Tatsugiri",
+    "name": {
+      "en": "Tatsugiri",
+      "fr": "Nigirigon"
+    },
     "packs": [
       "Paldean"
     ]
@@ -334,7 +433,10 @@
     "number": 34,
     "rarity": "C",
     "image": "cPK_10_015430_00_SEBIE_C.webp",
-    "name": "Frigibax",
+    "name": {
+      "en": "Frigibax",
+      "fr": "Frigodo"
+    },
     "packs": [
       "Paldean"
     ]
@@ -344,7 +446,10 @@
     "number": 35,
     "rarity": "C",
     "image": "cPK_10_015440_00_SEGOHRU_C.webp",
-    "name": "Arctibax",
+    "name": {
+      "en": "Arctibax",
+      "fr": "Cryodo"
+    },
     "packs": [
       "Paldean"
     ]
@@ -354,7 +459,10 @@
     "number": 36,
     "rarity": "R",
     "image": "cPK_10_015450_00_SEGLAIVE_R.webp",
-    "name": "Baxcalibur",
+    "name": {
+      "en": "Baxcalibur",
+      "fr": "Glaivodo"
+    },
     "packs": [
       "Paldean"
     ]
@@ -364,7 +472,10 @@
     "number": 37,
     "rarity": "RR",
     "image": "cPK_10_015460_00_PAOJIANex_RR.webp",
-    "name": "Chien-Pao ex",
+    "name": {
+      "en": "Chien-Pao ex",
+      "fr": "Baojian-ex"
+    },
     "packs": [
       "Paldean"
     ]
@@ -374,7 +485,10 @@
     "number": 38,
     "rarity": "C",
     "image": "cPK_10_015470_00_PAMO_C.webp",
-    "name": "Pawmi",
+    "name": {
+      "en": "Pawmi",
+      "fr": "Pohm"
+    },
     "packs": [
       "Paldean"
     ]
@@ -384,7 +498,10 @@
     "number": 39,
     "rarity": "C",
     "image": "cPK_10_015480_00_PAMOT_C.webp",
-    "name": "Pawmo",
+    "name": {
+      "en": "Pawmo",
+      "fr": "Pohmotte"
+    },
     "packs": [
       "Paldean"
     ]
@@ -394,7 +511,10 @@
     "number": 40,
     "rarity": "U",
     "image": "cPK_10_015490_00_PARMOT_U.webp",
-    "name": "Pawmot",
+    "name": {
+      "en": "Pawmot",
+      "fr": "Pohmarmotte"
+    },
     "packs": [
       "Paldean"
     ]
@@ -404,7 +524,10 @@
     "number": 41,
     "rarity": "C",
     "image": "cPK_10_015500_00_ZUPIKA_C.webp",
-    "name": "Tadbulb",
+    "name": {
+      "en": "Tadbulb",
+      "fr": "Têtampoule"
+    },
     "packs": [
       "Paldean"
     ]
@@ -414,7 +537,10 @@
     "number": 42,
     "rarity": "RR",
     "image": "cPK_10_015510_00_HARABARIEex_RR.webp",
-    "name": "Bellibolt ex",
+    "name": {
+      "en": "Bellibolt ex",
+      "fr": "Ampibidou-ex"
+    },
     "packs": [
       "Paldean"
     ]
@@ -424,7 +550,10 @@
     "number": 43,
     "rarity": "C",
     "image": "cPK_10_015520_00_KAIDEN_C.webp",
-    "name": "Wattrel",
+    "name": {
+      "en": "Wattrel",
+      "fr": "Zapétrel"
+    },
     "packs": [
       "Paldean"
     ]
@@ -434,7 +563,10 @@
     "number": 44,
     "rarity": "U",
     "image": "cPK_10_015530_00_TAIKAIDEN_U.webp",
-    "name": "Kilowattrel",
+    "name": {
+      "en": "Kilowattrel",
+      "fr": "Fulgulairo"
+    },
     "packs": [
       "Paldean"
     ]
@@ -444,7 +576,10 @@
     "number": 45,
     "rarity": "R",
     "image": "cPK_10_015540_00_MIRAIDONCOMPLETEMODE_R.webp",
-    "name": "Miraidon",
+    "name": {
+      "en": "Miraidon",
+      "fr": "Miraidon"
+    },
     "packs": [
       "Paldean"
     ]
@@ -454,7 +589,10 @@
     "number": 46,
     "rarity": "C",
     "image": "cPK_10_015550_00_PUPIMOCCHI_C.webp",
-    "name": "Fidough",
+    "name": {
+      "en": "Fidough",
+      "fr": "Pâtachiot"
+    },
     "packs": [
       "Paldean"
     ]
@@ -464,7 +602,10 @@
     "number": 47,
     "rarity": "U",
     "image": "cPK_10_015560_00_BOWTZEL_U.webp",
-    "name": "Dachsbun",
+    "name": {
+      "en": "Dachsbun",
+      "fr": "Briochien"
+    },
     "packs": [
       "Paldean"
     ]
@@ -474,7 +615,10 @@
     "number": 48,
     "rarity": "R",
     "image": "cPK_10_015570_00_SOUBLADES_R.webp",
-    "name": "Ceruledge",
+    "name": {
+      "en": "Ceruledge",
+      "fr": "Malvalame"
+    },
     "packs": [
       "Paldean"
     ]
@@ -484,7 +628,10 @@
     "number": 49,
     "rarity": "U",
     "image": "cPK_10_015580_00_BERACAS_U.webp",
-    "name": "Rabsca",
+    "name": {
+      "en": "Rabsca",
+      "fr": "Bérasca"
+    },
     "packs": [
       "Paldean"
     ]
@@ -494,7 +641,10 @@
     "number": 50,
     "rarity": "C",
     "image": "cPK_10_015590_00_HIRAHINA_C.webp",
-    "name": "Flittle",
+    "name": {
+      "en": "Flittle",
+      "fr": "Flotillon"
+    },
     "packs": [
       "Paldean"
     ]
@@ -504,7 +654,10 @@
     "number": 51,
     "rarity": "U",
     "image": "cPK_10_015600_00_CUESPATRA_U.webp",
-    "name": "Espathra",
+    "name": {
+      "en": "Espathra",
+      "fr": "Cléopsytra"
+    },
     "packs": [
       "Paldean"
     ]
@@ -514,7 +667,10 @@
     "number": 52,
     "rarity": "C",
     "image": "cPK_10_015610_00_BOCHI_C.webp",
-    "name": "Greavard",
+    "name": {
+      "en": "Greavard",
+      "fr": "Toutombe"
+    },
     "packs": [
       "Paldean"
     ]
@@ -524,7 +680,10 @@
     "number": 53,
     "rarity": "U",
     "image": "cPK_10_015620_00_HAKADOG_U.webp",
-    "name": "Houndstone",
+    "name": {
+      "en": "Houndstone",
+      "fr": "Tomberro"
+    },
     "packs": [
       "Paldean"
     ]
@@ -534,7 +693,10 @@
     "number": 54,
     "rarity": "C",
     "image": "cPK_10_015630_00_COLLECUREI_C.webp",
-    "name": "Gimmighoul",
+    "name": {
+      "en": "Gimmighoul",
+      "fr": "Mordudor"
+    },
     "packs": [
       "Paldean"
     ]
@@ -544,7 +706,10 @@
     "number": 55,
     "rarity": "C",
     "image": "cPK_10_015640_00_MANKEY_C.webp",
-    "name": "Mankey",
+    "name": {
+      "en": "Mankey",
+      "fr": "Férosinge"
+    },
     "packs": [
       "Paldean"
     ]
@@ -554,7 +719,10 @@
     "number": 56,
     "rarity": "C",
     "image": "cPK_10_015650_00_OKORIZARU_C.webp",
-    "name": "Primeape",
+    "name": {
+      "en": "Primeape",
+      "fr": "Colossinge"
+    },
     "packs": [
       "Paldean"
     ]
@@ -564,7 +732,10 @@
     "number": 57,
     "rarity": "U",
     "image": "cPK_10_015660_00_KONOYOZARU_U.webp",
-    "name": "Annihilape",
+    "name": {
+      "en": "Annihilape",
+      "fr": "Courrousinge"
+    },
     "packs": [
       "Paldean"
     ]
@@ -574,7 +745,10 @@
     "number": 58,
     "rarity": "U",
     "image": "cPK_10_015670_00_PALDEAKENTAUROS_U.webp",
-    "name": "Paldean Tauros",
+    "name": {
+      "en": "Paldean Tauros",
+      "fr": "Tauros de Paldea"
+    },
     "packs": [
       "Paldean"
     ]
@@ -584,7 +758,10 @@
     "number": 59,
     "rarity": "C",
     "image": "cPK_10_015680_00_NONOKURAGE_C.webp",
-    "name": "Toedscool",
+    "name": {
+      "en": "Toedscool",
+      "fr": "Terracool"
+    },
     "packs": [
       "Paldean"
     ]
@@ -594,7 +771,10 @@
     "number": 60,
     "rarity": "U",
     "image": "cPK_10_015690_00_RIKUKURAGE_U.webp",
-    "name": "Toedscruel",
+    "name": {
+      "en": "Toedscruel",
+      "fr": "Terracruel"
+    },
     "packs": [
       "Paldean"
     ]
@@ -604,7 +784,10 @@
     "number": 61,
     "rarity": "C",
     "image": "cPK_10_015700_00_GAKEGANI_C.webp",
-    "name": "Klawf",
+    "name": {
+      "en": "Klawf",
+      "fr": "Craparoi"
+    },
     "packs": [
       "Paldean"
     ]
@@ -614,7 +797,10 @@
     "number": 62,
     "rarity": "R",
     "image": "cPK_10_015710_00_DINLU_R.webp",
-    "name": "Ting-Lu",
+    "name": {
+      "en": "Ting-Lu",
+      "fr": "Dinglu"
+    },
     "packs": [
       "Paldean"
     ]
@@ -624,7 +810,10 @@
     "number": 63,
     "rarity": "R",
     "image": "cPK_10_015720_00_KORAIDON_R.webp",
-    "name": "Koraidon",
+    "name": {
+      "en": "Koraidon",
+      "fr": "Koraidon"
+    },
     "packs": [
       "Paldean"
     ]
@@ -634,7 +823,10 @@
     "number": 64,
     "rarity": "C",
     "image": "cPK_10_015730_00_PALDEAUPAH_C.webp",
-    "name": "Paldean Wooper",
+    "name": {
+      "en": "Paldean Wooper",
+      "fr": "Axoloto de Paldea"
+    },
     "packs": [
       "Paldean"
     ]
@@ -644,7 +836,10 @@
     "number": 65,
     "rarity": "U",
     "image": "cPK_10_015740_00_PALDEADOOH_U.webp",
-    "name": "Paldean Clodsire",
+    "name": {
+      "en": "Paldean Clodsire",
+      "fr": "Terraiste de Paldea"
+    },
     "packs": [
       "Paldean"
     ]
@@ -654,7 +849,10 @@
     "number": 66,
     "rarity": "U",
     "image": "cPK_10_015750_00_EXLEG_U.webp",
-    "name": "Lokix",
+    "name": {
+      "en": "Lokix",
+      "fr": "Gambex"
+    },
     "packs": [
       "Paldean"
     ]
@@ -664,7 +862,10 @@
     "number": 67,
     "rarity": "C",
     "image": "cPK_10_015760_00_ORACHIFU_C.webp",
-    "name": "Maschiff",
+    "name": {
+      "en": "Maschiff",
+      "fr": "Grondogue"
+    },
     "packs": [
       "Paldean"
     ]
@@ -674,7 +875,10 @@
     "number": 68,
     "rarity": "U",
     "image": "cPK_10_015770_00_MAFITIFF_U.webp",
-    "name": "Mabosstiff",
+    "name": {
+      "en": "Mabosstiff",
+      "fr": "Dogrino"
+    },
     "packs": [
       "Paldean"
     ]
@@ -684,7 +888,10 @@
     "number": 69,
     "rarity": "C",
     "image": "cPK_10_015780_00_SHIRUSHREW_C.webp",
-    "name": "Shroodle",
+    "name": {
+      "en": "Shroodle",
+      "fr": "Gribouraigne"
+    },
     "packs": [
       "Paldean"
     ]
@@ -694,7 +901,10 @@
     "number": 70,
     "rarity": "U",
     "image": "cPK_10_015790_00_TAGGINGRU_U.webp",
-    "name": "Grafaiai",
+    "name": {
+      "en": "Grafaiai",
+      "fr": "Tag-Tag"
+    },
     "packs": [
       "Paldean"
     ]
@@ -704,7 +914,10 @@
     "number": 71,
     "rarity": "C",
     "image": "cPK_10_015800_00_OTOSHIDORI_C.webp",
-    "name": "Bombirdier",
+    "name": {
+      "en": "Bombirdier",
+      "fr": "Lestombaile"
+    },
     "packs": [
       "Paldean"
     ]
@@ -714,7 +927,10 @@
     "number": 72,
     "rarity": "C",
     "image": "cPK_10_015810_00_KANUCHAN_C.webp",
-    "name": "Tinkatink",
+    "name": {
+      "en": "Tinkatink",
+      "fr": "Forgerette"
+    },
     "packs": [
       "Paldean"
     ]
@@ -724,7 +940,10 @@
     "number": 73,
     "rarity": "C",
     "image": "cPK_10_015820_00_NAKANUCHAN_C.webp",
-    "name": "Tinkatuff",
+    "name": {
+      "en": "Tinkatuff",
+      "fr": "Forgella"
+    },
     "packs": [
       "Paldean"
     ]
@@ -734,7 +953,10 @@
     "number": 74,
     "rarity": "R",
     "image": "cPK_10_015830_00_DEKANUCHAN_R.webp",
-    "name": "Tinkaton",
+    "name": {
+      "en": "Tinkaton",
+      "fr": "Forgelina"
+    },
     "packs": [
       "Paldean"
     ]
@@ -744,7 +966,10 @@
     "number": 75,
     "rarity": "C",
     "image": "cPK_10_015840_00_BURORON_C.webp",
-    "name": "Varoom",
+    "name": {
+      "en": "Varoom",
+      "fr": "Vrombi"
+    },
     "packs": [
       "Paldean"
     ]
@@ -754,7 +979,10 @@
     "number": 76,
     "rarity": "U",
     "image": "cPK_10_015850_00_BUROROROOM_U.webp",
-    "name": "Revavroom",
+    "name": {
+      "en": "Revavroom",
+      "fr": "Vrombotor"
+    },
     "packs": [
       "Paldean"
     ]
@@ -764,7 +992,10 @@
     "number": 77,
     "rarity": "U",
     "image": "cPK_10_015860_00_MIMIZUZU_U.webp",
-    "name": "Orthworm",
+    "name": {
+      "en": "Orthworm",
+      "fr": "Ferdeter"
+    },
     "packs": [
       "Paldean"
     ]
@@ -774,7 +1005,10 @@
     "number": 78,
     "rarity": "RR",
     "image": "cPK_10_015870_00_SURFUGOex_RR.webp",
-    "name": "Gholdengo ex",
+    "name": {
+      "en": "Gholdengo ex",
+      "fr": "Gromago-ex"
+    },
     "packs": [
       "Paldean"
     ]
@@ -784,7 +1018,10 @@
     "number": 79,
     "rarity": "C",
     "image": "cPK_10_015880_00_GOURTON_C.webp",
-    "name": "Lechonk",
+    "name": {
+      "en": "Lechonk",
+      "fr": "Gourmelet"
+    },
     "packs": [
       "Paldean"
     ]
@@ -794,7 +1031,10 @@
     "number": 80,
     "rarity": "C",
     "image": "cPK_10_015890_00_PERFUTONOSUNOSUGATA_C.webp",
-    "name": "Oinkologne",
+    "name": {
+      "en": "Oinkologne",
+      "fr": "Fragroin"
+    },
     "packs": [
       "Paldean"
     ]
@@ -804,7 +1044,10 @@
     "number": 81,
     "rarity": "C",
     "image": "cPK_10_015900_00_WAKKANEZUMI_C.webp",
-    "name": "Tandemaus",
+    "name": {
+      "en": "Tandemaus",
+      "fr": "Compagnol"
+    },
     "packs": [
       "Paldean"
     ]
@@ -814,7 +1057,10 @@
     "number": 82,
     "rarity": "U",
     "image": "cPK_10_015910_00_IKKANEZUMISANBIKIKAZOKU_U.webp",
-    "name": "Maushold",
+    "name": {
+      "en": "Maushold",
+      "fr": "Famignol"
+    },
     "packs": [
       "Paldean"
     ]
@@ -824,7 +1070,10 @@
     "number": 83,
     "rarity": "C",
     "image": "cPK_10_015920_00_IKIRINKOGREENFEATHER_C.webp",
-    "name": "Squawkabilly",
+    "name": {
+      "en": "Squawkabilly",
+      "fr": "Tapatoès"
+    },
     "packs": [
       "Paldean"
     ]
@@ -834,7 +1083,10 @@
     "number": 84,
     "rarity": "U",
     "image": "cPK_10_015930_00_MOTOTOKAGE_U.webp",
-    "name": "Cyclizar",
+    "name": {
+      "en": "Cyclizar",
+      "fr": "Motorizard"
+    },
     "packs": [
       "Paldean"
     ]
@@ -844,7 +1096,10 @@
     "number": 85,
     "rarity": "C",
     "image": "cPK_10_015940_00_KARAMINGO_C.webp",
-    "name": "Flamigo",
+    "name": {
+      "en": "Flamigo",
+      "fr": "Flamenroule"
+    },
     "packs": [
       "Paldean"
     ]
@@ -854,7 +1109,10 @@
     "number": 86,
     "rarity": "U",
     "image": "cTR_10_001170_00_ELECTRICGENERATOR_U.webp",
-    "name": "Electric Generator",
+    "name": {
+      "en": "Electric Generator",
+      "fr": "Générateur Électrique"
+    },
     "packs": [
       "Paldean"
     ]
@@ -864,7 +1122,10 @@
     "number": 87,
     "rarity": "U",
     "image": "cTR_10_001180_00_BIGAIRBALLOON_U.webp",
-    "name": "Big Air Balloon",
+    "name": {
+      "en": "Big Air Balloon",
+      "fr": "Gros Ballon"
+    },
     "packs": [
       "Paldean"
     ]
@@ -874,7 +1135,10 @@
     "number": 88,
     "rarity": "U",
     "image": "cTR_10_001190_00_TEAMSTARGRUNT_U.webp",
-    "name": "Team Star Grunt",
+    "name": {
+      "en": "Team Star Grunt",
+      "fr": "Sbire de la Team Star"
+    },
     "packs": [
       "Paldean"
     ]
@@ -884,7 +1148,10 @@
     "number": 89,
     "rarity": "U",
     "image": "cTR_10_000420_02_NANJYAMO_U.webp",
-    "name": "Iono",
+    "name": {
+      "en": "Iono",
+      "fr": "Mashynn"
+    },
     "packs": [
       "Paldean"
     ]
@@ -894,7 +1161,10 @@
     "number": 90,
     "rarity": "U",
     "image": "cTR_10_001200_00_NEMO_U.webp",
-    "name": "Nemona",
+    "name": {
+      "en": "Nemona",
+      "fr": "Menzi"
+    },
     "packs": [
       "Paldean"
     ]
@@ -904,7 +1174,10 @@
     "number": 91,
     "rarity": "U",
     "image": "cTR_10_001210_00_PEPER_U.webp",
-    "name": "Arven",
+    "name": {
+      "en": "Arven",
+      "fr": "Pepper"
+    },
     "packs": [
       "Paldean"
     ]
@@ -914,7 +1187,10 @@
     "number": 92,
     "rarity": "U",
     "image": "cTR_10_000700_01_BOTAN_U.webp",
-    "name": "Penny",
+    "name": {
+      "en": "Penny",
+      "fr": "Pania"
+    },
     "packs": [
       "Paldean"
     ]
@@ -924,7 +1200,10 @@
     "number": 93,
     "rarity": "U",
     "image": "cTR_10_001220_00_TABLECITY_U.webp",
-    "name": "Mesagoza",
+    "name": {
+      "en": "Mesagoza",
+      "fr": "Mesaledo"
+    },
     "packs": [
       "Paldean"
     ]
@@ -934,7 +1213,10 @@
     "number": 94,
     "rarity": "AR",
     "image": "cPK_20_015250_00_HOGATOR_AR.webp",
-    "name": "Fuecoco",
+    "name": {
+      "en": "Fuecoco",
+      "fr": "Chochodile"
+    },
     "packs": [
       "Paldean"
     ]
@@ -944,7 +1226,10 @@
     "number": 95,
     "rarity": "AR",
     "image": "cPK_20_015610_00_BOCHI_AR.webp",
-    "name": "Greavard",
+    "name": {
+      "en": "Greavard",
+      "fr": "Toutombe"
+    },
     "packs": [
       "Paldean"
     ]
@@ -954,7 +1239,10 @@
     "number": 96,
     "rarity": "AR",
     "image": "cPK_20_015630_00_COLLECUREI_AR.webp",
-    "name": "Gimmighoul",
+    "name": {
+      "en": "Gimmighoul",
+      "fr": "Mordudor"
+    },
     "packs": [
       "Paldean"
     ]
@@ -964,7 +1252,10 @@
     "number": 97,
     "rarity": "AR",
     "image": "cPK_20_015730_00_PALDEAUPAH_AR.webp",
-    "name": "Paldean Wooper",
+    "name": {
+      "en": "Paldean Wooper",
+      "fr": "Axoloto de Paldea"
+    },
     "packs": [
       "Paldean"
     ]
@@ -974,7 +1265,10 @@
     "number": 98,
     "rarity": "AR",
     "image": "cPK_20_015860_00_MIMIZUZU_AR.webp",
-    "name": "Orthworm",
+    "name": {
+      "en": "Orthworm",
+      "fr": "Ferdeter"
+    },
     "packs": [
       "Paldean"
     ]
@@ -984,7 +1278,10 @@
     "number": 99,
     "rarity": "AR",
     "image": "cPK_20_015910_00_IKKANEZUMISANBIKIKAZOKU_AR.webp",
-    "name": "Maushold",
+    "name": {
+      "en": "Maushold",
+      "fr": "Famignol"
+    },
     "packs": [
       "Paldean"
     ]
@@ -994,7 +1291,10 @@
     "number": 100,
     "rarity": "SR",
     "image": "cPK_20_015120_00_MASQUERNYAex_SR.webp",
-    "name": "Meowscarada ex",
+    "name": {
+      "en": "Meowscarada ex",
+      "fr": "Miascarade-ex"
+    },
     "packs": [
       "Paldean"
     ]
@@ -1004,7 +1304,10 @@
     "number": 101,
     "rarity": "SR",
     "image": "cPK_20_015290_00_GURENARMAex_SR.webp",
-    "name": "Armarouge ex",
+    "name": {
+      "en": "Armarouge ex",
+      "fr": "Carmadura-ex"
+    },
     "packs": [
       "Paldean"
     ]
@@ -1014,7 +1317,10 @@
     "number": 102,
     "rarity": "SR",
     "image": "cPK_20_015460_00_PAOJIANex_SR.webp",
-    "name": "Chien-Pao ex",
+    "name": {
+      "en": "Chien-Pao ex",
+      "fr": "Baojian-ex"
+    },
     "packs": [
       "Paldean"
     ]
@@ -1024,7 +1330,10 @@
     "number": 103,
     "rarity": "SR",
     "image": "cPK_20_015510_00_HARABARIEex_SR.webp",
-    "name": "Bellibolt ex",
+    "name": {
+      "en": "Bellibolt ex",
+      "fr": "Ampibidou-ex"
+    },
     "packs": [
       "Paldean"
     ]
@@ -1034,7 +1343,10 @@
     "number": 104,
     "rarity": "SR",
     "image": "cPK_20_015870_00_SURFUGOex_SR.webp",
-    "name": "Gholdengo ex",
+    "name": {
+      "en": "Gholdengo ex",
+      "fr": "Gromago-ex"
+    },
     "packs": [
       "Paldean"
     ]
@@ -1044,7 +1356,10 @@
     "number": 105,
     "rarity": "SR",
     "image": "cTR_20_001190_00_TEAMSTARGRUNT_SR.webp",
-    "name": "Team Star Grunt",
+    "name": {
+      "en": "Team Star Grunt",
+      "fr": "Sbire de la Team Star"
+    },
     "packs": [
       "Paldean"
     ]
@@ -1054,7 +1369,10 @@
     "number": 106,
     "rarity": "SR",
     "image": "cTR_20_000420_01_NANJYAMO_SR.webp",
-    "name": "Iono",
+    "name": {
+      "en": "Iono",
+      "fr": "Mashynn"
+    },
     "packs": [
       "Paldean"
     ]
@@ -1064,7 +1382,10 @@
     "number": 107,
     "rarity": "SR",
     "image": "cTR_20_001200_00_NEMO_SR.webp",
-    "name": "Nemona",
+    "name": {
+      "en": "Nemona",
+      "fr": "Menzi"
+    },
     "packs": [
       "Paldean"
     ]
@@ -1074,7 +1395,10 @@
     "number": 108,
     "rarity": "SR",
     "image": "cTR_20_001210_00_PEPER_SR.webp",
-    "name": "Arven",
+    "name": {
+      "en": "Arven",
+      "fr": "Pepper"
+    },
     "packs": [
       "Paldean"
     ]
@@ -1084,7 +1408,10 @@
     "number": 109,
     "rarity": "SR",
     "image": "cTR_20_000700_01_BOTAN_SR.webp",
-    "name": "Penny",
+    "name": {
+      "en": "Penny",
+      "fr": "Pania"
+    },
     "packs": [
       "Paldean"
     ]
@@ -1094,7 +1421,10 @@
     "number": 110,
     "rarity": "SAR",
     "image": "cPK_20_015120_01_MASQUERNYAex_SAR.webp",
-    "name": "Meowscarada ex",
+    "name": {
+      "en": "Meowscarada ex",
+      "fr": "Miascarade-ex"
+    },
     "packs": [
       "Paldean"
     ]
@@ -1104,7 +1434,10 @@
     "number": 111,
     "rarity": "SAR",
     "image": "cPK_20_015290_01_GURENARMAex_SAR.webp",
-    "name": "Armarouge ex",
+    "name": {
+      "en": "Armarouge ex",
+      "fr": "Carmadura-ex"
+    },
     "packs": [
       "Paldean"
     ]
@@ -1114,7 +1447,10 @@
     "number": 112,
     "rarity": "SAR",
     "image": "cPK_20_015460_01_PAOJIANex_SAR.webp",
-    "name": "Chien-Pao ex",
+    "name": {
+      "en": "Chien-Pao ex",
+      "fr": "Baojian-ex"
+    },
     "packs": [
       "Paldean"
     ]
@@ -1124,7 +1460,10 @@
     "number": 113,
     "rarity": "SAR",
     "image": "cPK_20_015510_01_HARABARIEex_SAR.webp",
-    "name": "Bellibolt ex",
+    "name": {
+      "en": "Bellibolt ex",
+      "fr": "Ampibidou-ex"
+    },
     "packs": [
       "Paldean"
     ]
@@ -1134,7 +1473,10 @@
     "number": 114,
     "rarity": "SAR",
     "image": "cPK_20_015870_01_SURFUGOex_SAR.webp",
-    "name": "Gholdengo ex",
+    "name": {
+      "en": "Gholdengo ex",
+      "fr": "Gromago-ex"
+    },
     "packs": [
       "Paldean"
     ]
@@ -1144,7 +1486,10 @@
     "number": 115,
     "rarity": "IM",
     "image": "cTR_20_001210_01_PEPER_IM.webp",
-    "name": "Arven",
+    "name": {
+      "en": "Arven",
+      "fr": "Pepper"
+    },
     "packs": [
       "Paldean"
     ]
@@ -1154,7 +1499,10 @@
     "number": 116,
     "rarity": "S",
     "image": "cPK_20_015100_00_NYAHOJA_S.webp",
-    "name": "Sprigatito",
+    "name": {
+      "en": "Sprigatito",
+      "fr": "Poussacha"
+    },
     "packs": [
       "Paldean"
     ]
@@ -1164,7 +1512,10 @@
     "number": 117,
     "rarity": "S",
     "image": "cPK_20_015110_00_NYAROTE_S.webp",
-    "name": "Floragato",
+    "name": {
+      "en": "Floragato",
+      "fr": "Matourgeon"
+    },
     "packs": [
       "Paldean"
     ]
@@ -1174,7 +1525,10 @@
     "number": 118,
     "rarity": "S",
     "image": "cPK_20_005260_01_MASQUERNYA_S.webp",
-    "name": "Meowscarada",
+    "name": {
+      "en": "Meowscarada",
+      "fr": "Miascarade"
+    },
     "packs": [
       "Paldean"
     ]
@@ -1184,7 +1538,10 @@
     "number": 119,
     "rarity": "S",
     "image": "cPK_20_015470_00_PAMO_S.webp",
-    "name": "Pawmi",
+    "name": {
+      "en": "Pawmi",
+      "fr": "Pohm"
+    },
     "packs": [
       "Paldean"
     ]
@@ -1194,7 +1551,10 @@
     "number": 120,
     "rarity": "S",
     "image": "cPK_20_015480_00_PAMOT_S.webp",
-    "name": "Pawmo",
+    "name": {
+      "en": "Pawmo",
+      "fr": "Pohmotte"
+    },
     "packs": [
       "Paldean"
     ]
@@ -1204,7 +1564,10 @@
     "number": 121,
     "rarity": "S",
     "image": "cPK_20_015490_00_PARMOT_S.webp",
-    "name": "Pawmot",
+    "name": {
+      "en": "Pawmot",
+      "fr": "Pohmarmotte"
+    },
     "packs": [
       "Paldean"
     ]
@@ -1214,7 +1577,10 @@
     "number": 122,
     "rarity": "S",
     "image": "cPK_20_015630_01_COLLECUREI_S.webp",
-    "name": "Gimmighoul",
+    "name": {
+      "en": "Gimmighoul",
+      "fr": "Mordudor"
+    },
     "packs": [
       "Paldean"
     ]
@@ -1224,7 +1590,10 @@
     "number": 123,
     "rarity": "S",
     "image": "cPK_20_015810_00_KANUCHAN_S.webp",
-    "name": "Tinkatink",
+    "name": {
+      "en": "Tinkatink",
+      "fr": "Forgerette"
+    },
     "packs": [
       "Paldean"
     ]
@@ -1234,7 +1603,10 @@
     "number": 124,
     "rarity": "S",
     "image": "cPK_20_015820_00_NAKANUCHAN_S.webp",
-    "name": "Tinkatuff",
+    "name": {
+      "en": "Tinkatuff",
+      "fr": "Forgella"
+    },
     "packs": [
       "Paldean"
     ]
@@ -1244,7 +1616,10 @@
     "number": 125,
     "rarity": "S",
     "image": "cPK_20_005720_01_SURFUGO_S.webp",
-    "name": "Gholdengo",
+    "name": {
+      "en": "Gholdengo",
+      "fr": "Gromago"
+    },
     "packs": [
       "Paldean"
     ]
@@ -1254,7 +1629,10 @@
     "number": 126,
     "rarity": "SSR",
     "image": "cPK_20_010210_02_ENTEIex_SSR.webp",
-    "name": "Entei ex",
+    "name": {
+      "en": "Entei ex",
+      "fr": "Entei-ex"
+    },
     "packs": [
       "Paldean"
     ]
@@ -1264,7 +1642,10 @@
     "number": 127,
     "rarity": "SSR",
     "image": "cPK_20_010400_02_SUICUNEex_SSR.webp",
-    "name": "Suicune ex",
+    "name": {
+      "en": "Suicune ex",
+      "fr": "Suicune-ex"
+    },
     "packs": [
       "Paldean"
     ]
@@ -1274,7 +1655,10 @@
     "number": 128,
     "rarity": "SSR",
     "image": "cPK_20_010440_02_RAIKOUex_SSR.webp",
-    "name": "Raikou ex",
+    "name": {
+      "en": "Raikou ex",
+      "fr": "Raikou-ex"
+    },
     "packs": [
       "Paldean"
     ]
@@ -1284,7 +1668,10 @@
     "number": 129,
     "rarity": "SSR",
     "image": "cPK_20_005690_02_DEKANUCHANex_SSR.webp",
-    "name": "Tinkaton ex",
+    "name": {
+      "en": "Tinkaton ex",
+      "fr": "Forgelina-ex"
+    },
     "packs": [
       "Paldean"
     ]
@@ -1294,7 +1681,10 @@
     "number": 130,
     "rarity": "UR",
     "image": "cPK_20_015450_00_SEGLAIVE_UR.webp",
-    "name": "Baxcalibur",
+    "name": {
+      "en": "Baxcalibur",
+      "fr": "Glaivodo"
+    },
     "packs": [
       "Paldean"
     ]
@@ -1304,7 +1694,10 @@
     "number": 131,
     "rarity": "UR",
     "image": "cTR_20_001170_00_ELECTRICGENERATOR_UR.webp",
-    "name": "Electric Generator",
+    "name": {
+      "en": "Electric Generator",
+      "fr": "Générateur Électrique"
+    },
     "packs": [
       "Paldean"
     ]
