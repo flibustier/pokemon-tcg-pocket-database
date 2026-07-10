@@ -3,7 +3,10 @@
     "set": "A1a",
     "number": 1,
     "rarity": "C",
-    "name": "Exeggcute",
+    "name": {
+      "en": "Exeggcute",
+      "fr": "Noeunoeuf"
+    },
     "image": "cPK_10_002150_00_TAMATAMA_C.webp",
     "packs": [
       "Mew"
@@ -13,7 +16,10 @@
     "set": "A1a",
     "number": 2,
     "rarity": "U",
-    "name": "Exeggutor",
+    "name": {
+      "en": "Exeggutor",
+      "fr": "Noadkoko"
+    },
     "image": "cPK_10_002160_00_NASSY_U.webp",
     "packs": [
       "Mew"
@@ -23,7 +29,10 @@
     "set": "A1a",
     "number": 3,
     "rarity": "RR",
-    "name": "Celebi ex",
+    "name": {
+      "en": "Celebi ex",
+      "fr": "Celebi-ex"
+    },
     "image": "cPK_10_002170_00_CELEBIex_RR.webp",
     "packs": [
       "Mew"
@@ -33,7 +42,10 @@
     "set": "A1a",
     "number": 4,
     "rarity": "C",
-    "name": "Snivy",
+    "name": {
+      "en": "Snivy",
+      "fr": "Vipélierre"
+    },
     "image": "cPK_10_002180_00_TSUTARJA_C.webp",
     "packs": [
       "Mew"
@@ -43,7 +55,10 @@
     "set": "A1a",
     "number": 5,
     "rarity": "U",
-    "name": "Servine",
+    "name": {
+      "en": "Servine",
+      "fr": "Lianaja"
+    },
     "image": "cPK_10_002190_00_JANOVY_U.webp",
     "packs": [
       "Mew"
@@ -53,7 +68,10 @@
     "set": "A1a",
     "number": 6,
     "rarity": "R",
-    "name": "Serperior",
+    "name": {
+      "en": "Serperior",
+      "fr": "Majaspic"
+    },
     "image": "cPK_10_002200_00_JALORDA_R.webp",
     "packs": [
       "Mew"
@@ -63,7 +81,10 @@
     "set": "A1a",
     "number": 7,
     "rarity": "C",
-    "name": "Morelull",
+    "name": {
+      "en": "Morelull",
+      "fr": "Spododo"
+    },
     "image": "cPK_10_002210_00_NEMASYU_C.webp",
     "packs": [
       "Mew"
@@ -73,7 +94,10 @@
     "set": "A1a",
     "number": 8,
     "rarity": "U",
-    "name": "Shiinotic",
+    "name": {
+      "en": "Shiinotic",
+      "fr": "Lampignon"
+    },
     "image": "cPK_10_002220_00_MASHADE_U.webp",
     "packs": [
       "Mew"
@@ -83,7 +107,10 @@
     "set": "A1a",
     "number": 9,
     "rarity": "U",
-    "name": "Dhelmise",
+    "name": {
+      "en": "Dhelmise",
+      "fr": "Sinistrail"
+    },
     "image": "cPK_10_002230_00_DADARIN_U.webp",
     "packs": [
       "Mew"
@@ -93,7 +120,10 @@
     "set": "A1a",
     "number": 10,
     "rarity": "C",
-    "name": "Ponyta",
+    "name": {
+      "en": "Ponyta",
+      "fr": "Ponyta"
+    },
     "image": "cPK_10_002240_00_PONYTA_C.webp",
     "packs": [
       "Mew"
@@ -103,7 +133,10 @@
     "set": "A1a",
     "number": 11,
     "rarity": "U",
-    "name": "Rapidash",
+    "name": {
+      "en": "Rapidash",
+      "fr": "Galopa"
+    },
     "image": "cPK_10_002250_00_GALLOP_U.webp",
     "packs": [
       "Mew"
@@ -113,7 +146,10 @@
     "set": "A1a",
     "number": 12,
     "rarity": "U",
-    "name": "Magmar",
+    "name": {
+      "en": "Magmar",
+      "fr": "Magmar"
+    },
     "image": "cPK_10_002260_00_BOOBER_U.webp",
     "packs": [
       "Mew"
@@ -123,7 +159,10 @@
     "set": "A1a",
     "number": 13,
     "rarity": "C",
-    "name": "Larvesta",
+    "name": {
+      "en": "Larvesta",
+      "fr": "Pyronille"
+    },
     "image": "cPK_10_002270_00_MERLARVA_C.webp",
     "packs": [
       "Mew"
@@ -133,7 +172,10 @@
     "set": "A1a",
     "number": 14,
     "rarity": "R",
-    "name": "Volcarona",
+    "name": {
+      "en": "Volcarona",
+      "fr": "Pyrax"
+    },
     "image": "cPK_10_002280_00_ULGAMOTH_R.webp",
     "packs": [
       "Mew"
@@ -143,7 +185,10 @@
     "set": "A1a",
     "number": 15,
     "rarity": "C",
-    "name": "Salandit",
+    "name": {
+      "en": "Salandit",
+      "fr": "Tritox"
+    },
     "image": "cPK_10_002290_00_YATOUMORI_C.webp",
     "packs": [
       "Mew"
@@ -153,7 +198,10 @@
     "set": "A1a",
     "number": 16,
     "rarity": "C",
-    "name": "Salazzle",
+    "name": {
+      "en": "Salazzle",
+      "fr": "Malamandre"
+    },
     "image": "cPK_10_002300_00_ENNEWT_C.webp",
     "packs": [
       "Mew"
@@ -163,7 +211,10 @@
     "set": "A1a",
     "number": 17,
     "rarity": "C",
-    "name": "Magikarp",
+    "name": {
+      "en": "Magikarp",
+      "fr": "Magicarpe"
+    },
     "image": "cPK_10_002310_00_KOIKING_C.webp",
     "packs": [
       "Mew"
@@ -173,7 +224,10 @@
     "set": "A1a",
     "number": 18,
     "rarity": "RR",
-    "name": "Gyarados ex",
+    "name": {
+      "en": "Gyarados ex",
+      "fr": "Léviator-ex"
+    },
     "image": "cPK_10_002320_00_GYARADOSex_RR.webp",
     "packs": [
       "Mew"
@@ -183,7 +237,10 @@
     "set": "A1a",
     "number": 19,
     "rarity": "R",
-    "name": "Vaporeon",
+    "name": {
+      "en": "Vaporeon",
+      "fr": "Aquali"
+    },
     "image": "cPK_10_002330_00_SHOWERS_R.webp",
     "packs": [
       "Mew"
@@ -193,7 +250,10 @@
     "set": "A1a",
     "number": 20,
     "rarity": "C",
-    "name": "Finneon",
+    "name": {
+      "en": "Finneon",
+      "fr": "Écayon"
+    },
     "image": "cPK_10_002340_00_KEIKOUO_C.webp",
     "packs": [
       "Mew"
@@ -203,7 +263,10 @@
     "set": "A1a",
     "number": 21,
     "rarity": "U",
-    "name": "Lumineon",
+    "name": {
+      "en": "Lumineon",
+      "fr": "Luminéon"
+    },
     "image": "cPK_10_002350_00_NEOLANT_U.webp",
     "packs": [
       "Mew"
@@ -213,7 +276,10 @@
     "set": "A1a",
     "number": 22,
     "rarity": "C",
-    "name": "Chewtle",
+    "name": {
+      "en": "Chewtle",
+      "fr": "Khélocrok"
+    },
     "image": "cPK_10_002360_00_KAMUKAME_C.webp",
     "packs": [
       "Mew"
@@ -223,7 +289,10 @@
     "set": "A1a",
     "number": 23,
     "rarity": "U",
-    "name": "Drednaw",
+    "name": {
+      "en": "Drednaw",
+      "fr": "Torgamord"
+    },
     "image": "cPK_10_002370_00_KAJIRIGAME_U.webp",
     "packs": [
       "Mew"
@@ -233,7 +302,10 @@
     "set": "A1a",
     "number": 24,
     "rarity": "C",
-    "name": "Cramorant",
+    "name": {
+      "en": "Cramorant",
+      "fr": "Nigosier"
+    },
     "image": "cPK_10_002380_00_UU_C.webp",
     "packs": [
       "Mew"
@@ -243,7 +315,10 @@
     "set": "A1a",
     "number": 25,
     "rarity": "C",
-    "name": "Pikachu",
+    "name": {
+      "en": "Pikachu",
+      "fr": "Pikachu"
+    },
     "image": "cPK_10_002390_00_PIKACHU_C.webp",
     "packs": [
       "Mew"
@@ -253,7 +328,10 @@
     "set": "A1a",
     "number": 26,
     "rarity": "R",
-    "name": "Raichu",
+    "name": {
+      "en": "Raichu",
+      "fr": "Raichu"
+    },
     "image": "cPK_10_002400_00_RAICHU_R.webp",
     "packs": [
       "Mew"
@@ -263,7 +341,10 @@
     "set": "A1a",
     "number": 27,
     "rarity": "U",
-    "name": "Electabuzz",
+    "name": {
+      "en": "Electabuzz",
+      "fr": "Élektek"
+    },
     "image": "cPK_10_002410_00_ELEBOO_U.webp",
     "packs": [
       "Mew"
@@ -273,7 +354,10 @@
     "set": "A1a",
     "number": 28,
     "rarity": "C",
-    "name": "Joltik",
+    "name": {
+      "en": "Joltik",
+      "fr": "Statitik"
+    },
     "image": "cPK_10_002420_00_BACHURU_C.webp",
     "packs": [
       "Mew"
@@ -283,7 +367,10 @@
     "set": "A1a",
     "number": 29,
     "rarity": "U",
-    "name": "Galvantula",
+    "name": {
+      "en": "Galvantula",
+      "fr": "Mygavolt"
+    },
     "image": "cPK_10_002430_00_DENTULA_U.webp",
     "packs": [
       "Mew"
@@ -293,7 +380,10 @@
     "set": "A1a",
     "number": 30,
     "rarity": "C",
-    "name": "Dedenne",
+    "name": {
+      "en": "Dedenne",
+      "fr": "Dedenne"
+    },
     "image": "cPK_10_002440_00_DEDENNE_C.webp",
     "packs": [
       "Mew"
@@ -303,7 +393,10 @@
     "set": "A1a",
     "number": 31,
     "rarity": "R",
-    "name": "Mew",
+    "name": {
+      "en": "Mew",
+      "fr": "Mew"
+    },
     "image": "cPK_10_002140_00_MEW_R.webp",
     "packs": [
       "Mew"
@@ -313,7 +406,10 @@
     "set": "A1a",
     "number": 32,
     "rarity": "RR",
-    "name": "Mew ex",
+    "name": {
+      "en": "Mew ex",
+      "fr": "Mew-ex"
+    },
     "image": "cPK_10_002450_00_MEWex_RR.webp",
     "packs": [
       "Mew"
@@ -323,7 +419,10 @@
     "set": "A1a",
     "number": 33,
     "rarity": "U",
-    "name": "Sigilyph",
+    "name": {
+      "en": "Sigilyph",
+      "fr": "Cryptéro"
+    },
     "image": "cPK_10_002460_00_SYMBOLER_U.webp",
     "packs": [
       "Mew"
@@ -333,7 +432,10 @@
     "set": "A1a",
     "number": 34,
     "rarity": "C",
-    "name": "Elgyem",
+    "name": {
+      "en": "Elgyem",
+      "fr": "Lewsor"
+    },
     "image": "cPK_10_002470_00_LIGRAY_C.webp",
     "packs": [
       "Mew"
@@ -343,7 +445,10 @@
     "set": "A1a",
     "number": 35,
     "rarity": "U",
-    "name": "Beheeyem",
+    "name": {
+      "en": "Beheeyem",
+      "fr": "Neitram"
+    },
     "image": "cPK_10_002500_00_OHBEM_U.webp",
     "packs": [
       "Mew"
@@ -353,7 +458,10 @@
     "set": "A1a",
     "number": 36,
     "rarity": "C",
-    "name": "Flabébé",
+    "name": {
+      "en": "Flabébé",
+      "fr": "Flabébé"
+    },
     "image": "cPK_10_002510_00_FLABEBE_C.webp",
     "packs": [
       "Mew"
@@ -363,7 +471,10 @@
     "set": "A1a",
     "number": 37,
     "rarity": "C",
-    "name": "Floette",
+    "name": {
+      "en": "Floette",
+      "fr": "Floette"
+    },
     "image": "cPK_10_002520_00_FLOETTE_C.webp",
     "packs": [
       "Mew"
@@ -373,7 +484,10 @@
     "set": "A1a",
     "number": 38,
     "rarity": "U",
-    "name": "Florges",
+    "name": {
+      "en": "Florges",
+      "fr": "Florges"
+    },
     "image": "cPK_10_002480_00_FLORGES_U.webp",
     "packs": [
       "Mew"
@@ -383,7 +497,10 @@
     "set": "A1a",
     "number": 39,
     "rarity": "C",
-    "name": "Swirlix",
+    "name": {
+      "en": "Swirlix",
+      "fr": "Sucroquin"
+    },
     "image": "cPK_10_002490_00_PEROPPAFU_C.webp",
     "packs": [
       "Mew"
@@ -393,7 +510,10 @@
     "set": "A1a",
     "number": 40,
     "rarity": "C",
-    "name": "Slurpuff",
+    "name": {
+      "en": "Slurpuff",
+      "fr": "Cupcanaille"
+    },
     "image": "cPK_10_002530_00_PEROREAM_C.webp",
     "packs": [
       "Mew"
@@ -403,7 +523,10 @@
     "set": "A1a",
     "number": 41,
     "rarity": "C",
-    "name": "Mankey",
+    "name": {
+      "en": "Mankey",
+      "fr": "Férosinge"
+    },
     "image": "cPK_10_002540_00_MANKEY_C.webp",
     "packs": [
       "Mew"
@@ -413,7 +536,10 @@
     "set": "A1a",
     "number": 42,
     "rarity": "C",
-    "name": "Primeape",
+    "name": {
+      "en": "Primeape",
+      "fr": "Colossinge"
+    },
     "image": "cPK_10_002550_00_OKORIZARU_C.webp",
     "packs": [
       "Mew"
@@ -423,7 +549,10 @@
     "set": "A1a",
     "number": 43,
     "rarity": "C",
-    "name": "Geodude",
+    "name": {
+      "en": "Geodude",
+      "fr": "Racaillou"
+    },
     "image": "cPK_10_002560_00_ISITSUBUTE_C.webp",
     "packs": [
       "Mew"
@@ -433,7 +562,10 @@
     "set": "A1a",
     "number": 44,
     "rarity": "U",
-    "name": "Graveler",
+    "name": {
+      "en": "Graveler",
+      "fr": "Gravalanch"
+    },
     "image": "cPK_10_002570_00_GOLONE_U.webp",
     "packs": [
       "Mew"
@@ -443,7 +575,10 @@
     "set": "A1a",
     "number": 45,
     "rarity": "R",
-    "name": "Golem",
+    "name": {
+      "en": "Golem",
+      "fr": "Grolem"
+    },
     "image": "cPK_10_002580_00_GOLONYA_R.webp",
     "packs": [
       "Mew"
@@ -453,7 +588,10 @@
     "set": "A1a",
     "number": 46,
     "rarity": "RR",
-    "name": "Aerodactyl ex",
+    "name": {
+      "en": "Aerodactyl ex",
+      "fr": "Ptéra-ex"
+    },
     "image": "cPK_10_002590_00_PTERAex_RR.webp",
     "packs": [
       "Mew"
@@ -463,7 +601,10 @@
     "set": "A1a",
     "number": 47,
     "rarity": "R",
-    "name": "Marshadow",
+    "name": {
+      "en": "Marshadow",
+      "fr": "Marshadow"
+    },
     "image": "cPK_10_002600_00_MARSHADOW_R.webp",
     "packs": [
       "Mew"
@@ -473,7 +614,10 @@
     "set": "A1a",
     "number": 48,
     "rarity": "U",
-    "name": "Stonjourner",
+    "name": {
+      "en": "Stonjourner",
+      "fr": "Dolman"
+    },
     "image": "cPK_10_002610_00_ISHIHENGIN_U.webp",
     "packs": [
       "Mew"
@@ -483,7 +627,10 @@
     "set": "A1a",
     "number": 49,
     "rarity": "C",
-    "name": "Koffing",
+    "name": {
+      "en": "Koffing",
+      "fr": "Smogo"
+    },
     "image": "cPK_10_002620_00_DOGARS_C.webp",
     "packs": [
       "Mew"
@@ -493,7 +640,10 @@
     "set": "A1a",
     "number": 50,
     "rarity": "U",
-    "name": "Weezing",
+    "name": {
+      "en": "Weezing",
+      "fr": "Smogogo"
+    },
     "image": "cPK_10_002630_00_MATADOGAS_U.webp",
     "packs": [
       "Mew"
@@ -503,7 +653,10 @@
     "set": "A1a",
     "number": 51,
     "rarity": "C",
-    "name": "Purrloin",
+    "name": {
+      "en": "Purrloin",
+      "fr": "Chacripan"
+    },
     "image": "cPK_10_002640_00_CHORONEKO_C.webp",
     "packs": [
       "Mew"
@@ -513,7 +666,10 @@
     "set": "A1a",
     "number": 52,
     "rarity": "C",
-    "name": "Liepard",
+    "name": {
+      "en": "Liepard",
+      "fr": "Léopardus"
+    },
     "image": "cPK_10_002650_00_LEPARDAS_C.webp",
     "packs": [
       "Mew"
@@ -523,7 +679,10 @@
     "set": "A1a",
     "number": 53,
     "rarity": "C",
-    "name": "Venipede",
+    "name": {
+      "en": "Venipede",
+      "fr": "Venipatte"
+    },
     "image": "cPK_10_002660_00_FUSHIDE_C.webp",
     "packs": [
       "Mew"
@@ -533,7 +692,10 @@
     "set": "A1a",
     "number": 54,
     "rarity": "C",
-    "name": "Whirlipede",
+    "name": {
+      "en": "Whirlipede",
+      "fr": "Scobolide"
+    },
     "image": "cPK_10_002670_00_WHEEGA_C.webp",
     "packs": [
       "Mew"
@@ -543,7 +705,10 @@
     "set": "A1a",
     "number": 55,
     "rarity": "U",
-    "name": "Scolipede",
+    "name": {
+      "en": "Scolipede",
+      "fr": "Brutapode"
+    },
     "image": "cPK_10_002680_00_PENDROR_U.webp",
     "packs": [
       "Mew"
@@ -553,7 +718,10 @@
     "set": "A1a",
     "number": 56,
     "rarity": "U",
-    "name": "Druddigon",
+    "name": {
+      "en": "Druddigon",
+      "fr": "Drakkarmin"
+    },
     "image": "cPK_10_002690_00_CRIMGAN_U.webp",
     "packs": [
       "Mew"
@@ -563,7 +731,10 @@
     "set": "A1a",
     "number": 57,
     "rarity": "C",
-    "name": "Pidgey",
+    "name": {
+      "en": "Pidgey",
+      "fr": "Roucool"
+    },
     "image": "cPK_10_002700_00_POPPO_C.webp",
     "packs": [
       "Mew"
@@ -573,7 +744,10 @@
     "set": "A1a",
     "number": 58,
     "rarity": "C",
-    "name": "Pidgeotto",
+    "name": {
+      "en": "Pidgeotto",
+      "fr": "Roucoups"
+    },
     "image": "cPK_10_002710_00_PIGEON_C.webp",
     "packs": [
       "Mew"
@@ -583,7 +757,10 @@
     "set": "A1a",
     "number": 59,
     "rarity": "RR",
-    "name": "Pidgeot ex",
+    "name": {
+      "en": "Pidgeot ex",
+      "fr": "Roucarnage-ex"
+    },
     "image": "cPK_10_002720_00_PIGEOTex_RR.webp",
     "packs": [
       "Mew"
@@ -593,7 +770,10 @@
     "set": "A1a",
     "number": 60,
     "rarity": "R",
-    "name": "Tauros",
+    "name": {
+      "en": "Tauros",
+      "fr": "Tauros"
+    },
     "image": "cPK_10_002730_00_KENTAUROS_R.webp",
     "packs": [
       "Mew"
@@ -603,7 +783,10 @@
     "set": "A1a",
     "number": 61,
     "rarity": "C",
-    "name": "Eevee",
+    "name": {
+      "en": "Eevee",
+      "fr": "Évoli"
+    },
     "image": "cPK_10_002740_00_EIEVUI_C.webp",
     "packs": [
       "Mew"
@@ -613,7 +796,10 @@
     "set": "A1a",
     "number": 62,
     "rarity": "C",
-    "name": "Chatot",
+    "name": {
+      "en": "Chatot",
+      "fr": "Pijako"
+    },
     "image": "cPK_10_002750_00_PERAP_C.webp",
     "packs": [
       "Mew"
@@ -623,7 +809,10 @@
     "set": "A1a",
     "number": 63,
     "rarity": "C",
-    "name": "Old Amber",
+    "name": {
+      "en": "Old Amber",
+      "fr": "Vieil Ambre"
+    },
     "image": "cTR_10_000100_00_HIMITSUNOKOHAKU_C.webp",
     "packs": [
       "Mew"
@@ -633,7 +822,10 @@
     "set": "A1a",
     "number": 64,
     "rarity": "U",
-    "name": "Pokémon Flute",
+    "name": {
+      "en": "Pokémon Flute",
+      "fr": "Flûte Pokémon"
+    },
     "image": "cTR_10_000200_00_POKEMONNOFUE_U.webp",
     "packs": [
       "Mew"
@@ -643,7 +835,10 @@
     "set": "A1a",
     "number": 65,
     "rarity": "U",
-    "name": "Mythical Slab",
+    "name": {
+      "en": "Mythical Slab",
+      "fr": "Dalle Fabuleuse"
+    },
     "image": "cTR_10_000190_00_MABOROSHINOSEKIBAN_U.webp",
     "packs": [
       "Mew"
@@ -653,7 +848,10 @@
     "set": "A1a",
     "number": 66,
     "rarity": "U",
-    "name": "Budding Expeditioner",
+    "name": {
+      "en": "Budding Expeditioner",
+      "fr": "Jeune Explorateur"
+    },
     "image": "cTR_10_000220_00_KAKEDASHICHOSAIN_U.webp",
     "packs": [
       "Mew"
@@ -663,7 +861,10 @@
     "set": "A1a",
     "number": 67,
     "rarity": "U",
-    "name": "Blue",
+    "name": {
+      "en": "Blue",
+      "fr": "Blue"
+    },
     "image": "cTR_10_000210_00_GREEN_U.webp",
     "packs": [
       "Mew"
@@ -673,7 +874,10 @@
     "set": "A1a",
     "number": 68,
     "rarity": "U",
-    "name": "Leaf",
+    "name": {
+      "en": "Leaf",
+      "fr": "Leaf"
+    },
     "image": "cTR_10_000230_00_LEAF_U.webp",
     "packs": [
       "Mew"
@@ -683,7 +887,10 @@
     "set": "A1a",
     "number": 69,
     "rarity": "AR",
-    "name": "Exeggutor",
+    "name": {
+      "en": "Exeggutor",
+      "fr": "Noadkoko"
+    },
     "image": "cPK_20_002160_00_NASSY_AR.webp",
     "packs": [
       "Mew"
@@ -693,7 +900,10 @@
     "set": "A1a",
     "number": 70,
     "rarity": "AR",
-    "name": "Serperior",
+    "name": {
+      "en": "Serperior",
+      "fr": "Majaspic"
+    },
     "image": "cPK_20_002200_00_JALORDA_AR.webp",
     "packs": [
       "Mew"
@@ -703,7 +913,10 @@
     "set": "A1a",
     "number": 71,
     "rarity": "AR",
-    "name": "Salandit",
+    "name": {
+      "en": "Salandit",
+      "fr": "Tritox"
+    },
     "image": "cPK_20_002290_00_YATOUMORI_AR.webp",
     "packs": [
       "Mew"
@@ -713,7 +926,10 @@
     "set": "A1a",
     "number": 72,
     "rarity": "AR",
-    "name": "Vaporeon",
+    "name": {
+      "en": "Vaporeon",
+      "fr": "Aquali"
+    },
     "image": "cPK_20_002330_00_SHOWERS_AR.webp",
     "packs": [
       "Mew"
@@ -723,7 +939,10 @@
     "set": "A1a",
     "number": 73,
     "rarity": "AR",
-    "name": "Dedenne",
+    "name": {
+      "en": "Dedenne",
+      "fr": "Dedenne"
+    },
     "image": "cPK_20_002440_00_DEDENNE_AR.webp",
     "packs": [
       "Mew"
@@ -733,7 +952,10 @@
     "set": "A1a",
     "number": 74,
     "rarity": "AR",
-    "name": "Marshadow",
+    "name": {
+      "en": "Marshadow",
+      "fr": "Marshadow"
+    },
     "image": "cPK_20_002600_00_MARSHADOW_AR.webp",
     "packs": [
       "Mew"
@@ -743,7 +965,10 @@
     "set": "A1a",
     "number": 75,
     "rarity": "SR",
-    "name": "Celebi ex",
+    "name": {
+      "en": "Celebi ex",
+      "fr": "Celebi-ex"
+    },
     "image": "cPK_20_002170_00_CELEBIex_SR.webp",
     "packs": [
       "Mew"
@@ -753,7 +978,10 @@
     "set": "A1a",
     "number": 76,
     "rarity": "SR",
-    "name": "Gyarados ex",
+    "name": {
+      "en": "Gyarados ex",
+      "fr": "Léviator-ex"
+    },
     "image": "cPK_20_002320_00_GYARADOSex_SR.webp",
     "packs": [
       "Mew"
@@ -763,7 +991,10 @@
     "set": "A1a",
     "number": 77,
     "rarity": "SR",
-    "name": "Mew ex",
+    "name": {
+      "en": "Mew ex",
+      "fr": "Mew-ex"
+    },
     "image": "cPK_20_002450_00_MEWex_SR.webp",
     "packs": [
       "Mew"
@@ -773,7 +1004,10 @@
     "set": "A1a",
     "number": 78,
     "rarity": "SR",
-    "name": "Aerodactyl ex",
+    "name": {
+      "en": "Aerodactyl ex",
+      "fr": "Ptéra-ex"
+    },
     "image": "cPK_20_002590_00_PTERAex_SR.webp",
     "packs": [
       "Mew"
@@ -783,7 +1017,10 @@
     "set": "A1a",
     "number": 79,
     "rarity": "SR",
-    "name": "Pidgeot ex",
+    "name": {
+      "en": "Pidgeot ex",
+      "fr": "Roucarnage-ex"
+    },
     "image": "cPK_20_002720_00_PIGEOTex_SR.webp",
     "packs": [
       "Mew"
@@ -793,7 +1030,10 @@
     "set": "A1a",
     "number": 80,
     "rarity": "SR",
-    "name": "Budding Expeditioner",
+    "name": {
+      "en": "Budding Expeditioner",
+      "fr": "Jeune Explorateur"
+    },
     "image": "cTR_20_000220_00_KAKEDASHICHOSAIN_SR.webp",
     "packs": [
       "Mew"
@@ -803,7 +1043,10 @@
     "set": "A1a",
     "number": 81,
     "rarity": "SR",
-    "name": "Blue",
+    "name": {
+      "en": "Blue",
+      "fr": "Blue"
+    },
     "image": "cTR_20_000210_00_GREEN_SR.webp",
     "packs": [
       "Mew"
@@ -813,7 +1056,10 @@
     "set": "A1a",
     "number": 82,
     "rarity": "SR",
-    "name": "Leaf",
+    "name": {
+      "en": "Leaf",
+      "fr": "Leaf"
+    },
     "image": "cTR_20_000230_00_LEAF_SR.webp",
     "packs": [
       "Mew"
@@ -823,7 +1069,10 @@
     "set": "A1a",
     "number": 83,
     "rarity": "SAR",
-    "name": "Mew ex",
+    "name": {
+      "en": "Mew ex",
+      "fr": "Mew-ex"
+    },
     "image": "cPK_20_002450_01_MEWex_SAR.webp",
     "packs": [
       "Mew"
@@ -833,7 +1082,10 @@
     "set": "A1a",
     "number": 84,
     "rarity": "SAR",
-    "name": "Aerodactyl ex",
+    "name": {
+      "en": "Aerodactyl ex",
+      "fr": "Ptéra-ex"
+    },
     "image": "cPK_20_002590_01_PTERAex_SAR.webp",
     "packs": [
       "Mew"
@@ -843,7 +1095,10 @@
     "set": "A1a",
     "number": 85,
     "rarity": "IM",
-    "name": "Celebi ex",
+    "name": {
+      "en": "Celebi ex",
+      "fr": "Celebi-ex"
+    },
     "image": "cPK_20_002170_01_CELEBIex_IM.webp",
     "packs": [
       "Mew"
@@ -853,7 +1108,10 @@
     "set": "A1a",
     "number": 86,
     "rarity": "UR",
-    "name": "Mew ex",
+    "name": {
+      "en": "Mew ex",
+      "fr": "Mew-ex"
+    },
     "image": "cPK_20_002450_02_MEWex_UR.webp",
     "packs": [
       "Mew"
