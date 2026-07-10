@@ -3,7 +3,10 @@
     "set": "A2",
     "number": 1,
     "rarity": "C",
-    "name": "Oddish",
+    "name": {
+      "en": "Oddish",
+      "fr": "Mystherbe"
+    },
     "image": "cPK_10_002820_00_NAZONOKUSA_C.webp",
     "packs": [
       "Dialga",
@@ -14,7 +17,10 @@
     "set": "A2",
     "number": 2,
     "rarity": "C",
-    "name": "Gloom",
+    "name": {
+      "en": "Gloom",
+      "fr": "Ortide"
+    },
     "image": "cPK_10_002830_00_KUSAIHANA_C.webp",
     "packs": [
       "Dialga",
@@ -25,7 +31,10 @@
     "set": "A2",
     "number": 3,
     "rarity": "U",
-    "name": "Bellossom",
+    "name": {
+      "en": "Bellossom",
+      "fr": "Joliflor"
+    },
     "image": "cPK_10_002840_00_KIREIHANA_U.webp",
     "packs": [
       "Dialga",
@@ -36,7 +45,10 @@
     "set": "A2",
     "number": 4,
     "rarity": "C",
-    "name": "Tangela",
+    "name": {
+      "en": "Tangela",
+      "fr": "Saquedeneu"
+    },
     "image": "cPK_10_002850_00_MONJARA_C.webp",
     "packs": [
       "Dialga"
@@ -46,7 +58,10 @@
     "set": "A2",
     "number": 5,
     "rarity": "U",
-    "name": "Tangrowth",
+    "name": {
+      "en": "Tangrowth",
+      "fr": "Bouldeneu"
+    },
     "image": "cPK_10_002860_00_MOJUMBO_U.webp",
     "packs": [
       "Dialga"
@@ -56,7 +71,10 @@
     "set": "A2",
     "number": 6,
     "rarity": "C",
-    "name": "Yanma",
+    "name": {
+      "en": "Yanma",
+      "fr": "Yanma"
+    },
     "image": "cPK_10_002870_00_YANYANMA_C.webp",
     "packs": [
       "Dialga"
@@ -66,7 +84,10 @@
     "set": "A2",
     "number": 7,
     "rarity": "RR",
-    "name": "Yanmega ex",
+    "name": {
+      "en": "Yanmega ex",
+      "fr": "Yanmega-ex"
+    },
     "image": "cPK_10_002880_00_MEGAYANMAex_RR.webp",
     "packs": [
       "Dialga"
@@ -76,7 +97,10 @@
     "set": "A2",
     "number": 8,
     "rarity": "C",
-    "name": "Roselia",
+    "name": {
+      "en": "Roselia",
+      "fr": "Rosélia"
+    },
     "image": "cPK_10_002890_00_ROSELIA_C.webp",
     "packs": [
       "Dialga",
@@ -87,7 +111,10 @@
     "set": "A2",
     "number": 9,
     "rarity": "U",
-    "name": "Roserade",
+    "name": {
+      "en": "Roserade",
+      "fr": "Roserade"
+    },
     "image": "cPK_10_002900_00_ROSERADE_U.webp",
     "packs": [
       "Dialga",
@@ -98,7 +125,10 @@
     "set": "A2",
     "number": 10,
     "rarity": "C",
-    "name": "Turtwig",
+    "name": {
+      "en": "Turtwig",
+      "fr": "Tortipouss"
+    },
     "image": "cPK_10_002910_00_NAETLE_C.webp",
     "packs": [
       "Palkia"
@@ -108,7 +138,10 @@
     "set": "A2",
     "number": 11,
     "rarity": "U",
-    "name": "Grotle",
+    "name": {
+      "en": "Grotle",
+      "fr": "Boskara"
+    },
     "image": "cPK_10_002920_00_HAYASHIGAME_U.webp",
     "packs": [
       "Palkia"
@@ -118,7 +151,10 @@
     "set": "A2",
     "number": 12,
     "rarity": "R",
-    "name": "Torterra",
+    "name": {
+      "en": "Torterra",
+      "fr": "Torterra"
+    },
     "image": "cPK_10_002930_00_DODAITOSE_R.webp",
     "packs": [
       "Palkia"
@@ -128,7 +164,10 @@
     "set": "A2",
     "number": 13,
     "rarity": "C",
-    "name": "Kricketot",
+    "name": {
+      "en": "Kricketot",
+      "fr": "Crikzik"
+    },
     "image": "cPK_10_002940_00_KOROBOHSHI_C.webp",
     "packs": [
       "Palkia"
@@ -138,7 +177,10 @@
     "set": "A2",
     "number": 14,
     "rarity": "C",
-    "name": "Kricketune",
+    "name": {
+      "en": "Kricketune",
+      "fr": "Mélokrik"
+    },
     "image": "cPK_10_002950_00_KOROTOCK_C.webp",
     "packs": [
       "Palkia"
@@ -148,7 +190,10 @@
     "set": "A2",
     "number": 15,
     "rarity": "C",
-    "name": "Burmy",
+    "name": {
+      "en": "Burmy",
+      "fr": "Cheniti"
+    },
     "image": "cPK_10_002960_00_MINOMUCCHI_C.webp",
     "packs": [
       "Dialga",
@@ -159,7 +204,10 @@
     "set": "A2",
     "number": 16,
     "rarity": "C",
-    "name": "Wormadam",
+    "name": {
+      "en": "Wormadam",
+      "fr": "Cheniselle"
+    },
     "image": "cPK_10_002970_00_MINOMADAMKUSAKINOMINO_C.webp",
     "packs": [
       "Dialga",
@@ -170,7 +218,10 @@
     "set": "A2",
     "number": 17,
     "rarity": "C",
-    "name": "Combee",
+    "name": {
+      "en": "Combee",
+      "fr": "Apitrini"
+    },
     "image": "cPK_10_002980_00_MITSUHONEY_C.webp",
     "packs": [
       "Dialga"
@@ -180,7 +231,10 @@
     "set": "A2",
     "number": 18,
     "rarity": "U",
-    "name": "Vespiquen",
+    "name": {
+      "en": "Vespiquen",
+      "fr": "Apireine"
+    },
     "image": "cPK_10_002990_00_BEEQUEN_U.webp",
     "packs": [
       "Dialga"
@@ -190,7 +244,10 @@
     "set": "A2",
     "number": 19,
     "rarity": "U",
-    "name": "Carnivine",
+    "name": {
+      "en": "Carnivine",
+      "fr": "Vortente"
+    },
     "image": "cPK_10_003000_00_MUSKIPPA_U.webp",
     "packs": [
       "Palkia"
@@ -200,7 +257,10 @@
     "set": "A2",
     "number": 20,
     "rarity": "R",
-    "name": "Leafeon",
+    "name": {
+      "en": "Leafeon",
+      "fr": "Phyllali"
+    },
     "image": "cPK_10_003010_00_LEAFIA_R.webp",
     "packs": [
       "Dialga"
@@ -210,7 +270,10 @@
     "set": "A2",
     "number": 21,
     "rarity": "C",
-    "name": "Mow Rotom",
+    "name": {
+      "en": "Mow Rotom",
+      "fr": "Motisma Tonte"
+    },
     "image": "cPK_10_003020_00_CUT ROTOM_C.webp",
     "packs": [
       "Dialga",
@@ -221,7 +284,10 @@
     "set": "A2",
     "number": 22,
     "rarity": "R",
-    "name": "Shaymin",
+    "name": {
+      "en": "Shaymin",
+      "fr": "Shaymin"
+    },
     "image": "cPK_10_003030_00_SHAYMIN_R.webp",
     "packs": [
       "Dialga"
@@ -231,7 +297,10 @@
     "set": "A2",
     "number": 23,
     "rarity": "C",
-    "name": "Magmar",
+    "name": {
+      "en": "Magmar",
+      "fr": "Magmar"
+    },
     "image": "cPK_10_003040_00_BOOBER_C.webp",
     "packs": [
       "Palkia"
@@ -241,7 +310,10 @@
     "set": "A2",
     "number": 24,
     "rarity": "R",
-    "name": "Magmortar",
+    "name": {
+      "en": "Magmortar",
+      "fr": "Maganon"
+    },
     "image": "cPK_10_003050_00_BOOBURN_R.webp",
     "packs": [
       "Palkia"
@@ -251,7 +323,10 @@
     "set": "A2",
     "number": 25,
     "rarity": "C",
-    "name": "Slugma",
+    "name": {
+      "en": "Slugma",
+      "fr": "Limagma"
+    },
     "image": "cPK_10_003060_00_MAGMAG_C.webp",
     "packs": [
       "Dialga",
@@ -262,7 +337,10 @@
     "set": "A2",
     "number": 26,
     "rarity": "U",
-    "name": "Magcargo",
+    "name": {
+      "en": "Magcargo",
+      "fr": "Volcaropod"
+    },
     "image": "cPK_10_003070_00_MAGCARGOT_U.webp",
     "packs": [
       "Dialga",
@@ -273,7 +351,10 @@
     "set": "A2",
     "number": 27,
     "rarity": "C",
-    "name": "Chimchar",
+    "name": {
+      "en": "Chimchar",
+      "fr": "Ouisticram"
+    },
     "image": "cPK_10_003080_00_HIKOZARU_C.webp",
     "packs": [
       "Palkia"
@@ -283,7 +364,10 @@
     "set": "A2",
     "number": 28,
     "rarity": "U",
-    "name": "Monferno",
+    "name": {
+      "en": "Monferno",
+      "fr": "Chimpenfeu"
+    },
     "image": "cPK_10_003090_00_MOUKAZARU_U.webp",
     "packs": [
       "Palkia"
@@ -293,7 +377,10 @@
     "set": "A2",
     "number": 29,
     "rarity": "RR",
-    "name": "Infernape ex",
+    "name": {
+      "en": "Infernape ex",
+      "fr": "Simiabraz-ex"
+    },
     "image": "cPK_10_003100_00_GOUKAZARUex_RR.webp",
     "packs": [
       "Palkia"
@@ -303,7 +390,10 @@
     "set": "A2",
     "number": 30,
     "rarity": "C",
-    "name": "Heat Rotom",
+    "name": {
+      "en": "Heat Rotom",
+      "fr": "Motisma Chaleur"
+    },
     "image": "cPK_10_003110_00_HEAT ROTOM_C.webp",
     "packs": [
       "Dialga",
@@ -314,7 +404,10 @@
     "set": "A2",
     "number": 31,
     "rarity": "C",
-    "name": "Swinub",
+    "name": {
+      "en": "Swinub",
+      "fr": "Marcacrin"
+    },
     "image": "cPK_10_003120_00_URIMOO_C.webp",
     "packs": [
       "Dialga"
@@ -324,7 +417,10 @@
     "set": "A2",
     "number": 32,
     "rarity": "U",
-    "name": "Piloswine",
+    "name": {
+      "en": "Piloswine",
+      "fr": "Cochignon"
+    },
     "image": "cPK_10_003130_00_INOMOO_U.webp",
     "packs": [
       "Dialga"
@@ -334,7 +430,10 @@
     "set": "A2",
     "number": 33,
     "rarity": "R",
-    "name": "Mamoswine",
+    "name": {
+      "en": "Mamoswine",
+      "fr": "Mammochon"
+    },
     "image": "cPK_10_003140_00_MAMMOO_R.webp",
     "packs": [
       "Dialga"
@@ -344,7 +443,10 @@
     "set": "A2",
     "number": 34,
     "rarity": "U",
-    "name": "Regice",
+    "name": {
+      "en": "Regice",
+      "fr": "Regice"
+    },
     "image": "cPK_10_003150_00_REGICE_U.webp",
     "packs": [
       "Palkia"
@@ -354,7 +456,10 @@
     "set": "A2",
     "number": 35,
     "rarity": "C",
-    "name": "Piplup",
+    "name": {
+      "en": "Piplup",
+      "fr": "Tiplouf"
+    },
     "image": "cPK_10_003160_00_POCHAMA_C.webp",
     "packs": [
       "Palkia"
@@ -364,7 +469,10 @@
     "set": "A2",
     "number": 36,
     "rarity": "U",
-    "name": "Prinplup",
+    "name": {
+      "en": "Prinplup",
+      "fr": "Prinplouf"
+    },
     "image": "cPK_10_003170_00_POTTAISHI_U.webp",
     "packs": [
       "Palkia"
@@ -374,7 +482,10 @@
     "set": "A2",
     "number": 37,
     "rarity": "R",
-    "name": "Empoleon",
+    "name": {
+      "en": "Empoleon",
+      "fr": "Pingoléon"
+    },
     "image": "cPK_10_003180_00_EMPERTE_R.webp",
     "packs": [
       "Palkia"
@@ -384,7 +495,10 @@
     "set": "A2",
     "number": 38,
     "rarity": "C",
-    "name": "Buizel",
+    "name": {
+      "en": "Buizel",
+      "fr": "Mustébouée"
+    },
     "image": "cPK_10_003190_00_BUOYSEL_C.webp",
     "packs": [
       "Dialga",
@@ -395,7 +509,10 @@
     "set": "A2",
     "number": 39,
     "rarity": "U",
-    "name": "Floatzel",
+    "name": {
+      "en": "Floatzel",
+      "fr": "Mustéflott"
+    },
     "image": "cPK_10_003200_00_FLOAZEL_U.webp",
     "packs": [
       "Dialga",
@@ -406,7 +523,10 @@
     "set": "A2",
     "number": 40,
     "rarity": "C",
-    "name": "Shellos",
+    "name": {
+      "en": "Shellos",
+      "fr": "Sancoki"
+    },
     "image": "cPK_10_003210_00_KARANAKUSHI_C.webp",
     "packs": [
       "Palkia"
@@ -416,7 +536,10 @@
     "set": "A2",
     "number": 41,
     "rarity": "U",
-    "name": "Gastrodon",
+    "name": {
+      "en": "Gastrodon",
+      "fr": "Tritosor"
+    },
     "image": "cPK_10_003220_00_TRITODON_U.webp",
     "packs": [
       "Palkia"
@@ -426,7 +549,10 @@
     "set": "A2",
     "number": 42,
     "rarity": "C",
-    "name": "Finneon",
+    "name": {
+      "en": "Finneon",
+      "fr": "Écayon"
+    },
     "image": "cPK_10_003230_00_KEIKOUO_C.webp",
     "packs": [
       "Dialga",
@@ -437,7 +563,10 @@
     "set": "A2",
     "number": 43,
     "rarity": "U",
-    "name": "Lumineon",
+    "name": {
+      "en": "Lumineon",
+      "fr": "Luminéon"
+    },
     "image": "cPK_10_003240_00_NEOLANT_U.webp",
     "packs": [
       "Dialga",
@@ -448,7 +577,10 @@
     "set": "A2",
     "number": 44,
     "rarity": "C",
-    "name": "Snover",
+    "name": {
+      "en": "Snover",
+      "fr": "Blizzi"
+    },
     "image": "cPK_10_003250_00_YUKIKABURI_C.webp",
     "packs": [
       "Dialga",
@@ -459,7 +591,10 @@
     "set": "A2",
     "number": 45,
     "rarity": "U",
-    "name": "Abomasnow",
+    "name": {
+      "en": "Abomasnow",
+      "fr": "Blizzaroi"
+    },
     "image": "cPK_10_003260_00_YUKINOOH_U.webp",
     "packs": [
       "Dialga",
@@ -470,7 +605,10 @@
     "set": "A2",
     "number": 46,
     "rarity": "R",
-    "name": "Glaceon",
+    "name": {
+      "en": "Glaceon",
+      "fr": "Givrali"
+    },
     "image": "cPK_10_003270_00_GLACIA_R.webp",
     "packs": [
       "Palkia"
@@ -480,7 +618,10 @@
     "set": "A2",
     "number": 47,
     "rarity": "C",
-    "name": "Wash Rotom",
+    "name": {
+      "en": "Wash Rotom",
+      "fr": "Motisma Lavage"
+    },
     "image": "cPK_10_003280_00_WASH ROTOM_C.webp",
     "packs": [
       "Dialga",
@@ -491,7 +632,10 @@
     "set": "A2",
     "number": 48,
     "rarity": "C",
-    "name": "Frost Rotom",
+    "name": {
+      "en": "Frost Rotom",
+      "fr": "Motisma Froid"
+    },
     "image": "cPK_10_003290_00_FROST ROTOM_C.webp",
     "packs": [
       "Dialga",
@@ -502,7 +646,10 @@
     "set": "A2",
     "number": 49,
     "rarity": "RR",
-    "name": "Palkia ex",
+    "name": {
+      "en": "Palkia ex",
+      "fr": "Palkia-ex"
+    },
     "image": "cPK_10_003300_00_PALKIAex_RR.webp",
     "packs": [
       "Palkia"
@@ -512,7 +659,10 @@
     "set": "A2",
     "number": 50,
     "rarity": "U",
-    "name": "Manaphy",
+    "name": {
+      "en": "Manaphy",
+      "fr": "Manaphy"
+    },
     "image": "cPK_10_003310_00_MANAPHY_U.webp",
     "packs": [
       "Palkia"
@@ -522,7 +672,10 @@
     "set": "A2",
     "number": 51,
     "rarity": "C",
-    "name": "Magnemite",
+    "name": {
+      "en": "Magnemite",
+      "fr": "Magnéti"
+    },
     "image": "cPK_10_003320_00_COIL_C.webp",
     "packs": [
       "Dialga",
@@ -533,7 +686,10 @@
     "set": "A2",
     "number": 52,
     "rarity": "U",
-    "name": "Magneton",
+    "name": {
+      "en": "Magneton",
+      "fr": "Magnéton"
+    },
     "image": "cPK_10_003330_00_RARECOIL_U.webp",
     "packs": [
       "Dialga",
@@ -544,7 +700,10 @@
     "set": "A2",
     "number": 53,
     "rarity": "R",
-    "name": "Magnezone",
+    "name": {
+      "en": "Magnezone",
+      "fr": "Magnézone"
+    },
     "image": "cPK_10_003340_00_JIBACOIL_R.webp",
     "packs": [
       "Dialga",
@@ -555,7 +714,10 @@
     "set": "A2",
     "number": 54,
     "rarity": "C",
-    "name": "Voltorb",
+    "name": {
+      "en": "Voltorb",
+      "fr": "Voltorbe"
+    },
     "image": "cPK_10_003350_00_BIRIRIDAMA_C.webp",
     "packs": [
       "Dialga",
@@ -566,7 +728,10 @@
     "set": "A2",
     "number": 55,
     "rarity": "U",
-    "name": "Electrode",
+    "name": {
+      "en": "Electrode",
+      "fr": "Électrode"
+    },
     "image": "cPK_10_003360_00_MARUMINE_U.webp",
     "packs": [
       "Dialga",
@@ -577,7 +742,10 @@
     "set": "A2",
     "number": 56,
     "rarity": "C",
-    "name": "Electabuzz",
+    "name": {
+      "en": "Electabuzz",
+      "fr": "Élektek"
+    },
     "image": "cPK_10_003370_00_ELEBOO_C.webp",
     "packs": [
       "Dialga"
@@ -587,7 +755,10 @@
     "set": "A2",
     "number": 57,
     "rarity": "R",
-    "name": "Electivire",
+    "name": {
+      "en": "Electivire",
+      "fr": "Élekable"
+    },
     "image": "cPK_10_003380_00_ELEKIBLE_R.webp",
     "packs": [
       "Dialga"
@@ -597,7 +768,10 @@
     "set": "A2",
     "number": 58,
     "rarity": "C",
-    "name": "Shinx",
+    "name": {
+      "en": "Shinx",
+      "fr": "Lixy"
+    },
     "image": "cPK_10_003390_00_KOLINK_C.webp",
     "packs": [
       "Dialga"
@@ -607,7 +781,10 @@
     "set": "A2",
     "number": 59,
     "rarity": "U",
-    "name": "Luxio",
+    "name": {
+      "en": "Luxio",
+      "fr": "Luxio"
+    },
     "image": "cPK_10_003400_00_LUXIO_U.webp",
     "packs": [
       "Dialga"
@@ -617,7 +794,10 @@
     "set": "A2",
     "number": 60,
     "rarity": "R",
-    "name": "Luxray",
+    "name": {
+      "en": "Luxray",
+      "fr": "Luxray"
+    },
     "image": "cPK_10_003410_00_RENTORAR_R.webp",
     "packs": [
       "Dialga"
@@ -627,7 +807,10 @@
     "set": "A2",
     "number": 61,
     "rarity": "RR",
-    "name": "Pachirisu ex",
+    "name": {
+      "en": "Pachirisu ex",
+      "fr": "Pachirisu-ex"
+    },
     "image": "cPK_10_003420_00_PACHIRISUex_RR.webp",
     "packs": [
       "Dialga"
@@ -637,7 +820,10 @@
     "set": "A2",
     "number": 62,
     "rarity": "C",
-    "name": "Rotom",
+    "name": {
+      "en": "Rotom",
+      "fr": "Motisma"
+    },
     "image": "cPK_10_003430_00_ROTOM_C.webp",
     "packs": [
       "Palkia"
@@ -647,7 +833,10 @@
     "set": "A2",
     "number": 63,
     "rarity": "C",
-    "name": "Togepi",
+    "name": {
+      "en": "Togepi",
+      "fr": "Togepi"
+    },
     "image": "cPK_10_003440_00_TOGEPY_C.webp",
     "packs": [
       "Dialga",
@@ -658,7 +847,10 @@
     "set": "A2",
     "number": 64,
     "rarity": "U",
-    "name": "Togetic",
+    "name": {
+      "en": "Togetic",
+      "fr": "Togetic"
+    },
     "image": "cPK_10_003450_00_TOGECHICK_U.webp",
     "packs": [
       "Dialga",
@@ -669,7 +861,10 @@
     "set": "A2",
     "number": 65,
     "rarity": "R",
-    "name": "Togekiss",
+    "name": {
+      "en": "Togekiss",
+      "fr": "Togekiss"
+    },
     "image": "cPK_10_003460_00_TOGEKISS_R.webp",
     "packs": [
       "Dialga",
@@ -680,7 +875,10 @@
     "set": "A2",
     "number": 66,
     "rarity": "C",
-    "name": "Misdreavus",
+    "name": {
+      "en": "Misdreavus",
+      "fr": "Feuforêve"
+    },
     "image": "cPK_10_003470_00_MUMA_C.webp",
     "packs": [
       "Palkia"
@@ -690,7 +888,10 @@
     "set": "A2",
     "number": 67,
     "rarity": "RR",
-    "name": "Mismagius ex",
+    "name": {
+      "en": "Mismagius ex",
+      "fr": "Magirêve-ex"
+    },
     "image": "cPK_10_003480_00_MUMARGIex_RR.webp",
     "packs": [
       "Palkia"
@@ -700,7 +901,10 @@
     "set": "A2",
     "number": 68,
     "rarity": "C",
-    "name": "Ralts",
+    "name": {
+      "en": "Ralts",
+      "fr": "Tarsal"
+    },
     "image": "cPK_10_003490_00_RALTS_C.webp",
     "packs": [
       "Dialga"
@@ -710,7 +914,10 @@
     "set": "A2",
     "number": 69,
     "rarity": "C",
-    "name": "Kirlia",
+    "name": {
+      "en": "Kirlia",
+      "fr": "Kirlia"
+    },
     "image": "cPK_10_003500_00_KIRLIA_C.webp",
     "packs": [
       "Dialga"
@@ -720,7 +927,10 @@
     "set": "A2",
     "number": 70,
     "rarity": "C",
-    "name": "Duskull",
+    "name": {
+      "en": "Duskull",
+      "fr": "Skelénox"
+    },
     "image": "cPK_10_003510_00_YOMAWARU_C.webp",
     "packs": [
       "Dialga"
@@ -730,7 +940,10 @@
     "set": "A2",
     "number": 71,
     "rarity": "U",
-    "name": "Dusclops",
+    "name": {
+      "en": "Dusclops",
+      "fr": "Téraclope"
+    },
     "image": "cPK_10_003520_00_SAMAYOURU_U.webp",
     "packs": [
       "Dialga"
@@ -740,7 +953,10 @@
     "set": "A2",
     "number": 72,
     "rarity": "R",
-    "name": "Dusknoir",
+    "name": {
+      "en": "Dusknoir",
+      "fr": "Noctunoir"
+    },
     "image": "cPK_10_003530_00_YONOIR_R.webp",
     "packs": [
       "Dialga"
@@ -750,7 +966,10 @@
     "set": "A2",
     "number": 73,
     "rarity": "C",
-    "name": "Drifloon",
+    "name": {
+      "en": "Drifloon",
+      "fr": "Baudrive"
+    },
     "image": "cPK_10_003540_00_FUWANTE_C.webp",
     "packs": [
       "Dialga"
@@ -760,7 +979,10 @@
     "set": "A2",
     "number": 74,
     "rarity": "U",
-    "name": "Drifblim",
+    "name": {
+      "en": "Drifblim",
+      "fr": "Grodrive"
+    },
     "image": "cPK_10_003550_00_FUWARIDE_U.webp",
     "packs": [
       "Dialga"
@@ -770,7 +992,10 @@
     "set": "A2",
     "number": 75,
     "rarity": "U",
-    "name": "Uxie",
+    "name": {
+      "en": "Uxie",
+      "fr": "Créhelf"
+    },
     "image": "cPK_10_003560_00_YUXIE_U.webp",
     "packs": [
       "Dialga",
@@ -781,7 +1006,10 @@
     "set": "A2",
     "number": 76,
     "rarity": "R",
-    "name": "Mesprit",
+    "name": {
+      "en": "Mesprit",
+      "fr": "Créfollet"
+    },
     "image": "cPK_10_003570_00_EMRIT_R.webp",
     "packs": [
       "Dialga",
@@ -792,7 +1020,10 @@
     "set": "A2",
     "number": 77,
     "rarity": "U",
-    "name": "Azelf",
+    "name": {
+      "en": "Azelf",
+      "fr": "Créfadet"
+    },
     "image": "cPK_10_003580_00_AGNOME_U.webp",
     "packs": [
       "Dialga",
@@ -803,7 +1034,10 @@
     "set": "A2",
     "number": 78,
     "rarity": "R",
-    "name": "Giratina",
+    "name": {
+      "en": "Giratina",
+      "fr": "Giratina"
+    },
     "image": "cPK_10_003590_00_ORIGINGIRATINA_R.webp",
     "packs": [
       "Palkia"
@@ -813,7 +1047,10 @@
     "set": "A2",
     "number": 79,
     "rarity": "R",
-    "name": "Cresselia",
+    "name": {
+      "en": "Cresselia",
+      "fr": "Cresselia"
+    },
     "image": "cPK_10_003600_00_CRESSELIA_R.webp",
     "packs": [
       "Palkia"
@@ -823,7 +1060,10 @@
     "set": "A2",
     "number": 80,
     "rarity": "C",
-    "name": "Rhyhorn",
+    "name": {
+      "en": "Rhyhorn",
+      "fr": "Rhinocorne"
+    },
     "image": "cPK_10_003610_00_SIHORN_C.webp",
     "packs": [
       "Palkia"
@@ -833,7 +1073,10 @@
     "set": "A2",
     "number": 81,
     "rarity": "U",
-    "name": "Rhydon",
+    "name": {
+      "en": "Rhydon",
+      "fr": "Rhinoféros"
+    },
     "image": "cPK_10_003620_00_SIDON_U.webp",
     "packs": [
       "Palkia"
@@ -843,7 +1086,10 @@
     "set": "A2",
     "number": 82,
     "rarity": "R",
-    "name": "Rhyperior",
+    "name": {
+      "en": "Rhyperior",
+      "fr": "Rhinastoc"
+    },
     "image": "cPK_10_003630_00_DOSIDON_R.webp",
     "packs": [
       "Palkia"
@@ -853,7 +1099,10 @@
     "set": "A2",
     "number": 83,
     "rarity": "C",
-    "name": "Gligar",
+    "name": {
+      "en": "Gligar",
+      "fr": "Scorplane"
+    },
     "image": "cPK_10_003640_00_GLIGER_C.webp",
     "packs": [
       "Dialga"
@@ -863,7 +1112,10 @@
     "set": "A2",
     "number": 84,
     "rarity": "U",
-    "name": "Gliscor",
+    "name": {
+      "en": "Gliscor",
+      "fr": "Scorvol"
+    },
     "image": "cPK_10_003650_00_GLION_U.webp",
     "packs": [
       "Dialga"
@@ -873,7 +1125,10 @@
     "set": "A2",
     "number": 85,
     "rarity": "C",
-    "name": "Hitmontop",
+    "name": {
+      "en": "Hitmontop",
+      "fr": "Kapoera"
+    },
     "image": "cPK_10_003660_00_KAPOERER_C.webp",
     "packs": [
       "Dialga"
@@ -883,7 +1138,10 @@
     "set": "A2",
     "number": 86,
     "rarity": "C",
-    "name": "Nosepass",
+    "name": {
+      "en": "Nosepass",
+      "fr": "Tarinor"
+    },
     "image": "cPK_10_003670_00_NOSEPASS_C.webp",
     "packs": [
       "Dialga",
@@ -894,7 +1152,10 @@
     "set": "A2",
     "number": 87,
     "rarity": "U",
-    "name": "Regirock",
+    "name": {
+      "en": "Regirock",
+      "fr": "Regirock"
+    },
     "image": "cPK_10_003680_00_REGIROCK_U.webp",
     "packs": [
       "Dialga",
@@ -905,7 +1166,10 @@
     "set": "A2",
     "number": 88,
     "rarity": "U",
-    "name": "Cranidos",
+    "name": {
+      "en": "Cranidos",
+      "fr": "Kranidos"
+    },
     "image": "cPK_10_003690_00_ZUGAIDOS_U.webp",
     "packs": [
       "Dialga"
@@ -915,7 +1179,10 @@
     "set": "A2",
     "number": 89,
     "rarity": "R",
-    "name": "Rampardos",
+    "name": {
+      "en": "Rampardos",
+      "fr": "Charkos"
+    },
     "image": "cPK_10_003700_00_RAMPALD_R.webp",
     "packs": [
       "Dialga"
@@ -925,7 +1192,10 @@
     "set": "A2",
     "number": 90,
     "rarity": "C",
-    "name": "Wormadam",
+    "name": {
+      "en": "Wormadam",
+      "fr": "Cheniselle"
+    },
     "image": "cPK_10_003710_00_MINOMADAMSUNACHINOMINO_C.webp",
     "packs": [
       "Dialga"
@@ -935,7 +1205,10 @@
     "set": "A2",
     "number": 91,
     "rarity": "C",
-    "name": "Riolu",
+    "name": {
+      "en": "Riolu",
+      "fr": "Riolu"
+    },
     "image": "cPK_10_003720_00_RIOLU_C.webp",
     "packs": [
       "Dialga"
@@ -945,7 +1218,10 @@
     "set": "A2",
     "number": 92,
     "rarity": "R",
-    "name": "Lucario",
+    "name": {
+      "en": "Lucario",
+      "fr": "Lucario"
+    },
     "image": "cPK_10_003730_00_LUCARIO_R.webp",
     "packs": [
       "Dialga"
@@ -955,7 +1231,10 @@
     "set": "A2",
     "number": 93,
     "rarity": "C",
-    "name": "Hippopotas",
+    "name": {
+      "en": "Hippopotas",
+      "fr": "Hippopotas"
+    },
     "image": "cPK_10_003740_00_HIPPOPOTAS_C.webp",
     "packs": [
       "Palkia"
@@ -965,7 +1244,10 @@
     "set": "A2",
     "number": 94,
     "rarity": "U",
-    "name": "Hippowdon",
+    "name": {
+      "en": "Hippowdon",
+      "fr": "Hippodocus"
+    },
     "image": "cPK_10_003750_00_KABALDON_U.webp",
     "packs": [
       "Palkia"
@@ -975,7 +1257,10 @@
     "set": "A2",
     "number": 95,
     "rarity": "RR",
-    "name": "Gallade ex",
+    "name": {
+      "en": "Gallade ex",
+      "fr": "Gallame-ex"
+    },
     "image": "cPK_10_003760_00_ERUREIDOex_RR.webp",
     "packs": [
       "Dialga"
@@ -985,7 +1270,10 @@
     "set": "A2",
     "number": 96,
     "rarity": "C",
-    "name": "Murkrow",
+    "name": {
+      "en": "Murkrow",
+      "fr": "Cornèbre"
+    },
     "image": "cPK_10_003770_00_YAMIKARASU_C.webp",
     "packs": [
       "Dialga"
@@ -995,7 +1283,10 @@
     "set": "A2",
     "number": 97,
     "rarity": "U",
-    "name": "Honchkrow",
+    "name": {
+      "en": "Honchkrow",
+      "fr": "Corboss"
+    },
     "image": "cPK_10_003780_00_DONGKARASU_U.webp",
     "packs": [
       "Dialga"
@@ -1005,7 +1296,10 @@
     "set": "A2",
     "number": 98,
     "rarity": "C",
-    "name": "Sneasel",
+    "name": {
+      "en": "Sneasel",
+      "fr": "Farfuret"
+    },
     "image": "cPK_10_003790_00_NYULA_C.webp",
     "packs": [
       "Palkia"
@@ -1015,7 +1309,10 @@
     "set": "A2",
     "number": 99,
     "rarity": "RR",
-    "name": "Weavile ex",
+    "name": {
+      "en": "Weavile ex",
+      "fr": "Dimoret-ex"
+    },
     "image": "cPK_10_003800_00_MANYULAex_RR.webp",
     "packs": [
       "Palkia"
@@ -1025,7 +1322,10 @@
     "set": "A2",
     "number": 100,
     "rarity": "C",
-    "name": "Poochyena",
+    "name": {
+      "en": "Poochyena",
+      "fr": "Medhyèna"
+    },
     "image": "cPK_10_003810_00_POCHIENA_C.webp",
     "packs": [
       "Dialga",
@@ -1036,7 +1336,10 @@
     "set": "A2",
     "number": 101,
     "rarity": "U",
-    "name": "Mightyena",
+    "name": {
+      "en": "Mightyena",
+      "fr": "Grahyèna"
+    },
     "image": "cPK_10_003820_00_GRAENA_U.webp",
     "packs": [
       "Dialga",
@@ -1047,7 +1350,10 @@
     "set": "A2",
     "number": 102,
     "rarity": "C",
-    "name": "Stunky",
+    "name": {
+      "en": "Stunky",
+      "fr": "Moufouette"
+    },
     "image": "cPK_10_003830_00_SKUNPUU_C.webp",
     "packs": [
       "Dialga"
@@ -1057,7 +1363,10 @@
     "set": "A2",
     "number": 103,
     "rarity": "U",
-    "name": "Skuntank",
+    "name": {
+      "en": "Skuntank",
+      "fr": "Moufflair"
+    },
     "image": "cPK_10_003840_00_SKUTANK_U.webp",
     "packs": [
       "Dialga"
@@ -1067,7 +1376,10 @@
     "set": "A2",
     "number": 104,
     "rarity": "U",
-    "name": "Spiritomb",
+    "name": {
+      "en": "Spiritomb",
+      "fr": "Spiritomb"
+    },
     "image": "cPK_10_003850_00_MIKARUGE_U.webp",
     "packs": [
       "Palkia"
@@ -1077,7 +1389,10 @@
     "set": "A2",
     "number": 105,
     "rarity": "C",
-    "name": "Skorupi",
+    "name": {
+      "en": "Skorupi",
+      "fr": "Rapion"
+    },
     "image": "cPK_10_003860_00_SCORUPI_C.webp",
     "packs": [
       "Dialga",
@@ -1088,7 +1403,10 @@
     "set": "A2",
     "number": 106,
     "rarity": "U",
-    "name": "Drapion",
+    "name": {
+      "en": "Drapion",
+      "fr": "Drascore"
+    },
     "image": "cPK_10_003870_00_DORAPION_U.webp",
     "packs": [
       "Dialga",
@@ -1099,7 +1417,10 @@
     "set": "A2",
     "number": 107,
     "rarity": "C",
-    "name": "Croagunk",
+    "name": {
+      "en": "Croagunk",
+      "fr": "Cradopaud"
+    },
     "image": "cPK_10_003880_00_GUREGGRU_C.webp",
     "packs": [
       "Dialga"
@@ -1109,7 +1430,10 @@
     "set": "A2",
     "number": 108,
     "rarity": "U",
-    "name": "Toxicroak",
+    "name": {
+      "en": "Toxicroak",
+      "fr": "Coatox"
+    },
     "image": "cPK_10_003890_00_DOKUROG_U.webp",
     "packs": [
       "Dialga"
@@ -1119,7 +1443,10 @@
     "set": "A2",
     "number": 109,
     "rarity": "R",
-    "name": "Darkrai",
+    "name": {
+      "en": "Darkrai",
+      "fr": "Darkrai"
+    },
     "image": "cPK_10_003900_00_DARKRAI_R.webp",
     "packs": [
       "Dialga"
@@ -1129,7 +1456,10 @@
     "set": "A2",
     "number": 110,
     "rarity": "RR",
-    "name": "Darkrai ex",
+    "name": {
+      "en": "Darkrai ex",
+      "fr": "Darkrai-ex"
+    },
     "image": "cPK_10_003910_00_DARKRAIex_RR.webp",
     "packs": [
       "Dialga"
@@ -1139,7 +1469,10 @@
     "set": "A2",
     "number": 111,
     "rarity": "U",
-    "name": "Skarmory",
+    "name": {
+      "en": "Skarmory",
+      "fr": "Airmure"
+    },
     "image": "cPK_10_003920_00_AIRMD_U.webp",
     "packs": [
       "Dialga",
@@ -1150,7 +1483,10 @@
     "set": "A2",
     "number": 112,
     "rarity": "U",
-    "name": "Registeel",
+    "name": {
+      "en": "Registeel",
+      "fr": "Registeel"
+    },
     "image": "cPK_10_003930_00_REGISTEEL_U.webp",
     "packs": [
       "Dialga"
@@ -1160,7 +1496,10 @@
     "set": "A2",
     "number": 113,
     "rarity": "U",
-    "name": "Shieldon",
+    "name": {
+      "en": "Shieldon",
+      "fr": "Dinoclier"
+    },
     "image": "cPK_10_003940_00_TATETOPS_U.webp",
     "packs": [
       "Palkia"
@@ -1170,7 +1509,10 @@
     "set": "A2",
     "number": 114,
     "rarity": "R",
-    "name": "Bastiodon",
+    "name": {
+      "en": "Bastiodon",
+      "fr": "Bastiodon"
+    },
     "image": "cPK_10_003950_00_TORIDEPS_R.webp",
     "packs": [
       "Palkia"
@@ -1180,7 +1522,10 @@
     "set": "A2",
     "number": 115,
     "rarity": "C",
-    "name": "Wormadam",
+    "name": {
+      "en": "Wormadam",
+      "fr": "Cheniselle"
+    },
     "image": "cPK_10_003960_00_MINOMADAMGOMINOMINO_C.webp",
     "packs": [
       "Palkia"
@@ -1190,7 +1535,10 @@
     "set": "A2",
     "number": 116,
     "rarity": "C",
-    "name": "Bronzor",
+    "name": {
+      "en": "Bronzor",
+      "fr": "Archéomire"
+    },
     "image": "cPK_10_003970_00_DOHMIRROR_C.webp",
     "packs": [
       "Dialga"
@@ -1200,7 +1548,10 @@
     "set": "A2",
     "number": 117,
     "rarity": "U",
-    "name": "Bronzong",
+    "name": {
+      "en": "Bronzong",
+      "fr": "Archéodong"
+    },
     "image": "cPK_10_003980_00_DOHTAKUN_U.webp",
     "packs": [
       "Dialga"
@@ -1210,7 +1561,10 @@
     "set": "A2",
     "number": 118,
     "rarity": "U",
-    "name": "Probopass",
+    "name": {
+      "en": "Probopass",
+      "fr": "Tarinorme"
+    },
     "image": "cPK_10_003990_00_DAINOSE_U.webp",
     "packs": [
       "Dialga",
@@ -1221,7 +1575,10 @@
     "set": "A2",
     "number": 119,
     "rarity": "RR",
-    "name": "Dialga ex",
+    "name": {
+      "en": "Dialga ex",
+      "fr": "Dialga-ex"
+    },
     "image": "cPK_10_004000_00_DIALGAex_RR.webp",
     "packs": [
       "Dialga"
@@ -1231,7 +1588,10 @@
     "set": "A2",
     "number": 120,
     "rarity": "R",
-    "name": "Heatran",
+    "name": {
+      "en": "Heatran",
+      "fr": "Heatran"
+    },
     "image": "cPK_10_004010_00_HEATRAN_R.webp",
     "packs": [
       "Dialga"
@@ -1241,7 +1601,10 @@
     "set": "A2",
     "number": 121,
     "rarity": "C",
-    "name": "Gible",
+    "name": {
+      "en": "Gible",
+      "fr": "Griknot"
+    },
     "image": "cPK_10_004020_00_FUKAMARU_C.webp",
     "packs": [
       "Palkia"
@@ -1251,7 +1614,10 @@
     "set": "A2",
     "number": 122,
     "rarity": "U",
-    "name": "Gabite",
+    "name": {
+      "en": "Gabite",
+      "fr": "Carmache"
+    },
     "image": "cPK_10_004030_00_GABITE_U.webp",
     "packs": [
       "Palkia"
@@ -1261,7 +1627,10 @@
     "set": "A2",
     "number": 123,
     "rarity": "R",
-    "name": "Garchomp",
+    "name": {
+      "en": "Garchomp",
+      "fr": "Carchacrok"
+    },
     "image": "cPK_10_004040_00_GABURIAS_R.webp",
     "packs": [
       "Palkia"
@@ -1271,7 +1640,10 @@
     "set": "A2",
     "number": 124,
     "rarity": "C",
-    "name": "Lickitung",
+    "name": {
+      "en": "Lickitung",
+      "fr": "Excelangue"
+    },
     "image": "cPK_10_004050_00_BERORINGA_C.webp",
     "packs": [
       "Palkia"
@@ -1281,7 +1653,10 @@
     "set": "A2",
     "number": 125,
     "rarity": "RR",
-    "name": "Lickilicky ex",
+    "name": {
+      "en": "Lickilicky ex",
+      "fr": "Coudlangue-ex"
+    },
     "image": "cPK_10_004060_00_BEROBELTex_RR.webp",
     "packs": [
       "Palkia"
@@ -1291,7 +1666,10 @@
     "set": "A2",
     "number": 126,
     "rarity": "C",
-    "name": "Eevee",
+    "name": {
+      "en": "Eevee",
+      "fr": "Évoli"
+    },
     "image": "cPK_10_004070_00_EIEVUI_C.webp",
     "packs": [
       "Dialga",
@@ -1302,7 +1680,10 @@
     "set": "A2",
     "number": 127,
     "rarity": "C",
-    "name": "Porygon",
+    "name": {
+      "en": "Porygon",
+      "fr": "Porygon"
+    },
     "image": "cPK_10_004080_00_PORYGON_C.webp",
     "packs": [
       "Palkia"
@@ -1312,7 +1693,10 @@
     "set": "A2",
     "number": 128,
     "rarity": "U",
-    "name": "Porygon2",
+    "name": {
+      "en": "Porygon2",
+      "fr": "Porygon2"
+    },
     "image": "cPK_10_004090_00_PORYGON2_U.webp",
     "packs": [
       "Palkia"
@@ -1322,7 +1706,10 @@
     "set": "A2",
     "number": 129,
     "rarity": "R",
-    "name": "Porygon-Z",
+    "name": {
+      "en": "Porygon-Z",
+      "fr": "Porygon-Z"
+    },
     "image": "cPK_10_004100_00_PORYGON-Z_R.webp",
     "packs": [
       "Palkia"
@@ -1332,7 +1719,10 @@
     "set": "A2",
     "number": 130,
     "rarity": "C",
-    "name": "Aipom",
+    "name": {
+      "en": "Aipom",
+      "fr": "Capumain"
+    },
     "image": "cPK_10_004110_00_EIPAM_C.webp",
     "packs": [
       "Dialga",
@@ -1343,7 +1733,10 @@
     "set": "A2",
     "number": 131,
     "rarity": "C",
-    "name": "Ambipom",
+    "name": {
+      "en": "Ambipom",
+      "fr": "Capidextre"
+    },
     "image": "cPK_10_004120_00_ETEBOTH_C.webp",
     "packs": [
       "Dialga",
@@ -1354,7 +1747,10 @@
     "set": "A2",
     "number": 132,
     "rarity": "C",
-    "name": "Starly",
+    "name": {
+      "en": "Starly",
+      "fr": "Étourmi"
+    },
     "image": "cPK_10_004130_00_MUKKURU_C.webp",
     "packs": [
       "Palkia"
@@ -1364,7 +1760,10 @@
     "set": "A2",
     "number": 133,
     "rarity": "C",
-    "name": "Staravia",
+    "name": {
+      "en": "Staravia",
+      "fr": "Étourvol"
+    },
     "image": "cPK_10_004140_00_MUKUBIRD_C.webp",
     "packs": [
       "Palkia"
@@ -1374,7 +1773,10 @@
     "set": "A2",
     "number": 134,
     "rarity": "U",
-    "name": "Staraptor",
+    "name": {
+      "en": "Staraptor",
+      "fr": "Étouraptor"
+    },
     "image": "cPK_10_004150_00_MUKUHAWK_U.webp",
     "packs": [
       "Palkia"
@@ -1384,7 +1786,10 @@
     "set": "A2",
     "number": 135,
     "rarity": "C",
-    "name": "Bidoof",
+    "name": {
+      "en": "Bidoof",
+      "fr": "Keunotor"
+    },
     "image": "cPK_10_004160_00_BIPPA_C.webp",
     "packs": [
       "Dialga"
@@ -1394,7 +1799,10 @@
     "set": "A2",
     "number": 136,
     "rarity": "C",
-    "name": "Bibarel",
+    "name": {
+      "en": "Bibarel",
+      "fr": "Castorno"
+    },
     "image": "cPK_10_004170_00_BEADARU_C.webp",
     "packs": [
       "Dialga"
@@ -1404,7 +1812,10 @@
     "set": "A2",
     "number": 137,
     "rarity": "C",
-    "name": "Buneary",
+    "name": {
+      "en": "Buneary",
+      "fr": "Laporeille"
+    },
     "image": "cPK_10_004180_00_MIMIROL_C.webp",
     "packs": [
       "Dialga"
@@ -1414,7 +1825,10 @@
     "set": "A2",
     "number": 138,
     "rarity": "C",
-    "name": "Lopunny",
+    "name": {
+      "en": "Lopunny",
+      "fr": "Lockpin"
+    },
     "image": "cPK_10_004190_00_MIMILOP_C.webp",
     "packs": [
       "Dialga"
@@ -1424,7 +1838,10 @@
     "set": "A2",
     "number": 139,
     "rarity": "C",
-    "name": "Glameow",
+    "name": {
+      "en": "Glameow",
+      "fr": "Chaglam"
+    },
     "image": "cPK_10_004200_00_NYARMAR_C.webp",
     "packs": [
       "Palkia"
@@ -1434,7 +1851,10 @@
     "set": "A2",
     "number": 140,
     "rarity": "U",
-    "name": "Purugly",
+    "name": {
+      "en": "Purugly",
+      "fr": "Chaffreux"
+    },
     "image": "cPK_10_004210_00_BUNYATTO_U.webp",
     "packs": [
       "Palkia"
@@ -1444,7 +1864,10 @@
     "set": "A2",
     "number": 141,
     "rarity": "C",
-    "name": "Chatot",
+    "name": {
+      "en": "Chatot",
+      "fr": "Pijako"
+    },
     "image": "cPK_10_004220_00_PERAP_C.webp",
     "packs": [
       "Palkia"
@@ -1454,7 +1877,10 @@
     "set": "A2",
     "number": 142,
     "rarity": "C",
-    "name": "Fan Rotom",
+    "name": {
+      "en": "Fan Rotom",
+      "fr": "Motisma Hélice"
+    },
     "image": "cPK_10_004230_00_SPIN ROTOM_C.webp",
     "packs": [
       "Dialga",
@@ -1465,7 +1891,10 @@
     "set": "A2",
     "number": 143,
     "rarity": "R",
-    "name": "Regigigas",
+    "name": {
+      "en": "Regigigas",
+      "fr": "Regigigas"
+    },
     "image": "cPK_10_004240_00_REGIGIGAS_R.webp",
     "packs": [
       "Dialga",
@@ -1476,7 +1905,10 @@
     "set": "A2",
     "number": 144,
     "rarity": "C",
-    "name": "Skull Fossil",
+    "name": {
+      "en": "Skull Fossil",
+      "fr": "Fossile Crâne"
+    },
     "image": "cTR_10_000260_00_ZUGAINOKASEKI_C.webp",
     "packs": [
       "Dialga"
@@ -1486,7 +1918,10 @@
     "set": "A2",
     "number": 145,
     "rarity": "C",
-    "name": "Armor Fossil",
+    "name": {
+      "en": "Armor Fossil",
+      "fr": "Fossile Armure"
+    },
     "image": "cTR_10_000270_00_TATENOKASEKI_C.webp",
     "packs": [
       "Palkia"
@@ -1496,7 +1931,10 @@
     "set": "A2",
     "number": 146,
     "rarity": "U",
-    "name": "Pokémon Communication",
+    "name": {
+      "en": "Pokémon Communication",
+      "fr": "Communication Pokémon"
+    },
     "image": "cTR_10_000280_00_POKEMONTSUUSHIN_U.webp",
     "packs": [
       "Dialga"
@@ -1506,7 +1944,10 @@
     "set": "A2",
     "number": 147,
     "rarity": "U",
-    "name": "Giant Cape",
+    "name": {
+      "en": "Giant Cape",
+      "fr": "Cape Géante"
+    },
     "image": "cTR_10_000290_00_OOKINAMANTO_U.webp",
     "packs": [
       "Dialga"
@@ -1516,7 +1957,10 @@
     "set": "A2",
     "number": 148,
     "rarity": "U",
-    "name": "Rocky Helmet",
+    "name": {
+      "en": "Rocky Helmet",
+      "fr": "Casque Brut"
+    },
     "image": "cTR_10_000300_00_GOTSUGOTSUMETTO_U.webp",
     "packs": [
       "Palkia"
@@ -1526,7 +1970,10 @@
     "set": "A2",
     "number": 149,
     "rarity": "U",
-    "name": "Lum Berry",
+    "name": {
+      "en": "Lum Berry",
+      "fr": "Baie Prine"
+    },
     "image": "cTR_10_000310_00_RAMUNOMI_U.webp",
     "packs": [
       "Palkia"
@@ -1536,7 +1983,10 @@
     "set": "A2",
     "number": 150,
     "rarity": "U",
-    "name": "Cyrus",
+    "name": {
+      "en": "Cyrus",
+      "fr": "Hélio"
+    },
     "image": "cTR_10_000320_00_AKAGI_U.webp",
     "packs": [
       "Palkia"
@@ -1546,7 +1996,10 @@
     "set": "A2",
     "number": 151,
     "rarity": "U",
-    "name": "Team Galactic Grunt",
+    "name": {
+      "en": "Team Galactic Grunt",
+      "fr": "Sbire de la Team Galaxie"
+    },
     "image": "cTR_10_000330_00_GINGADANNOSHITAPPA_U.webp",
     "packs": [
       "Dialga"
@@ -1556,7 +2009,10 @@
     "set": "A2",
     "number": 152,
     "rarity": "U",
-    "name": "Cynthia",
+    "name": {
+      "en": "Cynthia",
+      "fr": "Cynthia"
+    },
     "image": "cTR_10_000340_00_SHIRONA_U.webp",
     "packs": [
       "Palkia"
@@ -1566,7 +2022,10 @@
     "set": "A2",
     "number": 153,
     "rarity": "U",
-    "name": "Volkner",
+    "name": {
+      "en": "Volkner",
+      "fr": "Tanguy"
+    },
     "image": "cTR_10_000350_00_DENZI_U.webp",
     "packs": [
       "Dialga"
@@ -1576,7 +2035,10 @@
     "set": "A2",
     "number": 154,
     "rarity": "U",
-    "name": "Dawn",
+    "name": {
+      "en": "Dawn",
+      "fr": "Aurore"
+    },
     "image": "cTR_10_000360_00_HIKARI_U.webp",
     "packs": [
       "Dialga"
@@ -1586,7 +2048,10 @@
     "set": "A2",
     "number": 155,
     "rarity": "U",
-    "name": "Mars",
+    "name": {
+      "en": "Mars",
+      "fr": "Mars"
+    },
     "image": "cTR_10_000370_00_MARS_U.webp",
     "packs": [
       "Palkia"
@@ -1596,7 +2061,10 @@
     "set": "A2",
     "number": 156,
     "rarity": "AR",
-    "name": "Tangrowth",
+    "name": {
+      "en": "Tangrowth",
+      "fr": "Bouldeneu"
+    },
     "image": "cPK_20_002860_00_MOJUMBO_AR.webp",
     "packs": [
       "Dialga"
@@ -1606,7 +2074,10 @@
     "set": "A2",
     "number": 157,
     "rarity": "AR",
-    "name": "Combee",
+    "name": {
+      "en": "Combee",
+      "fr": "Apitrini"
+    },
     "image": "cPK_20_002980_00_MITSUHONEY_AR.webp",
     "packs": [
       "Dialga"
@@ -1616,7 +2087,10 @@
     "set": "A2",
     "number": 158,
     "rarity": "AR",
-    "name": "Carnivine",
+    "name": {
+      "en": "Carnivine",
+      "fr": "Vortente"
+    },
     "image": "cPK_20_003000_00_MUSKIPPA_AR.webp",
     "packs": [
       "Palkia"
@@ -1626,7 +2100,10 @@
     "set": "A2",
     "number": 159,
     "rarity": "AR",
-    "name": "Shaymin",
+    "name": {
+      "en": "Shaymin",
+      "fr": "Shaymin"
+    },
     "image": "cPK_20_003030_00_SHAYMIN_AR.webp",
     "packs": [
       "Dialga"
@@ -1636,7 +2113,10 @@
     "set": "A2",
     "number": 160,
     "rarity": "AR",
-    "name": "Mamoswine",
+    "name": {
+      "en": "Mamoswine",
+      "fr": "Mammochon"
+    },
     "image": "cPK_20_003140_00_MAMMOO_AR.webp",
     "packs": [
       "Dialga"
@@ -1646,7 +2126,10 @@
     "set": "A2",
     "number": 161,
     "rarity": "AR",
-    "name": "Gastrodon",
+    "name": {
+      "en": "Gastrodon",
+      "fr": "Tritosor"
+    },
     "image": "cPK_20_003220_00_TRITODON_AR.webp",
     "packs": [
       "Palkia"
@@ -1656,7 +2139,10 @@
     "set": "A2",
     "number": 162,
     "rarity": "AR",
-    "name": "Manaphy",
+    "name": {
+      "en": "Manaphy",
+      "fr": "Manaphy"
+    },
     "image": "cPK_20_003310_00_MANAPHY_AR.webp",
     "packs": [
       "Palkia"
@@ -1666,7 +2152,10 @@
     "set": "A2",
     "number": 163,
     "rarity": "AR",
-    "name": "Shinx",
+    "name": {
+      "en": "Shinx",
+      "fr": "Lixy"
+    },
     "image": "cPK_20_003390_00_KOLINK_AR.webp",
     "packs": [
       "Dialga"
@@ -1676,7 +2165,10 @@
     "set": "A2",
     "number": 164,
     "rarity": "AR",
-    "name": "Rotom",
+    "name": {
+      "en": "Rotom",
+      "fr": "Motisma"
+    },
     "image": "cPK_20_003430_00_ROTOM_AR.webp",
     "packs": [
       "Palkia"
@@ -1686,7 +2178,10 @@
     "set": "A2",
     "number": 165,
     "rarity": "AR",
-    "name": "Drifloon",
+    "name": {
+      "en": "Drifloon",
+      "fr": "Baudrive"
+    },
     "image": "cPK_20_003540_00_FUWANTE_AR.webp",
     "packs": [
       "Dialga"
@@ -1696,7 +2191,10 @@
     "set": "A2",
     "number": 166,
     "rarity": "AR",
-    "name": "Mesprit",
+    "name": {
+      "en": "Mesprit",
+      "fr": "Créfollet"
+    },
     "image": "cPK_20_003570_00_EMRIT_AR.webp",
     "packs": [
       "Dialga"
@@ -1706,7 +2204,10 @@
     "set": "A2",
     "number": 167,
     "rarity": "AR",
-    "name": "Giratina",
+    "name": {
+      "en": "Giratina",
+      "fr": "Giratina"
+    },
     "image": "cPK_20_003590_00_ORIGINGIRATINA_AR.webp",
     "packs": [
       "Palkia"
@@ -1716,7 +2217,10 @@
     "set": "A2",
     "number": 168,
     "rarity": "AR",
-    "name": "Cresselia",
+    "name": {
+      "en": "Cresselia",
+      "fr": "Cresselia"
+    },
     "image": "cPK_20_003600_00_CRESSELIA_AR.webp",
     "packs": [
       "Palkia"
@@ -1726,7 +2230,10 @@
     "set": "A2",
     "number": 169,
     "rarity": "AR",
-    "name": "Rhyperior",
+    "name": {
+      "en": "Rhyperior",
+      "fr": "Rhinastoc"
+    },
     "image": "cPK_20_003630_00_DOSIDON_AR.webp",
     "packs": [
       "Palkia"
@@ -1736,7 +2243,10 @@
     "set": "A2",
     "number": 170,
     "rarity": "AR",
-    "name": "Lucario",
+    "name": {
+      "en": "Lucario",
+      "fr": "Lucario"
+    },
     "image": "cPK_20_003730_00_LUCARIO_AR.webp",
     "packs": [
       "Dialga"
@@ -1746,7 +2256,10 @@
     "set": "A2",
     "number": 171,
     "rarity": "AR",
-    "name": "Hippopotas",
+    "name": {
+      "en": "Hippopotas",
+      "fr": "Hippopotas"
+    },
     "image": "cPK_20_003740_00_HIPPOPOTAS_AR.webp",
     "packs": [
       "Palkia"
@@ -1756,7 +2269,10 @@
     "set": "A2",
     "number": 172,
     "rarity": "AR",
-    "name": "Spiritomb",
+    "name": {
+      "en": "Spiritomb",
+      "fr": "Spiritomb"
+    },
     "image": "cPK_20_003850_00_MIKARUGE_AR.webp",
     "packs": [
       "Palkia"
@@ -1766,7 +2282,10 @@
     "set": "A2",
     "number": 173,
     "rarity": "AR",
-    "name": "Croagunk",
+    "name": {
+      "en": "Croagunk",
+      "fr": "Cradopaud"
+    },
     "image": "cPK_20_003880_00_GUREGGRU_AR.webp",
     "packs": [
       "Dialga"
@@ -1776,7 +2295,10 @@
     "set": "A2",
     "number": 174,
     "rarity": "AR",
-    "name": "Heatran",
+    "name": {
+      "en": "Heatran",
+      "fr": "Heatran"
+    },
     "image": "cPK_20_004010_00_HEATRAN_AR.webp",
     "packs": [
       "Dialga"
@@ -1786,7 +2308,10 @@
     "set": "A2",
     "number": 175,
     "rarity": "AR",
-    "name": "Garchomp",
+    "name": {
+      "en": "Garchomp",
+      "fr": "Carchacrok"
+    },
     "image": "cPK_20_004040_00_GABURIAS_AR.webp",
     "packs": [
       "Palkia"
@@ -1796,7 +2321,10 @@
     "set": "A2",
     "number": 176,
     "rarity": "AR",
-    "name": "Staraptor",
+    "name": {
+      "en": "Staraptor",
+      "fr": "Étouraptor"
+    },
     "image": "cPK_20_004150_00_MUKUHAWK_AR.webp",
     "packs": [
       "Palkia"
@@ -1806,7 +2334,10 @@
     "set": "A2",
     "number": 177,
     "rarity": "AR",
-    "name": "Bidoof",
+    "name": {
+      "en": "Bidoof",
+      "fr": "Keunotor"
+    },
     "image": "cPK_20_004160_00_BIPPA_AR.webp",
     "packs": [
       "Dialga"
@@ -1816,7 +2347,10 @@
     "set": "A2",
     "number": 178,
     "rarity": "AR",
-    "name": "Glameow",
+    "name": {
+      "en": "Glameow",
+      "fr": "Chaglam"
+    },
     "image": "cPK_20_004200_00_NYARMAR_AR.webp",
     "packs": [
       "Palkia"
@@ -1826,7 +2360,10 @@
     "set": "A2",
     "number": 179,
     "rarity": "AR",
-    "name": "Regigigas",
+    "name": {
+      "en": "Regigigas",
+      "fr": "Regigigas"
+    },
     "image": "cPK_20_004240_00_REGIGIGAS_AR.webp",
     "packs": [
       "Dialga"
@@ -1836,7 +2373,10 @@
     "set": "A2",
     "number": 180,
     "rarity": "SR",
-    "name": "Yanmega ex",
+    "name": {
+      "en": "Yanmega ex",
+      "fr": "Yanmega-ex"
+    },
     "image": "cPK_20_002880_00_MEGAYANMAex_SR.webp",
     "packs": [
       "Dialga"
@@ -1846,7 +2386,10 @@
     "set": "A2",
     "number": 181,
     "rarity": "SR",
-    "name": "Infernape ex",
+    "name": {
+      "en": "Infernape ex",
+      "fr": "Simiabraz-ex"
+    },
     "image": "cPK_20_003100_00_GOUKAZARUex_SR.webp",
     "packs": [
       "Palkia"
@@ -1856,7 +2399,10 @@
     "set": "A2",
     "number": 182,
     "rarity": "SR",
-    "name": "Palkia ex",
+    "name": {
+      "en": "Palkia ex",
+      "fr": "Palkia-ex"
+    },
     "image": "cPK_20_003300_00_PALKIAex_SR.webp",
     "packs": [
       "Palkia"
@@ -1866,7 +2412,10 @@
     "set": "A2",
     "number": 183,
     "rarity": "SR",
-    "name": "Pachirisu ex",
+    "name": {
+      "en": "Pachirisu ex",
+      "fr": "Pachirisu-ex"
+    },
     "image": "cPK_20_003420_00_PACHIRISUex_SR.webp",
     "packs": [
       "Dialga"
@@ -1876,7 +2425,10 @@
     "set": "A2",
     "number": 184,
     "rarity": "SR",
-    "name": "Mismagius ex",
+    "name": {
+      "en": "Mismagius ex",
+      "fr": "Magirêve-ex"
+    },
     "image": "cPK_20_003480_00_MUMARGIex_SR.webp",
     "packs": [
       "Palkia"
@@ -1886,7 +2438,10 @@
     "set": "A2",
     "number": 185,
     "rarity": "SR",
-    "name": "Gallade ex",
+    "name": {
+      "en": "Gallade ex",
+      "fr": "Gallame-ex"
+    },
     "image": "cPK_20_003760_00_ERUREIDOex_SR.webp",
     "packs": [
       "Dialga"
@@ -1896,7 +2451,10 @@
     "set": "A2",
     "number": 186,
     "rarity": "SR",
-    "name": "Weavile ex",
+    "name": {
+      "en": "Weavile ex",
+      "fr": "Dimoret-ex"
+    },
     "image": "cPK_20_003800_00_MANYULAex_SR.webp",
     "packs": [
       "Palkia"
@@ -1906,7 +2464,10 @@
     "set": "A2",
     "number": 187,
     "rarity": "SR",
-    "name": "Darkrai ex",
+    "name": {
+      "en": "Darkrai ex",
+      "fr": "Darkrai-ex"
+    },
     "image": "cPK_20_003910_00_DARKRAIex_SR.webp",
     "packs": [
       "Dialga"
@@ -1916,7 +2477,10 @@
     "set": "A2",
     "number": 188,
     "rarity": "SR",
-    "name": "Dialga ex",
+    "name": {
+      "en": "Dialga ex",
+      "fr": "Dialga-ex"
+    },
     "image": "cPK_20_004000_00_DIALGAex_SR.webp",
     "packs": [
       "Dialga"
@@ -1926,7 +2490,10 @@
     "set": "A2",
     "number": 189,
     "rarity": "SR",
-    "name": "Lickilicky ex",
+    "name": {
+      "en": "Lickilicky ex",
+      "fr": "Coudlangue-ex"
+    },
     "image": "cPK_20_004060_00_BEROBELTex_SR.webp",
     "packs": [
       "Palkia"
@@ -1936,7 +2503,10 @@
     "set": "A2",
     "number": 190,
     "rarity": "SR",
-    "name": "Cyrus",
+    "name": {
+      "en": "Cyrus",
+      "fr": "Hélio"
+    },
     "image": "cTR_20_000320_00_AKAGI_SR.webp",
     "packs": [
       "Palkia"
@@ -1946,7 +2516,10 @@
     "set": "A2",
     "number": 191,
     "rarity": "SR",
-    "name": "Team Galactic Grunt",
+    "name": {
+      "en": "Team Galactic Grunt",
+      "fr": "Sbire de la Team Galaxie"
+    },
     "image": "cTR_20_000330_00_GINGADANNOSHITAPPA_SR.webp",
     "packs": [
       "Dialga"
@@ -1956,7 +2529,10 @@
     "set": "A2",
     "number": 192,
     "rarity": "SR",
-    "name": "Cynthia",
+    "name": {
+      "en": "Cynthia",
+      "fr": "Cynthia"
+    },
     "image": "cTR_20_000340_00_SHIRONA_SR.webp",
     "packs": [
       "Palkia"
@@ -1966,7 +2542,10 @@
     "set": "A2",
     "number": 193,
     "rarity": "SR",
-    "name": "Volkner",
+    "name": {
+      "en": "Volkner",
+      "fr": "Tanguy"
+    },
     "image": "cTR_20_000350_00_DENZI_SR.webp",
     "packs": [
       "Dialga"
@@ -1976,7 +2555,10 @@
     "set": "A2",
     "number": 194,
     "rarity": "SR",
-    "name": "Dawn",
+    "name": {
+      "en": "Dawn",
+      "fr": "Aurore"
+    },
     "image": "cTR_20_000360_00_HIKARI_SR.webp",
     "packs": [
       "Dialga"
@@ -1986,7 +2568,10 @@
     "set": "A2",
     "number": 195,
     "rarity": "SR",
-    "name": "Mars",
+    "name": {
+      "en": "Mars",
+      "fr": "Mars"
+    },
     "image": "cTR_20_000370_00_MARS_SR.webp",
     "packs": [
       "Palkia"
@@ -1996,7 +2581,10 @@
     "set": "A2",
     "number": 196,
     "rarity": "SAR",
-    "name": "Yanmega ex",
+    "name": {
+      "en": "Yanmega ex",
+      "fr": "Yanmega-ex"
+    },
     "image": "cPK_20_002880_01_MEGAYANMAex_SAR.webp",
     "packs": [
       "Dialga"
@@ -2006,7 +2594,10 @@
     "set": "A2",
     "number": 197,
     "rarity": "SAR",
-    "name": "Infernape ex",
+    "name": {
+      "en": "Infernape ex",
+      "fr": "Simiabraz-ex"
+    },
     "image": "cPK_20_003100_01_GOUKAZARUex_SAR.webp",
     "packs": [
       "Palkia"
@@ -2016,7 +2607,10 @@
     "set": "A2",
     "number": 198,
     "rarity": "SAR",
-    "name": "Pachirisu ex",
+    "name": {
+      "en": "Pachirisu ex",
+      "fr": "Pachirisu-ex"
+    },
     "image": "cPK_20_003420_01_PACHIRISUex_SAR.webp",
     "packs": [
       "Dialga"
@@ -2026,7 +2620,10 @@
     "set": "A2",
     "number": 199,
     "rarity": "SAR",
-    "name": "Mismagius ex",
+    "name": {
+      "en": "Mismagius ex",
+      "fr": "Magirêve-ex"
+    },
     "image": "cPK_20_003480_01_MUMARGIex_SAR.webp",
     "packs": [
       "Palkia"
@@ -2036,7 +2633,10 @@
     "set": "A2",
     "number": 200,
     "rarity": "SAR",
-    "name": "Gallade ex",
+    "name": {
+      "en": "Gallade ex",
+      "fr": "Gallame-ex"
+    },
     "image": "cPK_20_003760_01_ERUREIDOex_SAR.webp",
     "packs": [
       "Dialga"
@@ -2046,7 +2646,10 @@
     "set": "A2",
     "number": 201,
     "rarity": "SAR",
-    "name": "Weavile ex",
+    "name": {
+      "en": "Weavile ex",
+      "fr": "Dimoret-ex"
+    },
     "image": "cPK_20_003800_01_MANYULAex_SAR.webp",
     "packs": [
       "Palkia"
@@ -2056,7 +2659,10 @@
     "set": "A2",
     "number": 202,
     "rarity": "SAR",
-    "name": "Darkrai ex",
+    "name": {
+      "en": "Darkrai ex",
+      "fr": "Darkrai-ex"
+    },
     "image": "cPK_20_003910_01_DARKRAIex_SAR.webp",
     "packs": [
       "Dialga"
@@ -2066,7 +2672,10 @@
     "set": "A2",
     "number": 203,
     "rarity": "SAR",
-    "name": "Lickilicky ex",
+    "name": {
+      "en": "Lickilicky ex",
+      "fr": "Coudlangue-ex"
+    },
     "image": "cPK_20_004060_01_BEROBELTex_SAR.webp",
     "packs": [
       "Palkia"
@@ -2076,7 +2685,10 @@
     "set": "A2",
     "number": 204,
     "rarity": "IM",
-    "name": "Palkia ex",
+    "name": {
+      "en": "Palkia ex",
+      "fr": "Palkia-ex"
+    },
     "image": "cPK_20_003300_01_PALKIAex_IM.webp",
     "packs": [
       "Palkia"
@@ -2086,7 +2698,10 @@
     "set": "A2",
     "number": 205,
     "rarity": "IM",
-    "name": "Dialga ex",
+    "name": {
+      "en": "Dialga ex",
+      "fr": "Dialga-ex"
+    },
     "image": "cPK_20_004000_01_DIALGAex_IM.webp",
     "packs": [
       "Dialga"
@@ -2096,7 +2711,10 @@
     "set": "A2",
     "number": 206,
     "rarity": "UR",
-    "name": "Palkia ex",
+    "name": {
+      "en": "Palkia ex",
+      "fr": "Palkia-ex"
+    },
     "image": "cPK_20_003300_02_PALKIAex_UR.webp",
     "packs": [
       "Dialga",
@@ -2107,7 +2725,10 @@
     "set": "A2",
     "number": 207,
     "rarity": "UR",
-    "name": "Dialga ex",
+    "name": {
+      "en": "Dialga ex",
+      "fr": "Dialga-ex"
+    },
     "image": "cPK_20_004000_02_DIALGAex_UR.webp",
     "packs": [
       "Dialga",
