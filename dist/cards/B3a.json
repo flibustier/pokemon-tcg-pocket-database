@@ -4,7 +4,10 @@
     "number": 1,
     "rarity": "C",
     "image": "cPK_10_018160_00_AMETAMA_C.webp",
-    "name": "Surskit",
+    "name": {
+      "en": "Surskit",
+      "fr": "Arakdo"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -14,7 +17,10 @@
     "number": 2,
     "rarity": "C",
     "image": "cPK_10_018170_00_AMEMOTH_C.webp",
-    "name": "Masquerain",
+    "name": {
+      "en": "Masquerain",
+      "fr": "Maskadra"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -24,7 +30,10 @@
     "number": 3,
     "rarity": "C",
     "image": "cPK_10_018180_00_ARABURUTAKE_C.webp",
-    "name": "Brute Bonnet",
+    "name": {
+      "en": "Brute Bonnet",
+      "fr": "Fongus-Furie"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -34,7 +43,10 @@
     "number": 4,
     "rarity": "U",
     "image": "cPK_10_018190_00_CHIWOHAUHANE_U.webp",
-    "name": "Slither Wing",
+    "name": {
+      "en": "Slither Wing",
+      "fr": "Rampe-Ailes"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -44,7 +56,10 @@
     "number": 5,
     "rarity": "U",
     "image": "cPK_10_018200_00_TETSUNODOKUGA_U.webp",
-    "name": "Iron Moth",
+    "name": {
+      "en": "Iron Moth",
+      "fr": "Mite-de-Fer"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -54,7 +69,10 @@
     "number": 6,
     "rarity": "C",
     "image": "cPK_10_018210_00_KODUCK_C.webp",
-    "name": "Psyduck",
+    "name": {
+      "en": "Psyduck",
+      "fr": "Psykokwak"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -64,7 +82,10 @@
     "number": 7,
     "rarity": "C",
     "image": "cPK_10_018220_00_GOLDUCK_C.webp",
-    "name": "Golduck",
+    "name": {
+      "en": "Golduck",
+      "fr": "Akwakwak"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -74,7 +95,10 @@
     "number": 8,
     "rarity": "U",
     "image": "cPK_10_018230_00_SHOWERS_U.webp",
-    "name": "Vaporeon",
+    "name": {
+      "en": "Vaporeon",
+      "fr": "Aquali"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -84,7 +108,10 @@
     "number": 9,
     "rarity": "C",
     "image": "cPK_10_018240_00_BUOYSEL_C.webp",
-    "name": "Buizel",
+    "name": {
+      "en": "Buizel",
+      "fr": "Mustébouée"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -94,7 +121,10 @@
     "number": 10,
     "rarity": "C",
     "image": "cPK_10_018250_00_FLOAZEL_C.webp",
-    "name": "Floatzel",
+    "name": {
+      "en": "Floatzel",
+      "fr": "Mustéflott"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -104,7 +134,10 @@
     "number": 11,
     "rarity": "C",
     "image": "cPK_10_018260_00_YUKIHAMI_C.webp",
-    "name": "Snom",
+    "name": {
+      "en": "Snom",
+      "fr": "Frissonille"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -114,7 +147,10 @@
     "number": 12,
     "rarity": "C",
     "image": "cPK_10_018270_00_MOTHNOW_C.webp",
-    "name": "Frosmoth",
+    "name": {
+      "en": "Frosmoth",
+      "fr": "Beldeneige"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -124,7 +160,10 @@
     "number": 13,
     "rarity": "RR",
     "image": "cPK_10_018280_00_TETSUNOTSUTSUMIex_RR.webp",
-    "name": "Iron Bundle ex",
+    "name": {
+      "en": "Iron Bundle ex",
+      "fr": "Hotte-de-Fer-ex"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -134,7 +173,10 @@
     "number": 14,
     "rarity": "C",
     "image": "cPK_10_018290_00_PAMO_C.webp",
-    "name": "Pawmi",
+    "name": {
+      "en": "Pawmi",
+      "fr": "Pohm"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -144,7 +186,10 @@
     "number": 15,
     "rarity": "C",
     "image": "cPK_10_018300_00_PAMOT_C.webp",
-    "name": "Pawmo",
+    "name": {
+      "en": "Pawmo",
+      "fr": "Pohmotte"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -154,7 +199,10 @@
     "number": 16,
     "rarity": "U",
     "image": "cPK_10_018310_00_PARMOT_U.webp",
-    "name": "Pawmot",
+    "name": {
+      "en": "Pawmot",
+      "fr": "Pohmarmotte"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -164,7 +212,10 @@
     "number": 17,
     "rarity": "C",
     "image": "cPK_10_018320_00_TETSUNOKAINA_C.webp",
-    "name": "Iron Hands",
+    "name": {
+      "en": "Iron Hands",
+      "fr": "Paume-de-Fer"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -174,7 +225,10 @@
     "number": 18,
     "rarity": "U",
     "image": "cPK_10_018330_00_TETSUNOIBARA_U.webp",
-    "name": "Iron Thorns",
+    "name": {
+      "en": "Iron Thorns",
+      "fr": "Épine-de-Fer"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -184,7 +238,10 @@
     "number": 19,
     "rarity": "RR",
     "image": "cPK_10_018340_00_MIRAIDONex_RR.webp",
-    "name": "Miraidon ex",
+    "name": {
+      "en": "Miraidon ex",
+      "fr": "Miraidon-ex"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -194,7 +251,10 @@
     "number": 20,
     "rarity": "U",
     "image": "cPK_10_018350_00_EIFIE_U.webp",
-    "name": "Espeon",
+    "name": {
+      "en": "Espeon",
+      "fr": "Mentali"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -204,7 +264,10 @@
     "number": 21,
     "rarity": "C",
     "image": "cPK_10_018360_00_HIRAHINA_C.webp",
-    "name": "Flittle",
+    "name": {
+      "en": "Flittle",
+      "fr": "Flotillon"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -214,7 +277,10 @@
     "number": 22,
     "rarity": "U",
     "image": "cPK_10_018370_00_CUESPATRA_U.webp",
-    "name": "Espathra",
+    "name": {
+      "en": "Espathra",
+      "fr": "Cléopsytra"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -224,7 +290,10 @@
     "number": 23,
     "rarity": "C",
     "image": "cPK_10_018380_00_BOCHI_C.webp",
-    "name": "Greavard",
+    "name": {
+      "en": "Greavard",
+      "fr": "Toutombe"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -234,7 +303,10 @@
     "number": 24,
     "rarity": "U",
     "image": "cPK_10_018390_00_HAKADOG_U.webp",
-    "name": "Houndstone",
+    "name": {
+      "en": "Houndstone",
+      "fr": "Tomberro"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -244,7 +316,10 @@
     "number": 25,
     "rarity": "C",
     "image": "cPK_10_018400_00_SAKEBUSHIPPO_C.webp",
-    "name": "Scream Tail",
+    "name": {
+      "en": "Scream Tail",
+      "fr": "Hurle-Queue"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -254,7 +329,10 @@
     "number": 26,
     "rarity": "RR",
     "image": "cPK_10_018410_00_HABATAKUKAMIex_RR.webp",
-    "name": "Flutter Mane ex",
+    "name": {
+      "en": "Flutter Mane ex",
+      "fr": "Flotte-Mèche-ex"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -264,7 +342,10 @@
     "number": 27,
     "rarity": "R",
     "image": "cPK_10_018420_00_TETSUNOBUJIN_R.webp",
-    "name": "Iron Valiant",
+    "name": {
+      "en": "Iron Valiant",
+      "fr": "Garde-de-Fer"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -274,7 +355,10 @@
     "number": 28,
     "rarity": "R",
     "image": "cPK_10_018430_00_TETSUNOISAHA_R.webp",
-    "name": "Iron Leaves",
+    "name": {
+      "en": "Iron Leaves",
+      "fr": "Vert-de-Fer"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -284,7 +368,10 @@
     "number": 29,
     "rarity": "R",
     "image": "cPK_10_018440_00_TETSUNOIWAO_R.webp",
-    "name": "Iron Boulder",
+    "name": {
+      "en": "Iron Boulder",
+      "fr": "Roc-de-Fer"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -294,7 +381,10 @@
     "number": 30,
     "rarity": "R",
     "image": "cPK_10_018450_00_TETSUNOKASHIRA_R.webp",
-    "name": "Iron Crown",
+    "name": {
+      "en": "Iron Crown",
+      "fr": "Chef-de-Fer"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -304,7 +394,10 @@
     "number": 31,
     "rarity": "C",
     "image": "cPK_10_018460_00_KOJIO_C.webp",
-    "name": "Nacli",
+    "name": {
+      "en": "Nacli",
+      "fr": "Selutin"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -314,7 +407,10 @@
     "number": 32,
     "rarity": "C",
     "image": "cPK_10_018470_00_JIODUMU_C.webp",
-    "name": "Naclstack",
+    "name": {
+      "en": "Naclstack",
+      "fr": "Amassel"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -324,7 +420,10 @@
     "number": 33,
     "rarity": "R",
     "image": "cPK_10_018480_00_KYOJIOHN_R.webp",
-    "name": "Garganacl",
+    "name": {
+      "en": "Garganacl",
+      "fr": "Gigansel"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -334,7 +433,10 @@
     "number": 34,
     "rarity": "U",
     "image": "cPK_10_018490_00_IDAINAKIBA_U.webp",
-    "name": "Great Tusk",
+    "name": {
+      "en": "Great Tusk",
+      "fr": "Fort-Ivoire"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -344,7 +446,10 @@
     "number": 35,
     "rarity": "U",
     "image": "cPK_10_018500_00_SUNANOKEGAWA_U.webp",
-    "name": "Sandy Shocks",
+    "name": {
+      "en": "Sandy Shocks",
+      "fr": "Pelage-Sablé"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -354,7 +459,10 @@
     "number": 36,
     "rarity": "RR",
     "image": "cPK_10_018510_00_KORAIDONex_RR.webp",
-    "name": "Koraidon ex",
+    "name": {
+      "en": "Koraidon ex",
+      "fr": "Koraidon-ex"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -364,7 +472,10 @@
     "number": 37,
     "rarity": "U",
     "image": "cPK_10_018520_00_BRACKY_U.webp",
-    "name": "Umbreon",
+    "name": {
+      "en": "Umbreon",
+      "fr": "Noctali"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -374,7 +485,10 @@
     "number": 38,
     "rarity": "C",
     "image": "cPK_10_018530_00_NYULA_C.webp",
-    "name": "Sneasel",
+    "name": {
+      "en": "Sneasel",
+      "fr": "Farfuret"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -384,7 +498,10 @@
     "number": 39,
     "rarity": "U",
     "image": "cPK_10_018540_00_MANYULA_U.webp",
-    "name": "Weavile",
+    "name": {
+      "en": "Weavile",
+      "fr": "Dimoret"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -394,7 +511,10 @@
     "number": 40,
     "rarity": "U",
     "image": "cPK_10_018550_00_YAMIRAMI_U.webp",
-    "name": "Sableye",
+    "name": {
+      "en": "Sableye",
+      "fr": "Ténéfix"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -404,7 +524,10 @@
     "number": 41,
     "rarity": "C",
     "image": "cPK_10_018560_00_KOMATANA_C.webp",
-    "name": "Pawniard",
+    "name": {
+      "en": "Pawniard",
+      "fr": "Scalpion"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -414,7 +537,10 @@
     "number": 42,
     "rarity": "C",
     "image": "cPK_10_018570_00_KIRIKIZAN_C.webp",
-    "name": "Bisharp",
+    "name": {
+      "en": "Bisharp",
+      "fr": "Scalproie"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -424,7 +550,10 @@
     "number": 43,
     "rarity": "R",
     "image": "cPK_10_018580_00_DODOGEZAN_R.webp",
-    "name": "Kingambit",
+    "name": {
+      "en": "Kingambit",
+      "fr": "Scalpereur"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -434,7 +563,10 @@
     "number": 44,
     "rarity": "C",
     "image": "cPK_10_018590_00_KIRAME_C.webp",
-    "name": "Glimmet",
+    "name": {
+      "en": "Glimmet",
+      "fr": "Germéclat"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -444,7 +576,10 @@
     "number": 45,
     "rarity": "R",
     "image": "cPK_10_018600_00_KIRAFLOR_R.webp",
-    "name": "Glimmora",
+    "name": {
+      "en": "Glimmora",
+      "fr": "Floréclat"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -454,7 +589,10 @@
     "number": 46,
     "rarity": "U",
     "image": "cPK_10_018610_00_TETSUNOKOUBE_U.webp",
-    "name": "Iron Jugulis",
+    "name": {
+      "en": "Iron Jugulis",
+      "fr": "Têtes-de-Fer"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -464,7 +602,10 @@
     "number": 47,
     "rarity": "R",
     "image": "cPK_10_018620_00_TODOROKUTSUKI_R.webp",
-    "name": "Roaring Moon",
+    "name": {
+      "en": "Roaring Moon",
+      "fr": "Rugit-Lune"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -474,7 +615,10 @@
     "number": 48,
     "rarity": "U",
     "image": "cPK_10_018630_00_ARMORGA_U.webp",
-    "name": "Corviknight",
+    "name": {
+      "en": "Corviknight",
+      "fr": "Corvaillus"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -484,7 +628,10 @@
     "number": 49,
     "rarity": "C",
     "image": "cPK_10_018640_00_ZOUDOU_C.webp",
-    "name": "Cufant",
+    "name": {
+      "en": "Cufant",
+      "fr": "Charibari"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -494,7 +641,10 @@
     "number": 50,
     "rarity": "U",
     "image": "cPK_10_018650_00_DAIOUDOU_U.webp",
-    "name": "Copperajah",
+    "name": {
+      "en": "Copperajah",
+      "fr": "Pachyradjah"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -504,7 +654,10 @@
     "number": 51,
     "rarity": "U",
     "image": "cPK_10_018660_00_TETSUNOWADACHI_U.webp",
-    "name": "Iron Treads",
+    "name": {
+      "en": "Iron Treads",
+      "fr": "Roue-de-Fer"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -514,7 +667,10 @@
     "number": 52,
     "rarity": "U",
     "image": "cPK_10_018670_00_TYLTALIS_U.webp",
-    "name": "Altaria",
+    "name": {
+      "en": "Altaria",
+      "fr": "Altaria"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -524,7 +680,10 @@
     "number": 53,
     "rarity": "R",
     "image": "cPK_10_018680_00_UNERUMINAMO_R.webp",
-    "name": "Walking Wake",
+    "name": {
+      "en": "Walking Wake",
+      "fr": "Serpente-Eau"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -534,7 +693,10 @@
     "number": 54,
     "rarity": "R",
     "image": "cPK_10_018690_00_UGATSUHOMURA_R.webp",
-    "name": "Gouging Fire",
+    "name": {
+      "en": "Gouging Fire",
+      "fr": "Feu-Perçant"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -544,7 +706,10 @@
     "number": 55,
     "rarity": "R",
     "image": "cPK_10_018700_00_TAKERURAIKO_R.webp",
-    "name": "Raging Bolt",
+    "name": {
+      "en": "Raging Bolt",
+      "fr": "Ire-Foudre"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -554,7 +719,10 @@
     "number": 56,
     "rarity": "C",
     "image": "cPK_10_018710_00_EIEVUI_C.webp",
-    "name": "Eevee",
+    "name": {
+      "en": "Eevee",
+      "fr": "Évoli"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -564,7 +732,10 @@
     "number": 57,
     "rarity": "C",
     "image": "cPK_10_018720_00_KIRINRIKI_C.webp",
-    "name": "Girafarig",
+    "name": {
+      "en": "Girafarig",
+      "fr": "Girafarig"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -574,7 +745,10 @@
     "number": 58,
     "rarity": "C",
     "image": "cPK_10_018730_00_RIKIKIRIN_C.webp",
-    "name": "Farigiraf",
+    "name": {
+      "en": "Farigiraf",
+      "fr": "Farigiraf"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -584,7 +758,10 @@
     "number": 59,
     "rarity": "U",
     "image": "cPK_10_018740_00_NOKOCCHI_U.webp",
-    "name": "Dunsparce",
+    "name": {
+      "en": "Dunsparce",
+      "fr": "Insolourdo"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -594,7 +771,10 @@
     "number": 60,
     "rarity": "R",
     "image": "cPK_10_018750_00_NOKOKOCCHI_R.webp",
-    "name": "Dudunsparce",
+    "name": {
+      "en": "Dudunsparce",
+      "fr": "Deusolourdo"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -604,7 +784,10 @@
     "number": 61,
     "rarity": "C",
     "image": "cPK_10_018760_00_TYLTTO_C.webp",
-    "name": "Swablu",
+    "name": {
+      "en": "Swablu",
+      "fr": "Tylton"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -614,7 +797,10 @@
     "number": 62,
     "rarity": "C",
     "image": "cPK_10_018770_00_WASHIBON_C.webp",
-    "name": "Rufflet",
+    "name": {
+      "en": "Rufflet",
+      "fr": "Furaiglon"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -624,7 +810,10 @@
     "number": 63,
     "rarity": "C",
     "image": "cPK_10_018780_00_WARRGLE_C.webp",
-    "name": "Braviary",
+    "name": {
+      "en": "Braviary",
+      "fr": "Gueriaigle"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -634,7 +823,10 @@
     "number": 64,
     "rarity": "C",
     "image": "cPK_10_018790_00_LUCHABULL_C.webp",
-    "name": "Hawlucha",
+    "name": {
+      "en": "Hawlucha",
+      "fr": "Brutalibré"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -644,7 +836,10 @@
     "number": 65,
     "rarity": "C",
     "image": "cPK_10_018800_00_KOKOGARA_C.webp",
-    "name": "Rookidee",
+    "name": {
+      "en": "Rookidee",
+      "fr": "Minisange"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -654,7 +849,10 @@
     "number": 66,
     "rarity": "C",
     "image": "cPK_10_018810_00_AOGARASU_C.webp",
-    "name": "Corvisquire",
+    "name": {
+      "en": "Corvisquire",
+      "fr": "Bleuseille"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -664,7 +862,10 @@
     "number": 67,
     "rarity": "C",
     "image": "cPK_10_018820_00_KARAMINGO_C.webp",
-    "name": "Flamigo",
+    "name": {
+      "en": "Flamigo",
+      "fr": "Flamenroule"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -674,7 +875,10 @@
     "number": 68,
     "rarity": "RR",
     "image": "cPK_10_018830_00_TERAPAGOSex_RR.webp",
-    "name": "Terapagos ex",
+    "name": {
+      "en": "Terapagos ex",
+      "fr": "Terapagos-ex"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -684,7 +888,10 @@
     "number": 69,
     "rarity": "U",
     "image": "cTR_10_001370_00_BUSUTOENAJIKODAI_U.webp",
-    "name": "Ancient Booster Energy Capsule",
+    "name": {
+      "en": "Ancient Booster Energy Capsule",
+      "fr": "Capsule Énergie Booster Temps Passé"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -694,7 +901,10 @@
     "number": 70,
     "rarity": "U",
     "image": "cTR_10_001380_00_BUSUTOENAJIMIRAI_U.webp",
-    "name": "Future Booster Energy Capsule",
+    "name": {
+      "en": "Future Booster Energy Capsule",
+      "fr": "Capsule Énergie Booster Temps Futur"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -704,7 +914,10 @@
     "number": 71,
     "rarity": "U",
     "image": "cTR_10_001390_00_AOI_U.webp",
-    "name": "Juliana",
+    "name": {
+      "en": "Juliana",
+      "fr": "Juliana"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -714,7 +927,10 @@
     "number": 72,
     "rarity": "U",
     "image": "cTR_10_001400_00_OLIMHAKASE_U.webp",
-    "name": "Professor Sada",
+    "name": {
+      "en": "Professor Sada",
+      "fr": "Professeure Olim"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -724,7 +940,10 @@
     "number": 73,
     "rarity": "U",
     "image": "cTR_10_001410_00_FUTUHAKASE_U.webp",
-    "name": "Professor Turo",
+    "name": {
+      "en": "Professor Turo",
+      "fr": "Professeur Turum"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -734,7 +953,10 @@
     "number": 74,
     "rarity": "U",
     "image": "cTR_10_001420_00_ERIAZERO_U.webp",
-    "name": "Area Zero",
+    "name": {
+      "en": "Area Zero",
+      "fr": "Zone Zéro"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -744,7 +966,10 @@
     "number": 75,
     "rarity": "AR",
     "image": "cPK_20_018260_00_YUKIHAMI_AR.webp",
-    "name": "Snom",
+    "name": {
+      "en": "Snom",
+      "fr": "Frissonille"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -754,7 +979,10 @@
     "number": 76,
     "rarity": "AR",
     "image": "cPK_20_018360_00_HIRAHINA_AR.webp",
-    "name": "Flittle",
+    "name": {
+      "en": "Flittle",
+      "fr": "Flotillon"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -764,7 +992,10 @@
     "number": 77,
     "rarity": "AR",
     "image": "cPK_20_018440_00_TETSUNOIWAO_AR.webp",
-    "name": "Iron Boulder",
+    "name": {
+      "en": "Iron Boulder",
+      "fr": "Roc-de-Fer"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -774,7 +1005,10 @@
     "number": 78,
     "rarity": "AR",
     "image": "cPK_20_018600_00_KIRAFLOR_AR.webp",
-    "name": "Glimmora",
+    "name": {
+      "en": "Glimmora",
+      "fr": "Floréclat"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -784,7 +1018,10 @@
     "number": 79,
     "rarity": "AR",
     "image": "cPK_20_018700_00_TAKERURAIKO_AR.webp",
-    "name": "Raging Bolt",
+    "name": {
+      "en": "Raging Bolt",
+      "fr": "Ire-Foudre"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -794,7 +1031,10 @@
     "number": 80,
     "rarity": "AR",
     "image": "cPK_20_018790_00_LUCHABULL_AR.webp",
-    "name": "Hawlucha",
+    "name": {
+      "en": "Hawlucha",
+      "fr": "Brutalibré"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -804,7 +1044,10 @@
     "number": 81,
     "rarity": "SR",
     "image": "cPK_20_018280_00_TETSUNOTSUTSUMIex_SR.webp",
-    "name": "Iron Bundle ex",
+    "name": {
+      "en": "Iron Bundle ex",
+      "fr": "Hotte-de-Fer-ex"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -814,7 +1057,10 @@
     "number": 82,
     "rarity": "SR",
     "image": "cPK_20_018340_00_MIRAIDONex_SR.webp",
-    "name": "Miraidon ex",
+    "name": {
+      "en": "Miraidon ex",
+      "fr": "Miraidon-ex"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -824,7 +1070,10 @@
     "number": 83,
     "rarity": "SR",
     "image": "cPK_20_018410_00_HABATAKUKAMIex_SR.webp",
-    "name": "Flutter Mane ex",
+    "name": {
+      "en": "Flutter Mane ex",
+      "fr": "Flotte-Mèche-ex"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -834,7 +1083,10 @@
     "number": 84,
     "rarity": "SR",
     "image": "cPK_20_018510_00_KORAIDONex_SR.webp",
-    "name": "Koraidon ex",
+    "name": {
+      "en": "Koraidon ex",
+      "fr": "Koraidon-ex"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -844,7 +1096,10 @@
     "number": 85,
     "rarity": "SR",
     "image": "cPK_20_018830_00_TERAPAGOSex_SR.webp",
-    "name": "Terapagos ex",
+    "name": {
+      "en": "Terapagos ex",
+      "fr": "Terapagos-ex"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -854,7 +1109,10 @@
     "number": 86,
     "rarity": "SR",
     "image": "cTR_20_001390_00_AOI_SR.webp",
-    "name": "Juliana",
+    "name": {
+      "en": "Juliana",
+      "fr": "Juliana"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -864,7 +1122,10 @@
     "number": 87,
     "rarity": "SR",
     "image": "cTR_20_001400_00_OLIMHAKASE_SR.webp",
-    "name": "Professor Sada",
+    "name": {
+      "en": "Professor Sada",
+      "fr": "Professeure Olim"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -874,7 +1135,10 @@
     "number": 88,
     "rarity": "SR",
     "image": "cTR_20_001410_00_FUTUHAKASE_SR.webp",
-    "name": "Professor Turo",
+    "name": {
+      "en": "Professor Turo",
+      "fr": "Professeur Turum"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -884,7 +1148,10 @@
     "number": 89,
     "rarity": "SAR",
     "image": "cPK_20_018280_01_TETSUNOTSUTSUMIex_SAR.webp",
-    "name": "Iron Bundle ex",
+    "name": {
+      "en": "Iron Bundle ex",
+      "fr": "Hotte-de-Fer-ex"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -894,7 +1161,10 @@
     "number": 90,
     "rarity": "SAR",
     "image": "cPK_20_018340_01_MIRAIDONex_SAR.webp",
-    "name": "Miraidon ex",
+    "name": {
+      "en": "Miraidon ex",
+      "fr": "Miraidon-ex"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -904,7 +1174,10 @@
     "number": 91,
     "rarity": "SAR",
     "image": "cPK_20_018410_01_HABATAKUKAMIex_SAR.webp",
-    "name": "Flutter Mane ex",
+    "name": {
+      "en": "Flutter Mane ex",
+      "fr": "Flotte-Mèche-ex"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -914,7 +1187,10 @@
     "number": 92,
     "rarity": "SAR",
     "image": "cPK_20_018510_01_KORAIDONex_SAR.webp",
-    "name": "Koraidon ex",
+    "name": {
+      "en": "Koraidon ex",
+      "fr": "Koraidon-ex"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -924,7 +1200,10 @@
     "number": 93,
     "rarity": "IM",
     "image": "cPK_20_018830_01_TERAPAGOSex_IM.webp",
-    "name": "Terapagos ex",
+    "name": {
+      "en": "Terapagos ex",
+      "fr": "Terapagos-ex"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -934,7 +1213,10 @@
     "number": 94,
     "rarity": "S",
     "image": "cPK_20_015230_00_SHIGAROKO_S.webp",
-    "name": "Rellor",
+    "name": {
+      "en": "Rellor",
+      "fr": "Léboulérou"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -944,7 +1226,10 @@
     "number": 95,
     "rarity": "S",
     "image": "cPK_20_015280_00_CARBOU_S.webp",
-    "name": "Charcadet",
+    "name": {
+      "en": "Charcadet",
+      "fr": "Charbambin"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -954,7 +1239,10 @@
     "number": 96,
     "rarity": "S",
     "image": "cPK_20_014220_00_ZUPIKA_S.webp",
-    "name": "Tadbulb",
+    "name": {
+      "en": "Tadbulb",
+      "fr": "Têtampoule"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -964,7 +1252,10 @@
     "number": 97,
     "rarity": "S",
     "image": "cPK_20_015580_00_BERACAS_S.webp",
-    "name": "Rabsca",
+    "name": {
+      "en": "Rabsca",
+      "fr": "Bérasca"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -974,7 +1265,10 @@
     "number": 98,
     "rarity": "S",
     "image": "cPK_20_016380_00_DIGDA_S.webp",
-    "name": "Diglett",
+    "name": {
+      "en": "Diglett",
+      "fr": "Taupiqueur"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -984,7 +1278,10 @@
     "number": 99,
     "rarity": "S",
     "image": "cPK_20_016390_00_DUGTRIO_S.webp",
-    "name": "Dugtrio",
+    "name": {
+      "en": "Dugtrio",
+      "fr": "Triopikeur"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -994,7 +1291,10 @@
     "number": 100,
     "rarity": "S",
     "image": "cPK_20_015700_00_GAKEGANI_S.webp",
-    "name": "Klawf",
+    "name": {
+      "en": "Klawf",
+      "fr": "Craparoi"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -1004,7 +1304,10 @@
     "number": 101,
     "rarity": "S",
     "image": "cPK_20_015860_01_MIMIZUZU_S.webp",
-    "name": "Orthworm",
+    "name": {
+      "en": "Orthworm",
+      "fr": "Ferdeter"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -1014,7 +1317,10 @@
     "number": 102,
     "rarity": "S",
     "image": "cPK_20_012780_00_TYLTTO_S.webp",
-    "name": "Swablu",
+    "name": {
+      "en": "Swablu",
+      "fr": "Tylton"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -1024,7 +1330,10 @@
     "number": 103,
     "rarity": "S",
     "image": "cPK_20_012790_00_TYLTALIS_S.webp",
-    "name": "Altaria",
+    "name": {
+      "en": "Altaria",
+      "fr": "Altaria"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -1034,7 +1343,10 @@
     "number": 104,
     "rarity": "SSR",
     "image": "cPK_20_015120_02_MASQUERNYAex_SSR.webp",
-    "name": "Meowscarada ex",
+    "name": {
+      "en": "Meowscarada ex",
+      "fr": "Miascarade-ex"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -1044,7 +1356,10 @@
     "number": 105,
     "rarity": "SSR",
     "image": "cPK_20_015290_02_GURENARMAex_SSR.webp",
-    "name": "Armarouge ex",
+    "name": {
+      "en": "Armarouge ex",
+      "fr": "Carmadura-ex"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -1054,7 +1369,10 @@
     "number": 106,
     "rarity": "SSR",
     "image": "cPK_20_015510_02_HARABARIEex_SSR.webp",
-    "name": "Bellibolt ex",
+    "name": {
+      "en": "Bellibolt ex",
+      "fr": "Ampibidou-ex"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -1064,7 +1382,10 @@
     "number": 107,
     "rarity": "SSR",
     "image": "cPK_20_011840_02_MEGATYLTALISex_SSR.webp",
-    "name": "Mega Altaria ex",
+    "name": {
+      "en": "Mega Altaria ex",
+      "fr": "Méga-Altaria-ex"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -1074,7 +1395,10 @@
     "number": 108,
     "rarity": "UR",
     "image": "cPK_20_018420_00_TETSUNOBUJIN_UR.webp",
-    "name": "Iron Valiant",
+    "name": {
+      "en": "Iron Valiant",
+      "fr": "Garde-de-Fer"
+    },
     "packs": [
       "Paradox Drive"
     ]
@@ -1084,7 +1408,10 @@
     "number": 109,
     "rarity": "UR",
     "image": "cPK_20_018620_00_TODOROKUTSUKI_UR.webp",
-    "name": "Roaring Moon",
+    "name": {
+      "en": "Roaring Moon",
+      "fr": "Rugit-Lune"
+    },
     "packs": [
       "Paradox Drive"
     ]
