@@ -3,7 +3,10 @@
     "set": "A4",
     "number": 1,
     "rarity": "C",
-    "name": "Oddish",
+    "name": {
+      "en": "Oddish",
+      "fr": "Mystherbe"
+    },
     "image": "cPK_10_008570_00_NAZONOKUSA_C.webp",
     "packs": [
       "Lugia"
@@ -13,7 +16,10 @@
     "set": "A4",
     "number": 2,
     "rarity": "U",
-    "name": "Gloom",
+    "name": {
+      "en": "Gloom",
+      "fr": "Ortide"
+    },
     "image": "cPK_10_008580_00_KUSAIHANA_U.webp",
     "packs": [
       "Lugia"
@@ -23,7 +29,10 @@
     "set": "A4",
     "number": 3,
     "rarity": "R",
-    "name": "Bellossom",
+    "name": {
+      "en": "Bellossom",
+      "fr": "Joliflor"
+    },
     "image": "cPK_10_008590_00_KIREIHANA_R.webp",
     "packs": [
       "Lugia"
@@ -33,7 +42,10 @@
     "set": "A4",
     "number": 4,
     "rarity": "C",
-    "name": "Tangela",
+    "name": {
+      "en": "Tangela",
+      "fr": "Saquedeneu"
+    },
     "image": "cPK_10_008600_00_MONJARA_C.webp",
     "packs": [
       "Ho-Oh"
@@ -43,7 +55,10 @@
     "set": "A4",
     "number": 5,
     "rarity": "R",
-    "name": "Tangrowth",
+    "name": {
+      "en": "Tangrowth",
+      "fr": "Bouldeneu"
+    },
     "image": "cPK_10_008610_00_MOJUMBO_R.webp",
     "packs": [
       "Ho-Oh"
@@ -53,7 +68,10 @@
     "set": "A4",
     "number": 6,
     "rarity": "C",
-    "name": "Scyther",
+    "name": {
+      "en": "Scyther",
+      "fr": "Insécateur"
+    },
     "image": "cPK_10_008620_00_STRIKE_C.webp",
     "packs": [
       "Lugia"
@@ -63,7 +81,10 @@
     "set": "A4",
     "number": 7,
     "rarity": "C",
-    "name": "Pinsir",
+    "name": {
+      "en": "Pinsir",
+      "fr": "Scarabrute"
+    },
     "image": "cPK_10_008630_00_KAILIOS_C.webp",
     "packs": [
       "Lugia"
@@ -73,7 +94,10 @@
     "set": "A4",
     "number": 8,
     "rarity": "C",
-    "name": "Chikorita",
+    "name": {
+      "en": "Chikorita",
+      "fr": "Germignon"
+    },
     "image": "cPK_10_008640_00_CHICORITA_C.webp",
     "packs": [
       "Lugia"
@@ -83,7 +107,10 @@
     "set": "A4",
     "number": 9,
     "rarity": "U",
-    "name": "Bayleef",
+    "name": {
+      "en": "Bayleef",
+      "fr": "Macronium"
+    },
     "image": "cPK_10_008650_00_BAYLEAF_U.webp",
     "packs": [
       "Lugia"
@@ -93,7 +120,10 @@
     "set": "A4",
     "number": 10,
     "rarity": "R",
-    "name": "Meganium",
+    "name": {
+      "en": "Meganium",
+      "fr": "Méganium"
+    },
     "image": "cPK_10_008660_00_MEGANIUM_R.webp",
     "packs": [
       "Lugia"
@@ -103,7 +133,10 @@
     "set": "A4",
     "number": 11,
     "rarity": "C",
-    "name": "Ledyba",
+    "name": {
+      "en": "Ledyba",
+      "fr": "Coxy"
+    },
     "image": "cPK_10_008670_00_REDIBA_C.webp",
     "packs": [
       "Lugia"
@@ -113,7 +146,10 @@
     "set": "A4",
     "number": 12,
     "rarity": "C",
-    "name": "Ledian",
+    "name": {
+      "en": "Ledian",
+      "fr": "Coxyclaque"
+    },
     "image": "cPK_10_008680_00_REDIAN_C.webp",
     "packs": [
       "Lugia"
@@ -123,7 +159,10 @@
     "set": "A4",
     "number": 13,
     "rarity": "C",
-    "name": "Hoppip",
+    "name": {
+      "en": "Hoppip",
+      "fr": "Granivol"
+    },
     "image": "cPK_10_008690_00_HANECCO_C.webp",
     "packs": [
       "Ho-Oh"
@@ -133,7 +172,10 @@
     "set": "A4",
     "number": 14,
     "rarity": "U",
-    "name": "Skiploom",
+    "name": {
+      "en": "Skiploom",
+      "fr": "Floravol"
+    },
     "image": "cPK_10_008700_00_POPOCCO_U.webp",
     "packs": [
       "Ho-Oh"
@@ -143,7 +185,10 @@
     "set": "A4",
     "number": 15,
     "rarity": "R",
-    "name": "Jumpluff",
+    "name": {
+      "en": "Jumpluff",
+      "fr": "Cotovol"
+    },
     "image": "cPK_10_008710_00_WATACCO_R.webp",
     "packs": [
       "Ho-Oh"
@@ -153,7 +198,10 @@
     "set": "A4",
     "number": 16,
     "rarity": "C",
-    "name": "Sunkern",
+    "name": {
+      "en": "Sunkern",
+      "fr": "Tournegrin"
+    },
     "image": "cPK_10_008720_00_HIMANUTS_C.webp",
     "packs": [
       "Lugia",
@@ -164,7 +212,10 @@
     "set": "A4",
     "number": 17,
     "rarity": "U",
-    "name": "Sunflora",
+    "name": {
+      "en": "Sunflora",
+      "fr": "Héliatronc"
+    },
     "image": "cPK_10_008730_00_KIMAWARI_U.webp",
     "packs": [
       "Lugia",
@@ -175,7 +226,10 @@
     "set": "A4",
     "number": 18,
     "rarity": "C",
-    "name": "Yanma",
+    "name": {
+      "en": "Yanma",
+      "fr": "Yanma"
+    },
     "image": "cPK_10_008740_00_YANYANMA_C.webp",
     "packs": [
       "Lugia",
@@ -186,7 +240,10 @@
     "set": "A4",
     "number": 19,
     "rarity": "U",
-    "name": "Yanmega",
+    "name": {
+      "en": "Yanmega",
+      "fr": "Yanmega"
+    },
     "image": "cPK_10_008750_00_MEGAYANMA_U.webp",
     "packs": [
       "Lugia",
@@ -197,7 +254,10 @@
     "set": "A4",
     "number": 20,
     "rarity": "C",
-    "name": "Pineco",
+    "name": {
+      "en": "Pineco",
+      "fr": "Pomdepik"
+    },
     "image": "cPK_10_008760_00_KUNUGIDAMA_C.webp",
     "packs": [
       "Lugia",
@@ -208,7 +268,10 @@
     "set": "A4",
     "number": 21,
     "rarity": "RR",
-    "name": "Shuckle ex",
+    "name": {
+      "en": "Shuckle ex",
+      "fr": "Caratroc-ex"
+    },
     "image": "cPK_10_008770_00_TSUBOTSUBOex_RR.webp",
     "packs": [
       "Lugia"
@@ -218,7 +281,10 @@
     "set": "A4",
     "number": 22,
     "rarity": "R",
-    "name": "Heracross",
+    "name": {
+      "en": "Heracross",
+      "fr": "Scarhino"
+    },
     "image": "cPK_10_008780_00_HERACROS_R.webp",
     "packs": [
       "Ho-Oh"
@@ -228,7 +294,10 @@
     "set": "A4",
     "number": 23,
     "rarity": "C",
-    "name": "Cherubi",
+    "name": {
+      "en": "Cherubi",
+      "fr": "Ceribou"
+    },
     "image": "cPK_10_008790_00_CHERINBO_C.webp",
     "packs": [
       "Lugia",
@@ -239,7 +308,10 @@
     "set": "A4",
     "number": 24,
     "rarity": "U",
-    "name": "Cherrim",
+    "name": {
+      "en": "Cherrim",
+      "fr": "Ceriflor"
+    },
     "image": "cPK_10_008800_00_CHERRIM_U.webp",
     "packs": [
       "Lugia",
@@ -250,7 +322,10 @@
     "set": "A4",
     "number": 25,
     "rarity": "C",
-    "name": "Vulpix",
+    "name": {
+      "en": "Vulpix",
+      "fr": "Goupix"
+    },
     "image": "cPK_10_008810_00_ROKON_C.webp",
     "packs": [
       "Lugia"
@@ -260,7 +335,10 @@
     "set": "A4",
     "number": 26,
     "rarity": "R",
-    "name": "Ninetales",
+    "name": {
+      "en": "Ninetales",
+      "fr": "Feunard"
+    },
     "image": "cPK_10_008820_00_KYUKON_R.webp",
     "packs": [
       "Lugia"
@@ -270,7 +348,10 @@
     "set": "A4",
     "number": 27,
     "rarity": "C",
-    "name": "Cyndaquil",
+    "name": {
+      "en": "Cyndaquil",
+      "fr": "Héricendre"
+    },
     "image": "cPK_10_008830_00_HINOARASHI_C.webp",
     "packs": [
       "Lugia"
@@ -280,7 +361,10 @@
     "set": "A4",
     "number": 28,
     "rarity": "U",
-    "name": "Quilava",
+    "name": {
+      "en": "Quilava",
+      "fr": "Feurisson"
+    },
     "image": "cPK_10_008840_00_MAGMARASHI_U.webp",
     "packs": [
       "Lugia"
@@ -290,7 +374,10 @@
     "set": "A4",
     "number": 29,
     "rarity": "R",
-    "name": "Typhlosion",
+    "name": {
+      "en": "Typhlosion",
+      "fr": "Typhlosion"
+    },
     "image": "cPK_10_008850_00_BAKPHOON_R.webp",
     "packs": [
       "Lugia"
@@ -300,7 +387,10 @@
     "set": "A4",
     "number": 30,
     "rarity": "C",
-    "name": "Slugma",
+    "name": {
+      "en": "Slugma",
+      "fr": "Limagma"
+    },
     "image": "cPK_10_008860_00_MAGMAG_C.webp",
     "packs": [
       "Ho-Oh"
@@ -310,7 +400,10 @@
     "set": "A4",
     "number": 31,
     "rarity": "U",
-    "name": "Magcargo",
+    "name": {
+      "en": "Magcargo",
+      "fr": "Volcaropod"
+    },
     "image": "cPK_10_008870_00_MAGCARGOT_U.webp",
     "packs": [
       "Ho-Oh"
@@ -320,7 +413,10 @@
     "set": "A4",
     "number": 32,
     "rarity": "R",
-    "name": "Magby",
+    "name": {
+      "en": "Magby",
+      "fr": "Magby"
+    },
     "image": "cPK_10_008880_00_BUBY_R.webp",
     "packs": [
       "Ho-Oh"
@@ -330,7 +426,10 @@
     "set": "A4",
     "number": 33,
     "rarity": "R",
-    "name": "Entei",
+    "name": {
+      "en": "Entei",
+      "fr": "Entei"
+    },
     "image": "cPK_10_008890_00_ENTEI_R.webp",
     "packs": [
       "Ho-Oh"
@@ -340,7 +439,10 @@
     "set": "A4",
     "number": 34,
     "rarity": "RR",
-    "name": "Ho-Oh ex",
+    "name": {
+      "en": "Ho-Oh ex",
+      "fr": "Ho-Oh-ex"
+    },
     "image": "cPK_10_008900_00_HOUOUex_RR.webp",
     "packs": [
       "Ho-Oh"
@@ -350,7 +452,10 @@
     "set": "A4",
     "number": 35,
     "rarity": "C",
-    "name": "Darumaka",
+    "name": {
+      "en": "Darumaka",
+      "fr": "Darumarond"
+    },
     "image": "cPK_10_008910_00_DARUMAKKA_C.webp",
     "packs": [
       "Lugia",
@@ -361,7 +466,10 @@
     "set": "A4",
     "number": 36,
     "rarity": "U",
-    "name": "Darmanitan",
+    "name": {
+      "en": "Darmanitan",
+      "fr": "Darumacho"
+    },
     "image": "cPK_10_008920_00_HIHIDARUMA_U.webp",
     "packs": [
       "Lugia",
@@ -372,7 +480,10 @@
     "set": "A4",
     "number": 37,
     "rarity": "C",
-    "name": "Heatmor",
+    "name": {
+      "en": "Heatmor",
+      "fr": "Aflamanoir"
+    },
     "image": "cPK_10_008930_00_KUITARAN_C.webp",
     "packs": [
       "Lugia",
@@ -383,7 +494,10 @@
     "set": "A4",
     "number": 38,
     "rarity": "C",
-    "name": "Poliwag",
+    "name": {
+      "en": "Poliwag",
+      "fr": "Ptitard"
+    },
     "image": "cPK_10_008940_00_NYOROMO_C.webp",
     "packs": [
       "Lugia"
@@ -393,7 +507,10 @@
     "set": "A4",
     "number": 39,
     "rarity": "U",
-    "name": "Poliwhirl",
+    "name": {
+      "en": "Poliwhirl",
+      "fr": "Têtarte"
+    },
     "image": "cPK_10_008950_00_NYOROZO_U.webp",
     "packs": [
       "Lugia"
@@ -403,7 +520,10 @@
     "set": "A4",
     "number": 40,
     "rarity": "R",
-    "name": "Politoed",
+    "name": {
+      "en": "Politoed",
+      "fr": "Tarpaud"
+    },
     "image": "cPK_10_008960_00_NYOROTONO_R.webp",
     "packs": [
       "Lugia"
@@ -413,7 +533,10 @@
     "set": "A4",
     "number": 41,
     "rarity": "C",
-    "name": "Horsea",
+    "name": {
+      "en": "Horsea",
+      "fr": "Hypotrempe"
+    },
     "image": "cPK_10_008970_00_TATTU_C.webp",
     "packs": [
       "Lugia"
@@ -423,7 +546,10 @@
     "set": "A4",
     "number": 42,
     "rarity": "U",
-    "name": "Seadra",
+    "name": {
+      "en": "Seadra",
+      "fr": "Hypocéan"
+    },
     "image": "cPK_10_008980_00_SEADRA_U.webp",
     "packs": [
       "Lugia"
@@ -433,7 +559,10 @@
     "set": "A4",
     "number": 43,
     "rarity": "RR",
-    "name": "Kingdra ex",
+    "name": {
+      "en": "Kingdra ex",
+      "fr": "Hyporoi-ex"
+    },
     "image": "cPK_10_008990_00_KINGDRAex_RR.webp",
     "packs": [
       "Lugia"
@@ -443,7 +572,10 @@
     "set": "A4",
     "number": 44,
     "rarity": "C",
-    "name": "Magikarp",
+    "name": {
+      "en": "Magikarp",
+      "fr": "Magicarpe"
+    },
     "image": "cPK_10_009000_00_KOIKING_C.webp",
     "packs": [
       "Lugia"
@@ -453,7 +585,10 @@
     "set": "A4",
     "number": 45,
     "rarity": "R",
-    "name": "Gyarados",
+    "name": {
+      "en": "Gyarados",
+      "fr": "Léviator"
+    },
     "image": "cPK_10_009010_00_GYARADOS_R.webp",
     "packs": [
       "Lugia"
@@ -463,7 +598,10 @@
     "set": "A4",
     "number": 46,
     "rarity": "C",
-    "name": "Totodile",
+    "name": {
+      "en": "Totodile",
+      "fr": "Kaiminus"
+    },
     "image": "cPK_10_009020_00_WANINOKO_C.webp",
     "packs": [
       "Ho-Oh"
@@ -473,7 +611,10 @@
     "set": "A4",
     "number": 47,
     "rarity": "U",
-    "name": "Croconaw",
+    "name": {
+      "en": "Croconaw",
+      "fr": "Crocrodil"
+    },
     "image": "cPK_10_009030_00_ALLIGATES_U.webp",
     "packs": [
       "Ho-Oh"
@@ -483,7 +624,10 @@
     "set": "A4",
     "number": 48,
     "rarity": "R",
-    "name": "Feraligatr",
+    "name": {
+      "en": "Feraligatr",
+      "fr": "Aligatueur"
+    },
     "image": "cPK_10_009040_00_ORDILE_R.webp",
     "packs": [
       "Ho-Oh"
@@ -493,7 +637,10 @@
     "set": "A4",
     "number": 49,
     "rarity": "C",
-    "name": "Marill",
+    "name": {
+      "en": "Marill",
+      "fr": "Marill"
+    },
     "image": "cPK_10_009050_00_MARIL_C.webp",
     "packs": [
       "Ho-Oh"
@@ -503,7 +650,10 @@
     "set": "A4",
     "number": 50,
     "rarity": "U",
-    "name": "Azumarill",
+    "name": {
+      "en": "Azumarill",
+      "fr": "Azumarill"
+    },
     "image": "cPK_10_009060_00_MARILLI_U.webp",
     "packs": [
       "Ho-Oh"
@@ -513,7 +663,10 @@
     "set": "A4",
     "number": 51,
     "rarity": "C",
-    "name": "Wooper",
+    "name": {
+      "en": "Wooper",
+      "fr": "Axoloto"
+    },
     "image": "cPK_10_009070_00_UPAH_C.webp",
     "packs": [
       "Lugia"
@@ -523,7 +676,10 @@
     "set": "A4",
     "number": 52,
     "rarity": "U",
-    "name": "Quagsire",
+    "name": {
+      "en": "Quagsire",
+      "fr": "Maraiste"
+    },
     "image": "cPK_10_009080_00_NUOH_U.webp",
     "packs": [
       "Lugia"
@@ -533,7 +689,10 @@
     "set": "A4",
     "number": 53,
     "rarity": "U",
-    "name": "Qwilfish",
+    "name": {
+      "en": "Qwilfish",
+      "fr": "Qwilfish"
+    },
     "image": "cPK_10_009090_00_HARYSEN_U.webp",
     "packs": [
       "Lugia"
@@ -543,7 +702,10 @@
     "set": "A4",
     "number": 54,
     "rarity": "C",
-    "name": "Corsola",
+    "name": {
+      "en": "Corsola",
+      "fr": "Corayon"
+    },
     "image": "cPK_10_009100_00_SUNNYGO_C.webp",
     "packs": [
       "Lugia"
@@ -553,7 +715,10 @@
     "set": "A4",
     "number": 55,
     "rarity": "C",
-    "name": "Remoraid",
+    "name": {
+      "en": "Remoraid",
+      "fr": "Rémoraid"
+    },
     "image": "cPK_10_009110_00_TEPPOUO_C.webp",
     "packs": [
       "Lugia"
@@ -563,7 +728,10 @@
     "set": "A4",
     "number": 56,
     "rarity": "R",
-    "name": "Octillery",
+    "name": {
+      "en": "Octillery",
+      "fr": "Octillery"
+    },
     "image": "cPK_10_009120_00_OKUTANK_R.webp",
     "packs": [
       "Lugia"
@@ -573,7 +741,10 @@
     "set": "A4",
     "number": 57,
     "rarity": "U",
-    "name": "Delibird",
+    "name": {
+      "en": "Delibird",
+      "fr": "Cadoizo"
+    },
     "image": "cPK_10_009130_00_DELIBIRD_U.webp",
     "packs": [
       "Ho-Oh"
@@ -583,7 +754,10 @@
     "set": "A4",
     "number": 58,
     "rarity": "U",
-    "name": "Mantine",
+    "name": {
+      "en": "Mantine",
+      "fr": "Démanta"
+    },
     "image": "cPK_10_009140_00_MANTAIN_U.webp",
     "packs": [
       "Lugia"
@@ -593,7 +767,10 @@
     "set": "A4",
     "number": 59,
     "rarity": "R",
-    "name": "Suicune",
+    "name": {
+      "en": "Suicune",
+      "fr": "Suicune"
+    },
     "image": "cPK_10_009150_00_SUICUNE_R.webp",
     "packs": [
       "Lugia"
@@ -603,7 +780,10 @@
     "set": "A4",
     "number": 60,
     "rarity": "C",
-    "name": "Corphish",
+    "name": {
+      "en": "Corphish",
+      "fr": "Écrapince"
+    },
     "image": "cPK_10_009160_00_HEIGANI_C.webp",
     "packs": [
       "Lugia"
@@ -613,7 +793,10 @@
     "set": "A4",
     "number": 61,
     "rarity": "R",
-    "name": "Crawdaunt",
+    "name": {
+      "en": "Crawdaunt",
+      "fr": "Colhomard"
+    },
     "image": "cPK_10_009170_00_SHIZARIGER_R.webp",
     "packs": [
       "Lugia"
@@ -623,7 +806,10 @@
     "set": "A4",
     "number": 62,
     "rarity": "C",
-    "name": "Ducklett",
+    "name": {
+      "en": "Ducklett",
+      "fr": "Couaneton"
+    },
     "image": "cPK_10_009180_00_KOARUHIE_C.webp",
     "packs": [
       "Ho-Oh"
@@ -633,7 +819,10 @@
     "set": "A4",
     "number": 63,
     "rarity": "U",
-    "name": "Swanna",
+    "name": {
+      "en": "Swanna",
+      "fr": "Lakmécygne"
+    },
     "image": "cPK_10_009190_00_SWANNA_U.webp",
     "packs": [
       "Ho-Oh"
@@ -643,7 +832,10 @@
     "set": "A4",
     "number": 64,
     "rarity": "C",
-    "name": "Chinchou",
+    "name": {
+      "en": "Chinchou",
+      "fr": "Loupio"
+    },
     "image": "cPK_10_009200_00_CHONCHIE_C.webp",
     "packs": [
       "Lugia"
@@ -653,7 +845,10 @@
     "set": "A4",
     "number": 65,
     "rarity": "RR",
-    "name": "Lanturn ex",
+    "name": {
+      "en": "Lanturn ex",
+      "fr": "Lanturn-ex"
+    },
     "image": "cPK_10_009210_00_LANTERNex_RR.webp",
     "packs": [
       "Lugia"
@@ -663,7 +858,10 @@
     "set": "A4",
     "number": 66,
     "rarity": "R",
-    "name": "Pichu",
+    "name": {
+      "en": "Pichu",
+      "fr": "Pichu"
+    },
     "image": "cPK_10_009220_00_PICHU_R.webp",
     "packs": [
       "Lugia"
@@ -673,7 +871,10 @@
     "set": "A4",
     "number": 67,
     "rarity": "C",
-    "name": "Mareep",
+    "name": {
+      "en": "Mareep",
+      "fr": "Wattouat"
+    },
     "image": "cPK_10_009230_00_MERRIEP_C.webp",
     "packs": [
       "Lugia"
@@ -683,7 +884,10 @@
     "set": "A4",
     "number": 68,
     "rarity": "U",
-    "name": "Flaaffy",
+    "name": {
+      "en": "Flaaffy",
+      "fr": "Lainergie"
+    },
     "image": "cPK_10_009240_00_MOKOKO_U.webp",
     "packs": [
       "Lugia"
@@ -693,7 +897,10 @@
     "set": "A4",
     "number": 69,
     "rarity": "R",
-    "name": "Ampharos",
+    "name": {
+      "en": "Ampharos",
+      "fr": "Pharamp"
+    },
     "image": "cPK_10_009250_00_DENRYU_R.webp",
     "packs": [
       "Lugia"
@@ -703,7 +910,10 @@
     "set": "A4",
     "number": 70,
     "rarity": "R",
-    "name": "Elekid",
+    "name": {
+      "en": "Elekid",
+      "fr": "Élekid"
+    },
     "image": "cPK_10_009260_00_ELEKID_R.webp",
     "packs": [
       "Lugia"
@@ -713,7 +923,10 @@
     "set": "A4",
     "number": 71,
     "rarity": "R",
-    "name": "Raikou",
+    "name": {
+      "en": "Raikou",
+      "fr": "Raikou"
+    },
     "image": "cPK_10_009270_00_RAIKOU_R.webp",
     "packs": [
       "Ho-Oh"
@@ -723,7 +936,10 @@
     "set": "A4",
     "number": 72,
     "rarity": "C",
-    "name": "Emolga",
+    "name": {
+      "en": "Emolga",
+      "fr": "Emolga"
+    },
     "image": "cPK_10_009280_00_EMOLGA_C.webp",
     "packs": [
       "Lugia",
@@ -734,7 +950,10 @@
     "set": "A4",
     "number": 73,
     "rarity": "C",
-    "name": "Slowpoke",
+    "name": {
+      "en": "Slowpoke",
+      "fr": "Ramoloss"
+    },
     "image": "cPK_10_009290_00_YADON_C.webp",
     "packs": [
       "Lugia"
@@ -744,7 +963,10 @@
     "set": "A4",
     "number": 74,
     "rarity": "U",
-    "name": "Slowking",
+    "name": {
+      "en": "Slowking",
+      "fr": "Roigada"
+    },
     "image": "cPK_10_009300_00_YADOKING_U.webp",
     "packs": [
       "Lugia"
@@ -754,7 +976,10 @@
     "set": "A4",
     "number": 75,
     "rarity": "R",
-    "name": "Smoochum",
+    "name": {
+      "en": "Smoochum",
+      "fr": "Lippouti"
+    },
     "image": "cPK_10_009310_00_MUCHUL_R.webp",
     "packs": [
       "Ho-Oh"
@@ -764,7 +989,10 @@
     "set": "A4",
     "number": 76,
     "rarity": "C",
-    "name": "Jynx",
+    "name": {
+      "en": "Jynx",
+      "fr": "Lippoutou"
+    },
     "image": "cPK_10_009320_00_ROUGELA_C.webp",
     "packs": [
       "Lugia",
@@ -775,7 +1003,10 @@
     "set": "A4",
     "number": 77,
     "rarity": "R",
-    "name": "Cleffa",
+    "name": {
+      "en": "Cleffa",
+      "fr": "Mélo"
+    },
     "image": "cPK_10_009330_00_PY_R.webp",
     "packs": [
       "Lugia"
@@ -785,7 +1016,10 @@
     "set": "A4",
     "number": 78,
     "rarity": "C",
-    "name": "Togepi",
+    "name": {
+      "en": "Togepi",
+      "fr": "Togepi"
+    },
     "image": "cPK_10_009340_00_TOGEPY_C.webp",
     "packs": [
       "Ho-Oh"
@@ -795,7 +1029,10 @@
     "set": "A4",
     "number": 79,
     "rarity": "U",
-    "name": "Togetic",
+    "name": {
+      "en": "Togetic",
+      "fr": "Togetic"
+    },
     "image": "cPK_10_009350_00_TOGECHICK_U.webp",
     "packs": [
       "Ho-Oh"
@@ -805,7 +1042,10 @@
     "set": "A4",
     "number": 80,
     "rarity": "R",
-    "name": "Togekiss",
+    "name": {
+      "en": "Togekiss",
+      "fr": "Togekiss"
+    },
     "image": "cPK_10_009360_00_TOGEKISS_R.webp",
     "packs": [
       "Ho-Oh"
@@ -815,7 +1055,10 @@
     "set": "A4",
     "number": 81,
     "rarity": "C",
-    "name": "Natu",
+    "name": {
+      "en": "Natu",
+      "fr": "Natu"
+    },
     "image": "cPK_10_009370_00_NATY_C.webp",
     "packs": [
       "Lugia"
@@ -825,7 +1068,10 @@
     "set": "A4",
     "number": 82,
     "rarity": "R",
-    "name": "Xatu",
+    "name": {
+      "en": "Xatu",
+      "fr": "Xatu"
+    },
     "image": "cPK_10_009380_00_NATIO_R.webp",
     "packs": [
       "Lugia"
@@ -835,7 +1081,10 @@
     "set": "A4",
     "number": 83,
     "rarity": "RR",
-    "name": "Espeon ex",
+    "name": {
+      "en": "Espeon ex",
+      "fr": "Mentali-ex"
+    },
     "image": "cPK_10_009390_00_EIFIEex_RR.webp",
     "packs": [
       "Lugia"
@@ -845,7 +1094,10 @@
     "set": "A4",
     "number": 84,
     "rarity": "R",
-    "name": "Unown",
+    "name": {
+      "en": "Unown",
+      "fr": "Zarbi"
+    },
     "image": "cPK_10_009400_00_UNKNOWN_R.webp",
     "packs": [
       "Ho-Oh"
@@ -855,7 +1107,10 @@
     "set": "A4",
     "number": 85,
     "rarity": "R",
-    "name": "Unown",
+    "name": {
+      "en": "Unown",
+      "fr": "Zarbi"
+    },
     "image": "cPK_10_009410_00_UNKNOWN_R.webp",
     "packs": [
       "Lugia"
@@ -865,7 +1120,10 @@
     "set": "A4",
     "number": 86,
     "rarity": "C",
-    "name": "Wobbuffet",
+    "name": {
+      "en": "Wobbuffet",
+      "fr": "Qulbutoké"
+    },
     "image": "cPK_10_009420_00_SONANS_C.webp",
     "packs": [
       "Lugia"
@@ -875,7 +1133,10 @@
     "set": "A4",
     "number": 87,
     "rarity": "C",
-    "name": "Girafarig",
+    "name": {
+      "en": "Girafarig",
+      "fr": "Girafarig"
+    },
     "image": "cPK_10_009430_00_KIRINRIKI_C.webp",
     "packs": [
       "Ho-Oh"
@@ -885,7 +1146,10 @@
     "set": "A4",
     "number": 88,
     "rarity": "C",
-    "name": "Snubbull",
+    "name": {
+      "en": "Snubbull",
+      "fr": "Snubbull"
+    },
     "image": "cPK_10_009440_00_BULU_C.webp",
     "packs": [
       "Lugia",
@@ -896,7 +1160,10 @@
     "set": "A4",
     "number": 89,
     "rarity": "U",
-    "name": "Granbull",
+    "name": {
+      "en": "Granbull",
+      "fr": "Granbull"
+    },
     "image": "cPK_10_009450_00_GRANBULU_U.webp",
     "packs": [
       "Lugia",
@@ -907,7 +1174,10 @@
     "set": "A4",
     "number": 90,
     "rarity": "C",
-    "name": "Munna",
+    "name": {
+      "en": "Munna",
+      "fr": "Munna"
+    },
     "image": "cPK_10_009460_00_MUNNA_C.webp",
     "packs": [
       "Lugia",
@@ -918,7 +1188,10 @@
     "set": "A4",
     "number": 91,
     "rarity": "U",
-    "name": "Musharna",
+    "name": {
+      "en": "Musharna",
+      "fr": "Mushana"
+    },
     "image": "cPK_10_009470_00_MUSHARNA_U.webp",
     "packs": [
       "Lugia",
@@ -929,7 +1202,10 @@
     "set": "A4",
     "number": 92,
     "rarity": "C",
-    "name": "Onix",
+    "name": {
+      "en": "Onix",
+      "fr": "Onix"
+    },
     "image": "cPK_10_009480_00_IWARK_C.webp",
     "packs": [
       "Ho-Oh"
@@ -939,7 +1215,10 @@
     "set": "A4",
     "number": 93,
     "rarity": "C",
-    "name": "Sudowoodo",
+    "name": {
+      "en": "Sudowoodo",
+      "fr": "Simularbre"
+    },
     "image": "cPK_10_009490_00_USOKKIE_C.webp",
     "packs": [
       "Lugia",
@@ -950,7 +1229,10 @@
     "set": "A4",
     "number": 94,
     "rarity": "C",
-    "name": "Gligar",
+    "name": {
+      "en": "Gligar",
+      "fr": "Scorplane"
+    },
     "image": "cPK_10_009500_00_GLIGER_C.webp",
     "packs": [
       "Ho-Oh"
@@ -960,7 +1242,10 @@
     "set": "A4",
     "number": 95,
     "rarity": "U",
-    "name": "Gliscor",
+    "name": {
+      "en": "Gliscor",
+      "fr": "Scorvol"
+    },
     "image": "cPK_10_009510_00_GLION_U.webp",
     "packs": [
       "Ho-Oh"
@@ -970,7 +1255,10 @@
     "set": "A4",
     "number": 96,
     "rarity": "C",
-    "name": "Swinub",
+    "name": {
+      "en": "Swinub",
+      "fr": "Marcacrin"
+    },
     "image": "cPK_10_009520_00_URIMOO_C.webp",
     "packs": [
       "Ho-Oh"
@@ -980,7 +1268,10 @@
     "set": "A4",
     "number": 97,
     "rarity": "U",
-    "name": "Piloswine",
+    "name": {
+      "en": "Piloswine",
+      "fr": "Cochignon"
+    },
     "image": "cPK_10_009530_00_INOMOO_U.webp",
     "packs": [
       "Ho-Oh"
@@ -990,7 +1281,10 @@
     "set": "A4",
     "number": 98,
     "rarity": "R",
-    "name": "Mamoswine",
+    "name": {
+      "en": "Mamoswine",
+      "fr": "Mammochon"
+    },
     "image": "cPK_10_009540_00_MAMMOO_R.webp",
     "packs": [
       "Ho-Oh"
@@ -1000,7 +1294,10 @@
     "set": "A4",
     "number": 99,
     "rarity": "C",
-    "name": "Phanpy",
+    "name": {
+      "en": "Phanpy",
+      "fr": "Phanpy"
+    },
     "image": "cPK_10_009550_00_GOMAZOU_C.webp",
     "packs": [
       "Ho-Oh"
@@ -1010,7 +1307,10 @@
     "set": "A4",
     "number": 100,
     "rarity": "RR",
-    "name": "Donphan ex",
+    "name": {
+      "en": "Donphan ex",
+      "fr": "Donphan-ex"
+    },
     "image": "cPK_10_009560_00_DONFANex_RR.webp",
     "packs": [
       "Ho-Oh"
@@ -1020,7 +1320,10 @@
     "set": "A4",
     "number": 101,
     "rarity": "R",
-    "name": "Tyrogue",
+    "name": {
+      "en": "Tyrogue",
+      "fr": "Debugant"
+    },
     "image": "cPK_10_009570_00_BALKIE_R.webp",
     "packs": [
       "Ho-Oh"
@@ -1030,7 +1333,10 @@
     "set": "A4",
     "number": 102,
     "rarity": "C",
-    "name": "Hitmontop",
+    "name": {
+      "en": "Hitmontop",
+      "fr": "Kapoera"
+    },
     "image": "cPK_10_009580_00_KAPOERER_C.webp",
     "packs": [
       "Lugia",
@@ -1041,7 +1347,10 @@
     "set": "A4",
     "number": 103,
     "rarity": "C",
-    "name": "Larvitar",
+    "name": {
+      "en": "Larvitar",
+      "fr": "Embrylex"
+    },
     "image": "cPK_10_009590_00_YOGIRAS_C.webp",
     "packs": [
       "Ho-Oh"
@@ -1051,7 +1360,10 @@
     "set": "A4",
     "number": 104,
     "rarity": "U",
-    "name": "Pupitar",
+    "name": {
+      "en": "Pupitar",
+      "fr": "Ymphect"
+    },
     "image": "cPK_10_009600_00_SANAGIRAS_U.webp",
     "packs": [
       "Ho-Oh"
@@ -1061,7 +1373,10 @@
     "set": "A4",
     "number": 105,
     "rarity": "C",
-    "name": "Binacle",
+    "name": {
+      "en": "Binacle",
+      "fr": "Opermine"
+    },
     "image": "cPK_10_009610_00_KAMETETE_C.webp",
     "packs": [
       "Lugia"
@@ -1071,7 +1386,10 @@
     "set": "A4",
     "number": 106,
     "rarity": "U",
-    "name": "Barbaracle",
+    "name": {
+      "en": "Barbaracle",
+      "fr": "Golgopathe"
+    },
     "image": "cPK_10_009620_00_GAMENODES_U.webp",
     "packs": [
       "Lugia"
@@ -1081,7 +1399,10 @@
     "set": "A4",
     "number": 107,
     "rarity": "C",
-    "name": "Zubat",
+    "name": {
+      "en": "Zubat",
+      "fr": "Nosferapti"
+    },
     "image": "cPK_10_009630_00_ZUBAT_C.webp",
     "packs": [
       "Ho-Oh"
@@ -1091,7 +1412,10 @@
     "set": "A4",
     "number": 108,
     "rarity": "U",
-    "name": "Golbat",
+    "name": {
+      "en": "Golbat",
+      "fr": "Nosferalto"
+    },
     "image": "cPK_10_009640_00_GOLBAT_U.webp",
     "packs": [
       "Ho-Oh"
@@ -1101,7 +1425,10 @@
     "set": "A4",
     "number": 109,
     "rarity": "RR",
-    "name": "Crobat ex",
+    "name": {
+      "en": "Crobat ex",
+      "fr": "Nostenfer-ex"
+    },
     "image": "cPK_10_009650_00_CROBATex_RR.webp",
     "packs": [
       "Ho-Oh"
@@ -1111,7 +1438,10 @@
     "set": "A4",
     "number": 110,
     "rarity": "C",
-    "name": "Spinarak",
+    "name": {
+      "en": "Spinarak",
+      "fr": "Mimigal"
+    },
     "image": "cPK_10_009660_00_ITOMARU_C.webp",
     "packs": [
       "Ho-Oh"
@@ -1121,7 +1451,10 @@
     "set": "A4",
     "number": 111,
     "rarity": "U",
-    "name": "Ariados",
+    "name": {
+      "en": "Ariados",
+      "fr": "Migalos"
+    },
     "image": "cPK_10_009670_00_ARIADOS_U.webp",
     "packs": [
       "Ho-Oh"
@@ -1131,7 +1464,10 @@
     "set": "A4",
     "number": 112,
     "rarity": "RR",
-    "name": "Umbreon ex",
+    "name": {
+      "en": "Umbreon ex",
+      "fr": "Noctali-ex"
+    },
     "image": "cPK_10_009680_00_BRACKYex_RR.webp",
     "packs": [
       "Ho-Oh"
@@ -1141,7 +1477,10 @@
     "set": "A4",
     "number": 113,
     "rarity": "C",
-    "name": "Murkrow",
+    "name": {
+      "en": "Murkrow",
+      "fr": "Cornèbre"
+    },
     "image": "cPK_10_009690_00_YAMIKARASU_C.webp",
     "packs": [
       "Lugia"
@@ -1151,7 +1490,10 @@
     "set": "A4",
     "number": 114,
     "rarity": "U",
-    "name": "Honchkrow",
+    "name": {
+      "en": "Honchkrow",
+      "fr": "Corboss"
+    },
     "image": "cPK_10_009700_00_DONGKARASU_U.webp",
     "packs": [
       "Lugia"
@@ -1161,7 +1503,10 @@
     "set": "A4",
     "number": 115,
     "rarity": "C",
-    "name": "Sneasel",
+    "name": {
+      "en": "Sneasel",
+      "fr": "Farfuret"
+    },
     "image": "cPK_10_009710_00_NYULA_C.webp",
     "packs": [
       "Lugia"
@@ -1171,7 +1516,10 @@
     "set": "A4",
     "number": 116,
     "rarity": "U",
-    "name": "Weavile",
+    "name": {
+      "en": "Weavile",
+      "fr": "Dimoret"
+    },
     "image": "cPK_10_009720_00_MANYULA_U.webp",
     "packs": [
       "Lugia"
@@ -1181,7 +1529,10 @@
     "set": "A4",
     "number": 117,
     "rarity": "C",
-    "name": "Houndour",
+    "name": {
+      "en": "Houndour",
+      "fr": "Malosse"
+    },
     "image": "cPK_10_009730_00_DELVIL_C.webp",
     "packs": [
       "Lugia",
@@ -1192,7 +1543,10 @@
     "set": "A4",
     "number": 118,
     "rarity": "U",
-    "name": "Houndoom",
+    "name": {
+      "en": "Houndoom",
+      "fr": "Démolosse"
+    },
     "image": "cPK_10_009740_00_HELLGAR_U.webp",
     "packs": [
       "Lugia",
@@ -1203,7 +1557,10 @@
     "set": "A4",
     "number": 119,
     "rarity": "R",
-    "name": "Tyranitar",
+    "name": {
+      "en": "Tyranitar",
+      "fr": "Tyranocif"
+    },
     "image": "cPK_10_009750_00_BANGIRAS_R.webp",
     "packs": [
       "Ho-Oh"
@@ -1213,7 +1570,10 @@
     "set": "A4",
     "number": 120,
     "rarity": "U",
-    "name": "Absol",
+    "name": {
+      "en": "Absol",
+      "fr": "Absol"
+    },
     "image": "cPK_10_009760_00_ABSOL_U.webp",
     "packs": [
       "Lugia",
@@ -1224,7 +1584,10 @@
     "set": "A4",
     "number": 121,
     "rarity": "U",
-    "name": "Forretress",
+    "name": {
+      "en": "Forretress",
+      "fr": "Foretress"
+    },
     "image": "cPK_10_009770_00_FORETOS_U.webp",
     "packs": [
       "Lugia",
@@ -1235,7 +1598,10 @@
     "set": "A4",
     "number": 122,
     "rarity": "R",
-    "name": "Steelix",
+    "name": {
+      "en": "Steelix",
+      "fr": "Steelix"
+    },
     "image": "cPK_10_009780_00_HAGANEIL_R.webp",
     "packs": [
       "Ho-Oh"
@@ -1245,7 +1611,10 @@
     "set": "A4",
     "number": 123,
     "rarity": "R",
-    "name": "Scizor",
+    "name": {
+      "en": "Scizor",
+      "fr": "Cizayox"
+    },
     "image": "cPK_10_009790_00_HASSAM_R.webp",
     "packs": [
       "Lugia"
@@ -1255,7 +1624,10 @@
     "set": "A4",
     "number": 124,
     "rarity": "RR",
-    "name": "Skarmory ex",
+    "name": {
+      "en": "Skarmory ex",
+      "fr": "Airmure-ex"
+    },
     "image": "cPK_10_009800_00_AIRMDex_RR.webp",
     "packs": [
       "Ho-Oh"
@@ -1265,7 +1637,10 @@
     "set": "A4",
     "number": 125,
     "rarity": "C",
-    "name": "Mawile",
+    "name": {
+      "en": "Mawile",
+      "fr": "Mysdibule"
+    },
     "image": "cPK_10_009810_00_KUCHEAT_C.webp",
     "packs": [
       "Lugia",
@@ -1276,7 +1651,10 @@
     "set": "A4",
     "number": 126,
     "rarity": "C",
-    "name": "Klink",
+    "name": {
+      "en": "Klink",
+      "fr": "Tic"
+    },
     "image": "cPK_10_009820_00_GIARU_C.webp",
     "packs": [
       "Ho-Oh"
@@ -1286,7 +1664,10 @@
     "set": "A4",
     "number": 127,
     "rarity": "U",
-    "name": "Klang",
+    "name": {
+      "en": "Klang",
+      "fr": "Clic"
+    },
     "image": "cPK_10_009830_00_GIGIARU_U.webp",
     "packs": [
       "Ho-Oh"
@@ -1296,7 +1677,10 @@
     "set": "A4",
     "number": 128,
     "rarity": "R",
-    "name": "Klinklang",
+    "name": {
+      "en": "Klinklang",
+      "fr": "Cliticlic"
+    },
     "image": "cPK_10_009840_00_GIGIGIARU_R.webp",
     "packs": [
       "Ho-Oh"
@@ -1306,7 +1690,10 @@
     "set": "A4",
     "number": 129,
     "rarity": "C",
-    "name": "Spearow",
+    "name": {
+      "en": "Spearow",
+      "fr": "Piafabec"
+    },
     "image": "cPK_10_009850_00_ONISUZUME_C.webp",
     "packs": [
       "Ho-Oh"
@@ -1316,7 +1703,10 @@
     "set": "A4",
     "number": 130,
     "rarity": "C",
-    "name": "Fearow",
+    "name": {
+      "en": "Fearow",
+      "fr": "Rapasdepic"
+    },
     "image": "cPK_10_009860_00_ONIDRILL_C.webp",
     "packs": [
       "Ho-Oh"
@@ -1326,7 +1716,10 @@
     "set": "A4",
     "number": 131,
     "rarity": "C",
-    "name": "Chansey",
+    "name": {
+      "en": "Chansey",
+      "fr": "Leveinard"
+    },
     "image": "cPK_10_009870_00_LUCKY_C.webp",
     "packs": [
       "Ho-Oh"
@@ -1336,7 +1729,10 @@
     "set": "A4",
     "number": 132,
     "rarity": "R",
-    "name": "Blissey",
+    "name": {
+      "en": "Blissey",
+      "fr": "Leuphorie"
+    },
     "image": "cPK_10_009880_00_HAPPINAS_R.webp",
     "packs": [
       "Ho-Oh"
@@ -1346,7 +1742,10 @@
     "set": "A4",
     "number": 133,
     "rarity": "R",
-    "name": "Kangaskhan",
+    "name": {
+      "en": "Kangaskhan",
+      "fr": "Kangourex"
+    },
     "image": "cPK_10_009890_00_GARURA_R.webp",
     "packs": [
       "Ho-Oh"
@@ -1356,7 +1755,10 @@
     "set": "A4",
     "number": 134,
     "rarity": "C",
-    "name": "Eevee",
+    "name": {
+      "en": "Eevee",
+      "fr": "Évoli"
+    },
     "image": "cPK_10_009900_00_EIEVUI_C.webp",
     "packs": [
       "Lugia",
@@ -1367,7 +1769,10 @@
     "set": "A4",
     "number": 135,
     "rarity": "C",
-    "name": "Porygon",
+    "name": {
+      "en": "Porygon",
+      "fr": "Porygon"
+    },
     "image": "cPK_10_009910_00_PORYGON_C.webp",
     "packs": [
       "Lugia"
@@ -1377,7 +1782,10 @@
     "set": "A4",
     "number": 136,
     "rarity": "U",
-    "name": "Porygon2",
+    "name": {
+      "en": "Porygon2",
+      "fr": "Porygon2"
+    },
     "image": "cPK_10_009920_00_PORYGON2_U.webp",
     "packs": [
       "Lugia"
@@ -1387,7 +1795,10 @@
     "set": "A4",
     "number": 137,
     "rarity": "R",
-    "name": "Porygon-Z",
+    "name": {
+      "en": "Porygon-Z",
+      "fr": "Porygon-Z"
+    },
     "image": "cPK_10_009930_00_PORYGON-Z_R.webp",
     "packs": [
       "Lugia"
@@ -1397,7 +1808,10 @@
     "set": "A4",
     "number": 138,
     "rarity": "C",
-    "name": "Sentret",
+    "name": {
+      "en": "Sentret",
+      "fr": "Fouinette"
+    },
     "image": "cPK_10_009940_00_OTACHI_C.webp",
     "packs": [
       "Ho-Oh"
@@ -1407,7 +1821,10 @@
     "set": "A4",
     "number": 139,
     "rarity": "C",
-    "name": "Furret",
+    "name": {
+      "en": "Furret",
+      "fr": "Fouinar"
+    },
     "image": "cPK_10_009950_00_OOTACHI_C.webp",
     "packs": [
       "Ho-Oh"
@@ -1417,7 +1834,10 @@
     "set": "A4",
     "number": 140,
     "rarity": "C",
-    "name": "Hoothoot",
+    "name": {
+      "en": "Hoothoot",
+      "fr": "Hoothoot"
+    },
     "image": "cPK_10_009960_00_HOHO_C.webp",
     "packs": [
       "Ho-Oh"
@@ -1427,7 +1847,10 @@
     "set": "A4",
     "number": 141,
     "rarity": "C",
-    "name": "Noctowl",
+    "name": {
+      "en": "Noctowl",
+      "fr": "Noarfang"
+    },
     "image": "cPK_10_009970_00_YORUNOZUKU_C.webp",
     "packs": [
       "Ho-Oh"
@@ -1437,7 +1860,10 @@
     "set": "A4",
     "number": 142,
     "rarity": "C",
-    "name": "Aipom",
+    "name": {
+      "en": "Aipom",
+      "fr": "Capumain"
+    },
     "image": "cPK_10_009980_00_EIPAM_C.webp",
     "packs": [
       "Lugia",
@@ -1448,7 +1874,10 @@
     "set": "A4",
     "number": 143,
     "rarity": "C",
-    "name": "Ambipom",
+    "name": {
+      "en": "Ambipom",
+      "fr": "Capidextre"
+    },
     "image": "cPK_10_009990_00_ETEBOTH_C.webp",
     "packs": [
       "Lugia",
@@ -1459,7 +1888,10 @@
     "set": "A4",
     "number": 144,
     "rarity": "C",
-    "name": "Dunsparce",
+    "name": {
+      "en": "Dunsparce",
+      "fr": "Insolourdo"
+    },
     "image": "cPK_10_010000_00_NOKOCCHI_C.webp",
     "packs": [
       "Lugia",
@@ -1470,7 +1902,10 @@
     "set": "A4",
     "number": 145,
     "rarity": "C",
-    "name": "Teddiursa",
+    "name": {
+      "en": "Teddiursa",
+      "fr": "Teddiursa"
+    },
     "image": "cPK_10_010010_00_HIMEGUMA_C.webp",
     "packs": [
       "Ho-Oh"
@@ -1480,7 +1915,10 @@
     "set": "A4",
     "number": 146,
     "rarity": "U",
-    "name": "Ursaring",
+    "name": {
+      "en": "Ursaring",
+      "fr": "Ursaring"
+    },
     "image": "cPK_10_010020_00_RINGUMA_U.webp",
     "packs": [
       "Ho-Oh"
@@ -1490,7 +1928,10 @@
     "set": "A4",
     "number": 147,
     "rarity": "U",
-    "name": "Stantler",
+    "name": {
+      "en": "Stantler",
+      "fr": "Cerfrousse"
+    },
     "image": "cPK_10_010030_00_ODOSHISHI_U.webp",
     "packs": [
       "Ho-Oh"
@@ -1500,7 +1941,10 @@
     "set": "A4",
     "number": 148,
     "rarity": "U",
-    "name": "Smeargle",
+    "name": {
+      "en": "Smeargle",
+      "fr": "Queulorior"
+    },
     "image": "cPK_10_010040_00_DOBLE_U.webp",
     "packs": [
       "Lugia"
@@ -1510,7 +1954,10 @@
     "set": "A4",
     "number": 149,
     "rarity": "RR",
-    "name": "Lugia ex",
+    "name": {
+      "en": "Lugia ex",
+      "fr": "Lugia-ex"
+    },
     "image": "cPK_10_010050_00_LUGIAex_RR.webp",
     "packs": [
       "Lugia"
@@ -1520,7 +1967,10 @@
     "set": "A4",
     "number": 150,
     "rarity": "U",
-    "name": "Bouffalant",
+    "name": {
+      "en": "Bouffalant",
+      "fr": "Frison"
+    },
     "image": "cPK_10_010060_00_BUFFRON_U.webp",
     "packs": [
       "Lugia",
@@ -1531,7 +1981,10 @@
     "set": "A4",
     "number": 151,
     "rarity": "U",
-    "name": "Elemental Switch",
+    "name": {
+      "en": "Elemental Switch",
+      "fr": "Échange Élémentaire"
+    },
     "image": "cTR_10_000710_00_EREMENTARUTSUKEKAE_U.webp",
     "packs": [
       "Lugia"
@@ -1541,7 +1994,10 @@
     "set": "A4",
     "number": 152,
     "rarity": "U",
-    "name": "Squirt Bottle",
+    "name": {
+      "en": "Squirt Bottle",
+      "fr": "Carapuce à O"
+    },
     "image": "cTR_10_000720_00_ZEHIGAMEJOURO_U.webp",
     "packs": [
       "Lugia"
@@ -1551,7 +2007,10 @@
     "set": "A4",
     "number": 153,
     "rarity": "U",
-    "name": "Steel Apron",
+    "name": {
+      "en": "Steel Apron",
+      "fr": "Tablier d'Acier"
+    },
     "image": "cTR_10_000730_00_GOUTETUNOMAEKAKE_U.webp",
     "packs": [
       "Ho-Oh"
@@ -1561,7 +2020,10 @@
     "set": "A4",
     "number": 154,
     "rarity": "U",
-    "name": "Dark Pendant",
+    "name": {
+      "en": "Dark Pendant",
+      "fr": "Pendentif des Ténèbres"
+    },
     "image": "cTR_10_000740_00_DARKPENDANTO_U.webp",
     "packs": [
       "Ho-Oh"
@@ -1571,7 +2033,10 @@
     "set": "A4",
     "number": 155,
     "rarity": "U",
-    "name": "Rescue Scarf",
+    "name": {
+      "en": "Rescue Scarf",
+      "fr": "Foulard de Sauvetage"
+    },
     "image": "cTR_10_000750_00_RESUKYUSUKAFU_U.webp",
     "packs": [
       "Lugia",
@@ -1582,7 +2047,10 @@
     "set": "A4",
     "number": 156,
     "rarity": "U",
-    "name": "Will",
+    "name": {
+      "en": "Will",
+      "fr": "Clément"
+    },
     "image": "cTR_10_000760_00_ITSUKI_U.webp",
     "packs": [
       "Lugia"
@@ -1592,7 +2060,10 @@
     "set": "A4",
     "number": 157,
     "rarity": "U",
-    "name": "Lyra",
+    "name": {
+      "en": "Lyra",
+      "fr": "Célesta"
+    },
     "image": "cTR_10_000770_00_KOTONE_U.webp",
     "packs": [
       "Lugia"
@@ -1602,7 +2073,10 @@
     "set": "A4",
     "number": 158,
     "rarity": "U",
-    "name": "Silver",
+    "name": {
+      "en": "Silver",
+      "fr": "Silver"
+    },
     "image": "cTR_10_000780_00_SILVER_U.webp",
     "packs": [
       "Ho-Oh"
@@ -1612,7 +2086,10 @@
     "set": "A4",
     "number": 159,
     "rarity": "U",
-    "name": "Fisher",
+    "name": {
+      "en": "Fisher",
+      "fr": "Pêcheur"
+    },
     "image": "cTR_10_000790_00_FISHER_U.webp",
     "packs": [
       "Lugia"
@@ -1622,7 +2099,10 @@
     "set": "A4",
     "number": 160,
     "rarity": "U",
-    "name": "Jasmine",
+    "name": {
+      "en": "Jasmine",
+      "fr": "Jasmine"
+    },
     "image": "cTR_10_000800_00_MIKAN_U.webp",
     "packs": [
       "Ho-Oh"
@@ -1632,7 +2112,10 @@
     "set": "A4",
     "number": 161,
     "rarity": "U",
-    "name": "Hiker",
+    "name": {
+      "en": "Hiker",
+      "fr": "Montagnard"
+    },
     "image": "cTR_10_000810_00_HIKER_U.webp",
     "packs": [
       "Ho-Oh"
@@ -1642,7 +2125,10 @@
     "set": "A4",
     "number": 162,
     "rarity": "AR",
-    "name": "Chikorita",
+    "name": {
+      "en": "Chikorita",
+      "fr": "Germignon"
+    },
     "image": "cPK_20_008640_00_CHICORITA_AR.webp",
     "packs": [
       "Lugia"
@@ -1652,7 +2138,10 @@
     "set": "A4",
     "number": 163,
     "rarity": "AR",
-    "name": "Bellossom",
+    "name": {
+      "en": "Bellossom",
+      "fr": "Joliflor"
+    },
     "image": "cPK_20_008590_00_KIREIHANA_AR.webp",
     "packs": [
       "Lugia"
@@ -1662,7 +2151,10 @@
     "set": "A4",
     "number": 164,
     "rarity": "AR",
-    "name": "Heracross",
+    "name": {
+      "en": "Heracross",
+      "fr": "Scarhino"
+    },
     "image": "cPK_20_008780_00_HERACROS_AR.webp",
     "packs": [
       "Ho-Oh"
@@ -1672,7 +2164,10 @@
     "set": "A4",
     "number": 165,
     "rarity": "AR",
-    "name": "Cyndaquil",
+    "name": {
+      "en": "Cyndaquil",
+      "fr": "Héricendre"
+    },
     "image": "cPK_20_008830_00_HINOARASHI_AR.webp",
     "packs": [
       "Lugia"
@@ -1682,7 +2177,10 @@
     "set": "A4",
     "number": 166,
     "rarity": "AR",
-    "name": "Magby",
+    "name": {
+      "en": "Magby",
+      "fr": "Magby"
+    },
     "image": "cPK_20_008880_00_BUBY_AR.webp",
     "packs": [
       "Ho-Oh"
@@ -1692,7 +2190,10 @@
     "set": "A4",
     "number": 167,
     "rarity": "AR",
-    "name": "Totodile",
+    "name": {
+      "en": "Totodile",
+      "fr": "Kaiminus"
+    },
     "image": "cPK_20_009020_00_WANINOKO_AR.webp",
     "packs": [
       "Ho-Oh"
@@ -1702,7 +2203,10 @@
     "set": "A4",
     "number": 168,
     "rarity": "AR",
-    "name": "Qwilfish",
+    "name": {
+      "en": "Qwilfish",
+      "fr": "Qwilfish"
+    },
     "image": "cPK_20_009090_00_HARYSEN_AR.webp",
     "packs": [
       "Lugia"
@@ -1712,7 +2216,10 @@
     "set": "A4",
     "number": 169,
     "rarity": "AR",
-    "name": "Octillery",
+    "name": {
+      "en": "Octillery",
+      "fr": "Octillery"
+    },
     "image": "cPK_20_009120_00_OKUTANK_AR.webp",
     "packs": [
       "Lugia"
@@ -1722,7 +2229,10 @@
     "set": "A4",
     "number": 170,
     "rarity": "AR",
-    "name": "Delibird",
+    "name": {
+      "en": "Delibird",
+      "fr": "Cadoizo"
+    },
     "image": "cPK_20_009130_00_DELIBIRD_AR.webp",
     "packs": [
       "Ho-Oh"
@@ -1732,7 +2242,10 @@
     "set": "A4",
     "number": 171,
     "rarity": "AR",
-    "name": "Pichu",
+    "name": {
+      "en": "Pichu",
+      "fr": "Pichu"
+    },
     "image": "cPK_20_009220_00_PICHU_AR.webp",
     "packs": [
       "Lugia"
@@ -1742,7 +2255,10 @@
     "set": "A4",
     "number": 172,
     "rarity": "AR",
-    "name": "Ampharos",
+    "name": {
+      "en": "Ampharos",
+      "fr": "Pharamp"
+    },
     "image": "cPK_20_009250_00_DENRYU_AR.webp",
     "packs": [
       "Lugia"
@@ -1752,7 +2268,10 @@
     "set": "A4",
     "number": 173,
     "rarity": "AR",
-    "name": "Togepi",
+    "name": {
+      "en": "Togepi",
+      "fr": "Togepi"
+    },
     "image": "cPK_20_009340_00_TOGEPY_AR.webp",
     "packs": [
       "Ho-Oh"
@@ -1762,7 +2281,10 @@
     "set": "A4",
     "number": 174,
     "rarity": "AR",
-    "name": "Xatu",
+    "name": {
+      "en": "Xatu",
+      "fr": "Xatu"
+    },
     "image": "cPK_20_009380_00_NATIO_AR.webp",
     "packs": [
       "Lugia"
@@ -1772,7 +2294,10 @@
     "set": "A4",
     "number": 175,
     "rarity": "AR",
-    "name": "Wobbuffet",
+    "name": {
+      "en": "Wobbuffet",
+      "fr": "Qulbutoké"
+    },
     "image": "cPK_20_009420_00_SONANS_AR.webp",
     "packs": [
       "Lugia"
@@ -1782,7 +2307,10 @@
     "set": "A4",
     "number": 176,
     "rarity": "AR",
-    "name": "Gligar",
+    "name": {
+      "en": "Gligar",
+      "fr": "Scorplane"
+    },
     "image": "cPK_20_009500_00_GLIGER_AR.webp",
     "packs": [
       "Ho-Oh"
@@ -1792,7 +2320,10 @@
     "set": "A4",
     "number": 177,
     "rarity": "AR",
-    "name": "Spinarak",
+    "name": {
+      "en": "Spinarak",
+      "fr": "Mimigal"
+    },
     "image": "cPK_20_009660_00_ITOMARU_AR.webp",
     "packs": [
       "Ho-Oh"
@@ -1802,7 +2333,10 @@
     "set": "A4",
     "number": 178,
     "rarity": "AR",
-    "name": "Murkrow",
+    "name": {
+      "en": "Murkrow",
+      "fr": "Cornèbre"
+    },
     "image": "cPK_20_009690_00_YAMIKARASU_AR.webp",
     "packs": [
       "Lugia"
@@ -1812,7 +2346,10 @@
     "set": "A4",
     "number": 179,
     "rarity": "AR",
-    "name": "Tyranitar",
+    "name": {
+      "en": "Tyranitar",
+      "fr": "Tyranocif"
+    },
     "image": "cPK_20_009750_00_BANGIRAS_AR.webp",
     "packs": [
       "Ho-Oh"
@@ -1822,7 +2359,10 @@
     "set": "A4",
     "number": 180,
     "rarity": "AR",
-    "name": "Scizor",
+    "name": {
+      "en": "Scizor",
+      "fr": "Cizayox"
+    },
     "image": "cPK_20_009790_00_HASSAM_AR.webp",
     "packs": [
       "Lugia"
@@ -1832,7 +2372,10 @@
     "set": "A4",
     "number": 181,
     "rarity": "AR",
-    "name": "Sentret",
+    "name": {
+      "en": "Sentret",
+      "fr": "Fouinette"
+    },
     "image": "cPK_20_009940_00_OTACHI_AR.webp",
     "packs": [
       "Ho-Oh"
@@ -1842,7 +2385,10 @@
     "set": "A4",
     "number": 182,
     "rarity": "AR",
-    "name": "Hoothoot",
+    "name": {
+      "en": "Hoothoot",
+      "fr": "Hoothoot"
+    },
     "image": "cPK_20_009960_00_HOHO_AR.webp",
     "packs": [
       "Ho-Oh"
@@ -1852,7 +2398,10 @@
     "set": "A4",
     "number": 183,
     "rarity": "AR",
-    "name": "Stantler",
+    "name": {
+      "en": "Stantler",
+      "fr": "Cerfrousse"
+    },
     "image": "cPK_20_010030_00_ODOSHISHI_AR.webp",
     "packs": [
       "Ho-Oh"
@@ -1862,7 +2411,10 @@
     "set": "A4",
     "number": 184,
     "rarity": "AR",
-    "name": "Smeargle",
+    "name": {
+      "en": "Smeargle",
+      "fr": "Queulorior"
+    },
     "image": "cPK_20_010040_00_DOBLE_AR.webp",
     "packs": [
       "Lugia"
@@ -1872,7 +2424,10 @@
     "set": "A4",
     "number": 185,
     "rarity": "AR",
-    "name": "Blissey",
+    "name": {
+      "en": "Blissey",
+      "fr": "Leuphorie"
+    },
     "image": "cPK_20_009880_00_HAPPINAS_AR.webp",
     "packs": [
       "Ho-Oh"
@@ -1882,7 +2437,10 @@
     "set": "A4",
     "number": 186,
     "rarity": "SR",
-    "name": "Shuckle ex",
+    "name": {
+      "en": "Shuckle ex",
+      "fr": "Caratroc-ex"
+    },
     "image": "cPK_20_008770_00_TSUBOTSUBOex_SR.webp",
     "packs": [
       "Lugia"
@@ -1892,7 +2450,10 @@
     "set": "A4",
     "number": 187,
     "rarity": "SR",
-    "name": "Ho-Oh ex",
+    "name": {
+      "en": "Ho-Oh ex",
+      "fr": "Ho-Oh-ex"
+    },
     "image": "cPK_20_008900_00_HOUOUex_SR.webp",
     "packs": [
       "Ho-Oh"
@@ -1902,7 +2463,10 @@
     "set": "A4",
     "number": 188,
     "rarity": "SR",
-    "name": "Kingdra ex",
+    "name": {
+      "en": "Kingdra ex",
+      "fr": "Hyporoi-ex"
+    },
     "image": "cPK_20_008990_00_KINGDRAex_SR.webp",
     "packs": [
       "Lugia"
@@ -1912,7 +2476,10 @@
     "set": "A4",
     "number": 189,
     "rarity": "SR",
-    "name": "Lanturn ex",
+    "name": {
+      "en": "Lanturn ex",
+      "fr": "Lanturn-ex"
+    },
     "image": "cPK_20_009210_00_LANTERNex_SR.webp",
     "packs": [
       "Lugia"
@@ -1922,7 +2489,10 @@
     "set": "A4",
     "number": 190,
     "rarity": "SR",
-    "name": "Espeon ex",
+    "name": {
+      "en": "Espeon ex",
+      "fr": "Mentali-ex"
+    },
     "image": "cPK_20_009390_00_EIFIEex_SR.webp",
     "packs": [
       "Lugia"
@@ -1932,7 +2502,10 @@
     "set": "A4",
     "number": 191,
     "rarity": "SR",
-    "name": "Donphan ex",
+    "name": {
+      "en": "Donphan ex",
+      "fr": "Donphan-ex"
+    },
     "image": "cPK_20_009560_00_DONFANex_SR.webp",
     "packs": [
       "Ho-Oh"
@@ -1942,7 +2515,10 @@
     "set": "A4",
     "number": 192,
     "rarity": "SR",
-    "name": "Crobat ex",
+    "name": {
+      "en": "Crobat ex",
+      "fr": "Nostenfer-ex"
+    },
     "image": "cPK_20_009650_00_CROBATex_SR.webp",
     "packs": [
       "Ho-Oh"
@@ -1952,7 +2528,10 @@
     "set": "A4",
     "number": 193,
     "rarity": "SR",
-    "name": "Umbreon ex",
+    "name": {
+      "en": "Umbreon ex",
+      "fr": "Noctali-ex"
+    },
     "image": "cPK_20_009680_00_BRACKYex_SR.webp",
     "packs": [
       "Ho-Oh"
@@ -1962,7 +2541,10 @@
     "set": "A4",
     "number": 194,
     "rarity": "SR",
-    "name": "Skarmory ex",
+    "name": {
+      "en": "Skarmory ex",
+      "fr": "Airmure-ex"
+    },
     "image": "cPK_20_009800_00_AIRMDex_SR.webp",
     "packs": [
       "Ho-Oh"
@@ -1972,7 +2554,10 @@
     "set": "A4",
     "number": 195,
     "rarity": "SR",
-    "name": "Lugia ex",
+    "name": {
+      "en": "Lugia ex",
+      "fr": "Lugia-ex"
+    },
     "image": "cPK_20_010050_00_LUGIAex_SR.webp",
     "packs": [
       "Lugia"
@@ -1982,7 +2567,10 @@
     "set": "A4",
     "number": 196,
     "rarity": "SR",
-    "name": "Will",
+    "name": {
+      "en": "Will",
+      "fr": "Clément"
+    },
     "image": "cTR_20_000760_00_ITSUKI_SR.webp",
     "packs": [
       "Lugia"
@@ -1992,7 +2580,10 @@
     "set": "A4",
     "number": 197,
     "rarity": "SR",
-    "name": "Lyra",
+    "name": {
+      "en": "Lyra",
+      "fr": "Célesta"
+    },
     "image": "cTR_20_000770_00_KOTONE_SR.webp",
     "packs": [
       "Lugia"
@@ -2002,7 +2593,10 @@
     "set": "A4",
     "number": 198,
     "rarity": "SR",
-    "name": "Silver",
+    "name": {
+      "en": "Silver",
+      "fr": "Silver"
+    },
     "image": "cTR_20_000780_00_SILVER_SR.webp",
     "packs": [
       "Ho-Oh"
@@ -2012,7 +2606,10 @@
     "set": "A4",
     "number": 199,
     "rarity": "SR",
-    "name": "Fisher",
+    "name": {
+      "en": "Fisher",
+      "fr": "Pêcheur"
+    },
     "image": "cTR_20_000790_00_FISHER_SR.webp",
     "packs": [
       "Lugia"
@@ -2022,7 +2619,10 @@
     "set": "A4",
     "number": 200,
     "rarity": "SR",
-    "name": "Jasmine",
+    "name": {
+      "en": "Jasmine",
+      "fr": "Jasmine"
+    },
     "image": "cTR_20_000800_00_MIKAN_SR.webp",
     "packs": [
       "Ho-Oh"
@@ -2032,7 +2632,10 @@
     "set": "A4",
     "number": 201,
     "rarity": "SR",
-    "name": "Hiker",
+    "name": {
+      "en": "Hiker",
+      "fr": "Montagnard"
+    },
     "image": "cTR_20_000810_00_HIKER_SR.webp",
     "packs": [
       "Ho-Oh"
@@ -2042,7 +2645,10 @@
     "set": "A4",
     "number": 202,
     "rarity": "SAR",
-    "name": "Shuckle ex",
+    "name": {
+      "en": "Shuckle ex",
+      "fr": "Caratroc-ex"
+    },
     "image": "cPK_20_008770_01_TSUBOTSUBOex_SAR.webp",
     "packs": [
       "Lugia"
@@ -2052,7 +2658,10 @@
     "set": "A4",
     "number": 203,
     "rarity": "SAR",
-    "name": "Kingdra ex",
+    "name": {
+      "en": "Kingdra ex",
+      "fr": "Hyporoi-ex"
+    },
     "image": "cPK_20_008990_01_KINGDRAex_SAR.webp",
     "packs": [
       "Lugia"
@@ -2062,7 +2671,10 @@
     "set": "A4",
     "number": 204,
     "rarity": "SAR",
-    "name": "Lanturn ex",
+    "name": {
+      "en": "Lanturn ex",
+      "fr": "Lanturn-ex"
+    },
     "image": "cPK_20_009210_01_LANTERNex_SAR.webp",
     "packs": [
       "Lugia"
@@ -2072,7 +2684,10 @@
     "set": "A4",
     "number": 205,
     "rarity": "SAR",
-    "name": "Espeon ex",
+    "name": {
+      "en": "Espeon ex",
+      "fr": "Mentali-ex"
+    },
     "image": "cPK_20_009390_01_EIFIEex_SAR.webp",
     "packs": [
       "Lugia"
@@ -2082,7 +2697,10 @@
     "set": "A4",
     "number": 206,
     "rarity": "SAR",
-    "name": "Donphan ex",
+    "name": {
+      "en": "Donphan ex",
+      "fr": "Donphan-ex"
+    },
     "image": "cPK_20_009560_01_DONFANex_SAR.webp",
     "packs": [
       "Ho-Oh"
@@ -2092,7 +2710,10 @@
     "set": "A4",
     "number": 207,
     "rarity": "SAR",
-    "name": "Crobat ex",
+    "name": {
+      "en": "Crobat ex",
+      "fr": "Nostenfer-ex"
+    },
     "image": "cPK_20_009650_01_CROBATex_SAR.webp",
     "packs": [
       "Ho-Oh"
@@ -2102,7 +2723,10 @@
     "set": "A4",
     "number": 208,
     "rarity": "SAR",
-    "name": "Umbreon ex",
+    "name": {
+      "en": "Umbreon ex",
+      "fr": "Noctali-ex"
+    },
     "image": "cPK_20_009680_01_BRACKYex_SAR.webp",
     "packs": [
       "Ho-Oh"
@@ -2112,7 +2736,10 @@
     "set": "A4",
     "number": 209,
     "rarity": "SAR",
-    "name": "Skarmory ex",
+    "name": {
+      "en": "Skarmory ex",
+      "fr": "Airmure-ex"
+    },
     "image": "cPK_20_009800_01_AIRMDex_SAR.webp",
     "packs": [
       "Ho-Oh"
@@ -2122,7 +2749,10 @@
     "set": "A4",
     "number": 210,
     "rarity": "IM",
-    "name": "Ho-Oh ex",
+    "name": {
+      "en": "Ho-Oh ex",
+      "fr": "Ho-Oh-ex"
+    },
     "image": "cPK_20_008900_01_HOUOUex_IM.webp",
     "packs": [
       "Ho-Oh"
@@ -2132,7 +2762,10 @@
     "set": "A4",
     "number": 211,
     "rarity": "IM",
-    "name": "Lugia ex",
+    "name": {
+      "en": "Lugia ex",
+      "fr": "Lugia-ex"
+    },
     "image": "cPK_20_010050_01_LUGIAex_IM.webp",
     "packs": [
       "Lugia"
@@ -2142,7 +2775,10 @@
     "set": "A4",
     "number": 212,
     "rarity": "S",
-    "name": "Yanma",
+    "name": {
+      "en": "Yanma",
+      "fr": "Yanma"
+    },
     "image": "cPK_20_008740_00_YANYANMA_S.webp",
     "packs": [
       "Ho-Oh"
@@ -2152,7 +2788,10 @@
     "set": "A4",
     "number": 213,
     "rarity": "S",
-    "name": "Flareon",
+    "name": {
+      "en": "Flareon",
+      "fr": "Pyroli"
+    },
     "image": "cPK_20_008040_01_BOOSTER_S.webp",
     "packs": [
       "Ho-Oh"
@@ -2162,7 +2801,10 @@
     "set": "A4",
     "number": 214,
     "rarity": "S",
-    "name": "Magikarp",
+    "name": {
+      "en": "Magikarp",
+      "fr": "Magicarpe"
+    },
     "image": "cPK_20_002310_00_KOIKING_S.webp",
     "packs": [
       "Lugia"
@@ -2172,7 +2814,10 @@
     "set": "A4",
     "number": 215,
     "rarity": "S",
-    "name": "Gyarados",
+    "name": {
+      "en": "Gyarados",
+      "fr": "Léviator"
+    },
     "image": "cPK_20_009010_00_GYARADOS_S.webp",
     "packs": [
       "Lugia"
@@ -2182,7 +2827,10 @@
     "set": "A4",
     "number": 216,
     "rarity": "S",
-    "name": "Vaporeon",
+    "name": {
+      "en": "Vaporeon",
+      "fr": "Aquali"
+    },
     "image": "cPK_20_000800_00_SHOWERS_S.webp",
     "packs": [
       "Lugia"
@@ -2192,7 +2840,10 @@
     "set": "A4",
     "number": 217,
     "rarity": "S",
-    "name": "Magnemite",
+    "name": {
+      "en": "Magnemite",
+      "fr": "Magnéti"
+    },
     "image": "cPK_20_000970_00_COIL_S.webp",
     "packs": [
       "Lugia"
@@ -2202,7 +2853,10 @@
     "set": "A4",
     "number": 218,
     "rarity": "S",
-    "name": "Magneton",
+    "name": {
+      "en": "Magneton",
+      "fr": "Magnéton"
+    },
     "image": "cPK_20_000980_00_RARECOIL_S.webp",
     "packs": [
       "Lugia"
@@ -2212,7 +2866,10 @@
     "set": "A4",
     "number": 219,
     "rarity": "S",
-    "name": "Jolteon",
+    "name": {
+      "en": "Jolteon",
+      "fr": "Voltali"
+    },
     "image": "cPK_20_007330_01_THUNDERS_S.webp",
     "packs": [
       "Lugia"
@@ -2222,7 +2879,10 @@
     "set": "A4",
     "number": 220,
     "rarity": "S",
-    "name": "Misdreavus",
+    "name": {
+      "en": "Misdreavus",
+      "fr": "Feuforêve"
+    },
     "image": "cPK_20_003470_00_MUMA_S.webp",
     "packs": [
       "Ho-Oh"
@@ -2232,7 +2892,10 @@
     "set": "A4",
     "number": 221,
     "rarity": "S",
-    "name": "Mankey",
+    "name": {
+      "en": "Mankey",
+      "fr": "Férosinge"
+    },
     "image": "cPK_20_002540_00_MANKEY_S.webp",
     "packs": [
       "Ho-Oh"
@@ -2242,7 +2905,10 @@
     "set": "A4",
     "number": 222,
     "rarity": "S",
-    "name": "Primeape",
+    "name": {
+      "en": "Primeape",
+      "fr": "Colossinge"
+    },
     "image": "cPK_20_001420_00_OKORIZARU_S.webp",
     "packs": [
       "Ho-Oh"
@@ -2252,7 +2918,10 @@
     "set": "A4",
     "number": 223,
     "rarity": "S",
-    "name": "Nidoran♀",
+    "name": {
+      "en": "Nidoran♀",
+      "fr": "Nidoran♀"
+    },
     "image": "cPK_20_001660_00_NIDORAN%E2%99%80_S.webp",
     "packs": [
       "Lugia"
@@ -2262,7 +2931,10 @@
     "set": "A4",
     "number": 224,
     "rarity": "S",
-    "name": "Nidorina",
+    "name": {
+      "en": "Nidorina",
+      "fr": "Nidorina"
+    },
     "image": "cPK_20_001670_00_NIDORINA_S.webp",
     "packs": [
       "Lugia"
@@ -2272,7 +2944,10 @@
     "set": "A4",
     "number": 225,
     "rarity": "S",
-    "name": "Nidoqueen",
+    "name": {
+      "en": "Nidoqueen",
+      "fr": "Nidoqueen"
+    },
     "image": "cPK_20_001680_01_NIDOQUEEN_S.webp",
     "packs": [
       "Lugia"
@@ -2282,7 +2957,10 @@
     "set": "A4",
     "number": 226,
     "rarity": "S",
-    "name": "Nidoran♂",
+    "name": {
+      "en": "Nidoran♂",
+      "fr": "Nidoran♂"
+    },
     "image": "cPK_20_001690_00_NIDORAN%E2%99%82_S.webp",
     "packs": [
       "Ho-Oh"
@@ -2292,7 +2970,10 @@
     "set": "A4",
     "number": 227,
     "rarity": "S",
-    "name": "Nidorino",
+    "name": {
+      "en": "Nidorino",
+      "fr": "Nidorino"
+    },
     "image": "cPK_20_001700_00_NIDORINO_S.webp",
     "packs": [
       "Ho-Oh"
@@ -2302,7 +2983,10 @@
     "set": "A4",
     "number": 228,
     "rarity": "S",
-    "name": "Nidoking",
+    "name": {
+      "en": "Nidoking",
+      "fr": "Nidoking"
+    },
     "image": "cPK_20_001710_01_NIDOKING_S.webp",
     "packs": [
       "Ho-Oh"
@@ -2312,7 +2996,10 @@
     "set": "A4",
     "number": 229,
     "rarity": "S",
-    "name": "Sneasel",
+    "name": {
+      "en": "Sneasel",
+      "fr": "Farfuret"
+    },
     "image": "cPK_20_009710_00_NYULA_S.webp",
     "packs": [
       "Lugia"
@@ -2322,7 +3009,10 @@
     "set": "A4",
     "number": 230,
     "rarity": "S",
-    "name": "Lickitung",
+    "name": {
+      "en": "Lickitung",
+      "fr": "Excelangue"
+    },
     "image": "cPK_20_004050_00_BERORINGA_S.webp",
     "packs": [
       "Ho-Oh"
@@ -2332,7 +3022,10 @@
     "set": "A4",
     "number": 231,
     "rarity": "S",
-    "name": "Eevee",
+    "name": {
+      "en": "Eevee",
+      "fr": "Évoli"
+    },
     "image": "cPK_20_009900_00_EIEVUI_S.webp",
     "packs": [
       "Ho-Oh"
@@ -2342,7 +3035,10 @@
     "set": "A4",
     "number": 232,
     "rarity": "SSR",
-    "name": "Yanmega ex",
+    "name": {
+      "en": "Yanmega ex",
+      "fr": "Yanmega-ex"
+    },
     "image": "cPK_20_002880_02_MEGAYANMAex_SSR.webp",
     "packs": [
       "Ho-Oh"
@@ -2352,7 +3048,10 @@
     "set": "A4",
     "number": 233,
     "rarity": "SSR",
-    "name": "Leafeon ex",
+    "name": {
+      "en": "Leafeon ex",
+      "fr": "Phyllali-ex"
+    },
     "image": "cPK_20_004340_02_LEAFIAex_SSR.webp",
     "packs": [
       "Ho-Oh"
@@ -2362,7 +3061,10 @@
     "set": "A4",
     "number": 234,
     "rarity": "SSR",
-    "name": "Gyarados ex",
+    "name": {
+      "en": "Gyarados ex",
+      "fr": "Léviator-ex"
+    },
     "image": "cPK_20_002320_01_GYARADOSex_SSR.webp",
     "packs": [
       "Lugia"
@@ -2372,7 +3074,10 @@
     "set": "A4",
     "number": 235,
     "rarity": "SSR",
-    "name": "Glaceon ex",
+    "name": {
+      "en": "Glaceon ex",
+      "fr": "Givrali-ex"
+    },
     "image": "cPK_20_004460_02_GLACIAex_SSR.webp",
     "packs": [
       "Lugia"
@@ -2382,7 +3087,10 @@
     "set": "A4",
     "number": 236,
     "rarity": "SSR",
-    "name": "Pachirisu ex",
+    "name": {
+      "en": "Pachirisu ex",
+      "fr": "Pachirisu-ex"
+    },
     "image": "cPK_20_003420_02_PACHIRISUex_SSR.webp",
     "packs": [
       "Lugia"
@@ -2392,7 +3100,10 @@
     "set": "A4",
     "number": 237,
     "rarity": "SSR",
-    "name": "Mismagius ex",
+    "name": {
+      "en": "Mismagius ex",
+      "fr": "Magirêve-ex"
+    },
     "image": "cPK_20_003480_02_MUMARGIex_SSR.webp",
     "packs": [
       "Ho-Oh"
@@ -2402,7 +3113,10 @@
     "set": "A4",
     "number": 238,
     "rarity": "SSR",
-    "name": "Weavile ex",
+    "name": {
+      "en": "Weavile ex",
+      "fr": "Dimoret-ex"
+    },
     "image": "cPK_20_003800_02_MANYULAex_SSR.webp",
     "packs": [
       "Lugia"
@@ -2412,7 +3126,10 @@
     "set": "A4",
     "number": 239,
     "rarity": "SSR",
-    "name": "Lickilicky ex",
+    "name": {
+      "en": "Lickilicky ex",
+      "fr": "Coudlangue-ex"
+    },
     "image": "cPK_20_004060_02_BEROBELTex_SSR.webp",
     "packs": [
       "Ho-Oh"
@@ -2422,7 +3139,10 @@
     "set": "A4",
     "number": 240,
     "rarity": "UR",
-    "name": "Ho-Oh ex",
+    "name": {
+      "en": "Ho-Oh ex",
+      "fr": "Ho-Oh-ex"
+    },
     "image": "cPK_20_008900_02_HOUOUex_UR.webp",
     "packs": [
       "Lugia",
@@ -2433,7 +3153,10 @@
     "set": "A4",
     "number": 241,
     "rarity": "UR",
-    "name": "Lugia ex",
+    "name": {
+      "en": "Lugia ex",
+      "fr": "Lugia-ex"
+    },
     "image": "cPK_20_010050_02_LUGIAex_UR.webp",
     "packs": [
       "Lugia",
