@@ -3,7 +3,10 @@
     "set": "A4b",
     "number": 1,
     "rarity": "C",
-    "name": "Bulbasaur",
+    "name": {
+      "en": "Bulbasaur",
+      "fr": "Bulbizarre"
+    },
     "image": "cPK_10_000010_00_FUSHIGIDANE_C.webp",
     "packs": [
       "Deluxe"
@@ -13,7 +16,10 @@
     "set": "A4b",
     "number": 2,
     "rarity": "C",
-    "name": "Bulbasaur",
+    "name": {
+      "en": "Bulbasaur",
+      "fr": "Bulbizarre"
+    },
     "image": "cPK_10_000010_01_FUSHIGIDANE_C.webp",
     "packs": [
       "Deluxe"
@@ -23,7 +29,10 @@
     "set": "A4b",
     "number": 3,
     "rarity": "U",
-    "name": "Ivysaur",
+    "name": {
+      "en": "Ivysaur",
+      "fr": "Herbizarre"
+    },
     "image": "cPK_10_000020_00_FUSHIGISOU_U.webp",
     "packs": [
       "Deluxe"
@@ -33,7 +42,10 @@
     "set": "A4b",
     "number": 4,
     "rarity": "U",
-    "name": "Ivysaur",
+    "name": {
+      "en": "Ivysaur",
+      "fr": "Herbizarre"
+    },
     "image": "cPK_10_000020_01_FUSHIGISOU_U.webp",
     "packs": [
       "Deluxe"
@@ -43,7 +55,10 @@
     "set": "A4b",
     "number": 5,
     "rarity": "RR",
-    "name": "Venusaur ex",
+    "name": {
+      "en": "Venusaur ex",
+      "fr": "Florizarre-ex"
+    },
     "image": "cPK_10_000040_00_FUSHIGIBANAex_RR.webp",
     "packs": [
       "Deluxe"
@@ -53,7 +68,10 @@
     "set": "A4b",
     "number": 6,
     "rarity": "C",
-    "name": "Weedle",
+    "name": {
+      "en": "Weedle",
+      "fr": "Aspicot"
+    },
     "image": "cPK_10_005210_00_BEEDLE_C.webp",
     "packs": [
       "Deluxe"
@@ -63,7 +81,10 @@
     "set": "A4b",
     "number": 7,
     "rarity": "C",
-    "name": "Weedle",
+    "name": {
+      "en": "Weedle",
+      "fr": "Aspicot"
+    },
     "image": "cPK_10_005210_01_BEEDLE_C.webp",
     "packs": [
       "Deluxe"
@@ -73,7 +94,10 @@
     "set": "A4b",
     "number": 8,
     "rarity": "U",
-    "name": "Kakuna",
+    "name": {
+      "en": "Kakuna",
+      "fr": "Coconfort"
+    },
     "image": "cPK_10_005220_00_COCOON_U.webp",
     "packs": [
       "Deluxe"
@@ -83,7 +107,10 @@
     "set": "A4b",
     "number": 9,
     "rarity": "U",
-    "name": "Kakuna",
+    "name": {
+      "en": "Kakuna",
+      "fr": "Coconfort"
+    },
     "image": "cPK_10_005220_01_COCOON_U.webp",
     "packs": [
       "Deluxe"
@@ -93,7 +120,10 @@
     "set": "A4b",
     "number": 10,
     "rarity": "RR",
-    "name": "Beedrill ex",
+    "name": {
+      "en": "Beedrill ex",
+      "fr": "Dardargnan-ex"
+    },
     "image": "cPK_10_005230_00_SPEARex_RR.webp",
     "packs": [
       "Deluxe"
@@ -103,7 +133,10 @@
     "set": "A4b",
     "number": 11,
     "rarity": "C",
-    "name": "Exeggcute",
+    "name": {
+      "en": "Exeggcute",
+      "fr": "Noeunoeuf"
+    },
     "image": "cPK_10_000210_00_TAMATAMA_C.webp",
     "packs": [
       "Deluxe"
@@ -113,7 +146,10 @@
     "set": "A4b",
     "number": 12,
     "rarity": "C",
-    "name": "Exeggcute",
+    "name": {
+      "en": "Exeggcute",
+      "fr": "Noeunoeuf"
+    },
     "image": "cPK_10_000210_01_TAMATAMA_C.webp",
     "packs": [
       "Deluxe"
@@ -123,7 +159,10 @@
     "set": "A4b",
     "number": 13,
     "rarity": "RR",
-    "name": "Exeggutor ex",
+    "name": {
+      "en": "Exeggutor ex",
+      "fr": "Noadkoko-ex"
+    },
     "image": "cPK_10_000230_00_NASSYex_RR.webp",
     "packs": [
       "Deluxe"
@@ -133,7 +172,10 @@
     "set": "A4b",
     "number": 14,
     "rarity": "C",
-    "name": "Hoppip",
+    "name": {
+      "en": "Hoppip",
+      "fr": "Granivol"
+    },
     "image": "cPK_10_008690_00_HANECCO_C.webp",
     "packs": [
       "Deluxe"
@@ -143,7 +185,10 @@
     "set": "A4b",
     "number": 15,
     "rarity": "C",
-    "name": "Hoppip",
+    "name": {
+      "en": "Hoppip",
+      "fr": "Granivol"
+    },
     "image": "cPK_10_008690_01_HANECCO_C.webp",
     "packs": [
       "Deluxe"
@@ -153,7 +198,10 @@
     "set": "A4b",
     "number": 16,
     "rarity": "U",
-    "name": "Skiploom",
+    "name": {
+      "en": "Skiploom",
+      "fr": "Floravol"
+    },
     "image": "cPK_10_008700_00_POPOCCO_U.webp",
     "packs": [
       "Deluxe"
@@ -163,7 +211,10 @@
     "set": "A4b",
     "number": 17,
     "rarity": "U",
-    "name": "Skiploom",
+    "name": {
+      "en": "Skiploom",
+      "fr": "Floravol"
+    },
     "image": "cPK_10_008700_01_POPOCCO_U.webp",
     "packs": [
       "Deluxe"
@@ -173,7 +224,10 @@
     "set": "A4b",
     "number": 18,
     "rarity": "R",
-    "name": "Jumpluff",
+    "name": {
+      "en": "Jumpluff",
+      "fr": "Cotovol"
+    },
     "image": "cPK_10_008710_00_WATACCO_R.webp",
     "packs": [
       "Deluxe"
@@ -183,7 +237,10 @@
     "set": "A4b",
     "number": 19,
     "rarity": "R",
-    "name": "Jumpluff",
+    "name": {
+      "en": "Jumpluff",
+      "fr": "Cotovol"
+    },
     "image": "cPK_10_008710_01_WATACCO_R.webp",
     "packs": [
       "Deluxe"
@@ -193,7 +250,10 @@
     "set": "A4b",
     "number": 20,
     "rarity": "C",
-    "name": "Yanma",
+    "name": {
+      "en": "Yanma",
+      "fr": "Yanma"
+    },
     "image": "cPK_10_002870_00_YANYANMA_C.webp",
     "packs": [
       "Deluxe"
@@ -203,7 +263,10 @@
     "set": "A4b",
     "number": 21,
     "rarity": "C",
-    "name": "Yanma",
+    "name": {
+      "en": "Yanma",
+      "fr": "Yanma"
+    },
     "image": "cPK_10_002870_01_YANYANMA_C.webp",
     "packs": [
       "Deluxe"
@@ -213,7 +276,10 @@
     "set": "A4b",
     "number": 22,
     "rarity": "RR",
-    "name": "Yanmega ex",
+    "name": {
+      "en": "Yanmega ex",
+      "fr": "Yanmega-ex"
+    },
     "image": "cPK_10_002880_00_MEGAYANMAex_RR.webp",
     "packs": [
       "Deluxe"
@@ -223,7 +289,10 @@
     "set": "A4b",
     "number": 23,
     "rarity": "RR",
-    "name": "Shuckle ex",
+    "name": {
+      "en": "Shuckle ex",
+      "fr": "Caratroc-ex"
+    },
     "image": "cPK_10_008770_00_TSUBOTSUBOex_RR.webp",
     "packs": [
       "Deluxe"
@@ -233,7 +302,10 @@
     "set": "A4b",
     "number": 24,
     "rarity": "RR",
-    "name": "Celebi ex",
+    "name": {
+      "en": "Celebi ex",
+      "fr": "Celebi-ex"
+    },
     "image": "cPK_10_002170_00_CELEBIex_RR.webp",
     "packs": [
       "Deluxe"
@@ -243,7 +315,10 @@
     "set": "A4b",
     "number": 25,
     "rarity": "C",
-    "name": "Cherubi",
+    "name": {
+      "en": "Cherubi",
+      "fr": "Ceribou"
+    },
     "image": "cPK_10_008790_00_CHERINBO_C.webp",
     "packs": [
       "Deluxe"
@@ -253,7 +328,10 @@
     "set": "A4b",
     "number": 26,
     "rarity": "C",
-    "name": "Cherubi",
+    "name": {
+      "en": "Cherubi",
+      "fr": "Ceribou"
+    },
     "image": "cPK_10_008790_01_CHERINBO_C.webp",
     "packs": [
       "Deluxe"
@@ -263,7 +341,10 @@
     "set": "A4b",
     "number": 27,
     "rarity": "U",
-    "name": "Cherrim",
+    "name": {
+      "en": "Cherrim",
+      "fr": "Ceriflor"
+    },
     "image": "cPK_10_008800_00_CHERRIM_U.webp",
     "packs": [
       "Deluxe"
@@ -273,7 +354,10 @@
     "set": "A4b",
     "number": 28,
     "rarity": "U",
-    "name": "Cherrim",
+    "name": {
+      "en": "Cherrim",
+      "fr": "Ceriflor"
+    },
     "image": "cPK_10_008800_01_CHERRIM_U.webp",
     "packs": [
       "Deluxe"
@@ -283,7 +367,10 @@
     "set": "A4b",
     "number": 29,
     "rarity": "RR",
-    "name": "Leafeon ex",
+    "name": {
+      "en": "Leafeon ex",
+      "fr": "Phyllali-ex"
+    },
     "image": "cPK_10_004340_00_LEAFIAex_RR.webp",
     "packs": [
       "Deluxe"
@@ -293,7 +380,10 @@
     "set": "A4b",
     "number": 30,
     "rarity": "R",
-    "name": "Shaymin",
+    "name": {
+      "en": "Shaymin",
+      "fr": "Shaymin"
+    },
     "image": "cPK_10_003030_00_SHAYMIN_R.webp",
     "packs": [
       "Deluxe"
@@ -303,7 +393,10 @@
     "set": "A4b",
     "number": 31,
     "rarity": "R",
-    "name": "Shaymin",
+    "name": {
+      "en": "Shaymin",
+      "fr": "Shaymin"
+    },
     "image": "cPK_10_003030_01_SHAYMIN_R.webp",
     "packs": [
       "Deluxe"
@@ -313,7 +406,10 @@
     "set": "A4b",
     "number": 32,
     "rarity": "C",
-    "name": "Snivy",
+    "name": {
+      "en": "Snivy",
+      "fr": "Vipélierre"
+    },
     "image": "cPK_10_002180_00_TSUTARJA_C.webp",
     "packs": [
       "Deluxe"
@@ -323,7 +419,10 @@
     "set": "A4b",
     "number": 33,
     "rarity": "C",
-    "name": "Snivy",
+    "name": {
+      "en": "Snivy",
+      "fr": "Vipélierre"
+    },
     "image": "cPK_10_002180_01_TSUTARJA_C.webp",
     "packs": [
       "Deluxe"
@@ -333,7 +432,10 @@
     "set": "A4b",
     "number": 34,
     "rarity": "U",
-    "name": "Servine",
+    "name": {
+      "en": "Servine",
+      "fr": "Lianaja"
+    },
     "image": "cPK_10_002190_00_JANOVY_U.webp",
     "packs": [
       "Deluxe"
@@ -343,7 +445,10 @@
     "set": "A4b",
     "number": 35,
     "rarity": "U",
-    "name": "Servine",
+    "name": {
+      "en": "Servine",
+      "fr": "Lianaja"
+    },
     "image": "cPK_10_002190_01_JANOVY_U.webp",
     "packs": [
       "Deluxe"
@@ -353,7 +458,10 @@
     "set": "A4b",
     "number": 36,
     "rarity": "R",
-    "name": "Serperior",
+    "name": {
+      "en": "Serperior",
+      "fr": "Majaspic"
+    },
     "image": "cPK_10_002200_00_JALORDA_R.webp",
     "packs": [
       "Deluxe"
@@ -363,7 +471,10 @@
     "set": "A4b",
     "number": 37,
     "rarity": "R",
-    "name": "Serperior",
+    "name": {
+      "en": "Serperior",
+      "fr": "Majaspic"
+    },
     "image": "cPK_10_002200_01_JALORDA_R.webp",
     "packs": [
       "Deluxe"
@@ -373,7 +484,10 @@
     "set": "A4b",
     "number": 38,
     "rarity": "C",
-    "name": "Rowlet",
+    "name": {
+      "en": "Rowlet",
+      "fr": "Brindibou"
+    },
     "image": "cPK_10_005910_00_MOKUROH_C.webp",
     "packs": [
       "Deluxe"
@@ -383,7 +497,10 @@
     "set": "A4b",
     "number": 39,
     "rarity": "C",
-    "name": "Rowlet",
+    "name": {
+      "en": "Rowlet",
+      "fr": "Brindibou"
+    },
     "image": "cPK_10_005910_01_MOKUROH_C.webp",
     "packs": [
       "Deluxe"
@@ -393,7 +510,10 @@
     "set": "A4b",
     "number": 40,
     "rarity": "U",
-    "name": "Dartrix",
+    "name": {
+      "en": "Dartrix",
+      "fr": "Efflèche"
+    },
     "image": "cPK_10_005920_00_FUKUTHROW_U.webp",
     "packs": [
       "Deluxe"
@@ -403,7 +523,10 @@
     "set": "A4b",
     "number": 41,
     "rarity": "U",
-    "name": "Dartrix",
+    "name": {
+      "en": "Dartrix",
+      "fr": "Efflèche"
+    },
     "image": "cPK_10_005920_01_FUKUTHROW_U.webp",
     "packs": [
       "Deluxe"
@@ -413,7 +536,10 @@
     "set": "A4b",
     "number": 42,
     "rarity": "RR",
-    "name": "Decidueye ex",
+    "name": {
+      "en": "Decidueye ex",
+      "fr": "Archéduc-ex"
+    },
     "image": "cPK_10_005930_00_JUNAIPERex_RR.webp",
     "packs": [
       "Deluxe"
@@ -423,7 +549,10 @@
     "set": "A4b",
     "number": 43,
     "rarity": "RR",
-    "name": "Dhelmise ex",
+    "name": {
+      "en": "Dhelmise ex",
+      "fr": "Sinistrail-ex"
+    },
     "image": "cPK_10_006040_00_DADARINex_RR.webp",
     "packs": [
       "Deluxe"
@@ -433,7 +562,10 @@
     "set": "A4b",
     "number": 44,
     "rarity": "RR",
-    "name": "Buzzwole ex",
+    "name": {
+      "en": "Buzzwole ex",
+      "fr": "Mouscoto-ex"
+    },
     "image": "cPK_10_007480_00_MASSIVOONex_RR.webp",
     "packs": [
       "Deluxe"
@@ -443,7 +575,10 @@
     "set": "A4b",
     "number": 45,
     "rarity": "U",
-    "name": "Pheromosa",
+    "name": {
+      "en": "Pheromosa",
+      "fr": "Cancrelove"
+    },
     "image": "cPK_10_007490_00_PHEROACHE_U.webp",
     "packs": [
       "Deluxe"
@@ -453,7 +588,10 @@
     "set": "A4b",
     "number": 46,
     "rarity": "U",
-    "name": "Pheromosa",
+    "name": {
+      "en": "Pheromosa",
+      "fr": "Cancrelove"
+    },
     "image": "cPK_10_007490_01_PHEROACHE_U.webp",
     "packs": [
       "Deluxe"
@@ -463,7 +601,10 @@
     "set": "A4b",
     "number": 47,
     "rarity": "C",
-    "name": "Kartana",
+    "name": {
+      "en": "Kartana",
+      "fr": "Katagami"
+    },
     "image": "cPK_10_007250_00_KAMITURUGI_C.webp",
     "packs": [
       "Deluxe"
@@ -473,7 +614,10 @@
     "set": "A4b",
     "number": 48,
     "rarity": "C",
-    "name": "Kartana",
+    "name": {
+      "en": "Kartana",
+      "fr": "Katagami"
+    },
     "image": "cPK_10_007250_01_KAMITURUGI_C.webp",
     "packs": [
       "Deluxe"
@@ -483,7 +627,10 @@
     "set": "A4b",
     "number": 49,
     "rarity": "C",
-    "name": "Sprigatito",
+    "name": {
+      "en": "Sprigatito",
+      "fr": "Poussacha"
+    },
     "image": "cPK_10_005080_00_NYAHOJA_C.webp",
     "packs": [
       "Deluxe"
@@ -493,7 +640,10 @@
     "set": "A4b",
     "number": 50,
     "rarity": "C",
-    "name": "Sprigatito",
+    "name": {
+      "en": "Sprigatito",
+      "fr": "Poussacha"
+    },
     "image": "cPK_10_005080_01_NYAHOJA_C.webp",
     "packs": [
       "Deluxe"
@@ -503,7 +653,10 @@
     "set": "A4b",
     "number": 51,
     "rarity": "U",
-    "name": "Floragato",
+    "name": {
+      "en": "Floragato",
+      "fr": "Matourgeon"
+    },
     "image": "cPK_10_005250_00_NYAROTE_U.webp",
     "packs": [
       "Deluxe"
@@ -513,7 +666,10 @@
     "set": "A4b",
     "number": 52,
     "rarity": "U",
-    "name": "Floragato",
+    "name": {
+      "en": "Floragato",
+      "fr": "Matourgeon"
+    },
     "image": "cPK_10_005250_01_NYAROTE_U.webp",
     "packs": [
       "Deluxe"
@@ -523,7 +679,10 @@
     "set": "A4b",
     "number": 53,
     "rarity": "R",
-    "name": "Meowscarada",
+    "name": {
+      "en": "Meowscarada",
+      "fr": "Miascarade"
+    },
     "image": "cPK_10_005260_00_MASQUERNYA_R.webp",
     "packs": [
       "Deluxe"
@@ -533,7 +692,10 @@
     "set": "A4b",
     "number": 54,
     "rarity": "R",
-    "name": "Meowscarada",
+    "name": {
+      "en": "Meowscarada",
+      "fr": "Miascarade"
+    },
     "image": "cPK_10_005260_01_MASQUERNYA_R.webp",
     "packs": [
       "Deluxe"
@@ -543,7 +705,10 @@
     "set": "A4b",
     "number": 55,
     "rarity": "C",
-    "name": "Charmander",
+    "name": {
+      "en": "Charmander",
+      "fr": "Salamèche"
+    },
     "image": "cPK_10_000330_00_HITOKAGE_C.webp",
     "packs": [
       "Deluxe"
@@ -553,7 +718,10 @@
     "set": "A4b",
     "number": 56,
     "rarity": "C",
-    "name": "Charmander",
+    "name": {
+      "en": "Charmander",
+      "fr": "Salamèche"
+    },
     "image": "cPK_10_000330_01_HITOKAGE_C.webp",
     "packs": [
       "Deluxe"
@@ -563,7 +731,10 @@
     "set": "A4b",
     "number": 57,
     "rarity": "U",
-    "name": "Charmeleon",
+    "name": {
+      "en": "Charmeleon",
+      "fr": "Reptincel"
+    },
     "image": "cPK_10_000340_00_LIZARDO_U.webp",
     "packs": [
       "Deluxe"
@@ -573,7 +744,10 @@
     "set": "A4b",
     "number": 58,
     "rarity": "U",
-    "name": "Charmeleon",
+    "name": {
+      "en": "Charmeleon",
+      "fr": "Reptincel"
+    },
     "image": "cPK_10_000340_01_LIZARDO_U.webp",
     "packs": [
       "Deluxe"
@@ -583,7 +757,10 @@
     "set": "A4b",
     "number": 59,
     "rarity": "RR",
-    "name": "Charizard ex",
+    "name": {
+      "en": "Charizard ex",
+      "fr": "Dracaufeu-ex"
+    },
     "image": "cPK_10_000360_00_LIZARDONex_RR.webp",
     "packs": [
       "Deluxe"
@@ -593,7 +770,10 @@
     "set": "A4b",
     "number": 60,
     "rarity": "RR",
-    "name": "Charizard ex",
+    "name": {
+      "en": "Charizard ex",
+      "fr": "Dracaufeu-ex"
+    },
     "image": "cPK_10_005290_00_LIZARDONex_RR.webp",
     "packs": [
       "Deluxe"
@@ -603,7 +783,10 @@
     "set": "A4b",
     "number": 61,
     "rarity": "C",
-    "name": "Growlithe",
+    "name": {
+      "en": "Growlithe",
+      "fr": "Caninos"
+    },
     "image": "cPK_10_000390_00_GARDIE_C.webp",
     "packs": [
       "Deluxe"
@@ -613,7 +796,10 @@
     "set": "A4b",
     "number": 62,
     "rarity": "C",
-    "name": "Growlithe",
+    "name": {
+      "en": "Growlithe",
+      "fr": "Caninos"
+    },
     "image": "cPK_10_000390_01_GARDIE_C.webp",
     "packs": [
       "Deluxe"
@@ -623,7 +809,10 @@
     "set": "A4b",
     "number": 63,
     "rarity": "RR",
-    "name": "Arcanine ex",
+    "name": {
+      "en": "Arcanine ex",
+      "fr": "Arcanin-ex"
+    },
     "image": "cPK_10_000410_00_WINDIEex_RR.webp",
     "packs": [
       "Deluxe"
@@ -633,7 +822,10 @@
     "set": "A4b",
     "number": 64,
     "rarity": "R",
-    "name": "Flareon",
+    "name": {
+      "en": "Flareon",
+      "fr": "Pyroli"
+    },
     "image": "cPK_10_008040_00_BOOSTER_R.webp",
     "packs": [
       "Deluxe"
@@ -643,7 +835,10 @@
     "set": "A4b",
     "number": 65,
     "rarity": "R",
-    "name": "Flareon",
+    "name": {
+      "en": "Flareon",
+      "fr": "Pyroli"
+    },
     "image": "cPK_10_008040_01_BOOSTER_R.webp",
     "packs": [
       "Deluxe"
@@ -653,7 +848,10 @@
     "set": "A4b",
     "number": 66,
     "rarity": "RR",
-    "name": "Flareon ex",
+    "name": {
+      "en": "Flareon ex",
+      "fr": "Pyroli-ex"
+    },
     "image": "cPK_10_008050_00_BOOSTERex_RR.webp",
     "packs": [
       "Deluxe"
@@ -663,7 +861,10 @@
     "set": "A4b",
     "number": 67,
     "rarity": "RR",
-    "name": "Moltres ex",
+    "name": {
+      "en": "Moltres ex",
+      "fr": "Sulfura-ex"
+    },
     "image": "cPK_10_000470_00_FIREex_RR.webp",
     "packs": [
       "Deluxe"
@@ -673,7 +874,10 @@
     "set": "A4b",
     "number": 68,
     "rarity": "RR",
-    "name": "Ho-Oh ex",
+    "name": {
+      "en": "Ho-Oh ex",
+      "fr": "Ho-Oh-ex"
+    },
     "image": "cPK_10_008900_00_HOUOUex_RR.webp",
     "packs": [
       "Deluxe"
@@ -683,7 +887,10 @@
     "set": "A4b",
     "number": 69,
     "rarity": "C",
-    "name": "Torkoal",
+    "name": {
+      "en": "Torkoal",
+      "fr": "Chartor"
+    },
     "image": "cPK_10_008060_00_COTOISE_C.webp",
     "packs": [
       "Deluxe"
@@ -693,7 +900,10 @@
     "set": "A4b",
     "number": 70,
     "rarity": "C",
-    "name": "Torkoal",
+    "name": {
+      "en": "Torkoal",
+      "fr": "Chartor"
+    },
     "image": "cPK_10_008060_01_COTOISE_C.webp",
     "packs": [
       "Deluxe"
@@ -703,7 +913,10 @@
     "set": "A4b",
     "number": 71,
     "rarity": "C",
-    "name": "Chimchar",
+    "name": {
+      "en": "Chimchar",
+      "fr": "Ouisticram"
+    },
     "image": "cPK_10_003080_00_HIKOZARU_C.webp",
     "packs": [
       "Deluxe"
@@ -713,7 +926,10 @@
     "set": "A4b",
     "number": 72,
     "rarity": "C",
-    "name": "Chimchar",
+    "name": {
+      "en": "Chimchar",
+      "fr": "Ouisticram"
+    },
     "image": "cPK_10_003080_01_HIKOZARU_C.webp",
     "packs": [
       "Deluxe"
@@ -723,7 +939,10 @@
     "set": "A4b",
     "number": 73,
     "rarity": "U",
-    "name": "Monferno",
+    "name": {
+      "en": "Monferno",
+      "fr": "Chimpenfeu"
+    },
     "image": "cPK_10_003090_00_MOUKAZARU_U.webp",
     "packs": [
       "Deluxe"
@@ -733,7 +952,10 @@
     "set": "A4b",
     "number": 74,
     "rarity": "U",
-    "name": "Monferno",
+    "name": {
+      "en": "Monferno",
+      "fr": "Chimpenfeu"
+    },
     "image": "cPK_10_003090_01_MOUKAZARU_U.webp",
     "packs": [
       "Deluxe"
@@ -743,7 +965,10 @@
     "set": "A4b",
     "number": 75,
     "rarity": "RR",
-    "name": "Infernape ex",
+    "name": {
+      "en": "Infernape ex",
+      "fr": "Simiabraz-ex"
+    },
     "image": "cPK_10_003100_00_GOUKAZARUex_RR.webp",
     "packs": [
       "Deluxe"
@@ -753,7 +978,10 @@
     "set": "A4b",
     "number": 76,
     "rarity": "R",
-    "name": "Heatran",
+    "name": {
+      "en": "Heatran",
+      "fr": "Heatran"
+    },
     "image": "cPK_10_004370_00_HEATRAN_R.webp",
     "packs": [
       "Deluxe"
@@ -763,7 +991,10 @@
     "set": "A4b",
     "number": 77,
     "rarity": "R",
-    "name": "Heatran",
+    "name": {
+      "en": "Heatran",
+      "fr": "Heatran"
+    },
     "image": "cPK_10_004370_01_HEATRAN_R.webp",
     "packs": [
       "Deluxe"
@@ -773,7 +1004,10 @@
     "set": "A4b",
     "number": 78,
     "rarity": "C",
-    "name": "Litten",
+    "name": {
+      "en": "Litten",
+      "fr": "Flamiaou"
+    },
     "image": "cPK_10_006110_00_NYABBY_C.webp",
     "packs": [
       "Deluxe"
@@ -783,7 +1017,10 @@
     "set": "A4b",
     "number": 79,
     "rarity": "C",
-    "name": "Litten",
+    "name": {
+      "en": "Litten",
+      "fr": "Flamiaou"
+    },
     "image": "cPK_10_006110_01_NYABBY_C.webp",
     "packs": [
       "Deluxe"
@@ -793,7 +1030,10 @@
     "set": "A4b",
     "number": 80,
     "rarity": "U",
-    "name": "Torracat",
+    "name": {
+      "en": "Torracat",
+      "fr": "Matoufeu"
+    },
     "image": "cPK_10_006130_00_NYAHEAT_U.webp",
     "packs": [
       "Deluxe"
@@ -803,7 +1043,10 @@
     "set": "A4b",
     "number": 81,
     "rarity": "U",
-    "name": "Torracat",
+    "name": {
+      "en": "Torracat",
+      "fr": "Matoufeu"
+    },
     "image": "cPK_10_006130_01_NYAHEAT_U.webp",
     "packs": [
       "Deluxe"
@@ -813,7 +1056,10 @@
     "set": "A4b",
     "number": 82,
     "rarity": "RR",
-    "name": "Incineroar ex",
+    "name": {
+      "en": "Incineroar ex",
+      "fr": "Félinferno-ex"
+    },
     "image": "cPK_10_006140_00_GAOGAENex_RR.webp",
     "packs": [
       "Deluxe"
@@ -823,7 +1069,10 @@
     "set": "A4b",
     "number": 83,
     "rarity": "C",
-    "name": "Squirtle",
+    "name": {
+      "en": "Squirtle",
+      "fr": "Carapuce"
+    },
     "image": "cPK_10_000530_00_ZENIGAME_C.webp",
     "packs": [
       "Deluxe"
@@ -833,7 +1082,10 @@
     "set": "A4b",
     "number": 84,
     "rarity": "C",
-    "name": "Squirtle",
+    "name": {
+      "en": "Squirtle",
+      "fr": "Carapuce"
+    },
     "image": "cPK_10_000530_01_ZENIGAME_C.webp",
     "packs": [
       "Deluxe"
@@ -843,7 +1095,10 @@
     "set": "A4b",
     "number": 85,
     "rarity": "U",
-    "name": "Wartortle",
+    "name": {
+      "en": "Wartortle",
+      "fr": "Carabaffe"
+    },
     "image": "cPK_10_000540_00_KAMEIL_U.webp",
     "packs": [
       "Deluxe"
@@ -853,7 +1108,10 @@
     "set": "A4b",
     "number": 86,
     "rarity": "U",
-    "name": "Wartortle",
+    "name": {
+      "en": "Wartortle",
+      "fr": "Carabaffe"
+    },
     "image": "cPK_10_000540_01_KAMEIL_U.webp",
     "packs": [
       "Deluxe"
@@ -863,7 +1121,10 @@
     "set": "A4b",
     "number": 87,
     "rarity": "RR",
-    "name": "Blastoise ex",
+    "name": {
+      "en": "Blastoise ex",
+      "fr": "Tortank-ex"
+    },
     "image": "cPK_10_000560_00_KAMEXex_RR.webp",
     "packs": [
       "Deluxe"
@@ -873,7 +1134,10 @@
     "set": "A4b",
     "number": 88,
     "rarity": "C",
-    "name": "Horsea",
+    "name": {
+      "en": "Horsea",
+      "fr": "Hypotrempe"
+    },
     "image": "cPK_10_008970_00_TATTU_C.webp",
     "packs": [
       "Deluxe"
@@ -883,7 +1147,10 @@
     "set": "A4b",
     "number": 89,
     "rarity": "C",
-    "name": "Horsea",
+    "name": {
+      "en": "Horsea",
+      "fr": "Hypotrempe"
+    },
     "image": "cPK_10_008970_01_TATTU_C.webp",
     "packs": [
       "Deluxe"
@@ -893,7 +1160,10 @@
     "set": "A4b",
     "number": 90,
     "rarity": "U",
-    "name": "Seadra",
+    "name": {
+      "en": "Seadra",
+      "fr": "Hypocéan"
+    },
     "image": "cPK_10_008980_00_SEADRA_U.webp",
     "packs": [
       "Deluxe"
@@ -903,7 +1173,10 @@
     "set": "A4b",
     "number": 91,
     "rarity": "U",
-    "name": "Seadra",
+    "name": {
+      "en": "Seadra",
+      "fr": "Hypocéan"
+    },
     "image": "cPK_10_008980_01_SEADRA_U.webp",
     "packs": [
       "Deluxe"
@@ -913,7 +1186,10 @@
     "set": "A4b",
     "number": 92,
     "rarity": "RR",
-    "name": "Kingdra ex",
+    "name": {
+      "en": "Kingdra ex",
+      "fr": "Hyporoi-ex"
+    },
     "image": "cPK_10_008990_00_KINGDRAex_RR.webp",
     "packs": [
       "Deluxe"
@@ -923,7 +1199,10 @@
     "set": "A4b",
     "number": 93,
     "rarity": "C",
-    "name": "Staryu",
+    "name": {
+      "en": "Staryu",
+      "fr": "Stari"
+    },
     "image": "cPK_10_000740_00_HITODEMAN_C.webp",
     "packs": [
       "Deluxe"
@@ -933,7 +1212,10 @@
     "set": "A4b",
     "number": 94,
     "rarity": "C",
-    "name": "Staryu",
+    "name": {
+      "en": "Staryu",
+      "fr": "Stari"
+    },
     "image": "cPK_10_000740_01_HITODEMAN_C.webp",
     "packs": [
       "Deluxe"
@@ -943,7 +1225,10 @@
     "set": "A4b",
     "number": 95,
     "rarity": "RR",
-    "name": "Starmie ex",
+    "name": {
+      "en": "Starmie ex",
+      "fr": "Staross-ex"
+    },
     "image": "cPK_10_000760_00_STARMIEex_RR.webp",
     "packs": [
       "Deluxe"
@@ -953,7 +1238,10 @@
     "set": "A4b",
     "number": 96,
     "rarity": "C",
-    "name": "Magikarp",
+    "name": {
+      "en": "Magikarp",
+      "fr": "Magicarpe"
+    },
     "image": "cPK_10_002310_00_KOIKING_C.webp",
     "packs": [
       "Deluxe"
@@ -963,7 +1251,10 @@
     "set": "A4b",
     "number": 97,
     "rarity": "C",
-    "name": "Magikarp",
+    "name": {
+      "en": "Magikarp",
+      "fr": "Magicarpe"
+    },
     "image": "cPK_10_002310_01_KOIKING_C.webp",
     "packs": [
       "Deluxe"
@@ -973,7 +1264,10 @@
     "set": "A4b",
     "number": 98,
     "rarity": "RR",
-    "name": "Gyarados ex",
+    "name": {
+      "en": "Gyarados ex",
+      "fr": "Léviator-ex"
+    },
     "image": "cPK_10_002320_00_GYARADOSex_RR.webp",
     "packs": [
       "Deluxe"
@@ -983,7 +1277,10 @@
     "set": "A4b",
     "number": 99,
     "rarity": "R",
-    "name": "Vaporeon",
+    "name": {
+      "en": "Vaporeon",
+      "fr": "Aquali"
+    },
     "image": "cPK_10_002330_00_SHOWERS_R.webp",
     "packs": [
       "Deluxe"
@@ -993,7 +1290,10 @@
     "set": "A4b",
     "number": 100,
     "rarity": "R",
-    "name": "Vaporeon",
+    "name": {
+      "en": "Vaporeon",
+      "fr": "Aquali"
+    },
     "image": "cPK_10_002330_01_SHOWERS_R.webp",
     "packs": [
       "Deluxe"
@@ -1003,7 +1303,10 @@
     "set": "A4b",
     "number": 101,
     "rarity": "RR",
-    "name": "Articuno ex",
+    "name": {
+      "en": "Articuno ex",
+      "fr": "Artikodin-ex"
+    },
     "image": "cPK_10_000840_00_FREEZERex_RR.webp",
     "packs": [
       "Deluxe"
@@ -1013,7 +1316,10 @@
     "set": "A4b",
     "number": 102,
     "rarity": "C",
-    "name": "Corphish",
+    "name": {
+      "en": "Corphish",
+      "fr": "Écrapince"
+    },
     "image": "cPK_10_009160_00_HEIGANI_C.webp",
     "packs": [
       "Deluxe"
@@ -1023,7 +1329,10 @@
     "set": "A4b",
     "number": 103,
     "rarity": "C",
-    "name": "Corphish",
+    "name": {
+      "en": "Corphish",
+      "fr": "Écrapince"
+    },
     "image": "cPK_10_009160_01_HEIGANI_C.webp",
     "packs": [
       "Deluxe"
@@ -1033,7 +1342,10 @@
     "set": "A4b",
     "number": 104,
     "rarity": "R",
-    "name": "Crawdaunt",
+    "name": {
+      "en": "Crawdaunt",
+      "fr": "Colhomard"
+    },
     "image": "cPK_10_009170_00_SHIZARIGER_R.webp",
     "packs": [
       "Deluxe"
@@ -1043,7 +1355,10 @@
     "set": "A4b",
     "number": 105,
     "rarity": "R",
-    "name": "Crawdaunt",
+    "name": {
+      "en": "Crawdaunt",
+      "fr": "Colhomard"
+    },
     "image": "cPK_10_009170_01_SHIZARIGER_R.webp",
     "packs": [
       "Deluxe"
@@ -1053,7 +1368,10 @@
     "set": "A4b",
     "number": 106,
     "rarity": "RR",
-    "name": "Glaceon ex",
+    "name": {
+      "en": "Glaceon ex",
+      "fr": "Givrali-ex"
+    },
     "image": "cPK_10_004460_00_GLACIAex_RR.webp",
     "packs": [
       "Deluxe"
@@ -1063,7 +1381,10 @@
     "set": "A4b",
     "number": 107,
     "rarity": "RR",
-    "name": "Palkia ex",
+    "name": {
+      "en": "Palkia ex",
+      "fr": "Palkia-ex"
+    },
     "image": "cPK_10_003300_00_PALKIAex_RR.webp",
     "packs": [
       "Deluxe"
@@ -1073,7 +1394,10 @@
     "set": "A4b",
     "number": 108,
     "rarity": "U",
-    "name": "Manaphy",
+    "name": {
+      "en": "Manaphy",
+      "fr": "Manaphy"
+    },
     "image": "cPK_10_003310_00_MANAPHY_U.webp",
     "packs": [
       "Deluxe"
@@ -1083,7 +1407,10 @@
     "set": "A4b",
     "number": 109,
     "rarity": "U",
-    "name": "Manaphy",
+    "name": {
+      "en": "Manaphy",
+      "fr": "Manaphy"
+    },
     "image": "cPK_10_003310_01_MANAPHY_U.webp",
     "packs": [
       "Deluxe"
@@ -1093,7 +1420,10 @@
     "set": "A4b",
     "number": 110,
     "rarity": "C",
-    "name": "Froakie",
+    "name": {
+      "en": "Froakie",
+      "fr": "Grenousse"
+    },
     "image": "cPK_10_000870_00_KEROMATSU_C.webp",
     "packs": [
       "Deluxe"
@@ -1103,7 +1433,10 @@
     "set": "A4b",
     "number": 111,
     "rarity": "C",
-    "name": "Froakie",
+    "name": {
+      "en": "Froakie",
+      "fr": "Grenousse"
+    },
     "image": "cPK_10_000870_01_KEROMATSU_C.webp",
     "packs": [
       "Deluxe"
@@ -1113,7 +1446,10 @@
     "set": "A4b",
     "number": 112,
     "rarity": "U",
-    "name": "Frogadier",
+    "name": {
+      "en": "Frogadier",
+      "fr": "Croâporal"
+    },
     "image": "cPK_10_000880_00_GEKOGASHIRA_U.webp",
     "packs": [
       "Deluxe"
@@ -1123,7 +1459,10 @@
     "set": "A4b",
     "number": 113,
     "rarity": "U",
-    "name": "Frogadier",
+    "name": {
+      "en": "Frogadier",
+      "fr": "Croâporal"
+    },
     "image": "cPK_10_000880_01_GEKOGASHIRA_U.webp",
     "packs": [
       "Deluxe"
@@ -1133,7 +1472,10 @@
     "set": "A4b",
     "number": 114,
     "rarity": "R",
-    "name": "Greninja",
+    "name": {
+      "en": "Greninja",
+      "fr": "Amphinobi"
+    },
     "image": "cPK_10_000890_00_GEKKOUGA_R.webp",
     "packs": [
       "Deluxe"
@@ -1143,7 +1485,10 @@
     "set": "A4b",
     "number": 115,
     "rarity": "R",
-    "name": "Greninja",
+    "name": {
+      "en": "Greninja",
+      "fr": "Amphinobi"
+    },
     "image": "cPK_10_000890_01_GEKKOUGA_R.webp",
     "packs": [
       "Deluxe"
@@ -1153,7 +1498,10 @@
     "set": "A4b",
     "number": 116,
     "rarity": "C",
-    "name": "Popplio",
+    "name": {
+      "en": "Popplio",
+      "fr": "Otaquin"
+    },
     "image": "cPK_10_008170_00_ASHIMARI_C.webp",
     "packs": [
       "Deluxe"
@@ -1163,7 +1511,10 @@
     "set": "A4b",
     "number": 117,
     "rarity": "C",
-    "name": "Popplio",
+    "name": {
+      "en": "Popplio",
+      "fr": "Otaquin"
+    },
     "image": "cPK_10_008170_01_ASHIMARI_C.webp",
     "packs": [
       "Deluxe"
@@ -1173,7 +1524,10 @@
     "set": "A4b",
     "number": 118,
     "rarity": "C",
-    "name": "Brionne",
+    "name": {
+      "en": "Brionne",
+      "fr": "Otarlette"
+    },
     "image": "cPK_10_008180_00_OSYAMARI_C.webp",
     "packs": [
       "Deluxe"
@@ -1183,7 +1537,10 @@
     "set": "A4b",
     "number": 119,
     "rarity": "C",
-    "name": "Brionne",
+    "name": {
+      "en": "Brionne",
+      "fr": "Otarlette"
+    },
     "image": "cPK_10_008180_01_OSYAMARI_C.webp",
     "packs": [
       "Deluxe"
@@ -1193,7 +1550,10 @@
     "set": "A4b",
     "number": 120,
     "rarity": "RR",
-    "name": "Primarina ex",
+    "name": {
+      "en": "Primarina ex",
+      "fr": "Oratoria-ex"
+    },
     "image": "cPK_10_008190_00_ASHIRENEex_RR.webp",
     "packs": [
       "Deluxe"
@@ -1203,7 +1563,10 @@
     "set": "A4b",
     "number": 121,
     "rarity": "RR",
-    "name": "Crabominable ex",
+    "name": {
+      "en": "Crabominable ex",
+      "fr": "Crabominable-ex"
+    },
     "image": "cPK_10_006300_00_KEKENKANIex_RR.webp",
     "packs": [
       "Deluxe"
@@ -1213,7 +1576,10 @@
     "set": "A4b",
     "number": 122,
     "rarity": "C",
-    "name": "Wishiwashi",
+    "name": {
+      "en": "Wishiwashi",
+      "fr": "Froussardine"
+    },
     "image": "cPK_10_006310_00_YOWASHITANDOKUNOSUGATA_C.webp",
     "packs": [
       "Deluxe"
@@ -1223,7 +1589,10 @@
     "set": "A4b",
     "number": 123,
     "rarity": "C",
-    "name": "Wishiwashi",
+    "name": {
+      "en": "Wishiwashi",
+      "fr": "Froussardine"
+    },
     "image": "cPK_10_006310_01_YOWASHITANDOKUNOSUGATA_C.webp",
     "packs": [
       "Deluxe"
@@ -1233,7 +1602,10 @@
     "set": "A4b",
     "number": 124,
     "rarity": "RR",
-    "name": "Wishiwashi ex",
+    "name": {
+      "en": "Wishiwashi ex",
+      "fr": "Froussardine-ex"
+    },
     "image": "cPK_10_006320_00_YOWASHIMURETASUGATA_RR.webp",
     "packs": [
       "Deluxe"
@@ -1243,7 +1615,10 @@
     "set": "A4b",
     "number": 125,
     "rarity": "C",
-    "name": "Wiglett",
+    "name": {
+      "en": "Wiglett",
+      "fr": "Taupikeau"
+    },
     "image": "cPK_10_005370_00_UMIDIGDA_C.webp",
     "packs": [
       "Deluxe"
@@ -1253,7 +1628,10 @@
     "set": "A4b",
     "number": 126,
     "rarity": "C",
-    "name": "Wiglett",
+    "name": {
+      "en": "Wiglett",
+      "fr": "Taupikeau"
+    },
     "image": "cPK_10_005370_01_UMIDIGDA_C.webp",
     "packs": [
       "Deluxe"
@@ -1263,7 +1641,10 @@
     "set": "A4b",
     "number": 127,
     "rarity": "RR",
-    "name": "Wugtrio ex",
+    "name": {
+      "en": "Wugtrio ex",
+      "fr": "Triopikeau-ex"
+    },
     "image": "cPK_10_005380_00_UMITRIOex_RR.webp",
     "packs": [
       "Deluxe"
@@ -1273,7 +1654,10 @@
     "set": "A4b",
     "number": 128,
     "rarity": "C",
-    "name": "Pikachu",
+    "name": {
+      "en": "Pikachu",
+      "fr": "Pikachu"
+    },
     "image": "cPK_10_000940_00_PIKACHU_C.webp",
     "packs": [
       "Deluxe"
@@ -1283,7 +1667,10 @@
     "set": "A4b",
     "number": 129,
     "rarity": "C",
-    "name": "Pikachu",
+    "name": {
+      "en": "Pikachu",
+      "fr": "Pikachu"
+    },
     "image": "cPK_10_000940_01_PIKACHU_C.webp",
     "packs": [
       "Deluxe"
@@ -1293,7 +1680,10 @@
     "set": "A4b",
     "number": 130,
     "rarity": "RR",
-    "name": "Alolan Raichu ex",
+    "name": {
+      "en": "Alolan Raichu ex",
+      "fr": "Raichu de Alola-ex"
+    },
     "image": "cPK_10_006390_00_ALOLARAICHUex_RR.webp",
     "packs": [
       "Deluxe"
@@ -1303,7 +1693,10 @@
     "set": "A4b",
     "number": 131,
     "rarity": "RR",
-    "name": "Pikachu ex",
+    "name": {
+      "en": "Pikachu ex",
+      "fr": "Pikachu-ex"
+    },
     "image": "cPK_10_000960_00_PIKACHUex_RR.webp",
     "packs": [
       "Deluxe"
@@ -1313,7 +1706,10 @@
     "set": "A4b",
     "number": 132,
     "rarity": "RR",
-    "name": "Pikachu ex",
+    "name": {
+      "en": "Pikachu ex",
+      "fr": "Pikachu-ex"
+    },
     "image": "cPK_10_005410_00_PIKACHUex_RR.webp",
     "packs": [
       "Deluxe"
@@ -1323,7 +1719,10 @@
     "set": "A4b",
     "number": 133,
     "rarity": "C",
-    "name": "Magnemite",
+    "name": {
+      "en": "Magnemite",
+      "fr": "Magnéti"
+    },
     "image": "cPK_10_000970_00_COIL_C.webp",
     "packs": [
       "Deluxe"
@@ -1333,7 +1732,10 @@
     "set": "A4b",
     "number": 134,
     "rarity": "C",
-    "name": "Magnemite",
+    "name": {
+      "en": "Magnemite",
+      "fr": "Magnéti"
+    },
     "image": "cPK_10_000970_01_COIL_C.webp",
     "packs": [
       "Deluxe"
@@ -1343,7 +1745,10 @@
     "set": "A4b",
     "number": 135,
     "rarity": "R",
-    "name": "Magneton",
+    "name": {
+      "en": "Magneton",
+      "fr": "Magnéton"
+    },
     "image": "cPK_10_000980_00_RARECOIL_R.webp",
     "packs": [
       "Deluxe"
@@ -1353,7 +1758,10 @@
     "set": "A4b",
     "number": 136,
     "rarity": "R",
-    "name": "Magneton",
+    "name": {
+      "en": "Magneton",
+      "fr": "Magnéton"
+    },
     "image": "cPK_10_000980_01_RARECOIL_R.webp",
     "packs": [
       "Deluxe"
@@ -1363,7 +1771,10 @@
     "set": "A4b",
     "number": 137,
     "rarity": "R",
-    "name": "Magnezone",
+    "name": {
+      "en": "Magnezone",
+      "fr": "Magnézone"
+    },
     "image": "cPK_10_003340_00_JIBACOIL_R.webp",
     "packs": [
       "Deluxe"
@@ -1373,7 +1784,10 @@
     "set": "A4b",
     "number": 138,
     "rarity": "R",
-    "name": "Magnezone",
+    "name": {
+      "en": "Magnezone",
+      "fr": "Magnézone"
+    },
     "image": "cPK_10_003340_01_JIBACOIL_R.webp",
     "packs": [
       "Deluxe"
@@ -1383,7 +1797,10 @@
     "set": "A4b",
     "number": 139,
     "rarity": "RR",
-    "name": "Zapdos ex",
+    "name": {
+      "en": "Zapdos ex",
+      "fr": "Électhor-ex"
+    },
     "image": "cPK_10_001040_00_THUNDERex_RR.webp",
     "packs": [
       "Deluxe"
@@ -1393,7 +1810,10 @@
     "set": "A4b",
     "number": 140,
     "rarity": "C",
-    "name": "Chinchou",
+    "name": {
+      "en": "Chinchou",
+      "fr": "Loupio"
+    },
     "image": "cPK_10_009200_00_CHONCHIE_C.webp",
     "packs": [
       "Deluxe"
@@ -1403,7 +1823,10 @@
     "set": "A4b",
     "number": 141,
     "rarity": "C",
-    "name": "Chinchou",
+    "name": {
+      "en": "Chinchou",
+      "fr": "Loupio"
+    },
     "image": "cPK_10_009200_01_CHONCHIE_C.webp",
     "packs": [
       "Deluxe"
@@ -1413,7 +1836,10 @@
     "set": "A4b",
     "number": 142,
     "rarity": "RR",
-    "name": "Lanturn ex",
+    "name": {
+      "en": "Lanturn ex",
+      "fr": "Lanturn-ex"
+    },
     "image": "cPK_10_009210_00_LANTERNex_RR.webp",
     "packs": [
       "Deluxe"
@@ -1423,7 +1849,10 @@
     "set": "A4b",
     "number": 143,
     "rarity": "U",
-    "name": "Pachirisu",
+    "name": {
+      "en": "Pachirisu",
+      "fr": "Pachirisu"
+    },
     "image": "cPK_10_005060_00_PACHIRISU_U.webp",
     "packs": [
       "Deluxe"
@@ -1433,7 +1862,10 @@
     "set": "A4b",
     "number": 144,
     "rarity": "U",
-    "name": "Pachirisu",
+    "name": {
+      "en": "Pachirisu",
+      "fr": "Pachirisu"
+    },
     "image": "cPK_10_005060_01_PACHIRISU_U.webp",
     "packs": [
       "Deluxe"
@@ -1443,7 +1875,10 @@
     "set": "A4b",
     "number": 145,
     "rarity": "RR",
-    "name": "Pachirisu ex",
+    "name": {
+      "en": "Pachirisu ex",
+      "fr": "Pachirisu-ex"
+    },
     "image": "cPK_10_003420_00_PACHIRISUex_RR.webp",
     "packs": [
       "Deluxe"
@@ -1453,7 +1888,10 @@
     "set": "A4b",
     "number": 146,
     "rarity": "R",
-    "name": "Oricorio",
+    "name": {
+      "en": "Oricorio",
+      "fr": "Plumeline"
+    },
     "image": "cPK_10_006470_00_ODORIDORIPACHIPACHISTYLE_R.webp",
     "packs": [
       "Deluxe"
@@ -1463,7 +1901,10 @@
     "set": "A4b",
     "number": 147,
     "rarity": "R",
-    "name": "Oricorio",
+    "name": {
+      "en": "Oricorio",
+      "fr": "Plumeline"
+    },
     "image": "cPK_10_006470_01_ODORIDORIPACHIPACHISTYLE_R.webp",
     "packs": [
       "Deluxe"
@@ -1473,7 +1914,10 @@
     "set": "A4b",
     "number": 148,
     "rarity": "RR",
-    "name": "Tapu Koko ex",
+    "name": {
+      "en": "Tapu Koko ex",
+      "fr": "Tokorico-ex"
+    },
     "image": "cPK_10_007420_00_KAPU-KOKEKOex_RR.webp",
     "packs": [
       "Deluxe"
@@ -1483,7 +1927,10 @@
     "set": "A4b",
     "number": 149,
     "rarity": "R",
-    "name": "Zeraora",
+    "name": {
+      "en": "Zeraora",
+      "fr": "Zeraora"
+    },
     "image": "cPK_10_007410_00_ZERAORA_R.webp",
     "packs": [
       "Deluxe"
@@ -1493,7 +1940,10 @@
     "set": "A4b",
     "number": 150,
     "rarity": "R",
-    "name": "Zeraora",
+    "name": {
+      "en": "Zeraora",
+      "fr": "Zeraora"
+    },
     "image": "cPK_10_007410_01_ZERAORA_R.webp",
     "packs": [
       "Deluxe"
@@ -1503,7 +1953,10 @@
     "set": "A4b",
     "number": 151,
     "rarity": "C",
-    "name": "Gastly",
+    "name": {
+      "en": "Gastly",
+      "fr": "Fantominus"
+    },
     "image": "cPK_10_001200_00_GHOS_C.webp",
     "packs": [
       "Deluxe"
@@ -1513,7 +1966,10 @@
     "set": "A4b",
     "number": 152,
     "rarity": "C",
-    "name": "Gastly",
+    "name": {
+      "en": "Gastly",
+      "fr": "Fantominus"
+    },
     "image": "cPK_10_001200_01_GHOS_C.webp",
     "packs": [
       "Deluxe"
@@ -1523,7 +1979,10 @@
     "set": "A4b",
     "number": 153,
     "rarity": "U",
-    "name": "Haunter",
+    "name": {
+      "en": "Haunter",
+      "fr": "Spectrum"
+    },
     "image": "cPK_10_001210_00_GHOST_U.webp",
     "packs": [
       "Deluxe"
@@ -1533,7 +1992,10 @@
     "set": "A4b",
     "number": 154,
     "rarity": "U",
-    "name": "Haunter",
+    "name": {
+      "en": "Haunter",
+      "fr": "Spectrum"
+    },
     "image": "cPK_10_001210_01_GHOST_U.webp",
     "packs": [
       "Deluxe"
@@ -1543,7 +2005,10 @@
     "set": "A4b",
     "number": 155,
     "rarity": "RR",
-    "name": "Gengar ex",
+    "name": {
+      "en": "Gengar ex",
+      "fr": "Ectoplasma-ex"
+    },
     "image": "cPK_10_001230_00_GANGARex_RR.webp",
     "packs": [
       "Deluxe"
@@ -1553,7 +2018,10 @@
     "set": "A4b",
     "number": 156,
     "rarity": "C",
-    "name": "Jynx",
+    "name": {
+      "en": "Jynx",
+      "fr": "Lippoutou"
+    },
     "image": "cPK_10_001270_00_ROUGELA_C.webp",
     "packs": [
       "Deluxe"
@@ -1563,7 +2031,10 @@
     "set": "A4b",
     "number": 157,
     "rarity": "C",
-    "name": "Jynx",
+    "name": {
+      "en": "Jynx",
+      "fr": "Lippoutou"
+    },
     "image": "cPK_10_001270_01_ROUGELA_C.webp",
     "packs": [
       "Deluxe"
@@ -1573,7 +2044,10 @@
     "set": "A4b",
     "number": 158,
     "rarity": "RR",
-    "name": "Mewtwo ex",
+    "name": {
+      "en": "Mewtwo ex",
+      "fr": "Mewtwo-ex"
+    },
     "image": "cPK_10_001290_00_MEWTWOex_RR.webp",
     "packs": [
       "Deluxe"
@@ -1583,7 +2057,10 @@
     "set": "A4b",
     "number": 159,
     "rarity": "RR",
-    "name": "Mew ex",
+    "name": {
+      "en": "Mew ex",
+      "fr": "Mew-ex"
+    },
     "image": "cPK_10_002450_00_MEWex_RR.webp",
     "packs": [
       "Deluxe"
@@ -1593,7 +2070,10 @@
     "set": "A4b",
     "number": 160,
     "rarity": "RR",
-    "name": "Espeon ex",
+    "name": {
+      "en": "Espeon ex",
+      "fr": "Mentali-ex"
+    },
     "image": "cPK_10_009390_00_EIFIEex_RR.webp",
     "packs": [
       "Deluxe"
@@ -1603,7 +2083,10 @@
     "set": "A4b",
     "number": 161,
     "rarity": "C",
-    "name": "Misdreavus",
+    "name": {
+      "en": "Misdreavus",
+      "fr": "Feuforêve"
+    },
     "image": "cPK_10_003470_00_MUMA_C.webp",
     "packs": [
       "Deluxe"
@@ -1613,7 +2096,10 @@
     "set": "A4b",
     "number": 162,
     "rarity": "C",
-    "name": "Misdreavus",
+    "name": {
+      "en": "Misdreavus",
+      "fr": "Feuforêve"
+    },
     "image": "cPK_10_003470_01_MUMA_C.webp",
     "packs": [
       "Deluxe"
@@ -1623,7 +2109,10 @@
     "set": "A4b",
     "number": 163,
     "rarity": "RR",
-    "name": "Mismagius ex",
+    "name": {
+      "en": "Mismagius ex",
+      "fr": "Magirêve-ex"
+    },
     "image": "cPK_10_003480_00_MUMARGIex_RR.webp",
     "packs": [
       "Deluxe"
@@ -1633,7 +2122,10 @@
     "set": "A4b",
     "number": 164,
     "rarity": "C",
-    "name": "Ralts",
+    "name": {
+      "en": "Ralts",
+      "fr": "Tarsal"
+    },
     "image": "cPK_10_003490_00_RALTS_C.webp",
     "packs": [
       "Deluxe"
@@ -1643,7 +2135,10 @@
     "set": "A4b",
     "number": 165,
     "rarity": "C",
-    "name": "Ralts",
+    "name": {
+      "en": "Ralts",
+      "fr": "Tarsal"
+    },
     "image": "cPK_10_003490_01_RALTS_C.webp",
     "packs": [
       "Deluxe"
@@ -1653,7 +2148,10 @@
     "set": "A4b",
     "number": 166,
     "rarity": "C",
-    "name": "Kirlia",
+    "name": {
+      "en": "Kirlia",
+      "fr": "Kirlia"
+    },
     "image": "cPK_10_003500_00_KIRLIA_C.webp",
     "packs": [
       "Deluxe"
@@ -1663,7 +2161,10 @@
     "set": "A4b",
     "number": 167,
     "rarity": "C",
-    "name": "Kirlia",
+    "name": {
+      "en": "Kirlia",
+      "fr": "Kirlia"
+    },
     "image": "cPK_10_003500_01_KIRLIA_C.webp",
     "packs": [
       "Deluxe"
@@ -1673,7 +2174,10 @@
     "set": "A4b",
     "number": 168,
     "rarity": "R",
-    "name": "Gardevoir",
+    "name": {
+      "en": "Gardevoir",
+      "fr": "Gardevoir"
+    },
     "image": "cPK_10_001320_00_SIRNIGHT_R.webp",
     "packs": [
       "Deluxe"
@@ -1683,7 +2187,10 @@
     "set": "A4b",
     "number": 169,
     "rarity": "R",
-    "name": "Gardevoir",
+    "name": {
+      "en": "Gardevoir",
+      "fr": "Gardevoir"
+    },
     "image": "cPK_10_001320_01_SIRNIGHT_R.webp",
     "packs": [
       "Deluxe"
@@ -1693,7 +2200,10 @@
     "set": "A4b",
     "number": 170,
     "rarity": "R",
-    "name": "Giratina",
+    "name": {
+      "en": "Giratina",
+      "fr": "Giratina"
+    },
     "image": "cPK_10_003590_00_ORIGINGIRATINA_R.webp",
     "packs": [
       "Deluxe"
@@ -1703,7 +2213,10 @@
     "set": "A4b",
     "number": 171,
     "rarity": "R",
-    "name": "Giratina",
+    "name": {
+      "en": "Giratina",
+      "fr": "Giratina"
+    },
     "image": "cPK_10_003590_01_ORIGINGIRATINA_R.webp",
     "packs": [
       "Deluxe"
@@ -1713,7 +2226,10 @@
     "set": "A4b",
     "number": 172,
     "rarity": "RR",
-    "name": "Giratina ex",
+    "name": {
+      "en": "Giratina ex",
+      "fr": "Giratina-ex"
+    },
     "image": "cPK_10_005520_00_GIRATINAex_RR.webp",
     "packs": [
       "Deluxe"
@@ -1723,7 +2239,10 @@
     "set": "A4b",
     "number": 173,
     "rarity": "C",
-    "name": "Swirlix",
+    "name": {
+      "en": "Swirlix",
+      "fr": "Sucroquin"
+    },
     "image": "cPK_10_008250_00_PEROPPAFU_C.webp",
     "packs": [
       "Deluxe"
@@ -1733,7 +2252,10 @@
     "set": "A4b",
     "number": 174,
     "rarity": "C",
-    "name": "Swirlix",
+    "name": {
+      "en": "Swirlix",
+      "fr": "Sucroquin"
+    },
     "image": "cPK_10_008250_01_PEROPPAFU_C.webp",
     "packs": [
       "Deluxe"
@@ -1743,7 +2265,10 @@
     "set": "A4b",
     "number": 175,
     "rarity": "U",
-    "name": "Slurpuff",
+    "name": {
+      "en": "Slurpuff",
+      "fr": "Cupcanaille"
+    },
     "image": "cPK_10_008260_00_PEROREAM_U.webp",
     "packs": [
       "Deluxe"
@@ -1753,7 +2278,10 @@
     "set": "A4b",
     "number": 176,
     "rarity": "U",
-    "name": "Slurpuff",
+    "name": {
+      "en": "Slurpuff",
+      "fr": "Cupcanaille"
+    },
     "image": "cPK_10_008260_01_PEROREAM_U.webp",
     "packs": [
       "Deluxe"
@@ -1763,7 +2291,10 @@
     "set": "A4b",
     "number": 177,
     "rarity": "RR",
-    "name": "Sylveon ex",
+    "name": {
+      "en": "Sylveon ex",
+      "fr": "Nymphali-ex"
+    },
     "image": "cPK_10_008280_00_NYMPHIAex_RR.webp",
     "packs": [
       "Deluxe"
@@ -1773,7 +2304,10 @@
     "set": "A4b",
     "number": 178,
     "rarity": "U",
-    "name": "Oricorio",
+    "name": {
+      "en": "Oricorio",
+      "fr": "Plumeline"
+    },
     "image": "cPK_10_006580_00_ODORIDORIMAIMAISTYLE_U.webp",
     "packs": [
       "Deluxe"
@@ -1783,7 +2317,10 @@
     "set": "A4b",
     "number": 179,
     "rarity": "U",
-    "name": "Oricorio",
+    "name": {
+      "en": "Oricorio",
+      "fr": "Plumeline"
+    },
     "image": "cPK_10_006580_01_ODORIDORIMAIMAISTYLE_U.webp",
     "packs": [
       "Deluxe"
@@ -1793,7 +2330,10 @@
     "set": "A4b",
     "number": 180,
     "rarity": "C",
-    "name": "Cosmog",
+    "name": {
+      "en": "Cosmog",
+      "fr": "Cosmog"
+    },
     "image": "cPK_10_006660_00_COSMOG_C.webp",
     "packs": [
       "Deluxe"
@@ -1803,7 +2343,10 @@
     "set": "A4b",
     "number": 181,
     "rarity": "C",
-    "name": "Cosmog",
+    "name": {
+      "en": "Cosmog",
+      "fr": "Cosmog"
+    },
     "image": "cPK_10_006660_01_COSMOG_C.webp",
     "packs": [
       "Deluxe"
@@ -1813,7 +2356,10 @@
     "set": "A4b",
     "number": 182,
     "rarity": "U",
-    "name": "Cosmoem",
+    "name": {
+      "en": "Cosmoem",
+      "fr": "Cosmovum"
+    },
     "image": "cPK_10_006670_00_COSMOVUM_U.webp",
     "packs": [
       "Deluxe"
@@ -1823,7 +2369,10 @@
     "set": "A4b",
     "number": 183,
     "rarity": "U",
-    "name": "Cosmoem",
+    "name": {
+      "en": "Cosmoem",
+      "fr": "Cosmovum"
+    },
     "image": "cPK_10_006670_01_COSMOVUM_U.webp",
     "packs": [
       "Deluxe"
@@ -1833,7 +2382,10 @@
     "set": "A4b",
     "number": 184,
     "rarity": "RR",
-    "name": "Lunala ex",
+    "name": {
+      "en": "Lunala ex",
+      "fr": "Lunala-ex"
+    },
     "image": "cPK_10_006680_00_LUNALAex_RR.webp",
     "packs": [
       "Deluxe"
@@ -1843,7 +2395,10 @@
     "set": "A4b",
     "number": 185,
     "rarity": "C",
-    "name": "Milcery",
+    "name": {
+      "en": "Milcery",
+      "fr": "Crèmy"
+    },
     "image": "cPK_10_008300_00_MAHOMIL_C.webp",
     "packs": [
       "Deluxe"
@@ -1853,7 +2408,10 @@
     "set": "A4b",
     "number": 186,
     "rarity": "C",
-    "name": "Milcery",
+    "name": {
+      "en": "Milcery",
+      "fr": "Crèmy"
+    },
     "image": "cPK_10_008300_01_MAHOMIL_C.webp",
     "packs": [
       "Deluxe"
@@ -1863,7 +2421,10 @@
     "set": "A4b",
     "number": 187,
     "rarity": "U",
-    "name": "Alcremie",
+    "name": {
+      "en": "Alcremie",
+      "fr": "Charmilly"
+    },
     "image": "cPK_10_007340_00_MAWHIP_U.webp",
     "packs": [
       "Deluxe"
@@ -1873,7 +2434,10 @@
     "set": "A4b",
     "number": 188,
     "rarity": "U",
-    "name": "Alcremie",
+    "name": {
+      "en": "Alcremie",
+      "fr": "Charmilly"
+    },
     "image": "cPK_10_007340_01_MAWHIP_U.webp",
     "packs": [
       "Deluxe"
@@ -1883,7 +2447,10 @@
     "set": "A4b",
     "number": 189,
     "rarity": "C",
-    "name": "Machop",
+    "name": {
+      "en": "Machop",
+      "fr": "Machoc"
+    },
     "image": "cPK_10_001430_00_WANRIKY_C.webp",
     "packs": [
       "Deluxe"
@@ -1893,7 +2460,10 @@
     "set": "A4b",
     "number": 190,
     "rarity": "C",
-    "name": "Machop",
+    "name": {
+      "en": "Machop",
+      "fr": "Machoc"
+    },
     "image": "cPK_10_001430_01_WANRIKY_C.webp",
     "packs": [
       "Deluxe"
@@ -1903,7 +2473,10 @@
     "set": "A4b",
     "number": 191,
     "rarity": "U",
-    "name": "Machoke",
+    "name": {
+      "en": "Machoke",
+      "fr": "Machopeur"
+    },
     "image": "cPK_10_001440_00_GORIKY_U.webp",
     "packs": [
       "Deluxe"
@@ -1913,7 +2486,10 @@
     "set": "A4b",
     "number": 192,
     "rarity": "U",
-    "name": "Machoke",
+    "name": {
+      "en": "Machoke",
+      "fr": "Machopeur"
+    },
     "image": "cPK_10_001440_01_GORIKY_U.webp",
     "packs": [
       "Deluxe"
@@ -1923,7 +2499,10 @@
     "set": "A4b",
     "number": 193,
     "rarity": "RR",
-    "name": "Machamp ex",
+    "name": {
+      "en": "Machamp ex",
+      "fr": "Mackogneur-ex"
+    },
     "image": "cPK_10_001460_00_KAIRIKYex_RR.webp",
     "packs": [
       "Deluxe"
@@ -1933,7 +2512,10 @@
     "set": "A4b",
     "number": 194,
     "rarity": "C",
-    "name": "Cubone",
+    "name": {
+      "en": "Cubone",
+      "fr": "Osselait"
+    },
     "image": "cPK_10_001510_00_KARAKARA_C.webp",
     "packs": [
       "Deluxe"
@@ -1943,7 +2525,10 @@
     "set": "A4b",
     "number": 195,
     "rarity": "C",
-    "name": "Cubone",
+    "name": {
+      "en": "Cubone",
+      "fr": "Osselait"
+    },
     "image": "cPK_10_001510_01_KARAKARA_C.webp",
     "packs": [
       "Deluxe"
@@ -1953,7 +2538,10 @@
     "set": "A4b",
     "number": 196,
     "rarity": "RR",
-    "name": "Marowak ex",
+    "name": {
+      "en": "Marowak ex",
+      "fr": "Ossatueur-ex"
+    },
     "image": "cPK_10_001530_00_GARAGARAex_RR.webp",
     "packs": [
       "Deluxe"
@@ -1963,7 +2551,10 @@
     "set": "A4b",
     "number": 197,
     "rarity": "RR",
-    "name": "Aerodactyl ex",
+    "name": {
+      "en": "Aerodactyl ex",
+      "fr": "Ptéra-ex"
+    },
     "image": "cPK_10_002590_00_PTERAex_RR.webp",
     "packs": [
       "Deluxe"
@@ -1973,7 +2564,10 @@
     "set": "A4b",
     "number": 198,
     "rarity": "U",
-    "name": "Sudowoodo",
+    "name": {
+      "en": "Sudowoodo",
+      "fr": "Simularbre"
+    },
     "image": "cPK_10_004600_00_USOKKIE_U.webp",
     "packs": [
       "Deluxe"
@@ -1983,7 +2577,10 @@
     "set": "A4b",
     "number": 199,
     "rarity": "U",
-    "name": "Sudowoodo",
+    "name": {
+      "en": "Sudowoodo",
+      "fr": "Simularbre"
+    },
     "image": "cPK_10_004600_01_USOKKIE_U.webp",
     "packs": [
       "Deluxe"
@@ -1993,7 +2590,10 @@
     "set": "A4b",
     "number": 200,
     "rarity": "C",
-    "name": "Phanpy",
+    "name": {
+      "en": "Phanpy",
+      "fr": "Phanpy"
+    },
     "image": "cPK_10_009550_00_GOMAZOU_C.webp",
     "packs": [
       "Deluxe"
@@ -2003,7 +2603,10 @@
     "set": "A4b",
     "number": 201,
     "rarity": "C",
-    "name": "Phanpy",
+    "name": {
+      "en": "Phanpy",
+      "fr": "Phanpy"
+    },
     "image": "cPK_10_009550_01_GOMAZOU_C.webp",
     "packs": [
       "Deluxe"
@@ -2013,7 +2616,10 @@
     "set": "A4b",
     "number": 202,
     "rarity": "RR",
-    "name": "Donphan ex",
+    "name": {
+      "en": "Donphan ex",
+      "fr": "Donphan-ex"
+    },
     "image": "cPK_10_009560_00_DONFANex_RR.webp",
     "packs": [
       "Deluxe"
@@ -2023,7 +2629,10 @@
     "set": "A4b",
     "number": 203,
     "rarity": "C",
-    "name": "Nosepass",
+    "name": {
+      "en": "Nosepass",
+      "fr": "Tarinor"
+    },
     "image": "cPK_10_004660_00_NOSEPASS_C.webp",
     "packs": [
       "Deluxe"
@@ -2033,7 +2642,10 @@
     "set": "A4b",
     "number": 204,
     "rarity": "C",
-    "name": "Nosepass",
+    "name": {
+      "en": "Nosepass",
+      "fr": "Tarinor"
+    },
     "image": "cPK_10_004660_01_NOSEPASS_C.webp",
     "packs": [
       "Deluxe"
@@ -2043,7 +2655,10 @@
     "set": "A4b",
     "number": 205,
     "rarity": "C",
-    "name": "Gible",
+    "name": {
+      "en": "Gible",
+      "fr": "Griknot"
+    },
     "image": "cPK_10_004690_00_FUKAMARU_C.webp",
     "packs": [
       "Deluxe"
@@ -2053,7 +2668,10 @@
     "set": "A4b",
     "number": 206,
     "rarity": "C",
-    "name": "Gible",
+    "name": {
+      "en": "Gible",
+      "fr": "Griknot"
+    },
     "image": "cPK_10_004690_01_FUKAMARU_C.webp",
     "packs": [
       "Deluxe"
@@ -2063,7 +2681,10 @@
     "set": "A4b",
     "number": 207,
     "rarity": "C",
-    "name": "Gabite",
+    "name": {
+      "en": "Gabite",
+      "fr": "Carmache"
+    },
     "image": "cPK_10_004700_00_GABITE_C.webp",
     "packs": [
       "Deluxe"
@@ -2073,7 +2694,10 @@
     "set": "A4b",
     "number": 208,
     "rarity": "C",
-    "name": "Gabite",
+    "name": {
+      "en": "Gabite",
+      "fr": "Carmache"
+    },
     "image": "cPK_10_004700_01_GABITE_C.webp",
     "packs": [
       "Deluxe"
@@ -2083,7 +2707,10 @@
     "set": "A4b",
     "number": 209,
     "rarity": "RR",
-    "name": "Garchomp ex",
+    "name": {
+      "en": "Garchomp ex",
+      "fr": "Carchacrok-ex"
+    },
     "image": "cPK_10_004710_00_GABURIASex_RR.webp",
     "packs": [
       "Deluxe"
@@ -2093,7 +2720,10 @@
     "set": "A4b",
     "number": 210,
     "rarity": "C",
-    "name": "Riolu",
+    "name": {
+      "en": "Riolu",
+      "fr": "Riolu"
+    },
     "image": "cPK_10_005070_00_RIOLU_C.webp",
     "packs": [
       "Deluxe"
@@ -2103,7 +2733,10 @@
     "set": "A4b",
     "number": 211,
     "rarity": "C",
-    "name": "Riolu",
+    "name": {
+      "en": "Riolu",
+      "fr": "Riolu"
+    },
     "image": "cPK_10_005070_01_RIOLU_C.webp",
     "packs": [
       "Deluxe"
@@ -2113,7 +2746,10 @@
     "set": "A4b",
     "number": 212,
     "rarity": "R",
-    "name": "Lucario",
+    "name": {
+      "en": "Lucario",
+      "fr": "Lucario"
+    },
     "image": "cPK_10_003730_00_LUCARIO_R.webp",
     "packs": [
       "Deluxe"
@@ -2123,7 +2759,10 @@
     "set": "A4b",
     "number": 213,
     "rarity": "R",
-    "name": "Lucario",
+    "name": {
+      "en": "Lucario",
+      "fr": "Lucario"
+    },
     "image": "cPK_10_003730_01_LUCARIO_R.webp",
     "packs": [
       "Deluxe"
@@ -2133,7 +2772,10 @@
     "set": "A4b",
     "number": 214,
     "rarity": "RR",
-    "name": "Lucario ex",
+    "name": {
+      "en": "Lucario ex",
+      "fr": "Lucario-ex"
+    },
     "image": "cPK_10_005580_00_LUCARIOex_RR.webp",
     "packs": [
       "Deluxe"
@@ -2143,7 +2785,10 @@
     "set": "A4b",
     "number": 215,
     "rarity": "RR",
-    "name": "Gallade ex",
+    "name": {
+      "en": "Gallade ex",
+      "fr": "Gallame-ex"
+    },
     "image": "cPK_10_003760_00_ERUREIDOex_RR.webp",
     "packs": [
       "Deluxe"
@@ -2153,7 +2798,10 @@
     "set": "A4b",
     "number": 216,
     "rarity": "C",
-    "name": "Drilbur",
+    "name": {
+      "en": "Drilbur",
+      "fr": "Rototaupe"
+    },
     "image": "cPK_10_006740_00_MOGUREW_C.webp",
     "packs": [
       "Deluxe"
@@ -2163,7 +2811,10 @@
     "set": "A4b",
     "number": 217,
     "rarity": "C",
-    "name": "Drilbur",
+    "name": {
+      "en": "Drilbur",
+      "fr": "Rototaupe"
+    },
     "image": "cPK_10_006740_01_MOGUREW_C.webp",
     "packs": [
       "Deluxe"
@@ -2173,7 +2824,10 @@
     "set": "A4b",
     "number": 218,
     "rarity": "C",
-    "name": "Crabrawler",
+    "name": {
+      "en": "Crabrawler",
+      "fr": "Crabagarre"
+    },
     "image": "cPK_10_006780_00_MAKENKANI_C.webp",
     "packs": [
       "Deluxe"
@@ -2183,7 +2837,10 @@
     "set": "A4b",
     "number": 219,
     "rarity": "C",
-    "name": "Crabrawler",
+    "name": {
+      "en": "Crabrawler",
+      "fr": "Crabagarre"
+    },
     "image": "cPK_10_006780_01_MAKENKANI_C.webp",
     "packs": [
       "Deluxe"
@@ -2193,7 +2850,10 @@
     "set": "A4b",
     "number": 220,
     "rarity": "C",
-    "name": "Rockruff",
+    "name": {
+      "en": "Rockruff",
+      "fr": "Rocabot"
+    },
     "image": "cPK_10_007690_00_IWANKO_C.webp",
     "packs": [
       "Deluxe"
@@ -2203,7 +2863,10 @@
     "set": "A4b",
     "number": 221,
     "rarity": "C",
-    "name": "Rockruff",
+    "name": {
+      "en": "Rockruff",
+      "fr": "Rocabot"
+    },
     "image": "cPK_10_007690_01_IWANKO_C.webp",
     "packs": [
       "Deluxe"
@@ -2213,7 +2876,10 @@
     "set": "A4b",
     "number": 222,
     "rarity": "RR",
-    "name": "Lycanroc ex",
+    "name": {
+      "en": "Lycanroc ex",
+      "fr": "Lougaroc-ex"
+    },
     "image": "cPK_10_007700_00_LUGARUGANTASOGARENOSUGATA_RR.webp",
     "packs": [
       "Deluxe"
@@ -2223,7 +2889,10 @@
     "set": "A4b",
     "number": 223,
     "rarity": "RR",
-    "name": "Passimian ex",
+    "name": {
+      "en": "Passimian ex",
+      "fr": "Quartermac-ex"
+    },
     "image": "cPK_10_006850_00_NAGETUKESARUex_RR.webp",
     "packs": [
       "Deluxe"
@@ -2233,7 +2902,10 @@
     "set": "A4b",
     "number": 224,
     "rarity": "R",
-    "name": "Marshadow",
+    "name": {
+      "en": "Marshadow",
+      "fr": "Marshadow"
+    },
     "image": "cPK_10_002600_00_MARSHADOW_R.webp",
     "packs": [
       "Deluxe"
@@ -2243,7 +2915,10 @@
     "set": "A4b",
     "number": 225,
     "rarity": "R",
-    "name": "Marshadow",
+    "name": {
+      "en": "Marshadow",
+      "fr": "Marshadow"
+    },
     "image": "cPK_10_002600_01_MARSHADOW_R.webp",
     "packs": [
       "Deluxe"
@@ -2253,7 +2928,10 @@
     "set": "A4b",
     "number": 226,
     "rarity": "C",
-    "name": "Zubat",
+    "name": {
+      "en": "Zubat",
+      "fr": "Nosferapti"
+    },
     "image": "cPK_10_004720_00_ZUBAT_C.webp",
     "packs": [
       "Deluxe"
@@ -2263,7 +2941,10 @@
     "set": "A4b",
     "number": 227,
     "rarity": "C",
-    "name": "Zubat",
+    "name": {
+      "en": "Zubat",
+      "fr": "Nosferapti"
+    },
     "image": "cPK_10_004720_01_ZUBAT_C.webp",
     "packs": [
       "Deluxe"
@@ -2273,7 +2954,10 @@
     "set": "A4b",
     "number": 228,
     "rarity": "C",
-    "name": "Golbat",
+    "name": {
+      "en": "Golbat",
+      "fr": "Nosferalto"
+    },
     "image": "cPK_10_004730_00_GOLBAT_C.webp",
     "packs": [
       "Deluxe"
@@ -2283,7 +2967,10 @@
     "set": "A4b",
     "number": 229,
     "rarity": "C",
-    "name": "Golbat",
+    "name": {
+      "en": "Golbat",
+      "fr": "Nosferalto"
+    },
     "image": "cPK_10_004730_01_GOLBAT_C.webp",
     "packs": [
       "Deluxe"
@@ -2293,7 +2980,10 @@
     "set": "A4b",
     "number": 230,
     "rarity": "R",
-    "name": "Crobat",
+    "name": {
+      "en": "Crobat",
+      "fr": "Nostenfer"
+    },
     "image": "cPK_10_004740_00_CROBAT_R.webp",
     "packs": [
       "Deluxe"
@@ -2303,7 +2993,10 @@
     "set": "A4b",
     "number": 231,
     "rarity": "R",
-    "name": "Crobat",
+    "name": {
+      "en": "Crobat",
+      "fr": "Nostenfer"
+    },
     "image": "cPK_10_004740_01_CROBAT_R.webp",
     "packs": [
       "Deluxe"
@@ -2313,7 +3006,10 @@
     "set": "A4b",
     "number": 232,
     "rarity": "RR",
-    "name": "Crobat ex",
+    "name": {
+      "en": "Crobat ex",
+      "fr": "Nostenfer-ex"
+    },
     "image": "cPK_10_009650_00_CROBATex_RR.webp",
     "packs": [
       "Deluxe"
@@ -2323,7 +3019,10 @@
     "set": "A4b",
     "number": 233,
     "rarity": "C",
-    "name": "Alolan Grimer",
+    "name": {
+      "en": "Alolan Grimer",
+      "fr": "Tadmorv de Alola"
+    },
     "image": "cPK_10_006910_00_ALOLABETBETER_C.webp",
     "packs": [
       "Deluxe"
@@ -2333,7 +3032,10 @@
     "set": "A4b",
     "number": 234,
     "rarity": "C",
-    "name": "Alolan Grimer",
+    "name": {
+      "en": "Alolan Grimer",
+      "fr": "Tadmorv de Alola"
+    },
     "image": "cPK_10_006910_01_ALOLABETBETER_C.webp",
     "packs": [
       "Deluxe"
@@ -2343,7 +3045,10 @@
     "set": "A4b",
     "number": 235,
     "rarity": "RR",
-    "name": "Alolan Muk ex",
+    "name": {
+      "en": "Alolan Muk ex",
+      "fr": "Grotadmorv de Alola-ex"
+    },
     "image": "cPK_10_006920_00_ALOLABETBETONex_RR.webp",
     "packs": [
       "Deluxe"
@@ -2353,7 +3058,10 @@
     "set": "A4b",
     "number": 236,
     "rarity": "C",
-    "name": "Paldean Wooper",
+    "name": {
+      "en": "Paldean Wooper",
+      "fr": "Axoloto de Paldea"
+    },
     "image": "cPK_10_005620_00_PALDEAUPAH_C.webp",
     "packs": [
       "Deluxe"
@@ -2363,7 +3071,10 @@
     "set": "A4b",
     "number": 237,
     "rarity": "C",
-    "name": "Paldean Wooper",
+    "name": {
+      "en": "Paldean Wooper",
+      "fr": "Axoloto de Paldea"
+    },
     "image": "cPK_10_005620_01_PALDEAUPAH_C.webp",
     "packs": [
       "Deluxe"
@@ -2373,7 +3084,10 @@
     "set": "A4b",
     "number": 238,
     "rarity": "RR",
-    "name": "Paldean Clodsire ex",
+    "name": {
+      "en": "Paldean Clodsire ex",
+      "fr": "Terraiste de Paldea-ex"
+    },
     "image": "cPK_10_005630_00_PALDEADOOHex_RR.webp",
     "packs": [
       "Deluxe"
@@ -2383,7 +3097,10 @@
     "set": "A4b",
     "number": 239,
     "rarity": "R",
-    "name": "Umbreon",
+    "name": {
+      "en": "Umbreon",
+      "fr": "Noctali"
+    },
     "image": "cPK_10_008360_00_BRACKY_R.webp",
     "packs": [
       "Deluxe"
@@ -2393,7 +3110,10 @@
     "set": "A4b",
     "number": 240,
     "rarity": "R",
-    "name": "Umbreon",
+    "name": {
+      "en": "Umbreon",
+      "fr": "Noctali"
+    },
     "image": "cPK_10_008360_01_BRACKY_R.webp",
     "packs": [
       "Deluxe"
@@ -2403,7 +3123,10 @@
     "set": "A4b",
     "number": 241,
     "rarity": "RR",
-    "name": "Umbreon ex",
+    "name": {
+      "en": "Umbreon ex",
+      "fr": "Noctali-ex"
+    },
     "image": "cPK_10_009680_00_BRACKYex_RR.webp",
     "packs": [
       "Deluxe"
@@ -2413,7 +3136,10 @@
     "set": "A4b",
     "number": 242,
     "rarity": "C",
-    "name": "Sneasel",
+    "name": {
+      "en": "Sneasel",
+      "fr": "Farfuret"
+    },
     "image": "cPK_10_003790_00_NYULA_C.webp",
     "packs": [
       "Deluxe"
@@ -2423,7 +3149,10 @@
     "set": "A4b",
     "number": 243,
     "rarity": "C",
-    "name": "Sneasel",
+    "name": {
+      "en": "Sneasel",
+      "fr": "Farfuret"
+    },
     "image": "cPK_10_003790_01_NYULA_C.webp",
     "packs": [
       "Deluxe"
@@ -2433,7 +3162,10 @@
     "set": "A4b",
     "number": 244,
     "rarity": "RR",
-    "name": "Weavile ex",
+    "name": {
+      "en": "Weavile ex",
+      "fr": "Dimoret-ex"
+    },
     "image": "cPK_10_003800_00_MANYULAex_RR.webp",
     "packs": [
       "Deluxe"
@@ -2443,7 +3175,10 @@
     "set": "A4b",
     "number": 245,
     "rarity": "RR",
-    "name": "Darkrai ex",
+    "name": {
+      "en": "Darkrai ex",
+      "fr": "Darkrai-ex"
+    },
     "image": "cPK_10_003910_00_DARKRAIex_RR.webp",
     "packs": [
       "Deluxe"
@@ -2453,7 +3188,10 @@
     "set": "A4b",
     "number": 246,
     "rarity": "R",
-    "name": "Nihilego",
+    "name": {
+      "en": "Nihilego",
+      "fr": "Zéroïd"
+    },
     "image": "cPK_10_007790_00_UTUROID_R.webp",
     "packs": [
       "Deluxe"
@@ -2463,7 +3201,10 @@
     "set": "A4b",
     "number": 247,
     "rarity": "R",
-    "name": "Nihilego",
+    "name": {
+      "en": "Nihilego",
+      "fr": "Zéroïd"
+    },
     "image": "cPK_10_007790_01_UTUROID_R.webp",
     "packs": [
       "Deluxe"
@@ -2473,7 +3214,10 @@
     "set": "A4b",
     "number": 248,
     "rarity": "RR",
-    "name": "Guzzlord ex",
+    "name": {
+      "en": "Guzzlord ex",
+      "fr": "Engloutyran-ex"
+    },
     "image": "cPK_10_007800_00_AKUZIKINGex_RR.webp",
     "packs": [
       "Deluxe"
@@ -2483,7 +3227,10 @@
     "set": "A4b",
     "number": 249,
     "rarity": "C",
-    "name": "Alolan Diglett",
+    "name": {
+      "en": "Alolan Diglett",
+      "fr": "Taupiqueur de Alola"
+    },
     "image": "cPK_10_007820_00_ALOLADIGDA_C.webp",
     "packs": [
       "Deluxe"
@@ -2493,7 +3240,10 @@
     "set": "A4b",
     "number": 250,
     "rarity": "C",
-    "name": "Alolan Diglett",
+    "name": {
+      "en": "Alolan Diglett",
+      "fr": "Taupiqueur de Alola"
+    },
     "image": "cPK_10_007820_01_ALOLADIGDA_C.webp",
     "packs": [
       "Deluxe"
@@ -2503,7 +3253,10 @@
     "set": "A4b",
     "number": 251,
     "rarity": "RR",
-    "name": "Alolan Dugtrio ex",
+    "name": {
+      "en": "Alolan Dugtrio ex",
+      "fr": "Triopikeur de Alola-ex"
+    },
     "image": "cPK_10_007830_00_ALOLADUGTRIOex_RR.webp",
     "packs": [
       "Deluxe"
@@ -2513,7 +3266,10 @@
     "set": "A4b",
     "number": 252,
     "rarity": "RR",
-    "name": "Skarmory ex",
+    "name": {
+      "en": "Skarmory ex",
+      "fr": "Airmure-ex"
+    },
     "image": "cPK_10_009800_00_AIRMDex_RR.webp",
     "packs": [
       "Deluxe"
@@ -2523,7 +3279,10 @@
     "set": "A4b",
     "number": 253,
     "rarity": "RR",
-    "name": "Probopass ex",
+    "name": {
+      "en": "Probopass ex",
+      "fr": "Tarinorme-ex"
+    },
     "image": "cPK_10_004810_00_DAINOSEex_RR.webp",
     "packs": [
       "Deluxe"
@@ -2533,7 +3292,10 @@
     "set": "A4b",
     "number": 254,
     "rarity": "RR",
-    "name": "Dialga ex",
+    "name": {
+      "en": "Dialga ex",
+      "fr": "Dialga-ex"
+    },
     "image": "cPK_10_004000_00_DIALGAex_RR.webp",
     "packs": [
       "Deluxe"
@@ -2543,7 +3305,10 @@
     "set": "A4b",
     "number": 255,
     "rarity": "U",
-    "name": "Excadrill",
+    "name": {
+      "en": "Excadrill",
+      "fr": "Minotaupe"
+    },
     "image": "cPK_10_007000_00_DORYUZU_U.webp",
     "packs": [
       "Deluxe"
@@ -2553,7 +3318,10 @@
     "set": "A4b",
     "number": 256,
     "rarity": "U",
-    "name": "Excadrill",
+    "name": {
+      "en": "Excadrill",
+      "fr": "Minotaupe"
+    },
     "image": "cPK_10_007000_01_DORYUZU_U.webp",
     "packs": [
       "Deluxe"
@@ -2563,7 +3331,10 @@
     "set": "A4b",
     "number": 257,
     "rarity": "R",
-    "name": "Klefki",
+    "name": {
+      "en": "Klefki",
+      "fr": "Trousselin"
+    },
     "image": "cPK_10_007020_00_CLEFFY_R.webp",
     "packs": [
       "Deluxe"
@@ -2573,7 +3344,10 @@
     "set": "A4b",
     "number": 258,
     "rarity": "R",
-    "name": "Klefki",
+    "name": {
+      "en": "Klefki",
+      "fr": "Trousselin"
+    },
     "image": "cPK_10_007020_01_CLEFFY_R.webp",
     "packs": [
       "Deluxe"
@@ -2583,7 +3357,10 @@
     "set": "A4b",
     "number": 259,
     "rarity": "RR",
-    "name": "Solgaleo ex",
+    "name": {
+      "en": "Solgaleo ex",
+      "fr": "Solgaleo-ex"
+    },
     "image": "cPK_10_007030_00_SOLGALEOex_RR.webp",
     "packs": [
       "Deluxe"
@@ -2593,7 +3370,10 @@
     "set": "A4b",
     "number": 260,
     "rarity": "R",
-    "name": "Magearna",
+    "name": {
+      "en": "Magearna",
+      "fr": "Magearna"
+    },
     "image": "cPK_10_007040_00_MAGEARNA_R.webp",
     "packs": [
       "Deluxe"
@@ -2603,7 +3383,10 @@
     "set": "A4b",
     "number": 261,
     "rarity": "R",
-    "name": "Magearna",
+    "name": {
+      "en": "Magearna",
+      "fr": "Magearna"
+    },
     "image": "cPK_10_007040_01_MAGEARNA_R.webp",
     "packs": [
       "Deluxe"
@@ -2613,7 +3396,10 @@
     "set": "A4b",
     "number": 262,
     "rarity": "C",
-    "name": "Tinkatink",
+    "name": {
+      "en": "Tinkatink",
+      "fr": "Forgerette"
+    },
     "image": "cPK_10_005670_00_KANUCHAN_C.webp",
     "packs": [
       "Deluxe"
@@ -2623,7 +3409,10 @@
     "set": "A4b",
     "number": 263,
     "rarity": "C",
-    "name": "Tinkatink",
+    "name": {
+      "en": "Tinkatink",
+      "fr": "Forgerette"
+    },
     "image": "cPK_10_005670_01_KANUCHAN_C.webp",
     "packs": [
       "Deluxe"
@@ -2633,7 +3422,10 @@
     "set": "A4b",
     "number": 264,
     "rarity": "U",
-    "name": "Tinkatuff",
+    "name": {
+      "en": "Tinkatuff",
+      "fr": "Forgella"
+    },
     "image": "cPK_10_005680_00_NAKANUCHAN_U.webp",
     "packs": [
       "Deluxe"
@@ -2643,7 +3435,10 @@
     "set": "A4b",
     "number": 265,
     "rarity": "U",
-    "name": "Tinkatuff",
+    "name": {
+      "en": "Tinkatuff",
+      "fr": "Forgella"
+    },
     "image": "cPK_10_005680_01_NAKANUCHAN_U.webp",
     "packs": [
       "Deluxe"
@@ -2653,7 +3448,10 @@
     "set": "A4b",
     "number": 266,
     "rarity": "RR",
-    "name": "Tinkaton ex",
+    "name": {
+      "en": "Tinkaton ex",
+      "fr": "Forgelina-ex"
+    },
     "image": "cPK_10_005690_00_DEKANUCHANex_RR.webp",
     "packs": [
       "Deluxe"
@@ -2663,7 +3461,10 @@
     "set": "A4b",
     "number": 267,
     "rarity": "C",
-    "name": "Dratini",
+    "name": {
+      "en": "Dratini",
+      "fr": "Minidraco"
+    },
     "image": "cPK_10_008430_00_MINIRYU_C.webp",
     "packs": [
       "Deluxe"
@@ -2673,7 +3474,10 @@
     "set": "A4b",
     "number": 268,
     "rarity": "C",
-    "name": "Dratini",
+    "name": {
+      "en": "Dratini",
+      "fr": "Minidraco"
+    },
     "image": "cPK_10_008430_01_MINIRYU_C.webp",
     "packs": [
       "Deluxe"
@@ -2683,7 +3487,10 @@
     "set": "A4b",
     "number": 269,
     "rarity": "C",
-    "name": "Dragonair",
+    "name": {
+      "en": "Dragonair",
+      "fr": "Draco"
+    },
     "image": "cPK_10_008440_00_HAKURYU_C.webp",
     "packs": [
       "Deluxe"
@@ -2693,7 +3500,10 @@
     "set": "A4b",
     "number": 270,
     "rarity": "C",
-    "name": "Dragonair",
+    "name": {
+      "en": "Dragonair",
+      "fr": "Draco"
+    },
     "image": "cPK_10_008440_01_HAKURYU_C.webp",
     "packs": [
       "Deluxe"
@@ -2703,7 +3513,10 @@
     "set": "A4b",
     "number": 271,
     "rarity": "RR",
-    "name": "Dragonite ex",
+    "name": {
+      "en": "Dragonite ex",
+      "fr": "Dracolosse-ex"
+    },
     "image": "cPK_10_008450_00_KAIRYUex_RR.webp",
     "packs": [
       "Deluxe"
@@ -2713,7 +3526,10 @@
     "set": "A4b",
     "number": 272,
     "rarity": "C",
-    "name": "Pidgey",
+    "name": {
+      "en": "Pidgey",
+      "fr": "Roucool"
+    },
     "image": "cPK_10_002700_00_POPPO_C.webp",
     "packs": [
       "Deluxe"
@@ -2723,7 +3539,10 @@
     "set": "A4b",
     "number": 273,
     "rarity": "C",
-    "name": "Pidgey",
+    "name": {
+      "en": "Pidgey",
+      "fr": "Roucool"
+    },
     "image": "cPK_10_002700_01_POPPO_C.webp",
     "packs": [
       "Deluxe"
@@ -2733,7 +3552,10 @@
     "set": "A4b",
     "number": 274,
     "rarity": "C",
-    "name": "Pidgeotto",
+    "name": {
+      "en": "Pidgeotto",
+      "fr": "Roucoups"
+    },
     "image": "cPK_10_002710_00_PIGEON_C.webp",
     "packs": [
       "Deluxe"
@@ -2743,7 +3565,10 @@
     "set": "A4b",
     "number": 275,
     "rarity": "C",
-    "name": "Pidgeotto",
+    "name": {
+      "en": "Pidgeotto",
+      "fr": "Roucoups"
+    },
     "image": "cPK_10_002710_01_PIGEON_C.webp",
     "packs": [
       "Deluxe"
@@ -2753,7 +3578,10 @@
     "set": "A4b",
     "number": 276,
     "rarity": "RR",
-    "name": "Pidgeot ex",
+    "name": {
+      "en": "Pidgeot ex",
+      "fr": "Roucarnage-ex"
+    },
     "image": "cPK_10_002720_00_PIGEOTex_RR.webp",
     "packs": [
       "Deluxe"
@@ -2763,7 +3591,10 @@
     "set": "A4b",
     "number": 277,
     "rarity": "C",
-    "name": "Jigglypuff",
+    "name": {
+      "en": "Jigglypuff",
+      "fr": "Rondoudou"
+    },
     "image": "cPK_10_001930_00_PURIN_C.webp",
     "packs": [
       "Deluxe"
@@ -2773,7 +3604,10 @@
     "set": "A4b",
     "number": 278,
     "rarity": "C",
-    "name": "Jigglypuff",
+    "name": {
+      "en": "Jigglypuff",
+      "fr": "Rondoudou"
+    },
     "image": "cPK_10_001930_01_PURIN_C.webp",
     "packs": [
       "Deluxe"
@@ -2783,7 +3617,10 @@
     "set": "A4b",
     "number": 279,
     "rarity": "RR",
-    "name": "Wigglytuff ex",
+    "name": {
+      "en": "Wigglytuff ex",
+      "fr": "Grodoudou-ex"
+    },
     "image": "cPK_10_001950_00_PUKURINex_RR.webp",
     "packs": [
       "Deluxe"
@@ -2793,7 +3630,10 @@
     "set": "A4b",
     "number": 280,
     "rarity": "C",
-    "name": "Farfetch’d",
+    "name": {
+      "en": "Farfetch’d",
+      "fr": "Canarticho"
+    },
     "image": "cPK_10_001980_00_KAMONEGI_C.webp",
     "packs": [
       "Deluxe"
@@ -2803,7 +3643,10 @@
     "set": "A4b",
     "number": 281,
     "rarity": "C",
-    "name": "Farfetch’d",
+    "name": {
+      "en": "Farfetch’d",
+      "fr": "Canarticho"
+    },
     "image": "cPK_10_001980_01_KAMONEGI_C.webp",
     "packs": [
       "Deluxe"
@@ -2813,7 +3656,10 @@
     "set": "A4b",
     "number": 282,
     "rarity": "C",
-    "name": "Lickitung",
+    "name": {
+      "en": "Lickitung",
+      "fr": "Excelangue"
+    },
     "image": "cPK_10_004050_00_BERORINGA_C.webp",
     "packs": [
       "Deluxe"
@@ -2823,7 +3669,10 @@
     "set": "A4b",
     "number": 283,
     "rarity": "C",
-    "name": "Lickitung",
+    "name": {
+      "en": "Lickitung",
+      "fr": "Excelangue"
+    },
     "image": "cPK_10_004050_01_BERORINGA_C.webp",
     "packs": [
       "Deluxe"
@@ -2833,7 +3682,10 @@
     "set": "A4b",
     "number": 284,
     "rarity": "RR",
-    "name": "Lickilicky ex",
+    "name": {
+      "en": "Lickilicky ex",
+      "fr": "Coudlangue-ex"
+    },
     "image": "cPK_10_004060_00_BEROBELTex_RR.webp",
     "packs": [
       "Deluxe"
@@ -2843,7 +3695,10 @@
     "set": "A4b",
     "number": 285,
     "rarity": "C",
-    "name": "Eevee",
+    "name": {
+      "en": "Eevee",
+      "fr": "Évoli"
+    },
     "image": "cPK_10_008470_00_EIEVUI_C.webp",
     "packs": [
       "Deluxe"
@@ -2853,7 +3708,10 @@
     "set": "A4b",
     "number": 286,
     "rarity": "C",
-    "name": "Eevee",
+    "name": {
+      "en": "Eevee",
+      "fr": "Évoli"
+    },
     "image": "cPK_10_008470_01_EIEVUI_C.webp",
     "packs": [
       "Deluxe"
@@ -2863,7 +3721,10 @@
     "set": "A4b",
     "number": 287,
     "rarity": "RR",
-    "name": "Eevee ex",
+    "name": {
+      "en": "Eevee ex",
+      "fr": "Évoli-ex"
+    },
     "image": "cPK_10_008480_00_EIEVUIex_RR.webp",
     "packs": [
       "Deluxe"
@@ -2873,7 +3734,10 @@
     "set": "A4b",
     "number": 288,
     "rarity": "RR",
-    "name": "Snorlax ex",
+    "name": {
+      "en": "Snorlax ex",
+      "fr": "Ronflex-ex"
+    },
     "image": "cPK_10_008490_00_KABIGONex_RR.webp",
     "packs": [
       "Deluxe"
@@ -2883,7 +3747,10 @@
     "set": "A4b",
     "number": 289,
     "rarity": "RR",
-    "name": "Lugia ex",
+    "name": {
+      "en": "Lugia ex",
+      "fr": "Lugia-ex"
+    },
     "image": "cPK_10_010050_00_LUGIAex_RR.webp",
     "packs": [
       "Deluxe"
@@ -2893,7 +3760,10 @@
     "set": "A4b",
     "number": 290,
     "rarity": "C",
-    "name": "Skitty",
+    "name": {
+      "en": "Skitty",
+      "fr": "Skitty"
+    },
     "image": "cPK_10_007100_00_ENECO_C.webp",
     "packs": [
       "Deluxe"
@@ -2903,7 +3773,10 @@
     "set": "A4b",
     "number": 291,
     "rarity": "C",
-    "name": "Skitty",
+    "name": {
+      "en": "Skitty",
+      "fr": "Skitty"
+    },
     "image": "cPK_10_007100_01_ENECO_C.webp",
     "packs": [
       "Deluxe"
@@ -2913,7 +3786,10 @@
     "set": "A4b",
     "number": 292,
     "rarity": "U",
-    "name": "Delcatty",
+    "name": {
+      "en": "Delcatty",
+      "fr": "Delcatty"
+    },
     "image": "cPK_10_007110_00_ENEKORORO_U.webp",
     "packs": [
       "Deluxe"
@@ -2923,7 +3799,10 @@
     "set": "A4b",
     "number": 293,
     "rarity": "U",
-    "name": "Delcatty",
+    "name": {
+      "en": "Delcatty",
+      "fr": "Delcatty"
+    },
     "image": "cPK_10_007110_01_ENEKORORO_U.webp",
     "packs": [
       "Deluxe"
@@ -2933,7 +3812,10 @@
     "set": "A4b",
     "number": 294,
     "rarity": "C",
-    "name": "Bidoof",
+    "name": {
+      "en": "Bidoof",
+      "fr": "Keunotor"
+    },
     "image": "cPK_10_005040_00_BIPPA_C.webp",
     "packs": [
       "Deluxe"
@@ -2943,7 +3825,10 @@
     "set": "A4b",
     "number": 295,
     "rarity": "C",
-    "name": "Bidoof",
+    "name": {
+      "en": "Bidoof",
+      "fr": "Keunotor"
+    },
     "image": "cPK_10_005040_01_BIPPA_C.webp",
     "packs": [
       "Deluxe"
@@ -2953,7 +3838,10 @@
     "set": "A4b",
     "number": 296,
     "rarity": "RR",
-    "name": "Bibarel ex",
+    "name": {
+      "en": "Bibarel ex",
+      "fr": "Castorno-ex"
+    },
     "image": "cPK_10_005790_00_BEADARUex_RR.webp",
     "packs": [
       "Deluxe"
@@ -2963,7 +3851,10 @@
     "set": "A4b",
     "number": 297,
     "rarity": "R",
-    "name": "Shaymin",
+    "name": {
+      "en": "Shaymin",
+      "fr": "Shaymin"
+    },
     "image": "cPK_10_004930_00_SHAYMIN_R.webp",
     "packs": [
       "Deluxe"
@@ -2973,7 +3864,10 @@
     "set": "A4b",
     "number": 298,
     "rarity": "R",
-    "name": "Shaymin",
+    "name": {
+      "en": "Shaymin",
+      "fr": "Shaymin"
+    },
     "image": "cPK_10_004930_01_SHAYMIN_R.webp",
     "packs": [
       "Deluxe"
@@ -2983,7 +3877,10 @@
     "set": "A4b",
     "number": 299,
     "rarity": "RR",
-    "name": "Arceus ex",
+    "name": {
+      "en": "Arceus ex",
+      "fr": "Arceus-ex"
+    },
     "image": "cPK_10_004950_00_ARCEUSex_RR.webp",
     "packs": [
       "Deluxe"
@@ -2993,7 +3890,10 @@
     "set": "A4b",
     "number": 300,
     "rarity": "U",
-    "name": "Type: Null",
+    "name": {
+      "en": "Type: Null",
+      "fr": "Type:0"
+    },
     "image": "cPK_10_007940_00_TYPENULL_U.webp",
     "packs": [
       "Deluxe"
@@ -3003,7 +3903,10 @@
     "set": "A4b",
     "number": 301,
     "rarity": "U",
-    "name": "Type: Null",
+    "name": {
+      "en": "Type: Null",
+      "fr": "Type:0"
+    },
     "image": "cPK_10_007940_01_TYPENULL_U.webp",
     "packs": [
       "Deluxe"
@@ -3013,7 +3916,10 @@
     "set": "A4b",
     "number": 302,
     "rarity": "R",
-    "name": "Silvally",
+    "name": {
+      "en": "Silvally",
+      "fr": "Silvallié"
+    },
     "image": "cPK_10_007950_00_SILVADY_R.webp",
     "packs": [
       "Deluxe"
@@ -3023,7 +3929,10 @@
     "set": "A4b",
     "number": 303,
     "rarity": "R",
-    "name": "Silvally",
+    "name": {
+      "en": "Silvally",
+      "fr": "Silvallié"
+    },
     "image": "cPK_10_007950_01_SILVADY_R.webp",
     "packs": [
       "Deluxe"
@@ -3033,7 +3942,10 @@
     "set": "A4b",
     "number": 304,
     "rarity": "R",
-    "name": "Celesteela",
+    "name": {
+      "en": "Celesteela",
+      "fr": "Bamboiselle"
+    },
     "image": "cPK_10_007960_00_TEKKAGUYA_R.webp",
     "packs": [
       "Deluxe"
@@ -3043,7 +3955,10 @@
     "set": "A4b",
     "number": 305,
     "rarity": "R",
-    "name": "Celesteela",
+    "name": {
+      "en": "Celesteela",
+      "fr": "Bamboiselle"
+    },
     "image": "cPK_10_007960_01_TEKKAGUYA_R.webp",
     "packs": [
       "Deluxe"
@@ -3053,7 +3968,10 @@
     "set": "A4b",
     "number": 306,
     "rarity": "U",
-    "name": "Cyclizar",
+    "name": {
+      "en": "Cyclizar",
+      "fr": "Motorizard"
+    },
     "image": "cPK_10_005090_00_MOTOTOKAGE_U.webp",
     "packs": [
       "Deluxe"
@@ -3063,7 +3981,10 @@
     "set": "A4b",
     "number": 307,
     "rarity": "U",
-    "name": "Cyclizar",
+    "name": {
+      "en": "Cyclizar",
+      "fr": "Motorizard"
+    },
     "image": "cPK_10_005090_01_MOTOTOKAGE_U.webp",
     "packs": [
       "Deluxe"
@@ -3073,7 +3994,10 @@
     "set": "A4b",
     "number": 308,
     "rarity": "U",
-    "name": "Eevee Bag",
+    "name": {
+      "en": "Eevee Bag",
+      "fr": "Sac Évoli"
+    },
     "image": "cTR_10_000670_00_IIBUINOBAKKU_U.webp",
     "packs": [
       "Deluxe"
@@ -3083,7 +4007,10 @@
     "set": "A4b",
     "number": 309,
     "rarity": "U",
-    "name": "Eevee Bag",
+    "name": {
+      "en": "Eevee Bag",
+      "fr": "Sac Évoli"
+    },
     "image": "cTR_10_000670_01_IIBUINOBAKKU_U.webp",
     "packs": [
       "Deluxe"
@@ -3093,7 +4020,10 @@
     "set": "A4b",
     "number": 310,
     "rarity": "U",
-    "name": "Elemental Switch",
+    "name": {
+      "en": "Elemental Switch",
+      "fr": "Échange Élémentaire"
+    },
     "image": "cTR_10_000710_00_EREMENTARUTSUKEKAE_U.webp",
     "packs": [
       "Deluxe"
@@ -3103,7 +4033,10 @@
     "set": "A4b",
     "number": 311,
     "rarity": "U",
-    "name": "Elemental Switch",
+    "name": {
+      "en": "Elemental Switch",
+      "fr": "Échange Élémentaire"
+    },
     "image": "cTR_10_000710_01_EREMENTARUTSUKEKAE_U.webp",
     "packs": [
       "Deluxe"
@@ -3113,7 +4046,10 @@
     "set": "A4b",
     "number": 312,
     "rarity": "C",
-    "name": "Old Amber",
+    "name": {
+      "en": "Old Amber",
+      "fr": "Vieil Ambre"
+    },
     "image": "cTR_10_000100_00_HIMITSUNOKOHAKU_C.webp",
     "packs": [
       "Deluxe"
@@ -3123,7 +4059,10 @@
     "set": "A4b",
     "number": 313,
     "rarity": "C",
-    "name": "Old Amber",
+    "name": {
+      "en": "Old Amber",
+      "fr": "Vieil Ambre"
+    },
     "image": "cTR_10_000100_01_HIMITSUNOKOHAKU_C.webp",
     "packs": [
       "Deluxe"
@@ -3133,7 +4072,10 @@
     "set": "A4b",
     "number": 314,
     "rarity": "U",
-    "name": "Rare Candy",
+    "name": {
+      "en": "Rare Candy",
+      "fr": "Super Bonbon"
+    },
     "image": "cTR_10_000480_00_FUSHIGINAAME_U.webp",
     "packs": [
       "Deluxe"
@@ -3143,7 +4085,10 @@
     "set": "A4b",
     "number": 315,
     "rarity": "U",
-    "name": "Rare Candy",
+    "name": {
+      "en": "Rare Candy",
+      "fr": "Super Bonbon"
+    },
     "image": "cTR_10_000480_01_FUSHIGINAAME_U.webp",
     "packs": [
       "Deluxe"
@@ -3153,7 +4098,10 @@
     "set": "A4b",
     "number": 316,
     "rarity": "U",
-    "name": "Pokémon Communication",
+    "name": {
+      "en": "Pokémon Communication",
+      "fr": "Communication Pokémon"
+    },
     "image": "cTR_10_000280_00_POKEMONTSUUSHIN_U.webp",
     "packs": [
       "Deluxe"
@@ -3163,7 +4111,10 @@
     "set": "A4b",
     "number": 317,
     "rarity": "U",
-    "name": "Pokémon Communication",
+    "name": {
+      "en": "Pokémon Communication",
+      "fr": "Communication Pokémon"
+    },
     "image": "cTR_10_000280_01_POKEMONTSUUSHIN_U.webp",
     "packs": [
       "Deluxe"
@@ -3173,7 +4124,10 @@
     "set": "A4b",
     "number": 318,
     "rarity": "U",
-    "name": "Electrical Cord",
+    "name": {
+      "en": "Electrical Cord",
+      "fr": "Câble Électrique"
+    },
     "image": "cTR_10_000620_00_EREKIKORD_U.webp",
     "packs": [
       "Deluxe"
@@ -3183,7 +4137,10 @@
     "set": "A4b",
     "number": 319,
     "rarity": "U",
-    "name": "Electrical Cord",
+    "name": {
+      "en": "Electrical Cord",
+      "fr": "Câble Électrique"
+    },
     "image": "cTR_10_000620_01_EREKIKORD_U.webp",
     "packs": [
       "Deluxe"
@@ -3193,7 +4150,10 @@
     "set": "A4b",
     "number": 320,
     "rarity": "U",
-    "name": "Giant Cape",
+    "name": {
+      "en": "Giant Cape",
+      "fr": "Cape Géante"
+    },
     "image": "cTR_10_000290_00_OOKINAMANTO_U.webp",
     "packs": [
       "Deluxe"
@@ -3203,7 +4163,10 @@
     "set": "A4b",
     "number": 321,
     "rarity": "U",
-    "name": "Giant Cape",
+    "name": {
+      "en": "Giant Cape",
+      "fr": "Cape Géante"
+    },
     "image": "cTR_10_000290_01_OOKINAMANTO_U.webp",
     "packs": [
       "Deluxe"
@@ -3213,7 +4176,10 @@
     "set": "A4b",
     "number": 322,
     "rarity": "U",
-    "name": "Rocky Helmet",
+    "name": {
+      "en": "Rocky Helmet",
+      "fr": "Casque Brut"
+    },
     "image": "cTR_10_000300_00_GOTSUGOTSUMETTO_U.webp",
     "packs": [
       "Deluxe"
@@ -3223,7 +4189,10 @@
     "set": "A4b",
     "number": 323,
     "rarity": "U",
-    "name": "Rocky Helmet",
+    "name": {
+      "en": "Rocky Helmet",
+      "fr": "Casque Brut"
+    },
     "image": "cTR_10_000300_01_GOTSUGOTSUMETTO_U.webp",
     "packs": [
       "Deluxe"
@@ -3233,7 +4202,10 @@
     "set": "A4b",
     "number": 324,
     "rarity": "U",
-    "name": "Leaf Cape",
+    "name": {
+      "en": "Leaf Cape",
+      "fr": "Cape Sylvestre"
+    },
     "image": "cTR_10_000510_00_LEAFMANTO_U.webp",
     "packs": [
       "Deluxe"
@@ -3243,7 +4215,10 @@
     "set": "A4b",
     "number": 325,
     "rarity": "U",
-    "name": "Leaf Cape",
+    "name": {
+      "en": "Leaf Cape",
+      "fr": "Cape Sylvestre"
+    },
     "image": "cTR_10_000510_01_LEAFMANTO_U.webp",
     "packs": [
       "Deluxe"
@@ -3253,7 +4228,10 @@
     "set": "A4b",
     "number": 326,
     "rarity": "U",
-    "name": "Cyrus",
+    "name": {
+      "en": "Cyrus",
+      "fr": "Hélio"
+    },
     "image": "cTR_10_000320_00_AKAGI_U.webp",
     "packs": [
       "Deluxe"
@@ -3263,7 +4241,10 @@
     "set": "A4b",
     "number": 327,
     "rarity": "U",
-    "name": "Cyrus",
+    "name": {
+      "en": "Cyrus",
+      "fr": "Hélio"
+    },
     "image": "cTR_10_000320_01_AKAGI_U.webp",
     "packs": [
       "Deluxe"
@@ -3273,7 +4254,10 @@
     "set": "A4b",
     "number": 328,
     "rarity": "U",
-    "name": "Erika",
+    "name": {
+      "en": "Erika",
+      "fr": "Erika"
+    },
     "image": "cTR_10_000110_00_ERIKA_U.webp",
     "packs": [
       "Deluxe"
@@ -3283,7 +4267,10 @@
     "set": "A4b",
     "number": 329,
     "rarity": "U",
-    "name": "Erika",
+    "name": {
+      "en": "Erika",
+      "fr": "Erika"
+    },
     "image": "cTR_10_000110_01_ERIKA_U.webp",
     "packs": [
       "Deluxe"
@@ -3293,7 +4280,10 @@
     "set": "A4b",
     "number": 330,
     "rarity": "U",
-    "name": "Irida",
+    "name": {
+      "en": "Irida",
+      "fr": "Nacchara"
+    },
     "image": "cTR_10_000380_00_KAI_U.webp",
     "packs": [
       "Deluxe"
@@ -3303,7 +4293,10 @@
     "set": "A4b",
     "number": 331,
     "rarity": "U",
-    "name": "Irida",
+    "name": {
+      "en": "Irida",
+      "fr": "Nacchara"
+    },
     "image": "cTR_10_000380_01_KAI_U.webp",
     "packs": [
       "Deluxe"
@@ -3313,7 +4306,10 @@
     "set": "A4b",
     "number": 332,
     "rarity": "U",
-    "name": "Lyra",
+    "name": {
+      "en": "Lyra",
+      "fr": "Célesta"
+    },
     "image": "cTR_10_000770_00_KOTONE_U.webp",
     "packs": [
       "Deluxe"
@@ -3323,7 +4319,10 @@
     "set": "A4b",
     "number": 333,
     "rarity": "U",
-    "name": "Lyra",
+    "name": {
+      "en": "Lyra",
+      "fr": "Célesta"
+    },
     "image": "cTR_10_000770_01_KOTONE_U.webp",
     "packs": [
       "Deluxe"
@@ -3333,7 +4332,10 @@
     "set": "A4b",
     "number": 334,
     "rarity": "U",
-    "name": "Giovanni",
+    "name": {
+      "en": "Giovanni",
+      "fr": "Giovanni"
+    },
     "image": "cTR_10_000150_00_SAKAKI_U.webp",
     "packs": [
       "Deluxe"
@@ -3343,7 +4345,10 @@
     "set": "A4b",
     "number": 335,
     "rarity": "U",
-    "name": "Giovanni",
+    "name": {
+      "en": "Giovanni",
+      "fr": "Giovanni"
+    },
     "image": "cTR_10_000150_01_SAKAKI_U.webp",
     "packs": [
       "Deluxe"
@@ -3353,7 +4358,10 @@
     "set": "A4b",
     "number": 336,
     "rarity": "U",
-    "name": "Silver",
+    "name": {
+      "en": "Silver",
+      "fr": "Silver"
+    },
     "image": "cTR_10_000780_00_SILVER_U.webp",
     "packs": [
       "Deluxe"
@@ -3363,7 +4371,10 @@
     "set": "A4b",
     "number": 337,
     "rarity": "U",
-    "name": "Silver",
+    "name": {
+      "en": "Silver",
+      "fr": "Silver"
+    },
     "image": "cTR_10_000780_01_SILVER_U.webp",
     "packs": [
       "Deluxe"
@@ -3373,7 +4384,10 @@
     "set": "A4b",
     "number": 338,
     "rarity": "U",
-    "name": "Sabrina",
+    "name": {
+      "en": "Sabrina",
+      "fr": "Morgane"
+    },
     "image": "cTR_10_000170_00_NATSUME_U.webp",
     "packs": [
       "Deluxe"
@@ -3383,7 +4397,10 @@
     "set": "A4b",
     "number": 339,
     "rarity": "U",
-    "name": "Sabrina",
+    "name": {
+      "en": "Sabrina",
+      "fr": "Morgane"
+    },
     "image": "cTR_10_000170_01_NATSUME_U.webp",
     "packs": [
       "Deluxe"
@@ -3393,7 +4410,10 @@
     "set": "A4b",
     "number": 340,
     "rarity": "U",
-    "name": "Iono",
+    "name": {
+      "en": "Iono",
+      "fr": "Mashynn"
+    },
     "image": "cTR_10_000420_00_NANJYAMO_U.webp",
     "packs": [
       "Deluxe"
@@ -3403,7 +4423,10 @@
     "set": "A4b",
     "number": 341,
     "rarity": "U",
-    "name": "Iono",
+    "name": {
+      "en": "Iono",
+      "fr": "Mashynn"
+    },
     "image": "cTR_10_000420_01_NANJYAMO_U.webp",
     "packs": [
       "Deluxe"
@@ -3413,7 +4436,10 @@
     "set": "A4b",
     "number": 342,
     "rarity": "U",
-    "name": "Dawn",
+    "name": {
+      "en": "Dawn",
+      "fr": "Aurore"
+    },
     "image": "cTR_10_000360_00_HIKARI_U.webp",
     "packs": [
       "Deluxe"
@@ -3423,7 +4449,10 @@
     "set": "A4b",
     "number": 343,
     "rarity": "U",
-    "name": "Dawn",
+    "name": {
+      "en": "Dawn",
+      "fr": "Aurore"
+    },
     "image": "cTR_10_000360_01_HIKARI_U.webp",
     "packs": [
       "Deluxe"
@@ -3433,7 +4462,10 @@
     "set": "A4b",
     "number": 344,
     "rarity": "U",
-    "name": "Mars",
+    "name": {
+      "en": "Mars",
+      "fr": "Mars"
+    },
     "image": "cTR_10_000370_00_MARS_U.webp",
     "packs": [
       "Deluxe"
@@ -3443,7 +4475,10 @@
     "set": "A4b",
     "number": 345,
     "rarity": "U",
-    "name": "Mars",
+    "name": {
+      "en": "Mars",
+      "fr": "Mars"
+    },
     "image": "cTR_10_000370_01_MARS_U.webp",
     "packs": [
       "Deluxe"
@@ -3453,7 +4488,10 @@
     "set": "A4b",
     "number": 346,
     "rarity": "U",
-    "name": "Leaf",
+    "name": {
+      "en": "Leaf",
+      "fr": "Leaf"
+    },
     "image": "cTR_10_000230_00_LEAF_U.webp",
     "packs": [
       "Deluxe"
@@ -3463,7 +4501,10 @@
     "set": "A4b",
     "number": 347,
     "rarity": "U",
-    "name": "Leaf",
+    "name": {
+      "en": "Leaf",
+      "fr": "Leaf"
+    },
     "image": "cTR_10_000230_01_LEAF_U.webp",
     "packs": [
       "Deluxe"
@@ -3473,7 +4514,10 @@
     "set": "A4b",
     "number": 348,
     "rarity": "U",
-    "name": "Lillie",
+    "name": {
+      "en": "Lillie",
+      "fr": "Lilie"
+    },
     "image": "cTR_10_000590_00_LILIE_U.webp",
     "packs": [
       "Deluxe"
@@ -3483,7 +4527,10 @@
     "set": "A4b",
     "number": 349,
     "rarity": "U",
-    "name": "Lillie",
+    "name": {
+      "en": "Lillie",
+      "fr": "Lilie"
+    },
     "image": "cTR_10_000590_01_LILIE_U.webp",
     "packs": [
       "Deluxe"
@@ -3493,7 +4540,10 @@
     "set": "A4b",
     "number": 350,
     "rarity": "U",
-    "name": "Lusamine",
+    "name": {
+      "en": "Lusamine",
+      "fr": "Elsa-Mina"
+    },
     "image": "cTR_10_000660_00_LUSAMINE_U.webp",
     "packs": [
       "Deluxe"
@@ -3503,7 +4553,10 @@
     "set": "A4b",
     "number": 351,
     "rarity": "U",
-    "name": "Lusamine",
+    "name": {
+      "en": "Lusamine",
+      "fr": "Elsa-Mina"
+    },
     "image": "cTR_10_000660_01_LUSAMINE_U.webp",
     "packs": [
       "Deluxe"
@@ -3513,7 +4566,10 @@
     "set": "A4b",
     "number": 352,
     "rarity": "U",
-    "name": "Red",
+    "name": {
+      "en": "Red",
+      "fr": "Red"
+    },
     "image": "cTR_10_000440_00_RED_U.webp",
     "packs": [
       "Deluxe"
@@ -3523,7 +4579,10 @@
     "set": "A4b",
     "number": 353,
     "rarity": "U",
-    "name": "Red",
+    "name": {
+      "en": "Red",
+      "fr": "Red"
+    },
     "image": "cTR_10_000440_01_RED_U.webp",
     "packs": [
       "Deluxe"
@@ -3533,7 +4592,10 @@
     "set": "A4b",
     "number": 354,
     "rarity": "AR",
-    "name": "Floragato",
+    "name": {
+      "en": "Floragato",
+      "fr": "Matourgeon"
+    },
     "image": "cPK_20_005250_00_NYAROTE_AR.webp",
     "packs": [
       "Deluxe"
@@ -3543,7 +4605,10 @@
     "set": "A4b",
     "number": 355,
     "rarity": "AR",
-    "name": "Crawdaunt",
+    "name": {
+      "en": "Crawdaunt",
+      "fr": "Colhomard"
+    },
     "image": "cPK_20_009170_00_SHIZARIGER_AR.webp",
     "packs": [
       "Deluxe"
@@ -3553,7 +4618,10 @@
     "set": "A4b",
     "number": 356,
     "rarity": "AR",
-    "name": "Greninja",
+    "name": {
+      "en": "Greninja",
+      "fr": "Amphinobi"
+    },
     "image": "cPK_20_000890_01_GEKKOUGA_AR.webp",
     "packs": [
       "Deluxe"
@@ -3563,7 +4631,10 @@
     "set": "A4b",
     "number": 357,
     "rarity": "AR",
-    "name": "Gardevoir",
+    "name": {
+      "en": "Gardevoir",
+      "fr": "Gardevoir"
+    },
     "image": "cPK_20_001320_01_SIRNIGHT_AR.webp",
     "packs": [
       "Deluxe"
@@ -3573,7 +4644,10 @@
     "set": "A4b",
     "number": 358,
     "rarity": "AR",
-    "name": "Slurpuff",
+    "name": {
+      "en": "Slurpuff",
+      "fr": "Cupcanaille"
+    },
     "image": "cPK_20_008260_00_PEROREAM_AR.webp",
     "packs": [
       "Deluxe"
@@ -3583,7 +4657,10 @@
     "set": "A4b",
     "number": 359,
     "rarity": "AR",
-    "name": "Farfetch’d",
+    "name": {
+      "en": "Farfetch’d",
+      "fr": "Canarticho"
+    },
     "image": "cPK_20_001980_01_KAMONEGI_AR.webp",
     "packs": [
       "Deluxe"
@@ -3593,7 +4670,10 @@
     "set": "A4b",
     "number": 360,
     "rarity": "SR",
-    "name": "Buzzwole ex",
+    "name": {
+      "en": "Buzzwole ex",
+      "fr": "Mouscoto-ex"
+    },
     "image": "cPK_20_007480_02_MASSIVOONex_SR.webp",
     "packs": [
       "Deluxe"
@@ -3603,7 +4683,10 @@
     "set": "A4b",
     "number": 361,
     "rarity": "SR",
-    "name": "Charizard ex",
+    "name": {
+      "en": "Charizard ex",
+      "fr": "Dracaufeu-ex"
+    },
     "image": "cPK_20_000360_03_LIZARDONex_SR.webp",
     "packs": [
       "Deluxe"
@@ -3613,7 +4696,10 @@
     "set": "A4b",
     "number": 362,
     "rarity": "SR",
-    "name": "Ho-Oh ex",
+    "name": {
+      "en": "Ho-Oh ex",
+      "fr": "Ho-Oh-ex"
+    },
     "image": "cPK_20_008900_03_HOUOUex_SR.webp",
     "packs": [
       "Deluxe"
@@ -3623,7 +4709,10 @@
     "set": "A4b",
     "number": 363,
     "rarity": "SR",
-    "name": "Palkia ex",
+    "name": {
+      "en": "Palkia ex",
+      "fr": "Palkia-ex"
+    },
     "image": "cPK_20_003300_03_PALKIAex_SR.webp",
     "packs": [
       "Deluxe"
@@ -3633,7 +4722,10 @@
     "set": "A4b",
     "number": 364,
     "rarity": "SR",
-    "name": "Pikachu ex",
+    "name": {
+      "en": "Pikachu ex",
+      "fr": "Pikachu-ex"
+    },
     "image": "cPK_20_000960_03_PIKACHUex_SR.webp",
     "packs": [
       "Deluxe"
@@ -3643,7 +4735,10 @@
     "set": "A4b",
     "number": 365,
     "rarity": "SR",
-    "name": "Mewtwo ex",
+    "name": {
+      "en": "Mewtwo ex",
+      "fr": "Mewtwo-ex"
+    },
     "image": "cPK_20_001290_03_MEWTWOex_SR.webp",
     "packs": [
       "Deluxe"
@@ -3653,7 +4748,10 @@
     "set": "A4b",
     "number": 366,
     "rarity": "SR",
-    "name": "Mew ex",
+    "name": {
+      "en": "Mew ex",
+      "fr": "Mew-ex"
+    },
     "image": "cPK_20_002450_04_MEWex_SR.webp",
     "packs": [
       "Deluxe"
@@ -3663,7 +4761,10 @@
     "set": "A4b",
     "number": 367,
     "rarity": "SR",
-    "name": "Lunala ex",
+    "name": {
+      "en": "Lunala ex",
+      "fr": "Lunala-ex"
+    },
     "image": "cPK_20_006680_03_LUNALAex_SR.webp",
     "packs": [
       "Deluxe"
@@ -3673,7 +4774,10 @@
     "set": "A4b",
     "number": 368,
     "rarity": "SR",
-    "name": "Dialga ex",
+    "name": {
+      "en": "Dialga ex",
+      "fr": "Dialga-ex"
+    },
     "image": "cPK_20_004000_03_DIALGAex_SR.webp",
     "packs": [
       "Deluxe"
@@ -3683,7 +4787,10 @@
     "set": "A4b",
     "number": 369,
     "rarity": "SR",
-    "name": "Solgaleo ex",
+    "name": {
+      "en": "Solgaleo ex",
+      "fr": "Solgaleo-ex"
+    },
     "image": "cPK_20_007030_03_SOLGALEOex_SR.webp",
     "packs": [
       "Deluxe"
@@ -3693,7 +4800,10 @@
     "set": "A4b",
     "number": 370,
     "rarity": "SR",
-    "name": "Eevee ex",
+    "name": {
+      "en": "Eevee ex",
+      "fr": "Évoli-ex"
+    },
     "image": "cPK_20_008480_02_EIEVUIex_SR.webp",
     "packs": [
       "Deluxe"
@@ -3703,7 +4813,10 @@
     "set": "A4b",
     "number": 371,
     "rarity": "SR",
-    "name": "Lugia ex",
+    "name": {
+      "en": "Lugia ex",
+      "fr": "Lugia-ex"
+    },
     "image": "cPK_20_010050_03_LUGIAex_SR.webp",
     "packs": [
       "Deluxe"
@@ -3713,7 +4826,10 @@
     "set": "A4b",
     "number": 372,
     "rarity": "SR",
-    "name": "Arceus ex",
+    "name": {
+      "en": "Arceus ex",
+      "fr": "Arceus-ex"
+    },
     "image": "cPK_20_004950_03_ARCEUSex_SR.webp",
     "packs": [
       "Deluxe"
@@ -3723,7 +4839,10 @@
     "set": "A4b",
     "number": 373,
     "rarity": "SR",
-    "name": "Professor’s Research",
+    "name": {
+      "en": "Professor’s Research",
+      "fr": "Recherches Professorales"
+    },
     "image": "cTR_20_000040_00_HAKASENOKENKYU_SR.webp",
     "packs": [
       "Deluxe"
@@ -3733,7 +4852,10 @@
     "set": "A4b",
     "number": 374,
     "rarity": "SR",
-    "name": "Lillie",
+    "name": {
+      "en": "Lillie",
+      "fr": "Lilie"
+    },
     "image": "cTR_20_000590_02_LILIE_SR.webp",
     "packs": [
       "Deluxe"
@@ -3743,7 +4865,10 @@
     "set": "A4b",
     "number": 375,
     "rarity": "SR",
-    "name": "Lusamine",
+    "name": {
+      "en": "Lusamine",
+      "fr": "Elsa-Mina"
+    },
     "image": "cTR_20_000660_01_LUSAMINE_SR.webp",
     "packs": [
       "Deluxe"
@@ -3753,7 +4878,10 @@
     "set": "A4b",
     "number": 376,
     "rarity": "IM",
-    "name": "Pikachu ex",
+    "name": {
+      "en": "Pikachu ex",
+      "fr": "Pikachu-ex"
+    },
     "image": "cPK_20_000960_04_PIKACHUex_IM.webp",
     "packs": [
       "Deluxe"
@@ -3763,7 +4891,10 @@
     "set": "A4b",
     "number": 377,
     "rarity": "SSR",
-    "name": "Giratina ex",
+    "name": {
+      "en": "Giratina ex",
+      "fr": "Giratina-ex"
+    },
     "image": "cPK_20_005520_02_GIRATINAex_SSR.webp",
     "packs": [
       "Deluxe"
@@ -3773,7 +4904,10 @@
     "set": "A4b",
     "number": 378,
     "rarity": "SSR",
-    "name": "Darkrai ex",
+    "name": {
+      "en": "Darkrai ex",
+      "fr": "Darkrai-ex"
+    },
     "image": "cPK_20_003910_02_DARKRAIex_SSR.webp",
     "packs": [
       "Deluxe"
@@ -3783,7 +4917,10 @@
     "set": "A4b",
     "number": 379,
     "rarity": "UR",
-    "name": "Rare Candy",
+    "name": {
+      "en": "Rare Candy",
+      "fr": "Super Bonbon"
+    },
     "image": "cTR_20_000480_00_FUSHIGINAAME_UR.webp",
     "packs": [
       "Deluxe"
