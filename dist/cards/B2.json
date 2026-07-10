@@ -4,7 +4,10 @@
     "number": 1,
     "rarity": "C",
     "image": "cPK_10_013670_00_REDIBA_C.webp",
-    "name": "Ledyba",
+    "name": {
+      "en": "Ledyba",
+      "fr": "Coxy"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -14,7 +17,10 @@
     "number": 2,
     "rarity": "C",
     "image": "cPK_10_013680_00_REDIAN_C.webp",
-    "name": "Ledian",
+    "name": {
+      "en": "Ledian",
+      "fr": "Coxyclaque"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -24,7 +30,10 @@
     "number": 3,
     "rarity": "C",
     "image": "cPK_10_013690_00_TSUBOTSUBO_C.webp",
-    "name": "Shuckle",
+    "name": {
+      "en": "Shuckle",
+      "fr": "Caratroc"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -34,7 +43,10 @@
     "number": 4,
     "rarity": "C",
     "image": "cPK_10_013700_00_ROSELIA_C.webp",
-    "name": "Roselia",
+    "name": {
+      "en": "Roselia",
+      "fr": "Rosélia"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -44,7 +56,10 @@
     "number": 5,
     "rarity": "R",
     "image": "cPK_10_013710_00_ROSERADE_R.webp",
-    "name": "Roserade",
+    "name": {
+      "en": "Roserade",
+      "fr": "Roserade"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -54,7 +69,10 @@
     "number": 6,
     "rarity": "C",
     "image": "cPK_10_013720_00_SABONEA_C.webp",
-    "name": "Cacnea",
+    "name": {
+      "en": "Cacnea",
+      "fr": "Cacnea"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -64,7 +82,10 @@
     "number": 7,
     "rarity": "U",
     "image": "cPK_10_013730_00_NOCTUS_U.webp",
-    "name": "Cacturne",
+    "name": {
+      "en": "Cacturne",
+      "fr": "Cacturne"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -74,7 +95,10 @@
     "number": 8,
     "rarity": "C",
     "image": "cPK_10_013740_00_HARIMARON_C.webp",
-    "name": "Chespin",
+    "name": {
+      "en": "Chespin",
+      "fr": "Marisson"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -84,7 +108,10 @@
     "number": 9,
     "rarity": "U",
     "image": "cPK_10_013750_00_HARIBORG_U.webp",
-    "name": "Quilladin",
+    "name": {
+      "en": "Quilladin",
+      "fr": "Boguérisse"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -94,7 +121,10 @@
     "number": 10,
     "rarity": "R",
     "image": "cPK_10_013760_00_BRIGARRON_R.webp",
-    "name": "Chesnaught",
+    "name": {
+      "en": "Chesnaught",
+      "fr": "Blindépique"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -104,7 +134,10 @@
     "number": 11,
     "rarity": "C",
     "image": "cPK_10_013770_00_KOFUKIMUSHI_C.webp",
-    "name": "Scatterbug",
+    "name": {
+      "en": "Scatterbug",
+      "fr": "Lépidonille"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -114,7 +147,10 @@
     "number": 12,
     "rarity": "C",
     "image": "cPK_10_013780_00_KOFUURAI_C.webp",
-    "name": "Spewpa",
+    "name": {
+      "en": "Spewpa",
+      "fr": "Pérégrain"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -124,7 +160,10 @@
     "number": 13,
     "rarity": "U",
     "image": "cPK_10_013790_00_VIVIYON_U.webp",
-    "name": "Vivillon",
+    "name": {
+      "en": "Vivillon",
+      "fr": "Prismillon"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -134,7 +173,10 @@
     "number": 14,
     "rarity": "R",
     "image": "cPK_10_013800_00_MASSIVOON_R.webp",
-    "name": "Buzzwole",
+    "name": {
+      "en": "Buzzwole",
+      "fr": "Mouscoto"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -144,7 +186,10 @@
     "number": 15,
     "rarity": "C",
     "image": "cPK_10_013810_00_HIMENKA_C.webp",
-    "name": "Gossifleur",
+    "name": {
+      "en": "Gossifleur",
+      "fr": "Tournicoton"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -154,7 +199,10 @@
     "number": 16,
     "rarity": "U",
     "image": "cPK_10_013820_00_WATASHIRAGA_U.webp",
-    "name": "Eldegoss",
+    "name": {
+      "en": "Eldegoss",
+      "fr": "Blancoton"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -164,7 +212,10 @@
     "number": 17,
     "rarity": "RR",
     "image": "cPK_10_013830_00_OGERPONMIDORINOMENex_RR.webp",
-    "name": "Teal Mask Ogerpon ex",
+    "name": {
+      "en": "Teal Mask Ogerpon ex",
+      "fr": "Ogerpon Masque Turquoise-ex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -174,7 +225,10 @@
     "number": 18,
     "rarity": "U",
     "image": "cPK_10_013840_00_ALOLAGARAGARA_U.webp",
-    "name": "Alolan Marowak",
+    "name": {
+      "en": "Alolan Marowak",
+      "fr": "Ossatueur d'Alola"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -184,7 +238,10 @@
     "number": 19,
     "rarity": "R",
     "image": "cPK_10_013850_00_RESHIRAM_R.webp",
-    "name": "Reshiram",
+    "name": {
+      "en": "Reshiram",
+      "fr": "Reshiram"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -194,7 +251,10 @@
     "number": 20,
     "rarity": "C",
     "image": "cPK_10_013860_00_SHISHIKO_C.webp",
-    "name": "Litleo",
+    "name": {
+      "en": "Litleo",
+      "fr": "Hélionceau"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -204,7 +264,10 @@
     "number": 21,
     "rarity": "U",
     "image": "cPK_10_013870_00_KAENJISHI_U.webp",
-    "name": "Pyroar",
+    "name": {
+      "en": "Pyroar",
+      "fr": "Némélios"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -214,7 +277,10 @@
     "number": 22,
     "rarity": "U",
     "image": "cPK_10_013880_00_ODORIDORI_U.webp",
-    "name": "Oricorio",
+    "name": {
+      "en": "Oricorio",
+      "fr": "Plumeline"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -224,7 +290,10 @@
     "number": 23,
     "rarity": "RR",
     "image": "cPK_10_013890_00_ZUGADOONex_RR.webp",
-    "name": "Blacephalon ex",
+    "name": {
+      "en": "Blacephalon ex",
+      "fr": "Pierroteknik-ex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -234,7 +303,10 @@
     "number": 24,
     "rarity": "C",
     "image": "cPK_10_013900_00_HIBANNY_C.webp",
-    "name": "Scorbunny",
+    "name": {
+      "en": "Scorbunny",
+      "fr": "Flambino"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -244,7 +316,10 @@
     "number": 25,
     "rarity": "U",
     "image": "cPK_10_013910_00_RABBIFUTO_U.webp",
-    "name": "Raboot",
+    "name": {
+      "en": "Raboot",
+      "fr": "Lapyro"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -254,7 +329,10 @@
     "number": 26,
     "rarity": "R",
     "image": "cPK_10_013920_00_ACEBURN_R.webp",
-    "name": "Cinderace",
+    "name": {
+      "en": "Cinderace",
+      "fr": "Pyrobut"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -264,7 +342,10 @@
     "number": 27,
     "rarity": "R",
     "image": "cPK_10_013930_00_OGERPONKAMADONOMEN_R.webp",
-    "name": "Hearthflame Mask Ogerpon",
+    "name": {
+      "en": "Hearthflame Mask Ogerpon",
+      "fr": "Ogerpon Masque du Fourneau"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -274,7 +355,10 @@
     "number": 28,
     "rarity": "C",
     "image": "cPK_10_013940_00_ALOLAROKON_C.webp",
-    "name": "Alolan Vulpix",
+    "name": {
+      "en": "Alolan Vulpix",
+      "fr": "Goupix d'Alola"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -284,7 +368,10 @@
     "number": 29,
     "rarity": "RR",
     "image": "cPK_10_013950_00_ALOLAKYUKONex_RR.webp",
-    "name": "Alolan Ninetales ex",
+    "name": {
+      "en": "Alolan Ninetales ex",
+      "fr": "Feunard d'Alola-ex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -294,7 +381,10 @@
     "number": 30,
     "rarity": "C",
     "image": "cPK_10_013960_00_GALARBARRIERD_C.webp",
-    "name": "Galarian Mr. Mime",
+    "name": {
+      "en": "Galarian Mr. Mime",
+      "fr": "M. Mime de Galar"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -304,7 +394,10 @@
     "number": 31,
     "rarity": "U",
     "image": "cPK_10_013970_00_GALARBARRIKOHRU_U.webp",
-    "name": "Galarian Mr. Rime",
+    "name": {
+      "en": "Galarian Mr. Rime",
+      "fr": "M. Glaquette de Galar"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -314,7 +407,10 @@
     "number": 32,
     "rarity": "U",
     "image": "cPK_10_013980_00_DELIBIRD_U.webp",
-    "name": "Delibird",
+    "name": {
+      "en": "Delibird",
+      "fr": "Cadoizo"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -324,7 +420,10 @@
     "number": 33,
     "rarity": "C",
     "image": "cPK_10_013990_00_MIZUGOROU_C.webp",
-    "name": "Mudkip",
+    "name": {
+      "en": "Mudkip",
+      "fr": "Gobou"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -334,7 +433,10 @@
     "number": 34,
     "rarity": "U",
     "image": "cPK_10_014000_00_NUMACRAW_U.webp",
-    "name": "Marshtomp",
+    "name": {
+      "en": "Marshtomp",
+      "fr": "Flobio"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -344,7 +446,10 @@
     "number": 35,
     "rarity": "R",
     "image": "cPK_10_014010_00_LAGLARGE_R.webp",
-    "name": "Swampert",
+    "name": {
+      "en": "Swampert",
+      "fr": "Laggron"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -354,7 +459,10 @@
     "number": 36,
     "rarity": "RR",
     "image": "cPK_10_014020_00_MEGALAGLARGEex_RR.webp",
-    "name": "Mega Swampert ex",
+    "name": {
+      "en": "Mega Swampert ex",
+      "fr": "Méga-Laggron-ex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -364,7 +472,10 @@
     "number": 37,
     "rarity": "C",
     "image": "cPK_10_014030_00_VANIPETI_C.webp",
-    "name": "Vanillite",
+    "name": {
+      "en": "Vanillite",
+      "fr": "Sorbébé"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -374,7 +485,10 @@
     "number": 38,
     "rarity": "C",
     "image": "cPK_10_014040_00_VANIRICH_C.webp",
-    "name": "Vanillish",
+    "name": {
+      "en": "Vanillish",
+      "fr": "Sorboul"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -384,7 +498,10 @@
     "number": 39,
     "rarity": "U",
     "image": "cPK_10_014050_00_BAIVANILLA_U.webp",
-    "name": "Vanilluxe",
+    "name": {
+      "en": "Vanilluxe",
+      "fr": "Sorbouboul"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -394,7 +511,10 @@
     "number": 40,
     "rarity": "C",
     "image": "cPK_10_014060_00_FREEGEO_C.webp",
-    "name": "Cryogonal",
+    "name": {
+      "en": "Cryogonal",
+      "fr": "Hexagel"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -404,7 +524,10 @@
     "number": 41,
     "rarity": "U",
     "image": "cPK_10_014070_00_AMARUS_U.webp",
-    "name": "Amaura",
+    "name": {
+      "en": "Amaura",
+      "fr": "Amagara"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -414,7 +537,10 @@
     "number": 42,
     "rarity": "R",
     "image": "cPK_10_014080_00_AMARURUGA_R.webp",
-    "name": "Aurorus",
+    "name": {
+      "en": "Aurorus",
+      "fr": "Dragmara"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -424,7 +550,10 @@
     "number": 43,
     "rarity": "C",
     "image": "cPK_10_014090_00_KAMUKAME_C.webp",
-    "name": "Chewtle",
+    "name": {
+      "en": "Chewtle",
+      "fr": "Khélocrok"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -434,7 +563,10 @@
     "number": 44,
     "rarity": "U",
     "image": "cPK_10_014100_00_KAJIRIGAME_U.webp",
-    "name": "Drednaw",
+    "name": {
+      "en": "Drednaw",
+      "fr": "Torgamord"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -444,7 +576,10 @@
     "number": 45,
     "rarity": "C",
     "image": "cPK_10_014110_00_UU_C.webp",
-    "name": "Cramorant",
+    "name": {
+      "en": "Cramorant",
+      "fr": "Nigosier"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -454,7 +589,10 @@
     "number": 46,
     "rarity": "C",
     "image": "cPK_10_014120_00_SASIKAMASU_C.webp",
-    "name": "Arrokuda",
+    "name": {
+      "en": "Arrokuda",
+      "fr": "Embrochet"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -464,7 +602,10 @@
     "number": 47,
     "rarity": "C",
     "image": "cPK_10_014130_00_KAMASUJAW_C.webp",
-    "name": "Barraskewda",
+    "name": {
+      "en": "Barraskewda",
+      "fr": "Hastacuda"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -474,7 +615,10 @@
     "number": 48,
     "rarity": "R",
     "image": "cPK_10_014140_00_OGERPONIDONOMEN_R.webp",
-    "name": "Wellspring Mask Ogerpon",
+    "name": {
+      "en": "Wellspring Mask Ogerpon",
+      "fr": "Ogerpon Masque du Puits"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -484,7 +628,10 @@
     "number": 49,
     "rarity": "C",
     "image": "cPK_10_014150_00_PIKACHU_C.webp",
-    "name": "Pikachu",
+    "name": {
+      "en": "Pikachu",
+      "fr": "Pikachu"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -494,7 +641,10 @@
     "number": 50,
     "rarity": "R",
     "image": "cPK_10_014160_00_ALOLARAICHU_R.webp",
-    "name": "Alolan Raichu",
+    "name": {
+      "en": "Alolan Raichu",
+      "fr": "Raichu d'Alola"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -504,7 +654,10 @@
     "number": 51,
     "rarity": "R",
     "image": "cPK_10_014170_00_THUNDER_R.webp",
-    "name": "Zapdos",
+    "name": {
+      "en": "Zapdos",
+      "fr": "Électhor"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -514,7 +667,10 @@
     "number": 52,
     "rarity": "C",
     "image": "cPK_10_014180_00_PRASLE_C.webp",
-    "name": "Plusle",
+    "name": {
+      "en": "Plusle",
+      "fr": "Posipi"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -524,7 +680,10 @@
     "number": 53,
     "rarity": "C",
     "image": "cPK_10_014190_00_MINUN_C.webp",
-    "name": "Minun",
+    "name": {
+      "en": "Minun",
+      "fr": "Négapi"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -534,7 +693,10 @@
     "number": 54,
     "rarity": "C",
     "image": "cPK_10_014200_00_ELESON_C.webp",
-    "name": "Toxel",
+    "name": {
+      "en": "Toxel",
+      "fr": "Toxizap"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -544,7 +706,10 @@
     "number": 55,
     "rarity": "RR",
     "image": "cPK_10_014210_00_STRINDERex_RR.webp",
-    "name": "Toxtricity ex",
+    "name": {
+      "en": "Toxtricity ex",
+      "fr": "Salarsen-ex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -554,7 +719,10 @@
     "number": 56,
     "rarity": "C",
     "image": "cPK_10_014220_00_ZUPIKA_C.webp",
-    "name": "Tadbulb",
+    "name": {
+      "en": "Tadbulb",
+      "fr": "Têtampoule"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -564,7 +732,10 @@
     "number": 57,
     "rarity": "U",
     "image": "cPK_10_014230_00_HARABARIE_U.webp",
-    "name": "Bellibolt",
+    "name": {
+      "en": "Bellibolt",
+      "fr": "Ampibidou"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -574,7 +745,10 @@
     "number": 58,
     "rarity": "C",
     "image": "cPK_10_014240_00_GALARPONYTA_C.webp",
-    "name": "Galarian Ponyta",
+    "name": {
+      "en": "Galarian Ponyta",
+      "fr": "Ponyta de Galar"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -584,7 +758,10 @@
     "number": 59,
     "rarity": "U",
     "image": "cPK_10_014250_00_GALARGALLOP_U.webp",
-    "name": "Galarian Rapidash",
+    "name": {
+      "en": "Galarian Rapidash",
+      "fr": "Galopa de Galar"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -594,7 +771,10 @@
     "number": 60,
     "rarity": "C",
     "image": "cPK_10_014260_00_SONANS_C.webp",
-    "name": "Wobbuffet",
+    "name": {
+      "en": "Wobbuffet",
+      "fr": "Qulbutoké"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -604,7 +784,10 @@
     "number": 61,
     "rarity": "C",
     "image": "cPK_10_014270_00_BULU_C.webp",
-    "name": "Snubbull",
+    "name": {
+      "en": "Snubbull",
+      "fr": "Snubbull"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -614,7 +797,10 @@
     "number": 62,
     "rarity": "U",
     "image": "cPK_10_014280_00_GRANBULU_U.webp",
-    "name": "Granbull",
+    "name": {
+      "en": "Granbull",
+      "fr": "Granbull"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -624,7 +810,10 @@
     "number": 63,
     "rarity": "C",
     "image": "cPK_10_014290_00_RALTS_C.webp",
-    "name": "Ralts",
+    "name": {
+      "en": "Ralts",
+      "fr": "Tarsal"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -634,7 +823,10 @@
     "number": 64,
     "rarity": "U",
     "image": "cPK_10_014300_00_KIRLIA_U.webp",
-    "name": "Kirlia",
+    "name": {
+      "en": "Kirlia",
+      "fr": "Kirlia"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -644,7 +836,10 @@
     "number": 65,
     "rarity": "R",
     "image": "cPK_10_014310_00_SIRNIGHT_R.webp",
-    "name": "Gardevoir",
+    "name": {
+      "en": "Gardevoir",
+      "fr": "Gardevoir"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -654,7 +849,10 @@
     "number": 66,
     "rarity": "RR",
     "image": "cPK_10_014320_00_MEGASIRNIGHTex_RR.webp",
-    "name": "Mega Gardevoir ex",
+    "name": {
+      "en": "Mega Gardevoir ex",
+      "fr": "Méga-Gardevoir-ex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -664,7 +862,10 @@
     "number": 67,
     "rarity": "C",
     "image": "cPK_10_014330_00_HITOMOSHI_C.webp",
-    "name": "Litwick",
+    "name": {
+      "en": "Litwick",
+      "fr": "Funécire"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -674,7 +875,10 @@
     "number": 68,
     "rarity": "U",
     "image": "cPK_10_014340_00_LAMPLER_U.webp",
-    "name": "Lampent",
+    "name": {
+      "en": "Lampent",
+      "fr": "Mélancolux"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -684,7 +888,10 @@
     "number": 69,
     "rarity": "R",
     "image": "cPK_10_014350_00_CHANDELA_R.webp",
-    "name": "Chandelure",
+    "name": {
+      "en": "Chandelure",
+      "fr": "Lugulabre"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -694,7 +901,10 @@
     "number": 70,
     "rarity": "U",
     "image": "cPK_10_014360_00_MELOETTA_U.webp",
-    "name": "Meloetta",
+    "name": {
+      "en": "Meloetta",
+      "fr": "Meloetta"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -704,7 +914,10 @@
     "number": 71,
     "rarity": "C",
     "image": "cPK_10_014370_00_BAKECCHA_C.webp",
-    "name": "Pumpkaboo",
+    "name": {
+      "en": "Pumpkaboo",
+      "fr": "Pitrouille"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -714,7 +927,10 @@
     "number": 72,
     "rarity": "R",
     "image": "cPK_10_014380_00_PUMPJIN_R.webp",
-    "name": "Gourgeist",
+    "name": {
+      "en": "Gourgeist",
+      "fr": "Banshitrouye"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -724,7 +940,10 @@
     "number": 73,
     "rarity": "RR",
     "image": "cPK_10_014390_00_MIMIKKYUex_RR.webp",
-    "name": "Mimikyu ex",
+    "name": {
+      "en": "Mimikyu ex",
+      "fr": "Mimiqui-ex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -734,7 +953,10 @@
     "number": 74,
     "rarity": "C",
     "image": "cPK_10_014400_00_YABACHA_C.webp",
-    "name": "Sinistea",
+    "name": {
+      "en": "Sinistea",
+      "fr": "Théffroi"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -744,7 +966,10 @@
     "number": 75,
     "rarity": "U",
     "image": "cPK_10_014410_00_POTDEATH_U.webp",
-    "name": "Polteageist",
+    "name": {
+      "en": "Polteageist",
+      "fr": "Polthégeist"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -754,7 +979,10 @@
     "number": 76,
     "rarity": "C",
     "image": "cPK_10_014420_00_YESSAN_C.webp",
-    "name": "Indeedee",
+    "name": {
+      "en": "Indeedee",
+      "fr": "Wimessir"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -764,7 +992,10 @@
     "number": 77,
     "rarity": "C",
     "image": "cPK_10_014430_00_SAND_C.webp",
-    "name": "Sandshrew",
+    "name": {
+      "en": "Sandshrew",
+      "fr": "Sabelette"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -774,7 +1005,10 @@
     "number": 78,
     "rarity": "C",
     "image": "cPK_10_014440_00_SANDPAN_C.webp",
-    "name": "Sandslash",
+    "name": {
+      "en": "Sandslash",
+      "fr": "Sablaireau"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -784,7 +1018,10 @@
     "number": 79,
     "rarity": "C",
     "image": "cPK_10_014450_00_WANRIKY_C.webp",
-    "name": "Machop",
+    "name": {
+      "en": "Machop",
+      "fr": "Machoc"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -794,7 +1031,10 @@
     "number": 80,
     "rarity": "C",
     "image": "cPK_10_014460_00_GORIKY_C.webp",
-    "name": "Machoke",
+    "name": {
+      "en": "Machoke",
+      "fr": "Machopeur"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -804,7 +1044,10 @@
     "number": 81,
     "rarity": "U",
     "image": "cPK_10_014470_00_KAIRIKY_U.webp",
-    "name": "Machamp",
+    "name": {
+      "en": "Machamp",
+      "fr": "Mackogneur"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -814,7 +1057,10 @@
     "number": 82,
     "rarity": "C",
     "image": "cPK_10_014480_00_KARAKARA_C.webp",
-    "name": "Cubone",
+    "name": {
+      "en": "Cubone",
+      "fr": "Osselait"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -824,7 +1070,10 @@
     "number": 83,
     "rarity": "C",
     "image": "cPK_10_014490_00_ASANAN_C.webp",
-    "name": "Meditite",
+    "name": {
+      "en": "Meditite",
+      "fr": "Méditikka"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -834,7 +1083,10 @@
     "number": 84,
     "rarity": "U",
     "image": "cPK_10_014500_00_CHAREM_U.webp",
-    "name": "Medicham",
+    "name": {
+      "en": "Medicham",
+      "fr": "Charmina"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -844,7 +1096,10 @@
     "number": 85,
     "rarity": "C",
     "image": "cPK_10_014510_00_DANGORO_C.webp",
-    "name": "Roggenrola",
+    "name": {
+      "en": "Roggenrola",
+      "fr": "Nodulithe"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -854,7 +1109,10 @@
     "number": 86,
     "rarity": "U",
     "image": "cPK_10_014520_00_GANTLE_U.webp",
-    "name": "Boldore",
+    "name": {
+      "en": "Boldore",
+      "fr": "Géolithe"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -864,7 +1122,10 @@
     "number": 87,
     "rarity": "RR",
     "image": "cPK_10_014530_00_GIGAIATHex_RR.webp",
-    "name": "Gigalith ex",
+    "name": {
+      "en": "Gigalith ex",
+      "fr": "Gigalithe-ex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -874,7 +1135,10 @@
     "number": 88,
     "rarity": "C",
     "image": "cPK_10_014540_00_MOGUREW_C.webp",
-    "name": "Drilbur",
+    "name": {
+      "en": "Drilbur",
+      "fr": "Rototaupe"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -884,7 +1148,10 @@
     "number": 89,
     "rarity": "U",
     "image": "cPK_10_014550_00_CHIGORAS_U.webp",
-    "name": "Tyrunt",
+    "name": {
+      "en": "Tyrunt",
+      "fr": "Ptyranidur"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -894,7 +1161,10 @@
     "number": 90,
     "rarity": "R",
     "image": "cPK_10_014560_00_GACHIGORAS_R.webp",
-    "name": "Tyrantrum",
+    "name": {
+      "en": "Tyrantrum",
+      "fr": "Rexillius"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -904,7 +1174,10 @@
     "number": 91,
     "rarity": "C",
     "image": "cPK_10_014570_00_NAGETUKESARU_C.webp",
-    "name": "Passimian",
+    "name": {
+      "en": "Passimian",
+      "fr": "Quartermac"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -914,7 +1187,10 @@
     "number": 92,
     "rarity": "U",
     "image": "cPK_10_014580_00_TAIRETSU_U.webp",
-    "name": "Falinks",
+    "name": {
+      "en": "Falinks",
+      "fr": "Hexadron"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -924,7 +1200,10 @@
     "number": 93,
     "rarity": "R",
     "image": "cPK_10_014590_00_OGERPONISHIZUENOMEN_R.webp",
-    "name": "Cornerstone Mask Ogerpon",
+    "name": {
+      "en": "Cornerstone Mask Ogerpon",
+      "fr": "Ogerpon Masque de la Pierre"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -934,7 +1213,10 @@
     "number": 94,
     "rarity": "C",
     "image": "cPK_10_014600_00_ALOLANYARTH_C.webp",
-    "name": "Alolan Meowth",
+    "name": {
+      "en": "Alolan Meowth",
+      "fr": "Miaouss d'Alola"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -944,7 +1226,10 @@
     "number": 95,
     "rarity": "U",
     "image": "cPK_10_014610_00_ALOLAPERSIAN_U.webp",
-    "name": "Alolan Persian",
+    "name": {
+      "en": "Alolan Persian",
+      "fr": "Persian d'Alola"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -954,7 +1239,10 @@
     "number": 96,
     "rarity": "C",
     "image": "cPK_10_014620_00_ALOLABETBETER_C.webp",
-    "name": "Alolan Grimer",
+    "name": {
+      "en": "Alolan Grimer",
+      "fr": "Tadmorv d'Alola"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -964,7 +1252,10 @@
     "number": 97,
     "rarity": "R",
     "image": "cPK_10_014630_00_ALOLABETBETON_R.webp",
-    "name": "Alolan Muk",
+    "name": {
+      "en": "Alolan Muk",
+      "fr": "Grotadmorv d'Alola"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -974,7 +1265,10 @@
     "number": 98,
     "rarity": "C",
     "image": "cPK_10_014640_00_GALARJIGUZAGUMA_C.webp",
-    "name": "Galarian Zigzagoon",
+    "name": {
+      "en": "Galarian Zigzagoon",
+      "fr": "Zigzaton de Galar"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -984,7 +1278,10 @@
     "number": 99,
     "rarity": "U",
     "image": "cPK_10_014650_00_GALARMASSUGUMA_U.webp",
-    "name": "Galarian Linoone",
+    "name": {
+      "en": "Galarian Linoone",
+      "fr": "Linéon de Galar"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -994,7 +1291,10 @@
     "number": 100,
     "rarity": "R",
     "image": "cPK_10_014660_00_GALARTACHIFUSAGUMA_R.webp",
-    "name": "Galarian Obstagoon",
+    "name": {
+      "en": "Galarian Obstagoon",
+      "fr": "Ixon de Galar"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1004,7 +1304,10 @@
     "number": 101,
     "rarity": "C",
     "image": "cPK_10_014670_00_SKUNPUU_C.webp",
-    "name": "Stunky",
+    "name": {
+      "en": "Stunky",
+      "fr": "Moufouette"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1014,7 +1317,10 @@
     "number": 102,
     "rarity": "U",
     "image": "cPK_10_014680_00_SKUTANK_U.webp",
-    "name": "Skuntank",
+    "name": {
+      "en": "Skuntank",
+      "fr": "Moufflair"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1024,7 +1330,10 @@
     "number": 103,
     "rarity": "R",
     "image": "cPK_10_014690_00_MIKARUGE_R.webp",
-    "name": "Spiritomb",
+    "name": {
+      "en": "Spiritomb",
+      "fr": "Spiritomb"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1034,7 +1343,10 @@
     "number": 104,
     "rarity": "C",
     "image": "cPK_10_014700_00_CHORONEKO_C.webp",
-    "name": "Purrloin",
+    "name": {
+      "en": "Purrloin",
+      "fr": "Chacripan"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1044,7 +1356,10 @@
     "number": 105,
     "rarity": "U",
     "image": "cPK_10_014710_00_LEPARDAS_U.webp",
-    "name": "Liepard",
+    "name": {
+      "en": "Liepard",
+      "fr": "Léopardus"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1054,7 +1369,10 @@
     "number": 106,
     "rarity": "C",
     "image": "cPK_10_014720_00_ZURUGGU_C.webp",
-    "name": "Scraggy",
+    "name": {
+      "en": "Scraggy",
+      "fr": "Baggiguane"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1064,7 +1382,10 @@
     "number": 107,
     "rarity": "U",
     "image": "cPK_10_014730_00_ZURUZUKIN_U.webp",
-    "name": "Scrafty",
+    "name": {
+      "en": "Scrafty",
+      "fr": "Baggaïd"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1074,7 +1395,10 @@
     "number": 108,
     "rarity": "R",
     "image": "cPK_10_014740_00_YVELTAL_R.webp",
-    "name": "Yveltal",
+    "name": {
+      "en": "Yveltal",
+      "fr": "Yveltal"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1084,7 +1408,10 @@
     "number": 109,
     "rarity": "R",
     "image": "cPK_10_014750_00_AKUZIKING_R.webp",
-    "name": "Guzzlord",
+    "name": {
+      "en": "Guzzlord",
+      "fr": "Engloutyran"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1094,7 +1421,10 @@
     "number": 110,
     "rarity": "C",
     "image": "cPK_10_014760_00_GALARNYARTH_C.webp",
-    "name": "Galarian Meowth",
+    "name": {
+      "en": "Galarian Meowth",
+      "fr": "Miaouss de Galar"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1104,7 +1434,10 @@
     "number": 111,
     "rarity": "R",
     "image": "cPK_10_014770_00_GALARNYAIKING_R.webp",
-    "name": "Galarian Perrserker",
+    "name": {
+      "en": "Galarian Perrserker",
+      "fr": "Berserkatt de Galar"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1114,7 +1447,10 @@
     "number": 112,
     "rarity": "C",
     "image": "cPK_10_014780_00_KUCHEAT_C.webp",
-    "name": "Mawile",
+    "name": {
+      "en": "Mawile",
+      "fr": "Mysdibule"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1124,7 +1460,10 @@
     "number": 113,
     "rarity": "RR",
     "image": "cPK_10_014790_00_MEGAKUCHEATex_RR.webp",
-    "name": "Mega Mawile ex",
+    "name": {
+      "en": "Mega Mawile ex",
+      "fr": "Méga-Mysdibule-ex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1134,7 +1473,10 @@
     "number": 114,
     "rarity": "U",
     "image": "cPK_10_014800_00_DORYUZU_U.webp",
-    "name": "Excadrill",
+    "name": {
+      "en": "Excadrill",
+      "fr": "Minotaupe"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1144,7 +1486,10 @@
     "number": 115,
     "rarity": "C",
     "image": "cPK_10_014810_00_TESSEED_C.webp",
-    "name": "Ferroseed",
+    "name": {
+      "en": "Ferroseed",
+      "fr": "Grindur"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1154,7 +1499,10 @@
     "number": 116,
     "rarity": "C",
     "image": "cPK_10_014820_00_NUTREY_C.webp",
-    "name": "Ferrothorn",
+    "name": {
+      "en": "Ferrothorn",
+      "fr": "Noacier"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1164,7 +1512,10 @@
     "number": 117,
     "rarity": "U",
     "image": "cPK_10_014830_00_GALARMAGGYO_U.webp",
-    "name": "Galarian Stunfisk",
+    "name": {
+      "en": "Galarian Stunfisk",
+      "fr": "Limonde de Galar"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1174,7 +1525,10 @@
     "number": 118,
     "rarity": "C",
     "image": "cPK_10_014840_00_HITOTSUKI_C.webp",
-    "name": "Honedge",
+    "name": {
+      "en": "Honedge",
+      "fr": "Monorpale"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1184,7 +1538,10 @@
     "number": 119,
     "rarity": "U",
     "image": "cPK_10_014850_00_NIDANGILL_U.webp",
-    "name": "Doublade",
+    "name": {
+      "en": "Doublade",
+      "fr": "Dimoclès"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1194,7 +1551,10 @@
     "number": 120,
     "rarity": "R",
     "image": "cPK_10_014860_00_GILLGARD_R.webp",
-    "name": "Aegislash",
+    "name": {
+      "en": "Aegislash",
+      "fr": "Exagide"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1204,7 +1564,10 @@
     "number": 121,
     "rarity": "C",
     "image": "cPK_10_014870_00_TATSUBAY_C.webp",
-    "name": "Bagon",
+    "name": {
+      "en": "Bagon",
+      "fr": "Draby"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1214,7 +1577,10 @@
     "number": 122,
     "rarity": "U",
     "image": "cPK_10_014880_00_KOMORUU_U.webp",
-    "name": "Shelgon",
+    "name": {
+      "en": "Shelgon",
+      "fr": "Drackhaus"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1224,7 +1590,10 @@
     "number": 123,
     "rarity": "R",
     "image": "cPK_10_014890_00_BOHMANDER_R.webp",
-    "name": "Salamence",
+    "name": {
+      "en": "Salamence",
+      "fr": "Drattak"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1234,7 +1603,10 @@
     "number": 124,
     "rarity": "C",
     "image": "cPK_10_014900_00_NYARTH_C.webp",
-    "name": "Meowth",
+    "name": {
+      "en": "Meowth",
+      "fr": "Miaouss"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1244,7 +1616,10 @@
     "number": 125,
     "rarity": "C",
     "image": "cPK_10_014910_00_PERSIAN_C.webp",
-    "name": "Persian",
+    "name": {
+      "en": "Persian",
+      "fr": "Persian"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1254,7 +1629,10 @@
     "number": 126,
     "rarity": "U",
     "image": "cPK_10_014920_00_GARURA_U.webp",
-    "name": "Kangaskhan",
+    "name": {
+      "en": "Kangaskhan",
+      "fr": "Kangourex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1264,7 +1642,10 @@
     "number": 127,
     "rarity": "RR",
     "image": "cPK_10_014930_00_MEGAGARURAex_RR.webp",
-    "name": "Mega Kangaskhan ex",
+    "name": {
+      "en": "Mega Kangaskhan ex",
+      "fr": "Méga-Kangourex-ex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1274,7 +1655,10 @@
     "number": 128,
     "rarity": "C",
     "image": "cPK_10_014940_00_OTACHI_C.webp",
-    "name": "Sentret",
+    "name": {
+      "en": "Sentret",
+      "fr": "Fouinette"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1284,7 +1668,10 @@
     "number": 129,
     "rarity": "C",
     "image": "cPK_10_014950_00_OOTACHI_C.webp",
-    "name": "Furret",
+    "name": {
+      "en": "Furret",
+      "fr": "Fouinar"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1294,7 +1681,10 @@
     "number": 130,
     "rarity": "U",
     "image": "cPK_10_014960_00_DOBLE_U.webp",
-    "name": "Smeargle",
+    "name": {
+      "en": "Smeargle",
+      "fr": "Queulorior"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1304,7 +1694,10 @@
     "number": 131,
     "rarity": "R",
     "image": "cPK_10_014970_00_LUGIA_R.webp",
-    "name": "Lugia",
+    "name": {
+      "en": "Lugia",
+      "fr": "Lugia"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1314,7 +1707,10 @@
     "number": 132,
     "rarity": "C",
     "image": "cPK_10_014980_00_SUBAME_C.webp",
-    "name": "Taillow",
+    "name": {
+      "en": "Taillow",
+      "fr": "Nirondelle"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1324,7 +1720,10 @@
     "number": 133,
     "rarity": "R",
     "image": "cPK_10_014990_00_OHSUBAME_R.webp",
-    "name": "Swellow",
+    "name": {
+      "en": "Swellow",
+      "fr": "Hélédelle"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1334,7 +1733,10 @@
     "number": 134,
     "rarity": "C",
     "image": "cPK_10_015000_00_NAMAKERO_C.webp",
-    "name": "Slakoth",
+    "name": {
+      "en": "Slakoth",
+      "fr": "Parecool"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1344,7 +1746,10 @@
     "number": 135,
     "rarity": "U",
     "image": "cPK_10_015010_00_YARUKIMONO_U.webp",
-    "name": "Vigoroth",
+    "name": {
+      "en": "Vigoroth",
+      "fr": "Vigoroth"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1354,7 +1759,10 @@
     "number": 136,
     "rarity": "R",
     "image": "cPK_10_015020_00_KEKKING_R.webp",
-    "name": "Slaking",
+    "name": {
+      "en": "Slaking",
+      "fr": "Monaflèmit"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1364,7 +1772,10 @@
     "number": 137,
     "rarity": "C",
     "image": "cPK_10_015030_00_PATCHEEL_C.webp",
-    "name": "Spinda",
+    "name": {
+      "en": "Spinda",
+      "fr": "Spinda"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1374,7 +1785,10 @@
     "number": 138,
     "rarity": "R",
     "image": "cPK_10_015040_00_TORNELOS_R.webp",
-    "name": "Tornadus",
+    "name": {
+      "en": "Tornadus",
+      "fr": "Boréas"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1384,7 +1798,10 @@
     "number": 139,
     "rarity": "C",
     "image": "cPK_10_015050_00_HORUBEE_C.webp",
-    "name": "Bunnelby",
+    "name": {
+      "en": "Bunnelby",
+      "fr": "Sapereau"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1394,7 +1811,10 @@
     "number": 140,
     "rarity": "U",
     "image": "cPK_10_015060_00_HORUDO_U.webp",
-    "name": "Diggersby",
+    "name": {
+      "en": "Diggersby",
+      "fr": "Excavarenne"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1404,7 +1824,10 @@
     "number": 141,
     "rarity": "U",
     "image": "cPK_10_015070_00_TRIMMIEN_U.webp",
-    "name": "Furfrou",
+    "name": {
+      "en": "Furfrou",
+      "fr": "Couafarel"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1414,7 +1837,10 @@
     "number": 142,
     "rarity": "C",
     "image": "cPK_10_015080_00_WAKKANEZUMI_C.webp",
-    "name": "Tandemaus",
+    "name": {
+      "en": "Tandemaus",
+      "fr": "Compagnol"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1424,7 +1850,10 @@
     "number": 143,
     "rarity": "U",
     "image": "cPK_10_015090_00_IKKANEZUMI_U.webp",
-    "name": "Maushold",
+    "name": {
+      "en": "Maushold",
+      "fr": "Famignol"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1434,7 +1863,10 @@
     "number": 144,
     "rarity": "C",
     "image": "cTR_10_001050_00_AGONOKASEKI_C.webp",
-    "name": "Jaw Fossil",
+    "name": {
+      "en": "Jaw Fossil",
+      "fr": "Fossile Mâchoire"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1444,7 +1876,10 @@
     "number": 145,
     "rarity": "U",
     "image": "cTR_10_001060_00_ATARITSUKIAISU_U.webp",
-    "name": "Lucky Ice Pop",
+    "name": {
+      "en": "Lucky Ice Pop",
+      "fr": "Glace Chanceuse"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1454,7 +1889,10 @@
     "number": 146,
     "rarity": "C",
     "image": "cTR_10_001070_00_HIRENOKASEKI_C.webp",
-    "name": "Sail Fossil",
+    "name": {
+      "en": "Sail Fossil",
+      "fr": "Fossile Nageoire"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1464,7 +1902,10 @@
     "number": 147,
     "rarity": "U",
     "image": "cTR_10_001080_00_MAMORINOPONCHO_U.webp",
-    "name": "Protective Poncho",
+    "name": {
+      "en": "Protective Poncho",
+      "fr": "Poncho Protecteur"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1474,7 +1915,10 @@
     "number": 148,
     "rarity": "U",
     "image": "cTR_10_001090_00_METARUKOABARIA_U.webp",
-    "name": "Metal Core Barrier",
+    "name": {
+      "en": "Metal Core Barrier",
+      "fr": "Barrière de Métal Renforcé"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1484,7 +1928,10 @@
     "number": 149,
     "rarity": "U",
     "image": "cTR_10_001100_00_CARNE_U.webp",
-    "name": "Diantha",
+    "name": {
+      "en": "Diantha",
+      "fr": "Dianthéa"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1494,7 +1941,10 @@
     "number": 150,
     "rarity": "U",
     "image": "cTR_10_001110_00_KANKOUKYAKU_U.webp",
-    "name": "Sightseer",
+    "name": {
+      "en": "Sightseer",
+      "fr": "Vacancière"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1504,7 +1954,10 @@
     "number": 151,
     "rarity": "U",
     "image": "cTR_10_001120_00_JAGURA_U.webp",
-    "name": "Juggler",
+    "name": {
+      "en": "Juggler",
+      "fr": "Jongleur"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1514,7 +1967,10 @@
     "number": 152,
     "rarity": "U",
     "image": "cTR_10_001130_00_NEZU_U.webp",
-    "name": "Piers",
+    "name": {
+      "en": "Piers",
+      "fr": "Peterson"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1524,7 +1980,10 @@
     "number": 153,
     "rarity": "U",
     "image": "cTR_10_001140_00_TORENINGUERIA_U.webp",
-    "name": "Training Area",
+    "name": {
+      "en": "Training Area",
+      "fr": "Zone d'Entraînement"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1534,7 +1993,10 @@
     "number": 154,
     "rarity": "U",
     "image": "cTR_10_001150_00_HAJIMARINOHEIGEN_U.webp",
-    "name": "Starting Plains",
+    "name": {
+      "en": "Starting Plains",
+      "fr": "Plaine du Départ"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1544,7 +2006,10 @@
     "number": 155,
     "rarity": "U",
     "image": "cTR_10_001160_00_FUSHIGINAHIROBA_U.webp",
-    "name": "Peculiar Plaza",
+    "name": {
+      "en": "Peculiar Plaza",
+      "fr": "Place Étrange"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1554,7 +2019,10 @@
     "number": 156,
     "rarity": "AR",
     "image": "cPK_20_013720_00_SABONEA_AR.webp",
-    "name": "Cacnea",
+    "name": {
+      "en": "Cacnea",
+      "fr": "Cacnea"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1564,7 +2032,10 @@
     "number": 157,
     "rarity": "AR",
     "image": "cPK_20_013710_00_ROSERADE_AR.webp",
-    "name": "Roserade",
+    "name": {
+      "en": "Roserade",
+      "fr": "Roserade"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1574,7 +2045,10 @@
     "number": 158,
     "rarity": "AR",
     "image": "cPK_20_013790_00_VIVIYON_AR.webp",
-    "name": "Vivillon",
+    "name": {
+      "en": "Vivillon",
+      "fr": "Prismillon"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1584,7 +2058,10 @@
     "number": 159,
     "rarity": "AR",
     "image": "cPK_20_013800_00_MASSIVOON_AR.webp",
-    "name": "Buzzwole",
+    "name": {
+      "en": "Buzzwole",
+      "fr": "Mouscoto"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1594,7 +2071,10 @@
     "number": 160,
     "rarity": "AR",
     "image": "cPK_20_013850_00_RESHIRAM_AR.webp",
-    "name": "Reshiram",
+    "name": {
+      "en": "Reshiram",
+      "fr": "Reshiram"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1604,7 +2084,10 @@
     "number": 161,
     "rarity": "AR",
     "image": "cPK_20_013880_00_ODORIDORI_AR.webp",
-    "name": "Oricorio",
+    "name": {
+      "en": "Oricorio",
+      "fr": "Plumeline"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1614,7 +2097,10 @@
     "number": 162,
     "rarity": "AR",
     "image": "cPK_20_013900_00_HIBANNY_AR.webp",
-    "name": "Scorbunny",
+    "name": {
+      "en": "Scorbunny",
+      "fr": "Flambino"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1624,7 +2110,10 @@
     "number": 163,
     "rarity": "AR",
     "image": "cPK_20_014080_00_AMARURUGA_AR.webp",
-    "name": "Aurorus",
+    "name": {
+      "en": "Aurorus",
+      "fr": "Dragmara"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1634,7 +2123,10 @@
     "number": 164,
     "rarity": "AR",
     "image": "cPK_20_014110_00_UU_AR.webp",
-    "name": "Cramorant",
+    "name": {
+      "en": "Cramorant",
+      "fr": "Nigosier"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1644,7 +2136,10 @@
     "number": 165,
     "rarity": "AR",
     "image": "cPK_20_014190_00_MINUN_AR.webp",
-    "name": "Minun",
+    "name": {
+      "en": "Minun",
+      "fr": "Négapi"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1654,7 +2149,10 @@
     "number": 166,
     "rarity": "AR",
     "image": "cPK_20_014200_00_ELESON_AR.webp",
-    "name": "Toxel",
+    "name": {
+      "en": "Toxel",
+      "fr": "Toxizap"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1664,7 +2162,10 @@
     "number": 167,
     "rarity": "AR",
     "image": "cPK_20_014240_00_GALARPONYTA_AR.webp",
-    "name": "Galarian Ponyta",
+    "name": {
+      "en": "Galarian Ponyta",
+      "fr": "Ponyta de Galar"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1674,7 +2175,10 @@
     "number": 168,
     "rarity": "AR",
     "image": "cPK_20_014270_00_BULU_AR.webp",
-    "name": "Snubbull",
+    "name": {
+      "en": "Snubbull",
+      "fr": "Snubbull"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1684,7 +2188,10 @@
     "number": 169,
     "rarity": "AR",
     "image": "cPK_20_014420_00_YESSAN_AR.webp",
-    "name": "Indeedee",
+    "name": {
+      "en": "Indeedee",
+      "fr": "Wimessir"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1694,7 +2201,10 @@
     "number": 170,
     "rarity": "AR",
     "image": "cPK_20_014430_00_SAND_AR.webp",
-    "name": "Sandshrew",
+    "name": {
+      "en": "Sandshrew",
+      "fr": "Sabelette"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1704,7 +2214,10 @@
     "number": 171,
     "rarity": "AR",
     "image": "cPK_20_014560_00_GACHIGORAS_AR.webp",
-    "name": "Tyrantrum",
+    "name": {
+      "en": "Tyrantrum",
+      "fr": "Rexillius"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1714,7 +2227,10 @@
     "number": 172,
     "rarity": "AR",
     "image": "cPK_20_014580_00_TAIRETSU_AR.webp",
-    "name": "Falinks",
+    "name": {
+      "en": "Falinks",
+      "fr": "Hexadron"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1724,7 +2240,10 @@
     "number": 173,
     "rarity": "AR",
     "image": "cPK_20_014630_00_ALOLABETBETON_AR.webp",
-    "name": "Alolan Muk",
+    "name": {
+      "en": "Alolan Muk",
+      "fr": "Grotadmorv d'Alola"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1734,7 +2253,10 @@
     "number": 174,
     "rarity": "AR",
     "image": "cPK_20_014700_00_CHORONEKO_AR.webp",
-    "name": "Purrloin",
+    "name": {
+      "en": "Purrloin",
+      "fr": "Chacripan"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1744,7 +2266,10 @@
     "number": 175,
     "rarity": "AR",
     "image": "cPK_20_014740_00_YVELTAL_AR.webp",
-    "name": "Yveltal",
+    "name": {
+      "en": "Yveltal",
+      "fr": "Yveltal"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1754,7 +2279,10 @@
     "number": 176,
     "rarity": "AR",
     "image": "cPK_20_014660_00_GALARTACHIFUSAGUMA_AR.webp",
-    "name": "Galarian Obstagoon",
+    "name": {
+      "en": "Galarian Obstagoon",
+      "fr": "Ixon de Galar"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1764,7 +2292,10 @@
     "number": 177,
     "rarity": "AR",
     "image": "cPK_20_014770_00_GALARNYAIKING_AR.webp",
-    "name": "Galarian Perrserker",
+    "name": {
+      "en": "Galarian Perrserker",
+      "fr": "Berserkatt de Galar"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1774,7 +2305,10 @@
     "number": 178,
     "rarity": "AR",
     "image": "cPK_20_014890_00_BOHMANDER_AR.webp",
-    "name": "Salamence",
+    "name": {
+      "en": "Salamence",
+      "fr": "Drattak"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1784,7 +2318,10 @@
     "number": 179,
     "rarity": "AR",
     "image": "cPK_20_015000_00_NAMAKERO_AR.webp",
-    "name": "Slakoth",
+    "name": {
+      "en": "Slakoth",
+      "fr": "Parecool"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1794,7 +2331,10 @@
     "number": 180,
     "rarity": "SR",
     "image": "cPK_20_013830_00_OGERPONMIDORINOMENex_SR.webp",
-    "name": "Teal Mask Ogerpon ex",
+    "name": {
+      "en": "Teal Mask Ogerpon ex",
+      "fr": "Ogerpon Masque Turquoise-ex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1804,7 +2344,10 @@
     "number": 181,
     "rarity": "SR",
     "image": "cPK_20_013890_00_ZUGADOONex_SR.webp",
-    "name": "Blacephalon ex",
+    "name": {
+      "en": "Blacephalon ex",
+      "fr": "Pierroteknik-ex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1814,7 +2357,10 @@
     "number": 182,
     "rarity": "SR",
     "image": "cPK_20_013950_00_ALOLAKYUKONex_SR.webp",
-    "name": "Alolan Ninetales ex",
+    "name": {
+      "en": "Alolan Ninetales ex",
+      "fr": "Feunard d'Alola-ex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1824,7 +2370,10 @@
     "number": 183,
     "rarity": "SR",
     "image": "cPK_20_014020_00_MEGALAGLARGEex_SR.webp",
-    "name": "Mega Swampert ex",
+    "name": {
+      "en": "Mega Swampert ex",
+      "fr": "Méga-Laggron-ex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1834,7 +2383,10 @@
     "number": 184,
     "rarity": "SR",
     "image": "cPK_20_014210_00_STRINDERex_SR.webp",
-    "name": "Toxtricity ex",
+    "name": {
+      "en": "Toxtricity ex",
+      "fr": "Salarsen-ex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1844,7 +2396,10 @@
     "number": 185,
     "rarity": "SR",
     "image": "cPK_20_014320_00_MEGASIRNIGHTex_SR.webp",
-    "name": "Mega Gardevoir ex",
+    "name": {
+      "en": "Mega Gardevoir ex",
+      "fr": "Méga-Gardevoir-ex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1854,7 +2409,10 @@
     "number": 186,
     "rarity": "SR",
     "image": "cPK_20_014390_00_MIMIKKYUex_SR.webp",
-    "name": "Mimikyu ex",
+    "name": {
+      "en": "Mimikyu ex",
+      "fr": "Mimiqui-ex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1864,7 +2422,10 @@
     "number": 187,
     "rarity": "SR",
     "image": "cPK_20_014530_00_GIGAIATHex_SR.webp",
-    "name": "Gigalith ex",
+    "name": {
+      "en": "Gigalith ex",
+      "fr": "Gigalithe-ex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1874,7 +2435,10 @@
     "number": 188,
     "rarity": "SR",
     "image": "cPK_20_014790_00_MEGAKUCHEATex_SR.webp",
-    "name": "Mega Mawile ex",
+    "name": {
+      "en": "Mega Mawile ex",
+      "fr": "Méga-Mysdibule-ex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1884,7 +2448,10 @@
     "number": 189,
     "rarity": "SR",
     "image": "cPK_20_014930_00_MEGAGARURAex_SR.webp",
-    "name": "Mega Kangaskhan ex",
+    "name": {
+      "en": "Mega Kangaskhan ex",
+      "fr": "Méga-Kangourex-ex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1894,7 +2461,10 @@
     "number": 190,
     "rarity": "SR",
     "image": "cTR_20_001100_00_CARNE_SR.webp",
-    "name": "Diantha",
+    "name": {
+      "en": "Diantha",
+      "fr": "Dianthéa"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1904,7 +2474,10 @@
     "number": 191,
     "rarity": "SR",
     "image": "cTR_20_001110_00_KANKOUKYAKU_SR.webp",
-    "name": "Sightseer",
+    "name": {
+      "en": "Sightseer",
+      "fr": "Vacancière"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1914,7 +2487,10 @@
     "number": 192,
     "rarity": "SR",
     "image": "cTR_20_001120_00_JAGURA_SR.webp",
-    "name": "Juggler",
+    "name": {
+      "en": "Juggler",
+      "fr": "Jongleur"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1924,7 +2500,10 @@
     "number": 193,
     "rarity": "SR",
     "image": "cTR_20_001130_00_NEZU_SR.webp",
-    "name": "Piers",
+    "name": {
+      "en": "Piers",
+      "fr": "Peterson"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1934,7 +2513,10 @@
     "number": 194,
     "rarity": "SAR",
     "image": "cPK_20_013830_01_OGERPONMIDORINOMENex_SAR.webp",
-    "name": "Teal Mask Ogerpon ex",
+    "name": {
+      "en": "Teal Mask Ogerpon ex",
+      "fr": "Ogerpon Masque Turquoise-ex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1944,7 +2526,10 @@
     "number": 195,
     "rarity": "SAR",
     "image": "cPK_20_013890_01_ZUGADOONex_SAR.webp",
-    "name": "Blacephalon ex",
+    "name": {
+      "en": "Blacephalon ex",
+      "fr": "Pierroteknik-ex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1954,7 +2539,10 @@
     "number": 196,
     "rarity": "SAR",
     "image": "cPK_20_013950_01_ALOLAKYUKONex_SAR.webp",
-    "name": "Alolan Ninetales ex",
+    "name": {
+      "en": "Alolan Ninetales ex",
+      "fr": "Feunard d'Alola-ex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1964,7 +2552,10 @@
     "number": 197,
     "rarity": "SAR",
     "image": "cPK_20_014020_01_MEGALAGLARGEex_SAR.webp",
-    "name": "Mega Swampert ex",
+    "name": {
+      "en": "Mega Swampert ex",
+      "fr": "Méga-Laggron-ex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1974,7 +2565,10 @@
     "number": 198,
     "rarity": "SAR",
     "image": "cPK_20_014210_01_STRINDERex_SAR.webp",
-    "name": "Toxtricity ex",
+    "name": {
+      "en": "Toxtricity ex",
+      "fr": "Salarsen-ex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1984,7 +2578,10 @@
     "number": 199,
     "rarity": "SAR",
     "image": "cPK_20_014390_01_MIMIKKYUex_SAR.webp",
-    "name": "Mimikyu ex",
+    "name": {
+      "en": "Mimikyu ex",
+      "fr": "Mimiqui-ex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -1994,7 +2591,10 @@
     "number": 200,
     "rarity": "SAR",
     "image": "cPK_20_014530_01_GIGAIATHex_SAR.webp",
-    "name": "Gigalith ex",
+    "name": {
+      "en": "Gigalith ex",
+      "fr": "Gigalithe-ex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -2004,7 +2604,10 @@
     "number": 201,
     "rarity": "SAR",
     "image": "cPK_20_014790_01_MEGAKUCHEATex_SAR.webp",
-    "name": "Mega Mawile ex",
+    "name": {
+      "en": "Mega Mawile ex",
+      "fr": "Méga-Mysdibule-ex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -2014,7 +2617,10 @@
     "number": 202,
     "rarity": "SAR",
     "image": "cPK_20_014930_01_MEGAGARURAex_SAR.webp",
-    "name": "Mega Kangaskhan ex",
+    "name": {
+      "en": "Mega Kangaskhan ex",
+      "fr": "Méga-Kangourex-ex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -2024,7 +2630,10 @@
     "number": 203,
     "rarity": "IM",
     "image": "cPK_20_014320_01_MEGASIRNIGHTex_IM.webp",
-    "name": "Mega Gardevoir ex",
+    "name": {
+      "en": "Mega Gardevoir ex",
+      "fr": "Méga-Gardevoir-ex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -2034,7 +2643,10 @@
     "number": 204,
     "rarity": "IM",
     "image": "cPK_20_014900_00_NYARTH_IM.webp",
-    "name": "Meowth",
+    "name": {
+      "en": "Meowth",
+      "fr": "Miaouss"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -2044,7 +2656,10 @@
     "number": 205,
     "rarity": "S",
     "image": "cPK_20_008600_00_MONJARA_S.webp",
-    "name": "Tangela",
+    "name": {
+      "en": "Tangela",
+      "fr": "Saquedeneu"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -2054,7 +2669,10 @@
     "number": 206,
     "rarity": "S",
     "image": "cPK_20_008880_01_BUBY_S.webp",
-    "name": "Magby",
+    "name": {
+      "en": "Magby",
+      "fr": "Magby"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -2064,7 +2682,10 @@
     "number": 207,
     "rarity": "S",
     "image": "cPK_20_003040_00_BOOBER_S.webp",
-    "name": "Magmar",
+    "name": {
+      "en": "Magmar",
+      "fr": "Magmar"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -2074,7 +2695,10 @@
     "number": 208,
     "rarity": "S",
     "image": "cPK_20_008970_00_TATTU_S.webp",
-    "name": "Horsea",
+    "name": {
+      "en": "Horsea",
+      "fr": "Hypotrempe"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -2084,7 +2708,10 @@
     "number": 209,
     "rarity": "S",
     "image": "cPK_20_008980_00_SEADRA_S.webp",
-    "name": "Seadra",
+    "name": {
+      "en": "Seadra",
+      "fr": "Hypocéan"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -2094,7 +2721,10 @@
     "number": 210,
     "rarity": "S",
     "image": "cPK_20_010420_01_TAMANTA_S.webp",
-    "name": "Mantyke",
+    "name": {
+      "en": "Mantyke",
+      "fr": "Amonita"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -2104,7 +2734,10 @@
     "number": 211,
     "rarity": "S",
     "image": "cPK_20_000810_00_OMNITE_S.webp",
-    "name": "Omanyte",
+    "name": {
+      "en": "Omanyte",
+      "fr": "Amonistar"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -2114,7 +2747,10 @@
     "number": 212,
     "rarity": "S",
     "image": "cPK_20_000820_00_OMSTAR_S.webp",
-    "name": "Omastar",
+    "name": {
+      "en": "Omastar",
+      "fr": "Babimanta"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -2124,7 +2760,10 @@
     "number": 213,
     "rarity": "S",
     "image": "cPK_20_009220_01_PICHU_S.webp",
-    "name": "Pichu",
+    "name": {
+      "en": "Pichu",
+      "fr": "Pichu"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -2134,7 +2773,10 @@
     "number": 214,
     "rarity": "S",
     "image": "cPK_20_001130_00_PIPPI_S.webp",
-    "name": "Clefairy",
+    "name": {
+      "en": "Clefairy",
+      "fr": "Mélofée"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -2144,7 +2786,10 @@
     "number": 215,
     "rarity": "S",
     "image": "cPK_20_001140_00_PIXY_S.webp",
-    "name": "Clefable",
+    "name": {
+      "en": "Clefable",
+      "fr": "Mélodelfe"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -2154,7 +2799,10 @@
     "number": 216,
     "rarity": "S",
     "image": "cPK_20_010200_00_LATIAS_S.webp",
-    "name": "Latias",
+    "name": {
+      "en": "Latias",
+      "fr": "Latias"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -2164,7 +2812,10 @@
     "number": 217,
     "rarity": "S",
     "image": "cPK_20_010550_01_LATIOS_S.webp",
-    "name": "Latios",
+    "name": {
+      "en": "Latios",
+      "fr": "Latios"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -2174,7 +2825,10 @@
     "number": 218,
     "rarity": "S",
     "image": "cPK_20_001540_00_SAWAMULAR_S.webp",
-    "name": "Hitmonlee",
+    "name": {
+      "en": "Hitmonlee",
+      "fr": "Kicklee"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -2184,7 +2838,10 @@
     "number": 219,
     "rarity": "S",
     "image": "cPK_20_001550_00_EBIWALAR_S.webp",
-    "name": "Hitmonchan",
+    "name": {
+      "en": "Hitmonchan",
+      "fr": "Tygnon"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -2194,7 +2851,10 @@
     "number": 220,
     "rarity": "S",
     "image": "cPK_20_001580_00_KABUTO_S.webp",
-    "name": "Kabuto",
+    "name": {
+      "en": "Kabuto",
+      "fr": "Kabuto"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -2204,7 +2864,10 @@
     "number": 221,
     "rarity": "S",
     "image": "cPK_20_001590_00_KABUTOPS_S.webp",
-    "name": "Kabutops",
+    "name": {
+      "en": "Kabutops",
+      "fr": "Kabutops"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -2214,7 +2877,10 @@
     "number": 222,
     "rarity": "S",
     "image": "cPK_20_009550_00_GOMAZOU_S.webp",
-    "name": "Phanpy",
+    "name": {
+      "en": "Phanpy",
+      "fr": "Phanpy"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -2224,7 +2890,10 @@
     "number": 223,
     "rarity": "S",
     "image": "cPK_20_009570_00_BALKIE_S.webp",
-    "name": "Tyrogue",
+    "name": {
+      "en": "Tyrogue",
+      "fr": "Debugant"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -2234,7 +2903,10 @@
     "number": 224,
     "rarity": "S",
     "image": "cPK_20_002730_00_KENTAUROS_S.webp",
-    "name": "Tauros",
+    "name": {
+      "en": "Tauros",
+      "fr": "Tauros"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -2244,7 +2916,10 @@
     "number": 225,
     "rarity": "SSR",
     "image": "cPK_20_008050_02_BOOSTERex_SSR.webp",
-    "name": "Flareon ex",
+    "name": {
+      "en": "Flareon ex",
+      "fr": "Pyroli-ex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -2254,7 +2929,10 @@
     "number": 226,
     "rarity": "SSR",
     "image": "cPK_20_008900_04_HOUOUex_SSR.webp",
-    "name": "Ho-Oh ex",
+    "name": {
+      "en": "Ho-Oh ex",
+      "fr": "Ho-Oh-ex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -2264,7 +2942,10 @@
     "number": 227,
     "rarity": "SSR",
     "image": "cPK_20_008990_02_KINGDRAex_SSR.webp",
-    "name": "Kingdra ex",
+    "name": {
+      "en": "Kingdra ex",
+      "fr": "Hyporoi-ex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -2274,7 +2955,10 @@
     "number": 228,
     "rarity": "SSR",
     "image": "cPK_20_009390_02_EIFIEex_SSR.webp",
-    "name": "Espeon ex",
+    "name": {
+      "en": "Espeon ex",
+      "fr": "Mentali-ex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -2284,7 +2968,10 @@
     "number": 229,
     "rarity": "SSR",
     "image": "cPK_20_008280_02_NYMPHIAex_SSR.webp",
-    "name": "Sylveon ex",
+    "name": {
+      "en": "Sylveon ex",
+      "fr": "Nymphali-ex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -2294,7 +2981,10 @@
     "number": 230,
     "rarity": "SSR",
     "image": "cPK_20_009560_02_DONFANex_SSR.webp",
-    "name": "Donphan ex",
+    "name": {
+      "en": "Donphan ex",
+      "fr": "Donphan-ex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -2304,7 +2994,10 @@
     "number": 231,
     "rarity": "SSR",
     "image": "cPK_20_009680_02_BRACKYex_SSR.webp",
-    "name": "Umbreon ex",
+    "name": {
+      "en": "Umbreon ex",
+      "fr": "Noctali-ex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -2314,7 +3007,10 @@
     "number": 232,
     "rarity": "SSR",
     "image": "cPK_20_010050_04_LUGIAex_SSR.webp",
-    "name": "Lugia ex",
+    "name": {
+      "en": "Lugia ex",
+      "fr": "Lugia-ex"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -2324,7 +3020,10 @@
     "number": 233,
     "rarity": "UR",
     "image": "cPK_20_014360_00_MELOETTA_UR.webp",
-    "name": "Meloetta",
+    "name": {
+      "en": "Meloetta",
+      "fr": "Meloetta"
+    },
     "packs": [
       "Gardevoir"
     ]
@@ -2334,7 +3033,10 @@
     "number": 234,
     "rarity": "UR",
     "image": "cTR_20_001080_00_MAMORINOPONCHO_UR.webp",
-    "name": "Protective Poncho",
+    "name": {
+      "en": "Protective Poncho",
+      "fr": "Poncho Protecteur"
+    },
     "packs": [
       "Gardevoir"
     ]
