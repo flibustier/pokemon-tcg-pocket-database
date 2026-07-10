@@ -3,7 +3,10 @@
     "set": "A3b",
     "number": 1,
     "rarity": "U",
-    "name": "Tropius",
+    "name": {
+      "en": "Tropius",
+      "fr": "Tropius"
+    },
     "image": "cPK_10_007970_00_TROPIUS_U.webp",
     "packs": [
       "Eevee"
@@ -13,7 +16,10 @@
     "set": "A3b",
     "number": 2,
     "rarity": "R",
-    "name": "Leafeon",
+    "name": {
+      "en": "Leafeon",
+      "fr": "Phyllali"
+    },
     "image": "cPK_10_007980_00_LEAFIA_R.webp",
     "packs": [
       "Eevee"
@@ -23,7 +29,10 @@
     "set": "A3b",
     "number": 3,
     "rarity": "C",
-    "name": "Bounsweet",
+    "name": {
+      "en": "Bounsweet",
+      "fr": "Croquine"
+    },
     "image": "cPK_10_007990_00_AMAKAJI_C.webp",
     "packs": [
       "Eevee"
@@ -33,7 +42,10 @@
     "set": "A3b",
     "number": 4,
     "rarity": "C",
-    "name": "Steenee",
+    "name": {
+      "en": "Steenee",
+      "fr": "Candine"
+    },
     "image": "cPK_10_008000_00_AMAMAIKO_C.webp",
     "packs": [
       "Eevee"
@@ -43,7 +55,10 @@
     "set": "A3b",
     "number": 5,
     "rarity": "U",
-    "name": "Tsareena",
+    "name": {
+      "en": "Tsareena",
+      "fr": "Sucreine"
+    },
     "image": "cPK_10_008010_00_AMAJO_U.webp",
     "packs": [
       "Eevee"
@@ -53,7 +68,10 @@
     "set": "A3b",
     "number": 6,
     "rarity": "C",
-    "name": "Applin",
+    "name": {
+      "en": "Applin",
+      "fr": "Verpom"
+    },
     "image": "cPK_10_008020_00_KAJICCHU_C.webp",
     "packs": [
       "Eevee"
@@ -63,7 +81,10 @@
     "set": "A3b",
     "number": 7,
     "rarity": "U",
-    "name": "Appletun",
+    "name": {
+      "en": "Appletun",
+      "fr": "Dratatin"
+    },
     "image": "cPK_10_008030_00_TARUPPLE_U.webp",
     "packs": [
       "Eevee"
@@ -73,7 +94,10 @@
     "set": "A3b",
     "number": 8,
     "rarity": "R",
-    "name": "Flareon",
+    "name": {
+      "en": "Flareon",
+      "fr": "Pyroli"
+    },
     "image": "cPK_10_008040_00_BOOSTER_R.webp",
     "packs": [
       "Eevee"
@@ -83,7 +107,10 @@
     "set": "A3b",
     "number": 9,
     "rarity": "RR",
-    "name": "Flareon ex",
+    "name": {
+      "en": "Flareon ex",
+      "fr": "Pyroli-ex"
+    },
     "image": "cPK_10_008050_00_BOOSTERex_RR.webp",
     "packs": [
       "Eevee"
@@ -93,7 +120,10 @@
     "set": "A3b",
     "number": 10,
     "rarity": "C",
-    "name": "Torkoal",
+    "name": {
+      "en": "Torkoal",
+      "fr": "Chartor"
+    },
     "image": "cPK_10_008060_00_COTOISE_C.webp",
     "packs": [
       "Eevee"
@@ -103,7 +133,10 @@
     "set": "A3b",
     "number": 11,
     "rarity": "C",
-    "name": "Litten",
+    "name": {
+      "en": "Litten",
+      "fr": "Flamiaou"
+    },
     "image": "cPK_10_008070_00_NYABBY_C.webp",
     "packs": [
       "Eevee"
@@ -113,7 +146,10 @@
     "set": "A3b",
     "number": 12,
     "rarity": "C",
-    "name": "Torracat",
+    "name": {
+      "en": "Torracat",
+      "fr": "Matoufeu"
+    },
     "image": "cPK_10_008080_00_NYAHEAT_C.webp",
     "packs": [
       "Eevee"
@@ -123,7 +159,10 @@
     "set": "A3b",
     "number": 13,
     "rarity": "U",
-    "name": "Incineroar",
+    "name": {
+      "en": "Incineroar",
+      "fr": "Félinferno"
+    },
     "image": "cPK_10_008090_00_GAOGAEN_U.webp",
     "packs": [
       "Eevee"
@@ -133,7 +172,10 @@
     "set": "A3b",
     "number": 14,
     "rarity": "C",
-    "name": "Salandit",
+    "name": {
+      "en": "Salandit",
+      "fr": "Tritox"
+    },
     "image": "cPK_10_008100_00_YATOUMORI_C.webp",
     "packs": [
       "Eevee"
@@ -143,7 +185,10 @@
     "set": "A3b",
     "number": 15,
     "rarity": "U",
-    "name": "Salazzle",
+    "name": {
+      "en": "Salazzle",
+      "fr": "Malamandre"
+    },
     "image": "cPK_10_008110_00_ENNEWT_U.webp",
     "packs": [
       "Eevee"
@@ -153,7 +198,10 @@
     "set": "A3b",
     "number": 16,
     "rarity": "R",
-    "name": "Vaporeon",
+    "name": {
+      "en": "Vaporeon",
+      "fr": "Aquali"
+    },
     "image": "cPK_10_008120_00_SHOWERS_R.webp",
     "packs": [
       "Eevee"
@@ -163,7 +211,10 @@
     "set": "A3b",
     "number": 17,
     "rarity": "R",
-    "name": "Glaceon",
+    "name": {
+      "en": "Glaceon",
+      "fr": "Givrali"
+    },
     "image": "cPK_10_008130_00_GLACIA_R.webp",
     "packs": [
       "Eevee"
@@ -173,7 +224,10 @@
     "set": "A3b",
     "number": 18,
     "rarity": "C",
-    "name": "Vanillite",
+    "name": {
+      "en": "Vanillite",
+      "fr": "Sorbébé"
+    },
     "image": "cPK_10_007320_00_VANIPETI_C.webp",
     "packs": [
       "Eevee"
@@ -183,7 +237,10 @@
     "set": "A3b",
     "number": 19,
     "rarity": "C",
-    "name": "Vanillish",
+    "name": {
+      "en": "Vanillish",
+      "fr": "Sorboul"
+    },
     "image": "cPK_10_008140_00_VANIRICH_C.webp",
     "packs": [
       "Eevee"
@@ -193,7 +250,10 @@
     "set": "A3b",
     "number": 20,
     "rarity": "U",
-    "name": "Vanilluxe",
+    "name": {
+      "en": "Vanilluxe",
+      "fr": "Sorbouboul"
+    },
     "image": "cPK_10_008150_00_BAIVANILLA_U.webp",
     "packs": [
       "Eevee"
@@ -203,7 +263,10 @@
     "set": "A3b",
     "number": 21,
     "rarity": "C",
-    "name": "Alomomola",
+    "name": {
+      "en": "Alomomola",
+      "fr": "Mamanbo"
+    },
     "image": "cPK_10_008160_00_MAMANBOU_C.webp",
     "packs": [
       "Eevee"
@@ -213,7 +276,10 @@
     "set": "A3b",
     "number": 22,
     "rarity": "C",
-    "name": "Popplio",
+    "name": {
+      "en": "Popplio",
+      "fr": "Otaquin"
+    },
     "image": "cPK_10_008170_00_ASHIMARI_C.webp",
     "packs": [
       "Eevee"
@@ -223,7 +289,10 @@
     "set": "A3b",
     "number": 23,
     "rarity": "C",
-    "name": "Brionne",
+    "name": {
+      "en": "Brionne",
+      "fr": "Otarlette"
+    },
     "image": "cPK_10_008180_00_OSYAMARI_C.webp",
     "packs": [
       "Eevee"
@@ -233,7 +302,10 @@
     "set": "A3b",
     "number": 24,
     "rarity": "RR",
-    "name": "Primarina ex",
+    "name": {
+      "en": "Primarina ex",
+      "fr": "Oratoria-ex"
+    },
     "image": "cPK_10_008190_00_ASHIRENEex_RR.webp",
     "packs": [
       "Eevee"
@@ -243,7 +315,10 @@
     "set": "A3b",
     "number": 25,
     "rarity": "R",
-    "name": "Jolteon",
+    "name": {
+      "en": "Jolteon",
+      "fr": "Voltali"
+    },
     "image": "cPK_10_007330_00_THUNDERS_R.webp",
     "packs": [
       "Eevee"
@@ -253,7 +328,10 @@
     "set": "A3b",
     "number": 26,
     "rarity": "C",
-    "name": "Joltik",
+    "name": {
+      "en": "Joltik",
+      "fr": "Statitik"
+    },
     "image": "cPK_10_008200_00_BACHURU_C.webp",
     "packs": [
       "Eevee"
@@ -263,7 +341,10 @@
     "set": "A3b",
     "number": 27,
     "rarity": "U",
-    "name": "Galvantula",
+    "name": {
+      "en": "Galvantula",
+      "fr": "Mygavolt"
+    },
     "image": "cPK_10_008210_00_DENTULA_U.webp",
     "packs": [
       "Eevee"
@@ -273,7 +354,10 @@
     "set": "A3b",
     "number": 28,
     "rarity": "R",
-    "name": "Espeon",
+    "name": {
+      "en": "Espeon",
+      "fr": "Mentali"
+    },
     "image": "cPK_10_008220_00_EIFIE_R.webp",
     "packs": [
       "Eevee"
@@ -283,7 +367,10 @@
     "set": "A3b",
     "number": 29,
     "rarity": "C",
-    "name": "Woobat",
+    "name": {
+      "en": "Woobat",
+      "fr": "Chovsourir"
+    },
     "image": "cPK_10_008230_00_KOROMORI_C.webp",
     "packs": [
       "Eevee"
@@ -293,7 +380,10 @@
     "set": "A3b",
     "number": 30,
     "rarity": "U",
-    "name": "Swoobat",
+    "name": {
+      "en": "Swoobat",
+      "fr": "Rhinolove"
+    },
     "image": "cPK_10_008240_00_KOKOROMORI_U.webp",
     "packs": [
       "Eevee"
@@ -303,7 +393,10 @@
     "set": "A3b",
     "number": 31,
     "rarity": "C",
-    "name": "Swirlix",
+    "name": {
+      "en": "Swirlix",
+      "fr": "Sucroquin"
+    },
     "image": "cPK_10_008250_00_PEROPPAFU_C.webp",
     "packs": [
       "Eevee"
@@ -313,7 +406,10 @@
     "set": "A3b",
     "number": 32,
     "rarity": "U",
-    "name": "Slurpuff",
+    "name": {
+      "en": "Slurpuff",
+      "fr": "Cupcanaille"
+    },
     "image": "cPK_10_008260_00_PEROREAM_U.webp",
     "packs": [
       "Eevee"
@@ -323,7 +419,10 @@
     "set": "A3b",
     "number": 33,
     "rarity": "R",
-    "name": "Sylveon",
+    "name": {
+      "en": "Sylveon",
+      "fr": "Nymphali"
+    },
     "image": "cPK_10_008270_00_NYMPHIA_R.webp",
     "packs": [
       "Eevee"
@@ -333,7 +432,10 @@
     "set": "A3b",
     "number": 34,
     "rarity": "RR",
-    "name": "Sylveon ex",
+    "name": {
+      "en": "Sylveon ex",
+      "fr": "Nymphali-ex"
+    },
     "image": "cPK_10_008280_00_NYMPHIAex_RR.webp",
     "packs": [
       "Eevee"
@@ -343,7 +445,10 @@
     "set": "A3b",
     "number": 35,
     "rarity": "U",
-    "name": "Mimikyu",
+    "name": {
+      "en": "Mimikyu",
+      "fr": "Mimiqui"
+    },
     "image": "cPK_10_008290_00_MIMIKKYU_U.webp",
     "packs": [
       "Eevee"
@@ -353,7 +458,10 @@
     "set": "A3b",
     "number": 36,
     "rarity": "C",
-    "name": "Milcery",
+    "name": {
+      "en": "Milcery",
+      "fr": "Crèmy"
+    },
     "image": "cPK_10_008300_00_MAHOMIL_C.webp",
     "packs": [
       "Eevee"
@@ -363,7 +471,10 @@
     "set": "A3b",
     "number": 37,
     "rarity": "U",
-    "name": "Alcremie",
+    "name": {
+      "en": "Alcremie",
+      "fr": "Charmilly"
+    },
     "image": "cPK_10_007340_00_MAWHIP_U.webp",
     "packs": [
       "Eevee"
@@ -373,7 +484,10 @@
     "set": "A3b",
     "number": 38,
     "rarity": "C",
-    "name": "Barboach",
+    "name": {
+      "en": "Barboach",
+      "fr": "Barloche"
+    },
     "image": "cPK_10_008310_00_DOJOACH_C.webp",
     "packs": [
       "Eevee"
@@ -383,7 +497,10 @@
     "set": "A3b",
     "number": 39,
     "rarity": "U",
-    "name": "Whiscash",
+    "name": {
+      "en": "Whiscash",
+      "fr": "Barbicha"
+    },
     "image": "cPK_10_008320_00_NAMAZUN_U.webp",
     "packs": [
       "Eevee"
@@ -393,7 +510,10 @@
     "set": "A3b",
     "number": 40,
     "rarity": "C",
-    "name": "Mienfoo",
+    "name": {
+      "en": "Mienfoo",
+      "fr": "Kungfouine"
+    },
     "image": "cPK_10_008330_00_KOJOFU_C.webp",
     "packs": [
       "Eevee"
@@ -403,7 +523,10 @@
     "set": "A3b",
     "number": 41,
     "rarity": "U",
-    "name": "Mienshao",
+    "name": {
+      "en": "Mienshao",
+      "fr": "Shaofouine"
+    },
     "image": "cPK_10_008340_00_KOJONDO_U.webp",
     "packs": [
       "Eevee"
@@ -413,7 +536,10 @@
     "set": "A3b",
     "number": 42,
     "rarity": "C",
-    "name": "Carbink",
+    "name": {
+      "en": "Carbink",
+      "fr": "Strassie"
+    },
     "image": "cPK_10_008350_00_MELECIE_C.webp",
     "packs": [
       "Eevee"
@@ -423,7 +549,10 @@
     "set": "A3b",
     "number": 43,
     "rarity": "R",
-    "name": "Umbreon",
+    "name": {
+      "en": "Umbreon",
+      "fr": "Noctali"
+    },
     "image": "cPK_10_008360_00_BRACKY_R.webp",
     "packs": [
       "Eevee"
@@ -433,7 +562,10 @@
     "set": "A3b",
     "number": 44,
     "rarity": "C",
-    "name": "Sableye",
+    "name": {
+      "en": "Sableye",
+      "fr": "Ténéfix"
+    },
     "image": "cPK_10_008370_00_YAMIRAMI_C.webp",
     "packs": [
       "Eevee"
@@ -443,7 +575,10 @@
     "set": "A3b",
     "number": 45,
     "rarity": "C",
-    "name": "Purrloin",
+    "name": {
+      "en": "Purrloin",
+      "fr": "Chacripan"
+    },
     "image": "cPK_10_008380_00_CHORONEKO_C.webp",
     "packs": [
       "Eevee"
@@ -453,7 +588,10 @@
     "set": "A3b",
     "number": 46,
     "rarity": "U",
-    "name": "Liepard",
+    "name": {
+      "en": "Liepard",
+      "fr": "Léopardus"
+    },
     "image": "cPK_10_008390_00_LEPARDAS_U.webp",
     "packs": [
       "Eevee"
@@ -463,7 +601,10 @@
     "set": "A3b",
     "number": 47,
     "rarity": "C",
-    "name": "Mawile",
+    "name": {
+      "en": "Mawile",
+      "fr": "Mysdibule"
+    },
     "image": "cPK_10_008400_00_KUCHEAT_C.webp",
     "packs": [
       "Eevee"
@@ -473,7 +614,10 @@
     "set": "A3b",
     "number": 48,
     "rarity": "C",
-    "name": "Togedemaru",
+    "name": {
+      "en": "Togedemaru",
+      "fr": "Togedemaru"
+    },
     "image": "cPK_10_007390_00_TOGEDEMARU_C.webp",
     "packs": [
       "Eevee"
@@ -483,7 +627,10 @@
     "set": "A3b",
     "number": 49,
     "rarity": "C",
-    "name": "Meltan",
+    "name": {
+      "en": "Meltan",
+      "fr": "Meltan"
+    },
     "image": "cPK_10_008410_00_MELTAN_C.webp",
     "packs": [
       "Eevee"
@@ -493,7 +640,10 @@
     "set": "A3b",
     "number": 50,
     "rarity": "U",
-    "name": "Melmetal",
+    "name": {
+      "en": "Melmetal",
+      "fr": "Melmetal"
+    },
     "image": "cPK_10_008420_00_MELMETAL_U.webp",
     "packs": [
       "Eevee"
@@ -503,7 +653,10 @@
     "set": "A3b",
     "number": 51,
     "rarity": "C",
-    "name": "Dratini",
+    "name": {
+      "en": "Dratini",
+      "fr": "Minidraco"
+    },
     "image": "cPK_10_008430_00_MINIRYU_C.webp",
     "packs": [
       "Eevee"
@@ -513,7 +666,10 @@
     "set": "A3b",
     "number": 52,
     "rarity": "C",
-    "name": "Dragonair",
+    "name": {
+      "en": "Dragonair",
+      "fr": "Draco"
+    },
     "image": "cPK_10_008440_00_HAKURYU_C.webp",
     "packs": [
       "Eevee"
@@ -523,7 +679,10 @@
     "set": "A3b",
     "number": 53,
     "rarity": "RR",
-    "name": "Dragonite ex",
+    "name": {
+      "en": "Dragonite ex",
+      "fr": "Dracolosse-ex"
+    },
     "image": "cPK_10_008450_00_KAIRYUex_RR.webp",
     "packs": [
       "Eevee"
@@ -533,7 +692,10 @@
     "set": "A3b",
     "number": 54,
     "rarity": "U",
-    "name": "Drampa",
+    "name": {
+      "en": "Drampa",
+      "fr": "Draïeul"
+    },
     "image": "cPK_10_008460_00_JIJILONG_U.webp",
     "packs": [
       "Eevee"
@@ -543,7 +705,10 @@
     "set": "A3b",
     "number": 55,
     "rarity": "C",
-    "name": "Eevee",
+    "name": {
+      "en": "Eevee",
+      "fr": "Évoli"
+    },
     "image": "cPK_10_008470_00_EIEVUI_C.webp",
     "packs": [
       "Eevee"
@@ -553,7 +718,10 @@
     "set": "A3b",
     "number": 56,
     "rarity": "RR",
-    "name": "Eevee ex",
+    "name": {
+      "en": "Eevee ex",
+      "fr": "Évoli-ex"
+    },
     "image": "cPK_10_008480_00_EIEVUIex_RR.webp",
     "packs": [
       "Eevee"
@@ -563,7 +731,10 @@
     "set": "A3b",
     "number": 57,
     "rarity": "RR",
-    "name": "Snorlax ex",
+    "name": {
+      "en": "Snorlax ex",
+      "fr": "Ronflex-ex"
+    },
     "image": "cPK_10_008490_00_KABIGONex_RR.webp",
     "packs": [
       "Eevee"
@@ -573,7 +744,10 @@
     "set": "A3b",
     "number": 58,
     "rarity": "C",
-    "name": "Aipom",
+    "name": {
+      "en": "Aipom",
+      "fr": "Capumain"
+    },
     "image": "cPK_10_008500_00_EIPAM_C.webp",
     "packs": [
       "Eevee"
@@ -583,7 +757,10 @@
     "set": "A3b",
     "number": 59,
     "rarity": "U",
-    "name": "Ambipom",
+    "name": {
+      "en": "Ambipom",
+      "fr": "Capidextre"
+    },
     "image": "cPK_10_008510_00_ETEBOTH_U.webp",
     "packs": [
       "Eevee"
@@ -593,7 +770,10 @@
     "set": "A3b",
     "number": 60,
     "rarity": "C",
-    "name": "Chatot",
+    "name": {
+      "en": "Chatot",
+      "fr": "Pijako"
+    },
     "image": "cPK_10_008520_00_PERAP_C.webp",
     "packs": [
       "Eevee"
@@ -603,7 +783,10 @@
     "set": "A3b",
     "number": 61,
     "rarity": "C",
-    "name": "Audino",
+    "name": {
+      "en": "Audino",
+      "fr": "Nanméouïe"
+    },
     "image": "cPK_10_008530_00_TABUNNE_C.webp",
     "packs": [
       "Eevee"
@@ -613,7 +796,10 @@
     "set": "A3b",
     "number": 62,
     "rarity": "C",
-    "name": "Minccino",
+    "name": {
+      "en": "Minccino",
+      "fr": "Chinchidou"
+    },
     "image": "cPK_10_008540_00_CHILLARMY_C.webp",
     "packs": [
       "Eevee"
@@ -623,7 +809,10 @@
     "set": "A3b",
     "number": 63,
     "rarity": "U",
-    "name": "Cinccino",
+    "name": {
+      "en": "Cinccino",
+      "fr": "Pashmilla"
+    },
     "image": "cPK_10_008550_00_CHILLACCINO_U.webp",
     "packs": [
       "Eevee"
@@ -633,7 +822,10 @@
     "set": "A3b",
     "number": 64,
     "rarity": "C",
-    "name": "Skwovet",
+    "name": {
+      "en": "Skwovet",
+      "fr": "Rongourmand"
+    },
     "image": "cPK_10_008560_00_HOSHIGARISU_C.webp",
     "packs": [
       "Eevee"
@@ -643,7 +835,10 @@
     "set": "A3b",
     "number": 65,
     "rarity": "U",
-    "name": "Greedent",
+    "name": {
+      "en": "Greedent",
+      "fr": "Rongrigou"
+    },
     "image": "cPK_10_007400_00_YOKUBARISU_U.webp",
     "packs": [
       "Eevee"
@@ -653,7 +848,10 @@
     "set": "A3b",
     "number": 66,
     "rarity": "U",
-    "name": "Eevee Bag",
+    "name": {
+      "en": "Eevee Bag",
+      "fr": "Sac Évoli"
+    },
     "image": "cTR_10_000670_00_IIBUINOBAKKU_U.webp",
     "packs": [
       "Eevee"
@@ -663,7 +861,10 @@
     "set": "A3b",
     "number": 67,
     "rarity": "U",
-    "name": "Leftovers",
+    "name": {
+      "en": "Leftovers",
+      "fr": "Restes"
+    },
     "image": "cTR_10_000680_00_TABENOKOSHI_U.webp",
     "packs": [
       "Eevee"
@@ -673,7 +874,10 @@
     "set": "A3b",
     "number": 68,
     "rarity": "U",
-    "name": "Hau",
+    "name": {
+      "en": "Hau",
+      "fr": "Tili"
+    },
     "image": "cTR_10_000690_00_HAU_U.webp",
     "packs": [
       "Eevee"
@@ -683,7 +887,10 @@
     "set": "A3b",
     "number": 69,
     "rarity": "U",
-    "name": "Penny",
+    "name": {
+      "en": "Penny",
+      "fr": "Pania"
+    },
     "image": "cTR_10_000700_00_BOTAN_U.webp",
     "packs": [
       "Eevee"
@@ -693,7 +900,10 @@
     "set": "A3b",
     "number": 70,
     "rarity": "AR",
-    "name": "Leafeon",
+    "name": {
+      "en": "Leafeon",
+      "fr": "Phyllali"
+    },
     "image": "cPK_20_007980_00_LEAFIA_AR.webp",
     "packs": [
       "Eevee"
@@ -703,7 +913,10 @@
     "set": "A3b",
     "number": 71,
     "rarity": "AR",
-    "name": "Flareon",
+    "name": {
+      "en": "Flareon",
+      "fr": "Pyroli"
+    },
     "image": "cPK_20_008040_00_BOOSTER_AR.webp",
     "packs": [
       "Eevee"
@@ -713,7 +926,10 @@
     "set": "A3b",
     "number": 72,
     "rarity": "AR",
-    "name": "Vaporeon",
+    "name": {
+      "en": "Vaporeon",
+      "fr": "Aquali"
+    },
     "image": "cPK_20_008120_00_SHOWERS_AR.webp",
     "packs": [
       "Eevee"
@@ -723,7 +939,10 @@
     "set": "A3b",
     "number": 73,
     "rarity": "AR",
-    "name": "Glaceon",
+    "name": {
+      "en": "Glaceon",
+      "fr": "Givrali"
+    },
     "image": "cPK_20_008130_00_GLACIA_AR.webp",
     "packs": [
       "Eevee"
@@ -733,7 +952,10 @@
     "set": "A3b",
     "number": 74,
     "rarity": "AR",
-    "name": "Jolteon",
+    "name": {
+      "en": "Jolteon",
+      "fr": "Voltali"
+    },
     "image": "cPK_20_007330_00_THUNDERS_AR.webp",
     "packs": [
       "Eevee"
@@ -743,7 +965,10 @@
     "set": "A3b",
     "number": 75,
     "rarity": "AR",
-    "name": "Espeon",
+    "name": {
+      "en": "Espeon",
+      "fr": "Mentali"
+    },
     "image": "cPK_20_008220_00_EIFIE_AR.webp",
     "packs": [
       "Eevee"
@@ -753,7 +978,10 @@
     "set": "A3b",
     "number": 76,
     "rarity": "AR",
-    "name": "Sylveon",
+    "name": {
+      "en": "Sylveon",
+      "fr": "Nymphali"
+    },
     "image": "cPK_20_008270_00_NYMPHIA_AR.webp",
     "packs": [
       "Eevee"
@@ -763,7 +991,10 @@
     "set": "A3b",
     "number": 77,
     "rarity": "AR",
-    "name": "Umbreon",
+    "name": {
+      "en": "Umbreon",
+      "fr": "Noctali"
+    },
     "image": "cPK_20_008360_00_BRACKY_AR.webp",
     "packs": [
       "Eevee"
@@ -773,7 +1004,10 @@
     "set": "A3b",
     "number": 78,
     "rarity": "AR",
-    "name": "Eevee",
+    "name": {
+      "en": "Eevee",
+      "fr": "Évoli"
+    },
     "image": "cPK_20_008470_00_EIEVUI_AR.webp",
     "packs": [
       "Eevee"
@@ -783,7 +1017,10 @@
     "set": "A3b",
     "number": 79,
     "rarity": "SR",
-    "name": "Flareon ex",
+    "name": {
+      "en": "Flareon ex",
+      "fr": "Pyroli-ex"
+    },
     "image": "cPK_20_008050_00_BOOSTERex_SR.webp",
     "packs": [
       "Eevee"
@@ -793,7 +1030,10 @@
     "set": "A3b",
     "number": 80,
     "rarity": "SR",
-    "name": "Primarina ex",
+    "name": {
+      "en": "Primarina ex",
+      "fr": "Oratoria-ex"
+    },
     "image": "cPK_20_008190_00_ASHIRENEex_SR.webp",
     "packs": [
       "Eevee"
@@ -803,7 +1043,10 @@
     "set": "A3b",
     "number": 81,
     "rarity": "SR",
-    "name": "Sylveon ex",
+    "name": {
+      "en": "Sylveon ex",
+      "fr": "Nymphali-ex"
+    },
     "image": "cPK_20_008280_00_NYMPHIAex_SR.webp",
     "packs": [
       "Eevee"
@@ -813,7 +1056,10 @@
     "set": "A3b",
     "number": 82,
     "rarity": "SR",
-    "name": "Dragonite ex",
+    "name": {
+      "en": "Dragonite ex",
+      "fr": "Dracolosse-ex"
+    },
     "image": "cPK_20_008450_00_KAIRYUex_SR.webp",
     "packs": [
       "Eevee"
@@ -823,7 +1069,10 @@
     "set": "A3b",
     "number": 83,
     "rarity": "SR",
-    "name": "Eevee ex",
+    "name": {
+      "en": "Eevee ex",
+      "fr": "Évoli-ex"
+    },
     "image": "cPK_20_008480_00_EIEVUIex_SR.webp",
     "packs": [
       "Eevee"
@@ -833,7 +1082,10 @@
     "set": "A3b",
     "number": 84,
     "rarity": "SR",
-    "name": "Snorlax ex",
+    "name": {
+      "en": "Snorlax ex",
+      "fr": "Ronflex-ex"
+    },
     "image": "cPK_20_008490_00_KABIGONex_SR.webp",
     "packs": [
       "Eevee"
@@ -843,7 +1095,10 @@
     "set": "A3b",
     "number": 85,
     "rarity": "SR",
-    "name": "Hau",
+    "name": {
+      "en": "Hau",
+      "fr": "Tili"
+    },
     "image": "cTR_20_000690_00_HAU_SR.webp",
     "packs": [
       "Eevee"
@@ -853,7 +1108,10 @@
     "set": "A3b",
     "number": 86,
     "rarity": "SR",
-    "name": "Penny",
+    "name": {
+      "en": "Penny",
+      "fr": "Pania"
+    },
     "image": "cTR_20_000700_00_BOTAN_SR.webp",
     "packs": [
       "Eevee"
@@ -863,7 +1121,10 @@
     "set": "A3b",
     "number": 87,
     "rarity": "SAR",
-    "name": "Flareon ex",
+    "name": {
+      "en": "Flareon ex",
+      "fr": "Pyroli-ex"
+    },
     "image": "cPK_20_008050_01_BOOSTERex_SAR.webp",
     "packs": [
       "Eevee"
@@ -873,7 +1134,10 @@
     "set": "A3b",
     "number": 88,
     "rarity": "SAR",
-    "name": "Primarina ex",
+    "name": {
+      "en": "Primarina ex",
+      "fr": "Oratoria-ex"
+    },
     "image": "cPK_20_008190_01_ASHIRENEex_SAR.webp",
     "packs": [
       "Eevee"
@@ -883,7 +1147,10 @@
     "set": "A3b",
     "number": 89,
     "rarity": "SAR",
-    "name": "Sylveon ex",
+    "name": {
+      "en": "Sylveon ex",
+      "fr": "Nymphali-ex"
+    },
     "image": "cPK_20_008280_01_NYMPHIAex_SAR.webp",
     "packs": [
       "Eevee"
@@ -893,7 +1160,10 @@
     "set": "A3b",
     "number": 90,
     "rarity": "SAR",
-    "name": "Dragonite ex",
+    "name": {
+      "en": "Dragonite ex",
+      "fr": "Dracolosse-ex"
+    },
     "image": "cPK_20_008450_01_KAIRYUex_SAR.webp",
     "packs": [
       "Eevee"
@@ -903,7 +1173,10 @@
     "set": "A3b",
     "number": 91,
     "rarity": "SAR",
-    "name": "Snorlax ex",
+    "name": {
+      "en": "Snorlax ex",
+      "fr": "Ronflex-ex"
+    },
     "image": "cPK_20_008490_01_KABIGONex_SAR.webp",
     "packs": [
       "Eevee"
@@ -913,7 +1186,10 @@
     "set": "A3b",
     "number": 92,
     "rarity": "IM",
-    "name": "Eevee ex",
+    "name": {
+      "en": "Eevee ex",
+      "fr": "Évoli-ex"
+    },
     "image": "cPK_20_008480_01_EIEVUIex_IM.webp",
     "packs": [
       "Eevee"
@@ -923,7 +1199,10 @@
     "set": "A3b",
     "number": 93,
     "rarity": "S",
-    "name": "Pinsir",
+    "name": {
+      "en": "Pinsir",
+      "fr": "Scarabrute"
+    },
     "image": "cPK_20_005240_00_KAILIOS_S.webp",
     "packs": [
       "Eevee"
@@ -933,7 +1212,10 @@
     "set": "A3b",
     "number": 94,
     "rarity": "S",
-    "name": "Lapras",
+    "name": {
+      "en": "Lapras",
+      "fr": "Lokhlass"
+    },
     "image": "cPK_20_000790_01_LAPLACE_S.webp",
     "packs": [
       "Eevee"
@@ -943,7 +1225,10 @@
     "set": "A3b",
     "number": 95,
     "rarity": "S",
-    "name": "Voltorb",
+    "name": {
+      "en": "Voltorb",
+      "fr": "Voltorbe"
+    },
     "image": "cPK_20_003350_00_BIRIRIDAMA_S.webp",
     "packs": [
       "Eevee"
@@ -953,7 +1238,10 @@
     "set": "A3b",
     "number": 96,
     "rarity": "S",
-    "name": "Electrode",
+    "name": {
+      "en": "Electrode",
+      "fr": "Électrode"
+    },
     "image": "cPK_20_003360_00_MARUMINE_S.webp",
     "packs": [
       "Eevee"
@@ -963,7 +1251,10 @@
     "set": "A3b",
     "number": 97,
     "rarity": "S",
-    "name": "Ralts",
+    "name": {
+      "en": "Ralts",
+      "fr": "Tarsal"
+    },
     "image": "cPK_20_003490_00_RALTS_S.webp",
     "packs": [
       "Eevee"
@@ -973,7 +1264,10 @@
     "set": "A3b",
     "number": 98,
     "rarity": "S",
-    "name": "Kirlia",
+    "name": {
+      "en": "Kirlia",
+      "fr": "Kirlia"
+    },
     "image": "cPK_20_003500_00_KIRLIA_S.webp",
     "packs": [
       "Eevee"
@@ -983,7 +1277,10 @@
     "set": "A3b",
     "number": 99,
     "rarity": "S",
-    "name": "Gardevoir",
+    "name": {
+      "en": "Gardevoir",
+      "fr": "Gardevoir"
+    },
     "image": "cPK_20_001320_00_SIRNIGHT_S.webp",
     "packs": [
       "Eevee"
@@ -993,7 +1290,10 @@
     "set": "A3b",
     "number": 100,
     "rarity": "S",
-    "name": "Ekans",
+    "name": {
+      "en": "Ekans",
+      "fr": "Abo"
+    },
     "image": "cPK_20_001640_00_ARBO_S.webp",
     "packs": [
       "Eevee"
@@ -1003,7 +1303,10 @@
     "set": "A3b",
     "number": 101,
     "rarity": "S",
-    "name": "Arbok",
+    "name": {
+      "en": "Arbok",
+      "fr": "Arbok"
+    },
     "image": "cPK_20_001650_00_ARBOK_S.webp",
     "packs": [
       "Eevee"
@@ -1013,7 +1316,10 @@
     "set": "A3b",
     "number": 102,
     "rarity": "S",
-    "name": "Farfetch’d",
+    "name": {
+      "en": "Farfetch’d",
+      "fr": "Canarticho"
+    },
     "image": "cPK_20_001980_00_KAMONEGI_S.webp",
     "packs": [
       "Eevee"
@@ -1023,7 +1329,10 @@
     "set": "A3b",
     "number": 103,
     "rarity": "SSR",
-    "name": "Moltres ex",
+    "name": {
+      "en": "Moltres ex",
+      "fr": "Sulfura-ex"
+    },
     "image": "cPK_20_000470_02_FIREex_SSR.webp",
     "packs": [
       "Eevee"
@@ -1033,7 +1342,10 @@
     "set": "A3b",
     "number": 104,
     "rarity": "SSR",
-    "name": "Articuno ex",
+    "name": {
+      "en": "Articuno ex",
+      "fr": "Artikodin-ex"
+    },
     "image": "cPK_20_000840_02_FREEZERex_SSR.webp",
     "packs": [
       "Eevee"
@@ -1043,7 +1355,10 @@
     "set": "A3b",
     "number": 105,
     "rarity": "SSR",
-    "name": "Zapdos ex",
+    "name": {
+      "en": "Zapdos ex",
+      "fr": "Électhor-ex"
+    },
     "image": "cPK_20_001040_02_THUNDERex_SSR.webp",
     "packs": [
       "Eevee"
@@ -1053,7 +1368,10 @@
     "set": "A3b",
     "number": 106,
     "rarity": "SSR",
-    "name": "Gallade ex",
+    "name": {
+      "en": "Gallade ex",
+      "fr": "Gallame-ex"
+    },
     "image": "cPK_20_003760_02_ERUREIDOex_SSR.webp",
     "packs": [
       "Eevee"
@@ -1063,7 +1381,10 @@
     "set": "A3b",
     "number": 107,
     "rarity": "UR",
-    "name": "Eevee Bag",
+    "name": {
+      "en": "Eevee Bag",
+      "fr": "Sac Évoli"
+    },
     "image": "cTR_20_000670_00_IIBUINOBAKKU_UR.webp",
     "packs": [
       "Eevee"
