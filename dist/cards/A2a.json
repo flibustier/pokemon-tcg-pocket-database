@@ -3,7 +3,10 @@
     "set": "A2a",
     "number": 1,
     "rarity": "U",
-    "name": "Heracross",
+    "name": {
+      "en": "Heracross",
+      "fr": "Scarhino"
+    },
     "image": "cPK_10_004250_00_HERACROS_U.webp",
     "packs": [
       "Arceus"
@@ -13,7 +16,10 @@
     "set": "A2a",
     "number": 2,
     "rarity": "C",
-    "name": "Burmy",
+    "name": {
+      "en": "Burmy",
+      "fr": "Cheniti"
+    },
     "image": "cPK_10_004260_00_MINOMUCCHI_C.webp",
     "packs": [
       "Arceus"
@@ -23,7 +29,10 @@
     "set": "A2a",
     "number": 3,
     "rarity": "U",
-    "name": "Mothim",
+    "name": {
+      "en": "Mothim",
+      "fr": "Papilord"
+    },
     "image": "cPK_10_004270_00_GAMALE_U.webp",
     "packs": [
       "Arceus"
@@ -33,7 +42,10 @@
     "set": "A2a",
     "number": 4,
     "rarity": "C",
-    "name": "Combee",
+    "name": {
+      "en": "Combee",
+      "fr": "Apitrini"
+    },
     "image": "cPK_10_004280_00_MITSUHONEY_C.webp",
     "packs": [
       "Arceus"
@@ -43,7 +55,10 @@
     "set": "A2a",
     "number": 5,
     "rarity": "U",
-    "name": "Vespiquen",
+    "name": {
+      "en": "Vespiquen",
+      "fr": "Apireine"
+    },
     "image": "cPK_10_004290_00_BEEQUEN_U.webp",
     "packs": [
       "Arceus"
@@ -53,7 +68,10 @@
     "set": "A2a",
     "number": 6,
     "rarity": "C",
-    "name": "Cherubi",
+    "name": {
+      "en": "Cherubi",
+      "fr": "Ceribou"
+    },
     "image": "cPK_10_004300_00_CHERINBO_C.webp",
     "packs": [
       "Arceus"
@@ -63,7 +81,10 @@
     "set": "A2a",
     "number": 7,
     "rarity": "U",
-    "name": "Cherrim",
+    "name": {
+      "en": "Cherrim",
+      "fr": "Ceriflor"
+    },
     "image": "cPK_10_004310_00_CHERRIM_U.webp",
     "packs": [
       "Arceus"
@@ -73,7 +94,10 @@
     "set": "A2a",
     "number": 8,
     "rarity": "U",
-    "name": "Cherrim",
+    "name": {
+      "en": "Cherrim",
+      "fr": "Ceriflor"
+    },
     "image": "cPK_10_004320_00_CHERRIM_U.webp",
     "packs": [
       "Arceus"
@@ -83,7 +107,10 @@
     "set": "A2a",
     "number": 9,
     "rarity": "R",
-    "name": "Carnivine",
+    "name": {
+      "en": "Carnivine",
+      "fr": "Vortente"
+    },
     "image": "cPK_10_004330_00_MUSKIPPA_R.webp",
     "packs": [
       "Arceus"
@@ -93,7 +120,10 @@
     "set": "A2a",
     "number": 10,
     "rarity": "RR",
-    "name": "Leafeon ex",
+    "name": {
+      "en": "Leafeon ex",
+      "fr": "Phyllali-ex"
+    },
     "image": "cPK_10_004340_00_LEAFIAex_RR.webp",
     "packs": [
       "Arceus"
@@ -103,7 +133,10 @@
     "set": "A2a",
     "number": 11,
     "rarity": "C",
-    "name": "Houndour",
+    "name": {
+      "en": "Houndour",
+      "fr": "Malosse"
+    },
     "image": "cPK_10_004350_00_DELVIL_C.webp",
     "packs": [
       "Arceus"
@@ -113,7 +146,10 @@
     "set": "A2a",
     "number": 12,
     "rarity": "U",
-    "name": "Houndoom",
+    "name": {
+      "en": "Houndoom",
+      "fr": "Démolosse"
+    },
     "image": "cPK_10_004360_00_HELLGAR_U.webp",
     "packs": [
       "Arceus"
@@ -123,7 +159,10 @@
     "set": "A2a",
     "number": 13,
     "rarity": "R",
-    "name": "Heatran",
+    "name": {
+      "en": "Heatran",
+      "fr": "Heatran"
+    },
     "image": "cPK_10_004370_00_HEATRAN_R.webp",
     "packs": [
       "Arceus"
@@ -133,7 +172,10 @@
     "set": "A2a",
     "number": 14,
     "rarity": "C",
-    "name": "Marill",
+    "name": {
+      "en": "Marill",
+      "fr": "Marill"
+    },
     "image": "cPK_10_004380_00_MARIL_C.webp",
     "packs": [
       "Arceus"
@@ -143,7 +185,10 @@
     "set": "A2a",
     "number": 15,
     "rarity": "C",
-    "name": "Azumarill",
+    "name": {
+      "en": "Azumarill",
+      "fr": "Azumarill"
+    },
     "image": "cPK_10_004390_00_MARILLI_C.webp",
     "packs": [
       "Arceus"
@@ -153,7 +198,10 @@
     "set": "A2a",
     "number": 16,
     "rarity": "C",
-    "name": "Barboach",
+    "name": {
+      "en": "Barboach",
+      "fr": "Barloche"
+    },
     "image": "cPK_10_004400_00_DOJOACH_C.webp",
     "packs": [
       "Arceus"
@@ -163,7 +211,10 @@
     "set": "A2a",
     "number": 17,
     "rarity": "U",
-    "name": "Whiscash",
+    "name": {
+      "en": "Whiscash",
+      "fr": "Barbicha"
+    },
     "image": "cPK_10_004410_00_NAMAZUN_U.webp",
     "packs": [
       "Arceus"
@@ -173,7 +224,10 @@
     "set": "A2a",
     "number": 18,
     "rarity": "C",
-    "name": "Snorunt",
+    "name": {
+      "en": "Snorunt",
+      "fr": "Stalgamin"
+    },
     "image": "cPK_10_004420_00_YUKIWARASHI_C.webp",
     "packs": [
       "Arceus"
@@ -183,7 +237,10 @@
     "set": "A2a",
     "number": 19,
     "rarity": "U",
-    "name": "Froslass",
+    "name": {
+      "en": "Froslass",
+      "fr": "Momartik"
+    },
     "image": "cPK_10_004430_00_YUKIMENOKO_U.webp",
     "packs": [
       "Arceus"
@@ -193,7 +250,10 @@
     "set": "A2a",
     "number": 20,
     "rarity": "C",
-    "name": "Snover",
+    "name": {
+      "en": "Snover",
+      "fr": "Blizzi"
+    },
     "image": "cPK_10_004440_00_YUKIKABURI_C.webp",
     "packs": [
       "Arceus"
@@ -203,7 +263,10 @@
     "set": "A2a",
     "number": 21,
     "rarity": "R",
-    "name": "Abomasnow",
+    "name": {
+      "en": "Abomasnow",
+      "fr": "Blizzaroi"
+    },
     "image": "cPK_10_004450_00_YUKINOOH_R.webp",
     "packs": [
       "Arceus"
@@ -213,7 +276,10 @@
     "set": "A2a",
     "number": 22,
     "rarity": "RR",
-    "name": "Glaceon ex",
+    "name": {
+      "en": "Glaceon ex",
+      "fr": "Givrali-ex"
+    },
     "image": "cPK_10_004460_00_GLACIAex_RR.webp",
     "packs": [
       "Arceus"
@@ -223,7 +289,10 @@
     "set": "A2a",
     "number": 23,
     "rarity": "R",
-    "name": "Palkia",
+    "name": {
+      "en": "Origin Forme Palkia",
+      "fr": "Palkia Forme Originelle"
+    },
     "image": "cPK_10_004470_00_ORIGINPALKIA_R.webp",
     "packs": [
       "Arceus"
@@ -233,7 +302,10 @@
     "set": "A2a",
     "number": 24,
     "rarity": "U",
-    "name": "Phione",
+    "name": {
+      "en": "Phione",
+      "fr": "Phione"
+    },
     "image": "cPK_10_004480_00_PHIONE_U.webp",
     "packs": [
       "Arceus"
@@ -243,7 +315,10 @@
     "set": "A2a",
     "number": 25,
     "rarity": "C",
-    "name": "Pikachu",
+    "name": {
+      "en": "Pikachu",
+      "fr": "Pikachu"
+    },
     "image": "cPK_10_004490_00_PIKACHU_C.webp",
     "packs": [
       "Arceus"
@@ -253,7 +328,10 @@
     "set": "A2a",
     "number": 26,
     "rarity": "R",
-    "name": "Raichu",
+    "name": {
+      "en": "Raichu",
+      "fr": "Raichu"
+    },
     "image": "cPK_10_004500_00_RAICHU_R.webp",
     "packs": [
       "Arceus"
@@ -263,7 +341,10 @@
     "set": "A2a",
     "number": 27,
     "rarity": "C",
-    "name": "Electrike",
+    "name": {
+      "en": "Electrike",
+      "fr": "Dynavolt"
+    },
     "image": "cPK_10_004510_00_RAKURAI_C.webp",
     "packs": [
       "Arceus"
@@ -273,7 +354,10 @@
     "set": "A2a",
     "number": 28,
     "rarity": "U",
-    "name": "Manectric",
+    "name": {
+      "en": "Manectric",
+      "fr": "Élecsprint"
+    },
     "image": "cPK_10_004520_00_LIVOLT_U.webp",
     "packs": [
       "Arceus"
@@ -283,7 +367,10 @@
     "set": "A2a",
     "number": 29,
     "rarity": "C",
-    "name": "Clefairy",
+    "name": {
+      "en": "Clefairy",
+      "fr": "Mélofée"
+    },
     "image": "cPK_10_004530_00_PIPPI_C.webp",
     "packs": [
       "Arceus"
@@ -293,7 +380,10 @@
     "set": "A2a",
     "number": 30,
     "rarity": "U",
-    "name": "Clefable",
+    "name": {
+      "en": "Clefable",
+      "fr": "Mélodelfe"
+    },
     "image": "cPK_10_004540_00_PIXY_U.webp",
     "packs": [
       "Arceus"
@@ -303,7 +393,10 @@
     "set": "A2a",
     "number": 31,
     "rarity": "C",
-    "name": "Gastly",
+    "name": {
+      "en": "Gastly",
+      "fr": "Fantominus"
+    },
     "image": "cPK_10_004550_00_GHOS_C.webp",
     "packs": [
       "Arceus"
@@ -313,7 +406,10 @@
     "set": "A2a",
     "number": 32,
     "rarity": "C",
-    "name": "Haunter",
+    "name": {
+      "en": "Haunter",
+      "fr": "Spectrum"
+    },
     "image": "cPK_10_004560_00_GHOST_C.webp",
     "packs": [
       "Arceus"
@@ -323,7 +419,10 @@
     "set": "A2a",
     "number": 33,
     "rarity": "U",
-    "name": "Gengar",
+    "name": {
+      "en": "Gengar",
+      "fr": "Ectoplasma"
+    },
     "image": "cPK_10_004570_00_GANGAR_U.webp",
     "packs": [
       "Arceus"
@@ -333,7 +432,10 @@
     "set": "A2a",
     "number": 34,
     "rarity": "U",
-    "name": "Unown",
+    "name": {
+      "en": "Unown",
+      "fr": "Zarbi"
+    },
     "image": "cPK_10_004580_00_UNKNOWN_U.webp",
     "packs": [
       "Arceus"
@@ -343,7 +445,10 @@
     "set": "A2a",
     "number": 35,
     "rarity": "R",
-    "name": "Rotom",
+    "name": {
+      "en": "Rotom",
+      "fr": "Motisma"
+    },
     "image": "cPK_10_004590_00_ROTOM_R.webp",
     "packs": [
       "Arceus"
@@ -353,7 +458,10 @@
     "set": "A2a",
     "number": 36,
     "rarity": "U",
-    "name": "Sudowoodo",
+    "name": {
+      "en": "Sudowoodo",
+      "fr": "Simularbre"
+    },
     "image": "cPK_10_004600_00_USOKKIE_U.webp",
     "packs": [
       "Arceus"
@@ -363,7 +471,10 @@
     "set": "A2a",
     "number": 37,
     "rarity": "C",
-    "name": "Phanpy",
+    "name": {
+      "en": "Phanpy",
+      "fr": "Phanpy"
+    },
     "image": "cPK_10_004610_00_GOMAZOU_C.webp",
     "packs": [
       "Arceus"
@@ -373,7 +484,10 @@
     "set": "A2a",
     "number": 38,
     "rarity": "U",
-    "name": "Donphan",
+    "name": {
+      "en": "Donphan",
+      "fr": "Donphan"
+    },
     "image": "cPK_10_004620_00_DONFAN_U.webp",
     "packs": [
       "Arceus"
@@ -383,7 +497,10 @@
     "set": "A2a",
     "number": 39,
     "rarity": "C",
-    "name": "Larvitar",
+    "name": {
+      "en": "Larvitar",
+      "fr": "Embrylex"
+    },
     "image": "cPK_10_004630_00_YOGIRAS_C.webp",
     "packs": [
       "Arceus"
@@ -393,7 +510,10 @@
     "set": "A2a",
     "number": 40,
     "rarity": "U",
-    "name": "Pupitar",
+    "name": {
+      "en": "Pupitar",
+      "fr": "Ymphect"
+    },
     "image": "cPK_10_004640_00_SANAGIRAS_U.webp",
     "packs": [
       "Arceus"
@@ -403,7 +523,10 @@
     "set": "A2a",
     "number": 41,
     "rarity": "R",
-    "name": "Tyranitar",
+    "name": {
+      "en": "Tyranitar",
+      "fr": "Tyranocif"
+    },
     "image": "cPK_10_004650_00_BANGIRAS_R.webp",
     "packs": [
       "Arceus"
@@ -413,7 +536,10 @@
     "set": "A2a",
     "number": 42,
     "rarity": "C",
-    "name": "Nosepass",
+    "name": {
+      "en": "Nosepass",
+      "fr": "Tarinor"
+    },
     "image": "cPK_10_004660_00_NOSEPASS_C.webp",
     "packs": [
       "Arceus"
@@ -423,7 +549,10 @@
     "set": "A2a",
     "number": 43,
     "rarity": "C",
-    "name": "Meditite",
+    "name": {
+      "en": "Meditite",
+      "fr": "Méditikka"
+    },
     "image": "cPK_10_004670_00_ASANAN_C.webp",
     "packs": [
       "Arceus"
@@ -433,7 +562,10 @@
     "set": "A2a",
     "number": 44,
     "rarity": "U",
-    "name": "Medicham",
+    "name": {
+      "en": "Medicham",
+      "fr": "Charmina"
+    },
     "image": "cPK_10_004680_00_CHAREM_U.webp",
     "packs": [
       "Arceus"
@@ -443,7 +575,10 @@
     "set": "A2a",
     "number": 45,
     "rarity": "C",
-    "name": "Gible",
+    "name": {
+      "en": "Gible",
+      "fr": "Griknot"
+    },
     "image": "cPK_10_004690_00_FUKAMARU_C.webp",
     "packs": [
       "Arceus"
@@ -453,7 +588,10 @@
     "set": "A2a",
     "number": 46,
     "rarity": "C",
-    "name": "Gabite",
+    "name": {
+      "en": "Gabite",
+      "fr": "Carmache"
+    },
     "image": "cPK_10_004700_00_GABITE_C.webp",
     "packs": [
       "Arceus"
@@ -463,7 +601,10 @@
     "set": "A2a",
     "number": 47,
     "rarity": "RR",
-    "name": "Garchomp ex",
+    "name": {
+      "en": "Garchomp ex",
+      "fr": "Carchacrok-ex"
+    },
     "image": "cPK_10_004710_00_GABURIASex_RR.webp",
     "packs": [
       "Arceus"
@@ -473,7 +614,10 @@
     "set": "A2a",
     "number": 48,
     "rarity": "C",
-    "name": "Zubat",
+    "name": {
+      "en": "Zubat",
+      "fr": "Nosferapti"
+    },
     "image": "cPK_10_004720_00_ZUBAT_C.webp",
     "packs": [
       "Arceus"
@@ -483,7 +627,10 @@
     "set": "A2a",
     "number": 49,
     "rarity": "C",
-    "name": "Golbat",
+    "name": {
+      "en": "Golbat",
+      "fr": "Nosferalto"
+    },
     "image": "cPK_10_004730_00_GOLBAT_C.webp",
     "packs": [
       "Arceus"
@@ -493,7 +640,10 @@
     "set": "A2a",
     "number": 50,
     "rarity": "R",
-    "name": "Crobat",
+    "name": {
+      "en": "Crobat",
+      "fr": "Nostenfer"
+    },
     "image": "cPK_10_004740_00_CROBAT_R.webp",
     "packs": [
       "Arceus"
@@ -503,7 +653,10 @@
     "set": "A2a",
     "number": 51,
     "rarity": "C",
-    "name": "Croagunk",
+    "name": {
+      "en": "Croagunk",
+      "fr": "Cradopaud"
+    },
     "image": "cPK_10_004750_00_GUREGGRU_C.webp",
     "packs": [
       "Arceus"
@@ -513,7 +666,10 @@
     "set": "A2a",
     "number": 52,
     "rarity": "U",
-    "name": "Toxicroak",
+    "name": {
+      "en": "Toxicroak",
+      "fr": "Coatox"
+    },
     "image": "cPK_10_004760_00_DOKUROG_U.webp",
     "packs": [
       "Arceus"
@@ -523,7 +679,10 @@
     "set": "A2a",
     "number": 53,
     "rarity": "C",
-    "name": "Magnemite",
+    "name": {
+      "en": "Magnemite",
+      "fr": "Magnéti"
+    },
     "image": "cPK_10_004770_00_COIL_C.webp",
     "packs": [
       "Arceus"
@@ -533,7 +692,10 @@
     "set": "A2a",
     "number": 54,
     "rarity": "C",
-    "name": "Magneton",
+    "name": {
+      "en": "Magneton",
+      "fr": "Magnéton"
+    },
     "image": "cPK_10_004780_00_RARECOIL_C.webp",
     "packs": [
       "Arceus"
@@ -543,7 +705,10 @@
     "set": "A2a",
     "number": 55,
     "rarity": "R",
-    "name": "Magnezone",
+    "name": {
+      "en": "Magnezone",
+      "fr": "Magnézone"
+    },
     "image": "cPK_10_004790_00_JIBACOIL_R.webp",
     "packs": [
       "Arceus"
@@ -553,7 +718,10 @@
     "set": "A2a",
     "number": 56,
     "rarity": "C",
-    "name": "Mawile",
+    "name": {
+      "en": "Mawile",
+      "fr": "Mysdibule"
+    },
     "image": "cPK_10_004800_00_KUCHEAT_C.webp",
     "packs": [
       "Arceus"
@@ -563,7 +731,10 @@
     "set": "A2a",
     "number": 57,
     "rarity": "RR",
-    "name": "Probopass ex",
+    "name": {
+      "en": "Probopass ex",
+      "fr": "Tarinorme-ex"
+    },
     "image": "cPK_10_004810_00_DAINOSEex_RR.webp",
     "packs": [
       "Arceus"
@@ -573,7 +744,10 @@
     "set": "A2a",
     "number": 58,
     "rarity": "C",
-    "name": "Bronzor",
+    "name": {
+      "en": "Bronzor",
+      "fr": "Archéomire"
+    },
     "image": "cPK_10_004820_00_DOHMIRROR_C.webp",
     "packs": [
       "Arceus"
@@ -583,7 +757,10 @@
     "set": "A2a",
     "number": 59,
     "rarity": "U",
-    "name": "Bronzong",
+    "name": {
+      "en": "Bronzong",
+      "fr": "Archéodong"
+    },
     "image": "cPK_10_004830_00_DOHTAKUN_U.webp",
     "packs": [
       "Arceus"
@@ -593,7 +770,10 @@
     "set": "A2a",
     "number": 60,
     "rarity": "R",
-    "name": "Dialga",
+    "name": {
+      "en": "Origin Forme Dialga",
+      "fr": "Dialga Forme Originelle"
+    },
     "image": "cPK_10_004840_00_ORIGINDIALGA_R.webp",
     "packs": [
       "Arceus"
@@ -603,7 +783,10 @@
     "set": "A2a",
     "number": 61,
     "rarity": "R",
-    "name": "Giratina",
+    "name": {
+      "en": "Giratina",
+      "fr": "Giratina"
+    },
     "image": "cPK_10_004850_00_GIRATINA_R.webp",
     "packs": [
       "Arceus"
@@ -613,7 +796,10 @@
     "set": "A2a",
     "number": 62,
     "rarity": "C",
-    "name": "Eevee",
+    "name": {
+      "en": "Eevee",
+      "fr": "Évoli"
+    },
     "image": "cPK_10_004860_00_EIEVUI_C.webp",
     "packs": [
       "Arceus"
@@ -623,7 +809,10 @@
     "set": "A2a",
     "number": 63,
     "rarity": "U",
-    "name": "Snorlax",
+    "name": {
+      "en": "Snorlax",
+      "fr": "Ronflex"
+    },
     "image": "cPK_10_004870_00_KABIGON_U.webp",
     "packs": [
       "Arceus"
@@ -633,7 +822,10 @@
     "set": "A2a",
     "number": 64,
     "rarity": "C",
-    "name": "Hoothoot",
+    "name": {
+      "en": "Hoothoot",
+      "fr": "Hoothoot"
+    },
     "image": "cPK_10_004880_00_HOHO_C.webp",
     "packs": [
       "Arceus"
@@ -643,7 +835,10 @@
     "set": "A2a",
     "number": 65,
     "rarity": "U",
-    "name": "Noctowl",
+    "name": {
+      "en": "Noctowl",
+      "fr": "Noarfang"
+    },
     "image": "cPK_10_004890_00_YORUNOZUKU_U.webp",
     "packs": [
       "Arceus"
@@ -653,7 +848,10 @@
     "set": "A2a",
     "number": 66,
     "rarity": "C",
-    "name": "Starly",
+    "name": {
+      "en": "Starly",
+      "fr": "Étourmi"
+    },
     "image": "cPK_10_004900_00_MUKKURU_C.webp",
     "packs": [
       "Arceus"
@@ -663,7 +861,10 @@
     "set": "A2a",
     "number": 67,
     "rarity": "C",
-    "name": "Staravia",
+    "name": {
+      "en": "Staravia",
+      "fr": "Étourvol"
+    },
     "image": "cPK_10_004910_00_MUKUBIRD_C.webp",
     "packs": [
       "Arceus"
@@ -673,7 +874,10 @@
     "set": "A2a",
     "number": 68,
     "rarity": "U",
-    "name": "Staraptor",
+    "name": {
+      "en": "Staraptor",
+      "fr": "Étouraptor"
+    },
     "image": "cPK_10_004920_00_MUKUHAWK_U.webp",
     "packs": [
       "Arceus"
@@ -683,7 +887,10 @@
     "set": "A2a",
     "number": 69,
     "rarity": "R",
-    "name": "Shaymin",
+    "name": {
+      "en": "Shaymin",
+      "fr": "Shaymin"
+    },
     "image": "cPK_10_004930_00_SHAYMIN_R.webp",
     "packs": [
       "Arceus"
@@ -693,7 +900,10 @@
     "set": "A2a",
     "number": 70,
     "rarity": "R",
-    "name": "Arceus",
+    "name": {
+      "en": "Arceus",
+      "fr": "Arceus"
+    },
     "image": "cPK_10_004940_00_ARCEUS_R.webp",
     "packs": [
       "Arceus"
@@ -703,7 +913,10 @@
     "set": "A2a",
     "number": 71,
     "rarity": "RR",
-    "name": "Arceus ex",
+    "name": {
+      "en": "Arceus ex",
+      "fr": "Arceus-ex"
+    },
     "image": "cPK_10_004950_00_ARCEUSex_RR.webp",
     "packs": [
       "Arceus"
@@ -713,7 +926,10 @@
     "set": "A2a",
     "number": 72,
     "rarity": "U",
-    "name": "Irida",
+    "name": {
+      "en": "Irida",
+      "fr": "Nacchara"
+    },
     "image": "cTR_10_000380_00_KAI_U.webp",
     "packs": [
       "Arceus"
@@ -723,7 +939,10 @@
     "set": "A2a",
     "number": 73,
     "rarity": "U",
-    "name": "Celestic Town Elder",
+    "name": {
+      "en": "Celestic Town Elder",
+      "fr": "Doyenne de Célestia"
+    },
     "image": "cTR_10_000390_00_KANNAGITOWNNOTYOUROU_U.webp",
     "packs": [
       "Arceus"
@@ -733,7 +952,10 @@
     "set": "A2a",
     "number": 74,
     "rarity": "U",
-    "name": "Barry",
+    "name": {
+      "en": "Barry",
+      "fr": "René"
+    },
     "image": "cTR_10_000400_00_JUN_U.webp",
     "packs": [
       "Arceus"
@@ -743,7 +965,10 @@
     "set": "A2a",
     "number": 75,
     "rarity": "U",
-    "name": "Adaman",
+    "name": {
+      "en": "Adaman",
+      "fr": "Adamantin"
+    },
     "image": "cTR_10_000410_00_SEKI_U.webp",
     "packs": [
       "Arceus"
@@ -753,7 +978,10 @@
     "set": "A2a",
     "number": 76,
     "rarity": "AR",
-    "name": "Houndoom",
+    "name": {
+      "en": "Houndoom",
+      "fr": "Démolosse"
+    },
     "image": "cPK_20_004360_00_HELLGAR_AR.webp",
     "packs": [
       "Arceus"
@@ -763,7 +991,10 @@
     "set": "A2a",
     "number": 77,
     "rarity": "AR",
-    "name": "Marill",
+    "name": {
+      "en": "Marill",
+      "fr": "Marill"
+    },
     "image": "cPK_20_004380_00_MARIL_AR.webp",
     "packs": [
       "Arceus"
@@ -773,7 +1004,10 @@
     "set": "A2a",
     "number": 78,
     "rarity": "AR",
-    "name": "Unown",
+    "name": {
+      "en": "Unown",
+      "fr": "Zarbi"
+    },
     "image": "cPK_20_004580_00_UNKNOWN_AR.webp",
     "packs": [
       "Arceus"
@@ -783,7 +1017,10 @@
     "set": "A2a",
     "number": 79,
     "rarity": "AR",
-    "name": "Sudowoodo",
+    "name": {
+      "en": "Sudowoodo",
+      "fr": "Simularbre"
+    },
     "image": "cPK_20_004600_00_USOKKIE_AR.webp",
     "packs": [
       "Arceus"
@@ -793,7 +1030,10 @@
     "set": "A2a",
     "number": 80,
     "rarity": "AR",
-    "name": "Magnemite",
+    "name": {
+      "en": "Magnemite",
+      "fr": "Magnéti"
+    },
     "image": "cPK_20_004770_00_COIL_AR.webp",
     "packs": [
       "Arceus"
@@ -803,7 +1043,10 @@
     "set": "A2a",
     "number": 81,
     "rarity": "AR",
-    "name": "Shaymin",
+    "name": {
+      "en": "Shaymin",
+      "fr": "Shaymin"
+    },
     "image": "cPK_20_004930_00_SHAYMIN_AR.webp",
     "packs": [
       "Arceus"
@@ -813,7 +1056,10 @@
     "set": "A2a",
     "number": 82,
     "rarity": "SR",
-    "name": "Leafeon ex",
+    "name": {
+      "en": "Leafeon ex",
+      "fr": "Phyllali-ex"
+    },
     "image": "cPK_20_004340_00_LEAFIAex_SR.webp",
     "packs": [
       "Arceus"
@@ -823,7 +1069,10 @@
     "set": "A2a",
     "number": 83,
     "rarity": "SR",
-    "name": "Glaceon ex",
+    "name": {
+      "en": "Glaceon ex",
+      "fr": "Givrali-ex"
+    },
     "image": "cPK_20_004460_00_GLACIAex_SR.webp",
     "packs": [
       "Arceus"
@@ -833,7 +1082,10 @@
     "set": "A2a",
     "number": 84,
     "rarity": "SR",
-    "name": "Garchomp ex",
+    "name": {
+      "en": "Garchomp ex",
+      "fr": "Carchacrok-ex"
+    },
     "image": "cPK_20_004710_00_GABURIASex_SR.webp",
     "packs": [
       "Arceus"
@@ -843,7 +1095,10 @@
     "set": "A2a",
     "number": 85,
     "rarity": "SR",
-    "name": "Probopass ex",
+    "name": {
+      "en": "Probopass ex",
+      "fr": "Tarinorme-ex"
+    },
     "image": "cPK_20_004810_00_DAINOSEex_SR.webp",
     "packs": [
       "Arceus"
@@ -853,7 +1108,10 @@
     "set": "A2a",
     "number": 86,
     "rarity": "SR",
-    "name": "Arceus ex",
+    "name": {
+      "en": "Arceus ex",
+      "fr": "Arceus-ex"
+    },
     "image": "cPK_20_004950_00_ARCEUSex_SR.webp",
     "packs": [
       "Arceus"
@@ -863,7 +1121,10 @@
     "set": "A2a",
     "number": 87,
     "rarity": "SR",
-    "name": "Irida",
+    "name": {
+      "en": "Irida",
+      "fr": "Nacchara"
+    },
     "image": "cTR_20_000380_00_KAI_SR.webp",
     "packs": [
       "Arceus"
@@ -873,7 +1134,10 @@
     "set": "A2a",
     "number": 88,
     "rarity": "SR",
-    "name": "Celestic Town Elder",
+    "name": {
+      "en": "Celestic Town Elder",
+      "fr": "Doyenne de Célestia"
+    },
     "image": "cTR_20_000390_00_KANNAGITOWNNOTYOUROU_SR.webp",
     "packs": [
       "Arceus"
@@ -883,7 +1147,10 @@
     "set": "A2a",
     "number": 89,
     "rarity": "SR",
-    "name": "Barry",
+    "name": {
+      "en": "Barry",
+      "fr": "René"
+    },
     "image": "cTR_20_000400_00_JUN_SR.webp",
     "packs": [
       "Arceus"
@@ -893,7 +1160,10 @@
     "set": "A2a",
     "number": 90,
     "rarity": "SR",
-    "name": "Adaman",
+    "name": {
+      "en": "Adaman",
+      "fr": "Adamantin"
+    },
     "image": "cTR_20_000410_00_SEKI_SR.webp",
     "packs": [
       "Arceus"
@@ -903,7 +1173,10 @@
     "set": "A2a",
     "number": 91,
     "rarity": "SAR",
-    "name": "Leafeon ex",
+    "name": {
+      "en": "Leafeon ex",
+      "fr": "Phyllali-ex"
+    },
     "image": "cPK_20_004340_01_LEAFIAex_SAR.webp",
     "packs": [
       "Arceus"
@@ -913,7 +1186,10 @@
     "set": "A2a",
     "number": 92,
     "rarity": "SAR",
-    "name": "Glaceon ex",
+    "name": {
+      "en": "Glaceon ex",
+      "fr": "Givrali-ex"
+    },
     "image": "cPK_20_004460_01_GLACIAex_SAR.webp",
     "packs": [
       "Arceus"
@@ -923,7 +1199,10 @@
     "set": "A2a",
     "number": 93,
     "rarity": "SAR",
-    "name": "Garchomp ex",
+    "name": {
+      "en": "Garchomp ex",
+      "fr": "Carchacrok-ex"
+    },
     "image": "cPK_20_004710_01_GABURIASex_SAR.webp",
     "packs": [
       "Arceus"
@@ -933,7 +1212,10 @@
     "set": "A2a",
     "number": 94,
     "rarity": "SAR",
-    "name": "Probopass ex",
+    "name": {
+      "en": "Probopass ex",
+      "fr": "Tarinorme-ex"
+    },
     "image": "cPK_20_004810_01_DAINOSEex_SAR.webp",
     "packs": [
       "Arceus"
@@ -943,7 +1225,10 @@
     "set": "A2a",
     "number": 95,
     "rarity": "IM",
-    "name": "Arceus ex",
+    "name": {
+      "en": "Arceus ex",
+      "fr": "Arceus-ex"
+    },
     "image": "cPK_20_004950_01_ARCEUSex_IM.webp",
     "packs": [
       "Arceus"
@@ -953,7 +1238,10 @@
     "set": "A2a",
     "number": 96,
     "rarity": "UR",
-    "name": "Arceus ex",
+    "name": {
+      "en": "Arceus ex",
+      "fr": "Arceus-ex"
+    },
     "image": "cPK_20_004950_02_ARCEUSex_UR.webp",
     "packs": [
       "Arceus"
