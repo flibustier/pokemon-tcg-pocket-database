@@ -3,7 +3,10 @@
     "set": "A3",
     "number": 1,
     "rarity": "C",
-    "name": "Exeggcute",
+    "name": {
+      "en": "Exeggcute",
+      "fr": "Noeunoeuf"
+    },
     "image": "cPK_10_005820_00_TAMATAMA_C.webp",
     "packs": [
       "Lunala"
@@ -13,7 +16,10 @@
     "set": "A3",
     "number": 2,
     "rarity": "R",
-    "name": "Alolan Exeggutor",
+    "name": {
+      "en": "Alolan Exeggutor",
+      "fr": "Noadkoko d'Alola"
+    },
     "image": "cPK_10_005830_00_ALOLANASSY_R.webp",
     "packs": [
       "Lunala"
@@ -23,7 +29,10 @@
     "set": "A3",
     "number": 3,
     "rarity": "C",
-    "name": "Surskit",
+    "name": {
+      "en": "Surskit",
+      "fr": "Arakdo"
+    },
     "image": "cPK_10_005840_00_AMETAMA_C.webp",
     "packs": [
       "Solgaleo",
@@ -34,7 +43,10 @@
     "set": "A3",
     "number": 4,
     "rarity": "U",
-    "name": "Masquerain",
+    "name": {
+      "en": "Masquerain",
+      "fr": "Maskadra"
+    },
     "image": "cPK_10_005850_00_AMEMOTH_U.webp",
     "packs": [
       "Solgaleo",
@@ -45,7 +57,10 @@
     "set": "A3",
     "number": 5,
     "rarity": "C",
-    "name": "Maractus",
+    "name": {
+      "en": "Maractus",
+      "fr": "Maracachi"
+    },
     "image": "cPK_10_005860_00_MARACACCHI_C.webp",
     "packs": [
       "Lunala"
@@ -55,7 +70,10 @@
     "set": "A3",
     "number": 6,
     "rarity": "C",
-    "name": "Karrablast",
+    "name": {
+      "en": "Karrablast",
+      "fr": "Carabing"
+    },
     "image": "cPK_10_005870_00_KABURUMO_C.webp",
     "packs": [
       "Solgaleo",
@@ -66,7 +84,10 @@
     "set": "A3",
     "number": 7,
     "rarity": "C",
-    "name": "Phantump",
+    "name": {
+      "en": "Phantump",
+      "fr": "Brocélôme"
+    },
     "image": "cPK_10_005880_00_BOKUREI_C.webp",
     "packs": [
       "Solgaleo"
@@ -76,7 +97,10 @@
     "set": "A3",
     "number": 8,
     "rarity": "U",
-    "name": "Trevenant",
+    "name": {
+      "en": "Trevenant",
+      "fr": "Desséliande"
+    },
     "image": "cPK_10_005890_00_OHROT_U.webp",
     "packs": [
       "Solgaleo"
@@ -86,7 +110,10 @@
     "set": "A3",
     "number": 9,
     "rarity": "C",
-    "name": "Rowlet",
+    "name": {
+      "en": "Rowlet",
+      "fr": "Brindibou"
+    },
     "image": "cPK_10_005900_00_MOKUROH_C.webp",
     "packs": [
       "Solgaleo"
@@ -96,7 +123,10 @@
     "set": "A3",
     "number": 10,
     "rarity": "C",
-    "name": "Rowlet",
+    "name": {
+      "en": "Rowlet",
+      "fr": "Brindibou"
+    },
     "image": "cPK_10_005910_00_MOKUROH_C.webp",
     "packs": [
       "Lunala"
@@ -106,7 +136,10 @@
     "set": "A3",
     "number": 11,
     "rarity": "U",
-    "name": "Dartrix",
+    "name": {
+      "en": "Dartrix",
+      "fr": "Efflèche"
+    },
     "image": "cPK_10_005920_00_FUKUTHROW_U.webp",
     "packs": [
       "Lunala"
@@ -116,7 +149,10 @@
     "set": "A3",
     "number": 12,
     "rarity": "RR",
-    "name": "Decidueye ex",
+    "name": {
+      "en": "Decidueye ex",
+      "fr": "Archéduc-ex"
+    },
     "image": "cPK_10_005930_00_JUNAIPERex_RR.webp",
     "packs": [
       "Lunala"
@@ -126,7 +162,10 @@
     "set": "A3",
     "number": 13,
     "rarity": "C",
-    "name": "Grubbin",
+    "name": {
+      "en": "Grubbin",
+      "fr": "Larvibule"
+    },
     "image": "cPK_10_005940_00_AGOJIMUSHI_C.webp",
     "packs": [
       "Lunala"
@@ -136,7 +175,10 @@
     "set": "A3",
     "number": 14,
     "rarity": "C",
-    "name": "Fomantis",
+    "name": {
+      "en": "Fomantis",
+      "fr": "Mimantis"
+    },
     "image": "cPK_10_005950_00_KARIKIRI_C.webp",
     "packs": [
       "Solgaleo",
@@ -147,7 +189,10 @@
     "set": "A3",
     "number": 15,
     "rarity": "U",
-    "name": "Lurantis",
+    "name": {
+      "en": "Lurantis",
+      "fr": "Floramantis"
+    },
     "image": "cPK_10_005960_00_LALANTES_U.webp",
     "packs": [
       "Solgaleo",
@@ -158,7 +203,10 @@
     "set": "A3",
     "number": 16,
     "rarity": "C",
-    "name": "Morelull",
+    "name": {
+      "en": "Morelull",
+      "fr": "Spododo"
+    },
     "image": "cPK_10_005970_00_NEMASYU_C.webp",
     "packs": [
       "Lunala"
@@ -168,7 +216,10 @@
     "set": "A3",
     "number": 17,
     "rarity": "U",
-    "name": "Shiinotic",
+    "name": {
+      "en": "Shiinotic",
+      "fr": "Lampignon"
+    },
     "image": "cPK_10_005980_00_MASHADE_U.webp",
     "packs": [
       "Lunala"
@@ -178,7 +229,10 @@
     "set": "A3",
     "number": 18,
     "rarity": "C",
-    "name": "Bounsweet",
+    "name": {
+      "en": "Bounsweet",
+      "fr": "Croquine"
+    },
     "image": "cPK_10_005990_00_AMAKAJI_C.webp",
     "packs": [
       "Solgaleo"
@@ -188,7 +242,10 @@
     "set": "A3",
     "number": 19,
     "rarity": "U",
-    "name": "Steenee",
+    "name": {
+      "en": "Steenee",
+      "fr": "Candine"
+    },
     "image": "cPK_10_006000_00_AMAMAIKO_U.webp",
     "packs": [
       "Solgaleo"
@@ -198,7 +255,10 @@
     "set": "A3",
     "number": 20,
     "rarity": "R",
-    "name": "Tsareena",
+    "name": {
+      "en": "Tsareena",
+      "fr": "Sucreine"
+    },
     "image": "cPK_10_006010_00_AMAJO_R.webp",
     "packs": [
       "Solgaleo"
@@ -208,7 +268,10 @@
     "set": "A3",
     "number": 21,
     "rarity": "C",
-    "name": "Wimpod",
+    "name": {
+      "en": "Wimpod",
+      "fr": "Sovkipou"
+    },
     "image": "cPK_10_006020_00_KOSOKUMUSHI_C.webp",
     "packs": [
       "Solgaleo"
@@ -218,7 +281,10 @@
     "set": "A3",
     "number": 22,
     "rarity": "R",
-    "name": "Golisopod",
+    "name": {
+      "en": "Golisopod",
+      "fr": "Sarmuraï"
+    },
     "image": "cPK_10_006030_00_GUSOKUMUSHA_R.webp",
     "packs": [
       "Solgaleo"
@@ -228,7 +294,10 @@
     "set": "A3",
     "number": 23,
     "rarity": "RR",
-    "name": "Dhelmise ex",
+    "name": {
+      "en": "Dhelmise ex",
+      "fr": "Sinistrail-ex"
+    },
     "image": "cPK_10_006040_00_DADARINex_RR.webp",
     "packs": [
       "Solgaleo"
@@ -238,7 +307,10 @@
     "set": "A3",
     "number": 24,
     "rarity": "R",
-    "name": "Tapu Bulu",
+    "name": {
+      "en": "Tapu Bulu",
+      "fr": "Tokotoro"
+    },
     "image": "cPK_10_006050_00_KAPU-BULUL_R.webp",
     "packs": [
       "Solgaleo"
@@ -248,7 +320,10 @@
     "set": "A3",
     "number": 25,
     "rarity": "C",
-    "name": "Growlithe",
+    "name": {
+      "en": "Growlithe",
+      "fr": "Caninos"
+    },
     "image": "cPK_10_006060_00_GARDIE_C.webp",
     "packs": [
       "Solgaleo",
@@ -259,7 +334,10 @@
     "set": "A3",
     "number": 26,
     "rarity": "U",
-    "name": "Arcanine",
+    "name": {
+      "en": "Arcanine",
+      "fr": "Arcanin"
+    },
     "image": "cPK_10_006070_00_WINDIE_U.webp",
     "packs": [
       "Solgaleo",
@@ -270,7 +348,10 @@
     "set": "A3",
     "number": 27,
     "rarity": "U",
-    "name": "Alolan Marowak",
+    "name": {
+      "en": "Alolan Marowak",
+      "fr": "Ossatueur d'Alola"
+    },
     "image": "cPK_10_006080_00_ALOLAGARAGARA_U.webp",
     "packs": [
       "Lunala"
@@ -280,7 +361,10 @@
     "set": "A3",
     "number": 28,
     "rarity": "C",
-    "name": "Fletchinder",
+    "name": {
+      "en": "Fletchinder",
+      "fr": "Braisillon"
+    },
     "image": "cPK_10_006090_00_HINOYAKOMA_C.webp",
     "packs": [
       "Solgaleo"
@@ -290,7 +374,10 @@
     "set": "A3",
     "number": 29,
     "rarity": "R",
-    "name": "Talonflame",
+    "name": {
+      "en": "Talonflame",
+      "fr": "Flambusard"
+    },
     "image": "cPK_10_006100_00_FIARROW_R.webp",
     "packs": [
       "Solgaleo"
@@ -300,7 +387,10 @@
     "set": "A3",
     "number": 30,
     "rarity": "C",
-    "name": "Litten",
+    "name": {
+      "en": "Litten",
+      "fr": "Flamiaou"
+    },
     "image": "cPK_10_006110_00_NYABBY_C.webp",
     "packs": [
       "Solgaleo"
@@ -310,7 +400,10 @@
     "set": "A3",
     "number": 31,
     "rarity": "C",
-    "name": "Litten",
+    "name": {
+      "en": "Litten",
+      "fr": "Flamiaou"
+    },
     "image": "cPK_10_006120_00_NYABBY_C.webp",
     "packs": [
       "Lunala"
@@ -320,7 +413,10 @@
     "set": "A3",
     "number": 32,
     "rarity": "U",
-    "name": "Torracat",
+    "name": {
+      "en": "Torracat",
+      "fr": "Matoufeu"
+    },
     "image": "cPK_10_006130_00_NYAHEAT_U.webp",
     "packs": [
       "Solgaleo"
@@ -330,7 +426,10 @@
     "set": "A3",
     "number": 33,
     "rarity": "RR",
-    "name": "Incineroar ex",
+    "name": {
+      "en": "Incineroar ex",
+      "fr": "Félinferno-ex"
+    },
     "image": "cPK_10_006140_00_GAOGAENex_RR.webp",
     "packs": [
       "Solgaleo"
@@ -340,7 +439,10 @@
     "set": "A3",
     "number": 34,
     "rarity": "U",
-    "name": "Oricorio",
+    "name": {
+      "en": "Oricorio",
+      "fr": "Plumeline"
+    },
     "image": "cPK_10_006150_00_ODORIDORIMERAMERASTYLE_U.webp",
     "packs": [
       "Lunala"
@@ -350,7 +452,10 @@
     "set": "A3",
     "number": 35,
     "rarity": "C",
-    "name": "Salandit",
+    "name": {
+      "en": "Salandit",
+      "fr": "Tritox"
+    },
     "image": "cPK_10_006160_00_YATOUMORI_C.webp",
     "packs": [
       "Solgaleo",
@@ -361,7 +466,10 @@
     "set": "A3",
     "number": 36,
     "rarity": "C",
-    "name": "Salazzle",
+    "name": {
+      "en": "Salazzle",
+      "fr": "Malamandre"
+    },
     "image": "cPK_10_006170_00_ENNEWT_C.webp",
     "packs": [
       "Solgaleo",
@@ -372,7 +480,10 @@
     "set": "A3",
     "number": 37,
     "rarity": "R",
-    "name": "Turtonator",
+    "name": {
+      "en": "Turtonator",
+      "fr": "Boumata"
+    },
     "image": "cPK_10_006180_00_BAKUGAMES_R.webp",
     "packs": [
       "Lunala"
@@ -382,7 +493,10 @@
     "set": "A3",
     "number": 38,
     "rarity": "C",
-    "name": "Alolan Sandshrew",
+    "name": {
+      "en": "Alolan Sandshrew",
+      "fr": "Sabelette d'Alola"
+    },
     "image": "cPK_10_006190_00_ALOLASAND_C.webp",
     "packs": [
       "Solgaleo",
@@ -393,7 +507,10 @@
     "set": "A3",
     "number": 39,
     "rarity": "U",
-    "name": "Alolan Sandslash",
+    "name": {
+      "en": "Alolan Sandslash",
+      "fr": "Sablaireau d'Alola"
+    },
     "image": "cPK_10_006200_00_ALOLASANDPAN_U.webp",
     "packs": [
       "Solgaleo",
@@ -404,7 +521,10 @@
     "set": "A3",
     "number": 40,
     "rarity": "C",
-    "name": "Alolan Vulpix",
+    "name": {
+      "en": "Alolan Vulpix",
+      "fr": "Goupix d'Alola"
+    },
     "image": "cPK_10_006210_00_ALOLAROKON_C.webp",
     "packs": [
       "Lunala"
@@ -414,7 +534,10 @@
     "set": "A3",
     "number": 41,
     "rarity": "R",
-    "name": "Alolan Ninetales",
+    "name": {
+      "en": "Alolan Ninetales",
+      "fr": "Feunard d'Alola"
+    },
     "image": "cPK_10_006220_00_ALOLAKYUKON_R.webp",
     "packs": [
       "Lunala"
@@ -424,7 +547,10 @@
     "set": "A3",
     "number": 42,
     "rarity": "C",
-    "name": "Shellder",
+    "name": {
+      "en": "Shellder",
+      "fr": "Kokiyas"
+    },
     "image": "cPK_10_006230_00_SHELLDER_C.webp",
     "packs": [
       "Solgaleo"
@@ -434,7 +560,10 @@
     "set": "A3",
     "number": 43,
     "rarity": "U",
-    "name": "Cloyster",
+    "name": {
+      "en": "Cloyster",
+      "fr": "Crustabri"
+    },
     "image": "cPK_10_006240_00_PARSHEN_U.webp",
     "packs": [
       "Solgaleo"
@@ -444,7 +573,10 @@
     "set": "A3",
     "number": 44,
     "rarity": "U",
-    "name": "Lapras",
+    "name": {
+      "en": "Lapras",
+      "fr": "Lokhlass"
+    },
     "image": "cPK_10_006250_00_LAPLACE_U.webp",
     "packs": [
       "Solgaleo",
@@ -455,7 +587,10 @@
     "set": "A3",
     "number": 45,
     "rarity": "C",
-    "name": "Popplio",
+    "name": {
+      "en": "Popplio",
+      "fr": "Otaquin"
+    },
     "image": "cPK_10_006260_00_ASHIMARI_C.webp",
     "packs": [
       "Lunala"
@@ -465,7 +600,10 @@
     "set": "A3",
     "number": 46,
     "rarity": "C",
-    "name": "Popplio",
+    "name": {
+      "en": "Popplio",
+      "fr": "Otaquin"
+    },
     "image": "cPK_10_006270_00_ASHIMARI_C.webp",
     "packs": [
       "Solgaleo"
@@ -475,7 +613,10 @@
     "set": "A3",
     "number": 47,
     "rarity": "U",
-    "name": "Brionne",
+    "name": {
+      "en": "Brionne",
+      "fr": "Otarlette"
+    },
     "image": "cPK_10_006280_00_OSYAMARI_U.webp",
     "packs": [
       "Lunala"
@@ -485,7 +626,10 @@
     "set": "A3",
     "number": 48,
     "rarity": "R",
-    "name": "Primarina",
+    "name": {
+      "en": "Primarina",
+      "fr": "Oratoria"
+    },
     "image": "cPK_10_006290_00_ASHIRENE_R.webp",
     "packs": [
       "Lunala"
@@ -495,7 +639,10 @@
     "set": "A3",
     "number": 49,
     "rarity": "RR",
-    "name": "Crabominable ex",
+    "name": {
+      "en": "Crabominable ex",
+      "fr": "Crabominable-ex"
+    },
     "image": "cPK_10_006300_00_KEKENKANIex_RR.webp",
     "packs": [
       "Solgaleo"
@@ -505,7 +652,10 @@
     "set": "A3",
     "number": 50,
     "rarity": "C",
-    "name": "Wishiwashi",
+    "name": {
+      "en": "Wishiwashi",
+      "fr": "Froussardine"
+    },
     "image": "cPK_10_006310_00_YOWASHITANDOKUNOSUGATA_C.webp",
     "packs": [
       "Lunala"
@@ -515,7 +665,10 @@
     "set": "A3",
     "number": 51,
     "rarity": "RR",
-    "name": "Wishiwashi ex",
+    "name": {
+      "en": "Wishiwashi ex",
+      "fr": "Froussardine-ex"
+    },
     "image": "cPK_10_006320_00_YOWASHIMURETASUGATA_RR.webp",
     "packs": [
       "Lunala"
@@ -525,7 +678,10 @@
     "set": "A3",
     "number": 52,
     "rarity": "C",
-    "name": "Dewpider",
+    "name": {
+      "en": "Dewpider",
+      "fr": "Araqua"
+    },
     "image": "cPK_10_006330_00_SHIZUKUMO_C.webp",
     "packs": [
       "Solgaleo"
@@ -535,7 +691,10 @@
     "set": "A3",
     "number": 53,
     "rarity": "U",
-    "name": "Araquanid",
+    "name": {
+      "en": "Araquanid",
+      "fr": "Tarenbulle"
+    },
     "image": "cPK_10_006340_00_ONISHIZUKUMO_U.webp",
     "packs": [
       "Solgaleo"
@@ -545,7 +704,10 @@
     "set": "A3",
     "number": 54,
     "rarity": "C",
-    "name": "Pyukumuku",
+    "name": {
+      "en": "Pyukumuku",
+      "fr": "Concombaffe"
+    },
     "image": "cPK_10_006350_00_NAMAKOBUSHI_C.webp",
     "packs": [
       "Lunala"
@@ -555,7 +717,10 @@
     "set": "A3",
     "number": 55,
     "rarity": "C",
-    "name": "Bruxish",
+    "name": {
+      "en": "Bruxish",
+      "fr": "Denticrisse"
+    },
     "image": "cPK_10_006360_00_HAGIGISHIRI_C.webp",
     "packs": [
       "Solgaleo",
@@ -566,7 +731,10 @@
     "set": "A3",
     "number": 56,
     "rarity": "R",
-    "name": "Tapu Fini",
+    "name": {
+      "en": "Tapu Fini",
+      "fr": "Tokopisco"
+    },
     "image": "cPK_10_006370_00_KAPU-REHIRE_R.webp",
     "packs": [
       "Lunala"
@@ -576,7 +744,10 @@
     "set": "A3",
     "number": 57,
     "rarity": "C",
-    "name": "Pikachu",
+    "name": {
+      "en": "Pikachu",
+      "fr": "Pikachu"
+    },
     "image": "cPK_10_006380_00_PIKACHU_C.webp",
     "packs": [
       "Solgaleo"
@@ -586,7 +757,10 @@
     "set": "A3",
     "number": 58,
     "rarity": "RR",
-    "name": "Alolan Raichu ex",
+    "name": {
+      "en": "Alolan Raichu ex",
+      "fr": "Raichu d'Alola-ex"
+    },
     "image": "cPK_10_006390_00_ALOLARAICHUex_RR.webp",
     "packs": [
       "Solgaleo"
@@ -596,7 +770,10 @@
     "set": "A3",
     "number": 59,
     "rarity": "C",
-    "name": "Alolan Geodude",
+    "name": {
+      "en": "Alolan Geodude",
+      "fr": "Racaillou d'Alola"
+    },
     "image": "cPK_10_006400_00_ALOLAISITSUBUTE_C.webp",
     "packs": [
       "Solgaleo"
@@ -606,7 +783,10 @@
     "set": "A3",
     "number": 60,
     "rarity": "U",
-    "name": "Alolan Graveler",
+    "name": {
+      "en": "Alolan Graveler",
+      "fr": "Gravalanch d'Alola"
+    },
     "image": "cPK_10_006410_00_ALOLAGOLONE_U.webp",
     "packs": [
       "Solgaleo"
@@ -616,7 +796,10 @@
     "set": "A3",
     "number": 61,
     "rarity": "R",
-    "name": "Alolan Golem",
+    "name": {
+      "en": "Alolan Golem",
+      "fr": "Grolem d'Alola"
+    },
     "image": "cPK_10_006420_00_ALOLAGOLONYA_R.webp",
     "packs": [
       "Solgaleo"
@@ -626,7 +809,10 @@
     "set": "A3",
     "number": 62,
     "rarity": "C",
-    "name": "Helioptile",
+    "name": {
+      "en": "Helioptile",
+      "fr": "Galvaran"
+    },
     "image": "cPK_10_006430_00_ERIKITERU_C.webp",
     "packs": [
       "Solgaleo",
@@ -637,7 +823,10 @@
     "set": "A3",
     "number": 63,
     "rarity": "C",
-    "name": "Heliolisk",
+    "name": {
+      "en": "Heliolisk",
+      "fr": "Iguolta"
+    },
     "image": "cPK_10_006440_00_ELEZARD_C.webp",
     "packs": [
       "Solgaleo",
@@ -648,7 +837,10 @@
     "set": "A3",
     "number": 64,
     "rarity": "U",
-    "name": "Charjabug",
+    "name": {
+      "en": "Charjabug",
+      "fr": "Chrysapile"
+    },
     "image": "cPK_10_006450_00_DENDIMUSHI_U.webp",
     "packs": [
       "Lunala"
@@ -658,7 +850,10 @@
     "set": "A3",
     "number": 65,
     "rarity": "R",
-    "name": "Vikavolt",
+    "name": {
+      "en": "Vikavolt",
+      "fr": "Lucanon"
+    },
     "image": "cPK_10_006460_00_KUWAGANNON_R.webp",
     "packs": [
       "Lunala"
@@ -668,7 +863,10 @@
     "set": "A3",
     "number": 66,
     "rarity": "R",
-    "name": "Oricorio",
+    "name": {
+      "en": "Oricorio",
+      "fr": "Plumeline"
+    },
     "image": "cPK_10_006470_00_ODORIDORIPACHIPACHISTYLE_R.webp",
     "packs": [
       "Solgaleo"
@@ -678,7 +876,10 @@
     "set": "A3",
     "number": 67,
     "rarity": "C",
-    "name": "Togedemaru",
+    "name": {
+      "en": "Togedemaru",
+      "fr": "Togedemaru"
+    },
     "image": "cPK_10_006480_00_TOGEDEMARU_C.webp",
     "packs": [
       "Lunala"
@@ -688,7 +889,10 @@
     "set": "A3",
     "number": 68,
     "rarity": "R",
-    "name": "Tapu Koko",
+    "name": {
+      "en": "Tapu Koko",
+      "fr": "Tokorico"
+    },
     "image": "cPK_10_006490_00_KAPU-KOKEKO_R.webp",
     "packs": [
       "Solgaleo"
@@ -698,7 +902,10 @@
     "set": "A3",
     "number": 69,
     "rarity": "U",
-    "name": "Mr. Mime",
+    "name": {
+      "en": "Mr. Mime",
+      "fr": "M. Mime"
+    },
     "image": "cPK_10_006500_00_BARRIERD_U.webp",
     "packs": [
       "Solgaleo"
@@ -708,7 +915,10 @@
     "set": "A3",
     "number": 70,
     "rarity": "U",
-    "name": "Sableye",
+    "name": {
+      "en": "Sableye",
+      "fr": "Ténéfix"
+    },
     "image": "cPK_10_006510_00_YAMIRAMI_U.webp",
     "packs": [
       "Solgaleo",
@@ -719,7 +929,10 @@
     "set": "A3",
     "number": 71,
     "rarity": "C",
-    "name": "Spoink",
+    "name": {
+      "en": "Spoink",
+      "fr": "Spoink"
+    },
     "image": "cPK_10_006520_00_BANEBOO_C.webp",
     "packs": [
       "Solgaleo",
@@ -730,7 +943,10 @@
     "set": "A3",
     "number": 72,
     "rarity": "U",
-    "name": "Grumpig",
+    "name": {
+      "en": "Grumpig",
+      "fr": "Groret"
+    },
     "image": "cPK_10_006530_00_BOOPIG_U.webp",
     "packs": [
       "Solgaleo",
@@ -741,7 +957,10 @@
     "set": "A3",
     "number": 73,
     "rarity": "C",
-    "name": "Lunatone",
+    "name": {
+      "en": "Lunatone",
+      "fr": "Séléroc"
+    },
     "image": "cPK_10_006540_00_LUNATONE_C.webp",
     "packs": [
       "Lunala"
@@ -751,7 +970,10 @@
     "set": "A3",
     "number": 74,
     "rarity": "C",
-    "name": "Shuppet",
+    "name": {
+      "en": "Shuppet",
+      "fr": "Polichombr"
+    },
     "image": "cPK_10_006550_00_KAGEBOUZU_C.webp",
     "packs": [
       "Solgaleo",
@@ -762,7 +984,10 @@
     "set": "A3",
     "number": 75,
     "rarity": "C",
-    "name": "Banette",
+    "name": {
+      "en": "Banette",
+      "fr": "Branette"
+    },
     "image": "cPK_10_006560_00_JUPPETA_C.webp",
     "packs": [
       "Solgaleo",
@@ -773,7 +998,10 @@
     "set": "A3",
     "number": 76,
     "rarity": "U",
-    "name": "Oricorio",
+    "name": {
+      "en": "Oricorio",
+      "fr": "Plumeline"
+    },
     "image": "cPK_10_006570_00_ODORIDORIFURAFURASTYLE_U.webp",
     "packs": [
       "Solgaleo"
@@ -783,7 +1011,10 @@
     "set": "A3",
     "number": 77,
     "rarity": "U",
-    "name": "Oricorio",
+    "name": {
+      "en": "Oricorio",
+      "fr": "Plumeline"
+    },
     "image": "cPK_10_006580_00_ODORIDORIMAIMAISTYLE_U.webp",
     "packs": [
       "Lunala"
@@ -793,7 +1024,10 @@
     "set": "A3",
     "number": 78,
     "rarity": "C",
-    "name": "Cutiefly",
+    "name": {
+      "en": "Cutiefly",
+      "fr": "Bombydou"
+    },
     "image": "cPK_10_006590_00_ABULY_C.webp",
     "packs": [
       "Solgaleo"
@@ -803,7 +1037,10 @@
     "set": "A3",
     "number": 79,
     "rarity": "C",
-    "name": "Ribombee",
+    "name": {
+      "en": "Ribombee",
+      "fr": "Rubombelle"
+    },
     "image": "cPK_10_006600_00_ABURIBBON_C.webp",
     "packs": [
       "Solgaleo"
@@ -813,7 +1050,10 @@
     "set": "A3",
     "number": 80,
     "rarity": "R",
-    "name": "Comfey",
+    "name": {
+      "en": "Comfey",
+      "fr": "Guérilande"
+    },
     "image": "cPK_10_006610_00_CUWAWA_R.webp",
     "packs": [
       "Solgaleo"
@@ -823,7 +1063,10 @@
     "set": "A3",
     "number": 81,
     "rarity": "C",
-    "name": "Sandygast",
+    "name": {
+      "en": "Sandygast",
+      "fr": "Bacabouh"
+    },
     "image": "cPK_10_006620_00_SUNABA_C.webp",
     "packs": [
       "Solgaleo"
@@ -833,7 +1076,10 @@
     "set": "A3",
     "number": 82,
     "rarity": "R",
-    "name": "Palossand",
+    "name": {
+      "en": "Palossand",
+      "fr": "Trépassable"
+    },
     "image": "cPK_10_006630_00_SIRODETHNA_R.webp",
     "packs": [
       "Solgaleo"
@@ -843,7 +1089,10 @@
     "set": "A3",
     "number": 83,
     "rarity": "C",
-    "name": "Mimikyu",
+    "name": {
+      "en": "Mimikyu",
+      "fr": "Mimiqui"
+    },
     "image": "cPK_10_006640_00_MIMIKKYU_C.webp",
     "packs": [
       "Lunala"
@@ -853,7 +1102,10 @@
     "set": "A3",
     "number": 84,
     "rarity": "R",
-    "name": "Tapu Lele",
+    "name": {
+      "en": "Tapu Lele",
+      "fr": "Tokopiyon"
+    },
     "image": "cPK_10_006650_00_KAPU-TETEFU_R.webp",
     "packs": [
       "Lunala"
@@ -863,7 +1115,10 @@
     "set": "A3",
     "number": 85,
     "rarity": "C",
-    "name": "Cosmog",
+    "name": {
+      "en": "Cosmog",
+      "fr": "Cosmog"
+    },
     "image": "cPK_10_006660_00_COSMOG_C.webp",
     "packs": [
       "Solgaleo",
@@ -874,7 +1129,10 @@
     "set": "A3",
     "number": 86,
     "rarity": "U",
-    "name": "Cosmoem",
+    "name": {
+      "en": "Cosmoem",
+      "fr": "Cosmovum"
+    },
     "image": "cPK_10_006670_00_COSMOVUM_U.webp",
     "packs": [
       "Solgaleo",
@@ -885,7 +1143,10 @@
     "set": "A3",
     "number": 87,
     "rarity": "RR",
-    "name": "Lunala ex",
+    "name": {
+      "en": "Lunala ex",
+      "fr": "Lunala-ex"
+    },
     "image": "cPK_10_006680_00_LUNALAex_RR.webp",
     "packs": [
       "Lunala"
@@ -895,7 +1156,10 @@
     "set": "A3",
     "number": 88,
     "rarity": "R",
-    "name": "Necrozma",
+    "name": {
+      "en": "Necrozma",
+      "fr": "Necrozma"
+    },
     "image": "cPK_10_006690_00_NECROZMA_R.webp",
     "packs": [
       "Lunala"
@@ -905,7 +1169,10 @@
     "set": "A3",
     "number": 89,
     "rarity": "C",
-    "name": "Cubone",
+    "name": {
+      "en": "Cubone",
+      "fr": "Osselait"
+    },
     "image": "cPK_10_006700_00_KARAKARA_C.webp",
     "packs": [
       "Lunala"
@@ -915,7 +1182,10 @@
     "set": "A3",
     "number": 90,
     "rarity": "C",
-    "name": "Makuhita",
+    "name": {
+      "en": "Makuhita",
+      "fr": "Makuhita"
+    },
     "image": "cPK_10_006710_00_MAKUNOSHITA_C.webp",
     "packs": [
       "Solgaleo",
@@ -926,7 +1196,10 @@
     "set": "A3",
     "number": 91,
     "rarity": "U",
-    "name": "Hariyama",
+    "name": {
+      "en": "Hariyama",
+      "fr": "Hariyama"
+    },
     "image": "cPK_10_006720_00_HARITEYAMA_U.webp",
     "packs": [
       "Solgaleo",
@@ -937,7 +1210,10 @@
     "set": "A3",
     "number": 92,
     "rarity": "C",
-    "name": "Solrock",
+    "name": {
+      "en": "Solrock",
+      "fr": "Solaroc"
+    },
     "image": "cPK_10_006730_00_SOLROCK_C.webp",
     "packs": [
       "Solgaleo"
@@ -947,7 +1223,10 @@
     "set": "A3",
     "number": 93,
     "rarity": "C",
-    "name": "Drilbur",
+    "name": {
+      "en": "Drilbur",
+      "fr": "Rototaupe"
+    },
     "image": "cPK_10_006740_00_MOGUREW_C.webp",
     "packs": [
       "Solgaleo",
@@ -958,7 +1237,10 @@
     "set": "A3",
     "number": 94,
     "rarity": "C",
-    "name": "Timburr",
+    "name": {
+      "en": "Timburr",
+      "fr": "Charpenti"
+    },
     "image": "cPK_10_006750_00_DOKKORER_C.webp",
     "packs": [
       "Lunala"
@@ -968,7 +1250,10 @@
     "set": "A3",
     "number": 95,
     "rarity": "U",
-    "name": "Gurdurr",
+    "name": {
+      "en": "Gurdurr",
+      "fr": "Ouvrifier"
+    },
     "image": "cPK_10_006760_00_DOTEKKOTSU_U.webp",
     "packs": [
       "Lunala"
@@ -978,7 +1263,10 @@
     "set": "A3",
     "number": 96,
     "rarity": "R",
-    "name": "Conkeldurr",
+    "name": {
+      "en": "Conkeldurr",
+      "fr": "Bétochef"
+    },
     "image": "cPK_10_006770_00_ROUBUSHIN_R.webp",
     "packs": [
       "Lunala"
@@ -988,7 +1276,10 @@
     "set": "A3",
     "number": 97,
     "rarity": "C",
-    "name": "Crabrawler",
+    "name": {
+      "en": "Crabrawler",
+      "fr": "Crabagarre"
+    },
     "image": "cPK_10_006780_00_MAKENKANI_C.webp",
     "packs": [
       "Solgaleo"
@@ -998,7 +1289,10 @@
     "set": "A3",
     "number": 98,
     "rarity": "C",
-    "name": "Rockruff",
+    "name": {
+      "en": "Rockruff",
+      "fr": "Rocabot"
+    },
     "image": "cPK_10_006790_00_IWANKO_C.webp",
     "packs": [
       "Lunala"
@@ -1008,7 +1302,10 @@
     "set": "A3",
     "number": 99,
     "rarity": "C",
-    "name": "Rockruff",
+    "name": {
+      "en": "Rockruff",
+      "fr": "Rocabot"
+    },
     "image": "cPK_10_006800_00_IWANKO_C.webp",
     "packs": [
       "Solgaleo"
@@ -1018,7 +1315,10 @@
     "set": "A3",
     "number": 100,
     "rarity": "R",
-    "name": "Lycanroc",
+    "name": {
+      "en": "Lycanroc",
+      "fr": "Lougaroc"
+    },
     "image": "cPK_10_006810_00_LUGARUGANMAHIRUNOSUGATA_R.webp",
     "packs": [
       "Solgaleo"
@@ -1028,7 +1328,10 @@
     "set": "A3",
     "number": 101,
     "rarity": "R",
-    "name": "Lycanroc",
+    "name": {
+      "en": "Lycanroc",
+      "fr": "Lougaroc"
+    },
     "image": "cPK_10_006820_00_LUGARUGANMAYONAKANOSUGATA_R.webp",
     "packs": [
       "Lunala"
@@ -1038,7 +1341,10 @@
     "set": "A3",
     "number": 102,
     "rarity": "C",
-    "name": "Mudbray",
+    "name": {
+      "en": "Mudbray",
+      "fr": "Tiboudet"
+    },
     "image": "cPK_10_006830_00_DOROBANKO_C.webp",
     "packs": [
       "Solgaleo"
@@ -1048,7 +1354,10 @@
     "set": "A3",
     "number": 103,
     "rarity": "U",
-    "name": "Mudsdale",
+    "name": {
+      "en": "Mudsdale",
+      "fr": "Bourrinos"
+    },
     "image": "cPK_10_006840_00_BANBADORO_U.webp",
     "packs": [
       "Solgaleo"
@@ -1058,7 +1367,10 @@
     "set": "A3",
     "number": 104,
     "rarity": "RR",
-    "name": "Passimian ex",
+    "name": {
+      "en": "Passimian ex",
+      "fr": "Quartermac-ex"
+    },
     "image": "cPK_10_006850_00_NAGETUKESARUex_RR.webp",
     "packs": [
       "Lunala"
@@ -1068,7 +1380,10 @@
     "set": "A3",
     "number": 105,
     "rarity": "U",
-    "name": "Minior",
+    "name": {
+      "en": "Minior",
+      "fr": "Météno"
+    },
     "image": "cPK_10_006860_00_METENOAKAIRONOCORE_U.webp",
     "packs": [
       "Lunala"
@@ -1078,7 +1393,10 @@
     "set": "A3",
     "number": 106,
     "rarity": "C",
-    "name": "Alolan Rattata",
+    "name": {
+      "en": "Alolan Rattata",
+      "fr": "Rattata d'Alola"
+    },
     "image": "cPK_10_006870_00_ALOLAKORATTA_C.webp",
     "packs": [
       "Lunala"
@@ -1088,7 +1406,10 @@
     "set": "A3",
     "number": 107,
     "rarity": "U",
-    "name": "Alolan Raticate",
+    "name": {
+      "en": "Alolan Raticate",
+      "fr": "Rattatac d'Alola"
+    },
     "image": "cPK_10_006880_00_ALOLARATTA_U.webp",
     "packs": [
       "Lunala"
@@ -1098,7 +1419,10 @@
     "set": "A3",
     "number": 108,
     "rarity": "C",
-    "name": "Alolan Meowth",
+    "name": {
+      "en": "Alolan Meowth",
+      "fr": "Miaouss d'Alola"
+    },
     "image": "cPK_10_006890_00_ALOLANYARTH_C.webp",
     "packs": [
       "Solgaleo"
@@ -1108,7 +1432,10 @@
     "set": "A3",
     "number": 109,
     "rarity": "R",
-    "name": "Alolan Persian",
+    "name": {
+      "en": "Alolan Persian",
+      "fr": "Persian d'Alola"
+    },
     "image": "cPK_10_006900_00_ALOLAPERSIAN_R.webp",
     "packs": [
       "Solgaleo"
@@ -1118,7 +1445,10 @@
     "set": "A3",
     "number": 110,
     "rarity": "C",
-    "name": "Alolan Grimer",
+    "name": {
+      "en": "Alolan Grimer",
+      "fr": "Tadmorv d'Alola"
+    },
     "image": "cPK_10_006910_00_ALOLABETBETER_C.webp",
     "packs": [
       "Lunala"
@@ -1128,7 +1458,10 @@
     "set": "A3",
     "number": 111,
     "rarity": "RR",
-    "name": "Alolan Muk ex",
+    "name": {
+      "en": "Alolan Muk ex",
+      "fr": "Grotadmorv d'Alola-ex"
+    },
     "image": "cPK_10_006920_00_ALOLABETBETONex_RR.webp",
     "packs": [
       "Lunala"
@@ -1138,7 +1471,10 @@
     "set": "A3",
     "number": 112,
     "rarity": "R",
-    "name": "Absol",
+    "name": {
+      "en": "Absol",
+      "fr": "Absol"
+    },
     "image": "cPK_10_006930_00_ABSOL_R.webp",
     "packs": [
       "Lunala"
@@ -1148,7 +1484,10 @@
     "set": "A3",
     "number": 113,
     "rarity": "C",
-    "name": "Trubbish",
+    "name": {
+      "en": "Trubbish",
+      "fr": "Miamiasme"
+    },
     "image": "cPK_10_006940_00_YABUKURON_C.webp",
     "packs": [
       "Solgaleo",
@@ -1159,7 +1498,10 @@
     "set": "A3",
     "number": 114,
     "rarity": "U",
-    "name": "Garbodor",
+    "name": {
+      "en": "Garbodor",
+      "fr": "Miasmax"
+    },
     "image": "cPK_10_006950_00_DUSTDAS_U.webp",
     "packs": [
       "Solgaleo",
@@ -1170,7 +1512,10 @@
     "set": "A3",
     "number": 115,
     "rarity": "C",
-    "name": "Mareanie",
+    "name": {
+      "en": "Mareanie",
+      "fr": "Vorastérie"
+    },
     "image": "cPK_10_006960_00_HIDOIDE_C.webp",
     "packs": [
       "Lunala"
@@ -1180,7 +1525,10 @@
     "set": "A3",
     "number": 116,
     "rarity": "C",
-    "name": "Toxapex",
+    "name": {
+      "en": "Toxapex",
+      "fr": "Prédastérie"
+    },
     "image": "cPK_10_006970_00_DOHIDOIDE_C.webp",
     "packs": [
       "Lunala"
@@ -1190,7 +1538,10 @@
     "set": "A3",
     "number": 117,
     "rarity": "C",
-    "name": "Alolan Diglett",
+    "name": {
+      "en": "Alolan Diglett",
+      "fr": "Taupiqueur d'Alola"
+    },
     "image": "cPK_10_006980_00_ALOLADIGDA_C.webp",
     "packs": [
       "Solgaleo",
@@ -1201,7 +1552,10 @@
     "set": "A3",
     "number": 118,
     "rarity": "C",
-    "name": "Alolan Dugtrio",
+    "name": {
+      "en": "Alolan Dugtrio",
+      "fr": "Triopikeur d'Alola"
+    },
     "image": "cPK_10_006990_00_ALOLADUGTRIO_C.webp",
     "packs": [
       "Solgaleo",
@@ -1212,7 +1566,10 @@
     "set": "A3",
     "number": 119,
     "rarity": "U",
-    "name": "Excadrill",
+    "name": {
+      "en": "Excadrill",
+      "fr": "Minotaupe"
+    },
     "image": "cPK_10_007000_00_DORYUZU_U.webp",
     "packs": [
       "Solgaleo",
@@ -1223,7 +1580,10 @@
     "set": "A3",
     "number": 120,
     "rarity": "U",
-    "name": "Escavalier",
+    "name": {
+      "en": "Escavalier",
+      "fr": "Lançargot"
+    },
     "image": "cPK_10_007010_00_CHEVARGO_U.webp",
     "packs": [
       "Solgaleo",
@@ -1234,7 +1594,10 @@
     "set": "A3",
     "number": 121,
     "rarity": "R",
-    "name": "Klefki",
+    "name": {
+      "en": "Klefki",
+      "fr": "Trousselin"
+    },
     "image": "cPK_10_007020_00_CLEFFY_R.webp",
     "packs": [
       "Solgaleo"
@@ -1244,7 +1607,10 @@
     "set": "A3",
     "number": 122,
     "rarity": "RR",
-    "name": "Solgaleo ex",
+    "name": {
+      "en": "Solgaleo ex",
+      "fr": "Solgaleo-ex"
+    },
     "image": "cPK_10_007030_00_SOLGALEOex_RR.webp",
     "packs": [
       "Solgaleo"
@@ -1254,7 +1620,10 @@
     "set": "A3",
     "number": 123,
     "rarity": "R",
-    "name": "Magearna",
+    "name": {
+      "en": "Magearna",
+      "fr": "Magearna"
+    },
     "image": "cPK_10_007040_00_MAGEARNA_R.webp",
     "packs": [
       "Solgaleo"
@@ -1264,7 +1633,10 @@
     "set": "A3",
     "number": 124,
     "rarity": "R",
-    "name": "Drampa",
+    "name": {
+      "en": "Drampa",
+      "fr": "Draïeul"
+    },
     "image": "cPK_10_007050_00_JIJILONG_R.webp",
     "packs": [
       "Solgaleo"
@@ -1274,7 +1646,10 @@
     "set": "A3",
     "number": 125,
     "rarity": "C",
-    "name": "Jangmo-o",
+    "name": {
+      "en": "Jangmo-o",
+      "fr": "Bébécaille"
+    },
     "image": "cPK_10_007060_00_JYARAKO_C.webp",
     "packs": [
       "Lunala"
@@ -1284,7 +1659,10 @@
     "set": "A3",
     "number": 126,
     "rarity": "U",
-    "name": "Hakamo-o",
+    "name": {
+      "en": "Hakamo-o",
+      "fr": "Écaïd"
+    },
     "image": "cPK_10_007070_00_JYARANGO_U.webp",
     "packs": [
       "Lunala"
@@ -1294,7 +1672,10 @@
     "set": "A3",
     "number": 127,
     "rarity": "R",
-    "name": "Kommo-o",
+    "name": {
+      "en": "Kommo-o",
+      "fr": "Ékaïser"
+    },
     "image": "cPK_10_007080_00_JYARARANGA_R.webp",
     "packs": [
       "Lunala"
@@ -1304,7 +1685,10 @@
     "set": "A3",
     "number": 128,
     "rarity": "U",
-    "name": "Tauros",
+    "name": {
+      "en": "Tauros",
+      "fr": "Tauros"
+    },
     "image": "cPK_10_007090_00_KENTAUROS_U.webp",
     "packs": [
       "Solgaleo",
@@ -1315,7 +1699,10 @@
     "set": "A3",
     "number": 129,
     "rarity": "C",
-    "name": "Skitty",
+    "name": {
+      "en": "Skitty",
+      "fr": "Skitty"
+    },
     "image": "cPK_10_007100_00_ENECO_C.webp",
     "packs": [
       "Solgaleo",
@@ -1326,7 +1713,10 @@
     "set": "A3",
     "number": 130,
     "rarity": "U",
-    "name": "Delcatty",
+    "name": {
+      "en": "Delcatty",
+      "fr": "Delcatty"
+    },
     "image": "cPK_10_007110_00_ENEKORORO_U.webp",
     "packs": [
       "Solgaleo",
@@ -1337,7 +1727,10 @@
     "set": "A3",
     "number": 131,
     "rarity": "C",
-    "name": "Fletchling",
+    "name": {
+      "en": "Fletchling",
+      "fr": "Passerouge"
+    },
     "image": "cPK_10_007120_00_YAYAKOMA_C.webp",
     "packs": [
       "Solgaleo"
@@ -1347,7 +1740,10 @@
     "set": "A3",
     "number": 132,
     "rarity": "U",
-    "name": "Hawlucha",
+    "name": {
+      "en": "Hawlucha",
+      "fr": "Brutalibré"
+    },
     "image": "cPK_10_007130_00_LUCHABULL_U.webp",
     "packs": [
       "Solgaleo"
@@ -1357,7 +1753,10 @@
     "set": "A3",
     "number": 133,
     "rarity": "C",
-    "name": "Pikipek",
+    "name": {
+      "en": "Pikipek",
+      "fr": "Picassaut"
+    },
     "image": "cPK_10_007140_00_TSUTSUKERA_C.webp",
     "packs": [
       "Solgaleo",
@@ -1368,7 +1767,10 @@
     "set": "A3",
     "number": 134,
     "rarity": "C",
-    "name": "Trumbeak",
+    "name": {
+      "en": "Trumbeak",
+      "fr": "Piclairon"
+    },
     "image": "cPK_10_007150_00_KERARAPPA_C.webp",
     "packs": [
       "Solgaleo",
@@ -1379,7 +1781,10 @@
     "set": "A3",
     "number": 135,
     "rarity": "U",
-    "name": "Toucannon",
+    "name": {
+      "en": "Toucannon",
+      "fr": "Bazoucan"
+    },
     "image": "cPK_10_007160_00_DODEKABASHI_U.webp",
     "packs": [
       "Solgaleo",
@@ -1390,7 +1795,10 @@
     "set": "A3",
     "number": 136,
     "rarity": "C",
-    "name": "Yungoos",
+    "name": {
+      "en": "Yungoos",
+      "fr": "Manglouton"
+    },
     "image": "cPK_10_007170_00_YOUNGOOSE_C.webp",
     "packs": [
       "Solgaleo"
@@ -1400,7 +1808,10 @@
     "set": "A3",
     "number": 137,
     "rarity": "C",
-    "name": "Gumshoos",
+    "name": {
+      "en": "Gumshoos",
+      "fr": "Argouste"
+    },
     "image": "cPK_10_007180_00_DEKAGOOSE_C.webp",
     "packs": [
       "Solgaleo"
@@ -1410,7 +1821,10 @@
     "set": "A3",
     "number": 138,
     "rarity": "C",
-    "name": "Stufful",
+    "name": {
+      "en": "Stufful",
+      "fr": "Nounourson"
+    },
     "image": "cPK_10_007190_00_NUIKOGUMA_C.webp",
     "packs": [
       "Lunala"
@@ -1420,7 +1834,10 @@
     "set": "A3",
     "number": 139,
     "rarity": "R",
-    "name": "Bewear",
+    "name": {
+      "en": "Bewear",
+      "fr": "Chelours"
+    },
     "image": "cPK_10_007200_00_KITERUGUMA_R.webp",
     "packs": [
       "Lunala"
@@ -1430,7 +1847,10 @@
     "set": "A3",
     "number": 140,
     "rarity": "R",
-    "name": "Oranguru",
+    "name": {
+      "en": "Oranguru",
+      "fr": "Gouroutan"
+    },
     "image": "cPK_10_007210_00_YAREYUUTAN_R.webp",
     "packs": [
       "Lunala"
@@ -1440,7 +1860,10 @@
     "set": "A3",
     "number": 141,
     "rarity": "U",
-    "name": "Komala",
+    "name": {
+      "en": "Komala",
+      "fr": "Dodoala"
+    },
     "image": "cPK_10_007220_00_NEKKOARA_U.webp",
     "packs": [
       "Solgaleo"
@@ -1450,7 +1873,10 @@
     "set": "A3",
     "number": 142,
     "rarity": "U",
-    "name": "Big Malasada",
+    "name": {
+      "en": "Big Malasada",
+      "fr": "Malasada Maxi"
+    },
     "image": "cTR_10_000460_00_OOKIIMARASADA_U.webp",
     "packs": [
       "Solgaleo",
@@ -1461,7 +1887,10 @@
     "set": "A3",
     "number": 143,
     "rarity": "U",
-    "name": "Fishing Net",
+    "name": {
+      "en": "Fishing Net",
+      "fr": "Filet de Pêche"
+    },
     "image": "cTR_10_000470_00_OSAKANANETTO_U.webp",
     "packs": [
       "Lunala"
@@ -1471,7 +1900,10 @@
     "set": "A3",
     "number": 144,
     "rarity": "U",
-    "name": "Rare Candy",
+    "name": {
+      "en": "Rare Candy",
+      "fr": "Super Bonbon"
+    },
     "image": "cTR_10_000480_00_FUSHIGINAAME_U.webp",
     "packs": [
       "Solgaleo",
@@ -1482,7 +1914,10 @@
     "set": "A3",
     "number": 145,
     "rarity": "U",
-    "name": "Rotom Dex",
+    "name": {
+      "en": "Rotom Dex",
+      "fr": "Motisma-Dex"
+    },
     "image": "cTR_10_000490_00_ROTOMUZUKAN_U.webp",
     "packs": [
       "Solgaleo"
@@ -1492,7 +1927,10 @@
     "set": "A3",
     "number": 146,
     "rarity": "U",
-    "name": "Poison Barb",
+    "name": {
+      "en": "Poison Barb",
+      "fr": "Pic Venin"
+    },
     "image": "cTR_10_000500_00_DOKUBARI_U.webp",
     "packs": [
       "Lunala"
@@ -1502,7 +1940,10 @@
     "set": "A3",
     "number": 147,
     "rarity": "U",
-    "name": "Leaf Cape",
+    "name": {
+      "en": "Leaf Cape",
+      "fr": "Cape Sylvestre"
+    },
     "image": "cTR_10_000510_00_LEAFMANTO_U.webp",
     "packs": [
       "Solgaleo"
@@ -1512,7 +1953,10 @@
     "set": "A3",
     "number": 148,
     "rarity": "U",
-    "name": "Acerola",
+    "name": {
+      "en": "Acerola",
+      "fr": "Margie"
+    },
     "image": "cTR_10_000520_00_ACEROLA_U.webp",
     "packs": [
       "Lunala"
@@ -1522,7 +1966,10 @@
     "set": "A3",
     "number": 149,
     "rarity": "U",
-    "name": "Ilima",
+    "name": {
+      "en": "Ilima",
+      "fr": "Althéo"
+    },
     "image": "cTR_10_000530_00_ILIMA_U.webp",
     "packs": [
       "Lunala"
@@ -1532,7 +1979,10 @@
     "set": "A3",
     "number": 150,
     "rarity": "U",
-    "name": "Kiawe",
+    "name": {
+      "en": "Kiawe",
+      "fr": "Kiawe"
+    },
     "image": "cTR_10_000540_00_KAKI_U.webp",
     "packs": [
       "Lunala"
@@ -1542,7 +1992,10 @@
     "set": "A3",
     "number": 151,
     "rarity": "U",
-    "name": "Guzma",
+    "name": {
+      "en": "Guzma",
+      "fr": "Guzma"
+    },
     "image": "cTR_10_000550_00_GUZUMA_U.webp",
     "packs": [
       "Lunala"
@@ -1552,7 +2005,10 @@
     "set": "A3",
     "number": 152,
     "rarity": "U",
-    "name": "Lana",
+    "name": {
+      "en": "Lana",
+      "fr": "Néphie"
+    },
     "image": "cTR_10_000560_00_SUIREN_U.webp",
     "packs": [
       "Solgaleo"
@@ -1562,7 +2018,10 @@
     "set": "A3",
     "number": 153,
     "rarity": "U",
-    "name": "Sophocles",
+    "name": {
+      "en": "Sophocles",
+      "fr": "Chrys"
+    },
     "image": "cTR_10_000570_00_MAMANE_U.webp",
     "packs": [
       "Solgaleo"
@@ -1572,7 +2031,10 @@
     "set": "A3",
     "number": 154,
     "rarity": "U",
-    "name": "Mallow",
+    "name": {
+      "en": "Mallow",
+      "fr": "Barbara"
+    },
     "image": "cTR_10_000580_00_MAO_U.webp",
     "packs": [
       "Solgaleo"
@@ -1582,7 +2044,10 @@
     "set": "A3",
     "number": 155,
     "rarity": "U",
-    "name": "Lillie",
+    "name": {
+      "en": "Lillie",
+      "fr": "Lilie"
+    },
     "image": "cTR_10_000590_00_LILIE_U.webp",
     "packs": [
       "Solgaleo"
@@ -1592,7 +2057,10 @@
     "set": "A3",
     "number": 156,
     "rarity": "AR",
-    "name": "Alolan Exeggutor",
+    "name": {
+      "en": "Alolan Exeggutor",
+      "fr": "Noadkoko d'Alola"
+    },
     "image": "cPK_20_005830_00_ALOLANASSY_AR.webp",
     "packs": [
       "Lunala"
@@ -1602,7 +2070,10 @@
     "set": "A3",
     "number": 157,
     "rarity": "AR",
-    "name": "Morelull",
+    "name": {
+      "en": "Morelull",
+      "fr": "Spododo"
+    },
     "image": "cPK_20_005970_00_NEMASYU_AR.webp",
     "packs": [
       "Lunala"
@@ -1612,7 +2083,10 @@
     "set": "A3",
     "number": 158,
     "rarity": "AR",
-    "name": "Tsareena",
+    "name": {
+      "en": "Tsareena",
+      "fr": "Sucreine"
+    },
     "image": "cPK_20_006010_00_AMAJO_AR.webp",
     "packs": [
       "Solgaleo"
@@ -1622,7 +2096,10 @@
     "set": "A3",
     "number": 159,
     "rarity": "AR",
-    "name": "Tapu Bulu",
+    "name": {
+      "en": "Tapu Bulu",
+      "fr": "Tokotoro"
+    },
     "image": "cPK_20_006050_00_KAPU-BULUL_AR.webp",
     "packs": [
       "Solgaleo"
@@ -1632,7 +2109,10 @@
     "set": "A3",
     "number": 160,
     "rarity": "AR",
-    "name": "Alolan Marowak",
+    "name": {
+      "en": "Alolan Marowak",
+      "fr": "Ossatueur d'Alola"
+    },
     "image": "cPK_20_006080_00_ALOLAGARAGARA_AR.webp",
     "packs": [
       "Lunala"
@@ -1642,7 +2122,10 @@
     "set": "A3",
     "number": 161,
     "rarity": "AR",
-    "name": "Turtonator",
+    "name": {
+      "en": "Turtonator",
+      "fr": "Boumata"
+    },
     "image": "cPK_20_006180_00_BAKUGAMES_AR.webp",
     "packs": [
       "Lunala"
@@ -1652,7 +2135,10 @@
     "set": "A3",
     "number": 162,
     "rarity": "AR",
-    "name": "Alolan Vulpix",
+    "name": {
+      "en": "Alolan Vulpix",
+      "fr": "Goupix d'Alola"
+    },
     "image": "cPK_20_006210_00_ALOLAROKON_AR.webp",
     "packs": [
       "Lunala"
@@ -1662,7 +2148,10 @@
     "set": "A3",
     "number": 163,
     "rarity": "AR",
-    "name": "Pyukumuku",
+    "name": {
+      "en": "Pyukumuku",
+      "fr": "Concombaffe"
+    },
     "image": "cPK_20_006350_00_NAMAKOBUSHI_AR.webp",
     "packs": [
       "Lunala"
@@ -1672,7 +2161,10 @@
     "set": "A3",
     "number": 164,
     "rarity": "AR",
-    "name": "Tapu Fini",
+    "name": {
+      "en": "Tapu Fini",
+      "fr": "Tokopisco"
+    },
     "image": "cPK_20_006370_00_KAPU-REHIRE_AR.webp",
     "packs": [
       "Lunala"
@@ -1682,7 +2174,10 @@
     "set": "A3",
     "number": 165,
     "rarity": "AR",
-    "name": "Oricorio",
+    "name": {
+      "en": "Oricorio",
+      "fr": "Plumeline"
+    },
     "image": "cPK_20_006470_00_ODORIDORIPACHIPACHISTYLE_AR.webp",
     "packs": [
       "Solgaleo"
@@ -1692,7 +2187,10 @@
     "set": "A3",
     "number": 166,
     "rarity": "AR",
-    "name": "Tapu Koko",
+    "name": {
+      "en": "Tapu Koko",
+      "fr": "Tokorico"
+    },
     "image": "cPK_20_006490_00_KAPU-KOKEKO_AR.webp",
     "packs": [
       "Solgaleo"
@@ -1702,7 +2200,10 @@
     "set": "A3",
     "number": 167,
     "rarity": "AR",
-    "name": "Cutiefly",
+    "name": {
+      "en": "Cutiefly",
+      "fr": "Bombydou"
+    },
     "image": "cPK_20_006590_00_ABULY_AR.webp",
     "packs": [
       "Solgaleo"
@@ -1712,7 +2213,10 @@
     "set": "A3",
     "number": 168,
     "rarity": "AR",
-    "name": "Comfey",
+    "name": {
+      "en": "Comfey",
+      "fr": "Guérilande"
+    },
     "image": "cPK_20_006610_00_CUWAWA_AR.webp",
     "packs": [
       "Solgaleo"
@@ -1722,7 +2226,10 @@
     "set": "A3",
     "number": 169,
     "rarity": "AR",
-    "name": "Sandygast",
+    "name": {
+      "en": "Sandygast",
+      "fr": "Bacabouh"
+    },
     "image": "cPK_20_006620_00_SUNABA_AR.webp",
     "packs": [
       "Solgaleo"
@@ -1732,7 +2239,10 @@
     "set": "A3",
     "number": 170,
     "rarity": "AR",
-    "name": "Tapu Lele",
+    "name": {
+      "en": "Tapu Lele",
+      "fr": "Tokopiyon"
+    },
     "image": "cPK_20_006650_00_KAPU-TETEFU_AR.webp",
     "packs": [
       "Lunala"
@@ -1742,7 +2252,10 @@
     "set": "A3",
     "number": 171,
     "rarity": "AR",
-    "name": "Cosmog",
+    "name": {
+      "en": "Cosmog",
+      "fr": "Cosmog"
+    },
     "image": "cPK_20_006660_00_COSMOG_AR.webp",
     "packs": [
       "Lunala"
@@ -1752,7 +2265,10 @@
     "set": "A3",
     "number": 172,
     "rarity": "AR",
-    "name": "Rockruff",
+    "name": {
+      "en": "Rockruff",
+      "fr": "Rocabot"
+    },
     "image": "cPK_20_006790_00_IWANKO_AR.webp",
     "packs": [
       "Solgaleo"
@@ -1762,7 +2278,10 @@
     "set": "A3",
     "number": 173,
     "rarity": "AR",
-    "name": "Mudsdale",
+    "name": {
+      "en": "Mudsdale",
+      "fr": "Bourrinos"
+    },
     "image": "cPK_20_006840_00_BANBADORO_AR.webp",
     "packs": [
       "Solgaleo"
@@ -1772,7 +2291,10 @@
     "set": "A3",
     "number": 174,
     "rarity": "AR",
-    "name": "Minior",
+    "name": {
+      "en": "Minior",
+      "fr": "Météno"
+    },
     "image": "cPK_20_006860_00_METENOAKAIRONOCORE_AR.webp",
     "packs": [
       "Lunala"
@@ -1782,7 +2304,10 @@
     "set": "A3",
     "number": 175,
     "rarity": "AR",
-    "name": "Magearna",
+    "name": {
+      "en": "Magearna",
+      "fr": "Magearna"
+    },
     "image": "cPK_20_007040_00_MAGEARNA_AR.webp",
     "packs": [
       "Solgaleo"
@@ -1792,7 +2317,10 @@
     "set": "A3",
     "number": 176,
     "rarity": "AR",
-    "name": "Drampa",
+    "name": {
+      "en": "Drampa",
+      "fr": "Draïeul"
+    },
     "image": "cPK_20_007050_00_JIJILONG_AR.webp",
     "packs": [
       "Solgaleo"
@@ -1802,7 +2330,10 @@
     "set": "A3",
     "number": 177,
     "rarity": "AR",
-    "name": "Pikipek",
+    "name": {
+      "en": "Pikipek",
+      "fr": "Picassaut"
+    },
     "image": "cPK_20_007140_00_TSUTSUKERA_AR.webp",
     "packs": [
       "Lunala"
@@ -1812,7 +2343,10 @@
     "set": "A3",
     "number": 178,
     "rarity": "AR",
-    "name": "Bewear",
+    "name": {
+      "en": "Bewear",
+      "fr": "Chelours"
+    },
     "image": "cPK_20_007200_00_KITERUGUMA_AR.webp",
     "packs": [
       "Lunala"
@@ -1822,7 +2356,10 @@
     "set": "A3",
     "number": 179,
     "rarity": "AR",
-    "name": "Komala",
+    "name": {
+      "en": "Komala",
+      "fr": "Dodoala"
+    },
     "image": "cPK_20_007220_00_NEKKOARA_AR.webp",
     "packs": [
       "Solgaleo"
@@ -1832,7 +2369,10 @@
     "set": "A3",
     "number": 180,
     "rarity": "SR",
-    "name": "Decidueye ex",
+    "name": {
+      "en": "Decidueye ex",
+      "fr": "Archéduc-ex"
+    },
     "image": "cPK_20_005930_00_JUNAIPERex_SR.webp",
     "packs": [
       "Lunala"
@@ -1842,7 +2382,10 @@
     "set": "A3",
     "number": 181,
     "rarity": "SR",
-    "name": "Dhelmise ex",
+    "name": {
+      "en": "Dhelmise ex",
+      "fr": "Sinistrail-ex"
+    },
     "image": "cPK_20_006040_00_DADARINex_SR.webp",
     "packs": [
       "Solgaleo"
@@ -1852,7 +2395,10 @@
     "set": "A3",
     "number": 182,
     "rarity": "SR",
-    "name": "Incineroar ex",
+    "name": {
+      "en": "Incineroar ex",
+      "fr": "Félinferno-ex"
+    },
     "image": "cPK_20_006140_00_GAOGAENex_SR.webp",
     "packs": [
       "Solgaleo"
@@ -1862,7 +2408,10 @@
     "set": "A3",
     "number": 183,
     "rarity": "SR",
-    "name": "Crabominable ex",
+    "name": {
+      "en": "Crabominable ex",
+      "fr": "Crabominable-ex"
+    },
     "image": "cPK_20_006300_00_KEKENKANIex_SR.webp",
     "packs": [
       "Solgaleo"
@@ -1872,7 +2421,10 @@
     "set": "A3",
     "number": 184,
     "rarity": "SR",
-    "name": "Wishiwashi ex",
+    "name": {
+      "en": "Wishiwashi ex",
+      "fr": "Froussardine-ex"
+    },
     "image": "cPK_20_006320_00_YOWASHIMURETASUGATA_SR.webp",
     "packs": [
       "Lunala"
@@ -1882,7 +2434,10 @@
     "set": "A3",
     "number": 185,
     "rarity": "SR",
-    "name": "Alolan Raichu ex",
+    "name": {
+      "en": "Alolan Raichu ex",
+      "fr": "Raichu d'Alola-ex"
+    },
     "image": "cPK_20_006390_00_ALOLARAICHUex_SR.webp",
     "packs": [
       "Solgaleo"
@@ -1892,7 +2447,10 @@
     "set": "A3",
     "number": 186,
     "rarity": "SR",
-    "name": "Lunala ex",
+    "name": {
+      "en": "Lunala ex",
+      "fr": "Lunala-ex"
+    },
     "image": "cPK_20_006680_00_LUNALAex_SR.webp",
     "packs": [
       "Lunala"
@@ -1902,7 +2460,10 @@
     "set": "A3",
     "number": 187,
     "rarity": "SR",
-    "name": "Passimian ex",
+    "name": {
+      "en": "Passimian ex",
+      "fr": "Quartermac-ex"
+    },
     "image": "cPK_20_006850_00_NAGETUKESARUex_SR.webp",
     "packs": [
       "Lunala"
@@ -1912,7 +2473,10 @@
     "set": "A3",
     "number": 188,
     "rarity": "SR",
-    "name": "Alolan Muk ex",
+    "name": {
+      "en": "Alolan Muk ex",
+      "fr": "Grotadmorv d'Alola-ex"
+    },
     "image": "cPK_20_006920_00_ALOLABETBETONex_SR.webp",
     "packs": [
       "Lunala"
@@ -1922,7 +2486,10 @@
     "set": "A3",
     "number": 189,
     "rarity": "SR",
-    "name": "Solgaleo ex",
+    "name": {
+      "en": "Solgaleo ex",
+      "fr": "Solgaleo-ex"
+    },
     "image": "cPK_20_007030_00_SOLGALEOex_SR.webp",
     "packs": [
       "Solgaleo"
@@ -1932,7 +2499,10 @@
     "set": "A3",
     "number": 190,
     "rarity": "SR",
-    "name": "Acerola",
+    "name": {
+      "en": "Acerola",
+      "fr": "Margie"
+    },
     "image": "cTR_20_000520_00_ACEROLA_SR.webp",
     "packs": [
       "Lunala"
@@ -1942,7 +2512,10 @@
     "set": "A3",
     "number": 191,
     "rarity": "SR",
-    "name": "Ilima",
+    "name": {
+      "en": "Ilima",
+      "fr": "Althéo"
+    },
     "image": "cTR_20_000530_00_ILIMA_SR.webp",
     "packs": [
       "Lunala"
@@ -1952,7 +2525,10 @@
     "set": "A3",
     "number": 192,
     "rarity": "SR",
-    "name": "Kiawe",
+    "name": {
+      "en": "Kiawe",
+      "fr": "Kiawe"
+    },
     "image": "cTR_20_000540_00_KAKI_SR.webp",
     "packs": [
       "Lunala"
@@ -1962,7 +2538,10 @@
     "set": "A3",
     "number": 193,
     "rarity": "SR",
-    "name": "Guzma",
+    "name": {
+      "en": "Guzma",
+      "fr": "Guzma"
+    },
     "image": "cTR_20_000550_00_GUZUMA_SR.webp",
     "packs": [
       "Lunala"
@@ -1972,7 +2551,10 @@
     "set": "A3",
     "number": 194,
     "rarity": "SR",
-    "name": "Lana",
+    "name": {
+      "en": "Lana",
+      "fr": "Néphie"
+    },
     "image": "cTR_20_000560_00_SUIREN_SR.webp",
     "packs": [
       "Solgaleo"
@@ -1982,7 +2564,10 @@
     "set": "A3",
     "number": 195,
     "rarity": "SR",
-    "name": "Sophocles",
+    "name": {
+      "en": "Sophocles",
+      "fr": "Chrys"
+    },
     "image": "cTR_20_000570_00_MAMANE_SR.webp",
     "packs": [
       "Solgaleo"
@@ -1992,7 +2577,10 @@
     "set": "A3",
     "number": 196,
     "rarity": "SR",
-    "name": "Mallow",
+    "name": {
+      "en": "Mallow",
+      "fr": "Barbara"
+    },
     "image": "cTR_20_000580_00_MAO_SR.webp",
     "packs": [
       "Solgaleo"
@@ -2002,7 +2590,10 @@
     "set": "A3",
     "number": 197,
     "rarity": "SR",
-    "name": "Lillie",
+    "name": {
+      "en": "Lillie",
+      "fr": "Lilie"
+    },
     "image": "cTR_20_000590_00_LILIE_SR.webp",
     "packs": [
       "Solgaleo"
@@ -2012,7 +2603,10 @@
     "set": "A3",
     "number": 198,
     "rarity": "SAR",
-    "name": "Decidueye ex",
+    "name": {
+      "en": "Decidueye ex",
+      "fr": "Archéduc-ex"
+    },
     "image": "cPK_20_005930_01_JUNAIPERex_SAR.webp",
     "packs": [
       "Lunala"
@@ -2022,7 +2616,10 @@
     "set": "A3",
     "number": 199,
     "rarity": "SAR",
-    "name": "Dhelmise ex",
+    "name": {
+      "en": "Dhelmise ex",
+      "fr": "Sinistrail-ex"
+    },
     "image": "cPK_20_006040_01_DADARINex_SAR.webp",
     "packs": [
       "Solgaleo"
@@ -2032,7 +2629,10 @@
     "set": "A3",
     "number": 200,
     "rarity": "SAR",
-    "name": "Incineroar ex",
+    "name": {
+      "en": "Incineroar ex",
+      "fr": "Félinferno-ex"
+    },
     "image": "cPK_20_006140_01_GAOGAENex_SAR.webp",
     "packs": [
       "Solgaleo"
@@ -2042,7 +2642,10 @@
     "set": "A3",
     "number": 201,
     "rarity": "SAR",
-    "name": "Crabominable ex",
+    "name": {
+      "en": "Crabominable ex",
+      "fr": "Crabominable-ex"
+    },
     "image": "cPK_20_006300_01_KEKENKANIex_SAR.webp",
     "packs": [
       "Solgaleo"
@@ -2052,7 +2655,10 @@
     "set": "A3",
     "number": 202,
     "rarity": "SAR",
-    "name": "Wishiwashi ex",
+    "name": {
+      "en": "Wishiwashi ex",
+      "fr": "Froussardine-ex"
+    },
     "image": "cPK_20_006320_01_YOWASHIMURETASUGATA_SAR.webp",
     "packs": [
       "Lunala"
@@ -2062,7 +2668,10 @@
     "set": "A3",
     "number": 203,
     "rarity": "SAR",
-    "name": "Alolan Raichu ex",
+    "name": {
+      "en": "Alolan Raichu ex",
+      "fr": "Raichu d'Alola-ex"
+    },
     "image": "cPK_20_006390_01_ALOLARAICHUex_SAR.webp",
     "packs": [
       "Solgaleo"
@@ -2072,7 +2681,10 @@
     "set": "A3",
     "number": 204,
     "rarity": "SAR",
-    "name": "Lunala ex",
+    "name": {
+      "en": "Lunala ex",
+      "fr": "Lunala-ex"
+    },
     "image": "cPK_20_006680_01_LUNALAex_SAR.webp",
     "packs": [
       "Lunala"
@@ -2082,7 +2694,10 @@
     "set": "A3",
     "number": 205,
     "rarity": "SAR",
-    "name": "Passimian ex",
+    "name": {
+      "en": "Passimian ex",
+      "fr": "Quartermac-ex"
+    },
     "image": "cPK_20_006850_01_NAGETUKESARUex_SAR.webp",
     "packs": [
       "Lunala"
@@ -2092,7 +2707,10 @@
     "set": "A3",
     "number": 206,
     "rarity": "SAR",
-    "name": "Alolan Muk ex",
+    "name": {
+      "en": "Alolan Muk ex",
+      "fr": "Grotadmorv d'Alola-ex"
+    },
     "image": "cPK_20_006920_01_ALOLABETBETONex_SAR.webp",
     "packs": [
       "Lunala"
@@ -2102,7 +2720,10 @@
     "set": "A3",
     "number": 207,
     "rarity": "SAR",
-    "name": "Solgaleo ex",
+    "name": {
+      "en": "Solgaleo ex",
+      "fr": "Solgaleo-ex"
+    },
     "image": "cPK_20_007030_01_SOLGALEOex_SAR.webp",
     "packs": [
       "Solgaleo"
@@ -2112,7 +2733,10 @@
     "set": "A3",
     "number": 208,
     "rarity": "IM",
-    "name": "Guzma",
+    "name": {
+      "en": "Guzma",
+      "fr": "Guzma"
+    },
     "image": "cTR_20_000550_01_GUZUMA_IM.webp",
     "packs": [
       "Lunala"
@@ -2122,7 +2746,10 @@
     "set": "A3",
     "number": 209,
     "rarity": "IM",
-    "name": "Lillie",
+    "name": {
+      "en": "Lillie",
+      "fr": "Lilie"
+    },
     "image": "cTR_20_000590_01_LILIE_IM.webp",
     "packs": [
       "Solgaleo"
@@ -2132,7 +2759,10 @@
     "set": "A3",
     "number": 210,
     "rarity": "S",
-    "name": "Bulbasaur",
+    "name": {
+      "en": "Bulbasaur",
+      "fr": "Bulbizarre"
+    },
     "image": "cPK_20_000010_01_FUSHIGIDANE_S.webp",
     "packs": [
       "Solgaleo"
@@ -2142,7 +2772,10 @@
     "set": "A3",
     "number": 211,
     "rarity": "S",
-    "name": "Ivysaur",
+    "name": {
+      "en": "Ivysaur",
+      "fr": "Herbizarre"
+    },
     "image": "cPK_20_000020_00_FUSHIGISOU_S.webp",
     "packs": [
       "Solgaleo"
@@ -2152,7 +2785,10 @@
     "set": "A3",
     "number": 212,
     "rarity": "S",
-    "name": "Venusaur",
+    "name": {
+      "en": "Venusaur",
+      "fr": "Florizarre"
+    },
     "image": "cPK_20_000030_00_FUSHIGIBANA_S.webp",
     "packs": [
       "Solgaleo"
@@ -2162,7 +2798,10 @@
     "set": "A3",
     "number": 213,
     "rarity": "S",
-    "name": "Exeggcute",
+    "name": {
+      "en": "Exeggcute",
+      "fr": "Noeunoeuf"
+    },
     "image": "cPK_20_005820_00_TAMATAMA_S.webp",
     "packs": [
       "Lunala"
@@ -2172,7 +2811,10 @@
     "set": "A3",
     "number": 214,
     "rarity": "S",
-    "name": "Exeggutor",
+    "name": {
+      "en": "Exeggutor",
+      "fr": "Noadkoko"
+    },
     "image": "cPK_20_002160_01_NASSY_S.webp",
     "packs": [
       "Lunala"
@@ -2182,7 +2824,10 @@
     "set": "A3",
     "number": 215,
     "rarity": "S",
-    "name": "Squirtle",
+    "name": {
+      "en": "Squirtle",
+      "fr": "Carapuce"
+    },
     "image": "cPK_20_000530_01_ZENIGAME_S.webp",
     "packs": [
       "Lunala"
@@ -2192,7 +2837,10 @@
     "set": "A3",
     "number": 216,
     "rarity": "S",
-    "name": "Wartortle",
+    "name": {
+      "en": "Wartortle",
+      "fr": "Carabaffe"
+    },
     "image": "cPK_20_000540_00_KAMEIL_S.webp",
     "packs": [
       "Lunala"
@@ -2202,7 +2850,10 @@
     "set": "A3",
     "number": 217,
     "rarity": "S",
-    "name": "Blastoise",
+    "name": {
+      "en": "Blastoise",
+      "fr": "Tortank"
+    },
     "image": "cPK_20_000550_00_KAMEX_S.webp",
     "packs": [
       "Lunala"
@@ -2212,7 +2863,10 @@
     "set": "A3",
     "number": 218,
     "rarity": "S",
-    "name": "Staryu",
+    "name": {
+      "en": "Staryu",
+      "fr": "Stari"
+    },
     "image": "cPK_20_000740_00_HITODEMAN_S.webp",
     "packs": [
       "Solgaleo"
@@ -2222,7 +2876,10 @@
     "set": "A3",
     "number": 219,
     "rarity": "S",
-    "name": "Starmie",
+    "name": {
+      "en": "Starmie",
+      "fr": "Staross"
+    },
     "image": "cPK_20_000750_00_STARMIE_S.webp",
     "packs": [
       "Solgaleo"
@@ -2232,7 +2889,10 @@
     "set": "A3",
     "number": 220,
     "rarity": "S",
-    "name": "Gastly",
+    "name": {
+      "en": "Gastly",
+      "fr": "Fantominus"
+    },
     "image": "cPK_20_004550_00_GHOS_S.webp",
     "packs": [
       "Lunala"
@@ -2242,7 +2902,10 @@
     "set": "A3",
     "number": 221,
     "rarity": "S",
-    "name": "Haunter",
+    "name": {
+      "en": "Haunter",
+      "fr": "Spectrum"
+    },
     "image": "cPK_20_001210_00_GHOST_S.webp",
     "packs": [
       "Lunala"
@@ -2252,7 +2915,10 @@
     "set": "A3",
     "number": 222,
     "rarity": "S",
-    "name": "Gengar",
+    "name": {
+      "en": "Gengar",
+      "fr": "Ectoplasma"
+    },
     "image": "cPK_20_001220_00_GANGAR_S.webp",
     "packs": [
       "Lunala"
@@ -2262,7 +2928,10 @@
     "set": "A3",
     "number": 223,
     "rarity": "S",
-    "name": "Machop",
+    "name": {
+      "en": "Machop",
+      "fr": "Machoc"
+    },
     "image": "cPK_20_001430_00_WANRIKY_S.webp",
     "packs": [
       "Solgaleo"
@@ -2272,7 +2941,10 @@
     "set": "A3",
     "number": 224,
     "rarity": "S",
-    "name": "Machoke",
+    "name": {
+      "en": "Machoke",
+      "fr": "Machopeur"
+    },
     "image": "cPK_20_001440_00_GORIKY_S.webp",
     "packs": [
       "Solgaleo"
@@ -2282,7 +2954,10 @@
     "set": "A3",
     "number": 225,
     "rarity": "S",
-    "name": "Machamp",
+    "name": {
+      "en": "Machamp",
+      "fr": "Mackogneur"
+    },
     "image": "cPK_20_005020_00_KAIRIKY_S.webp",
     "packs": [
       "Solgaleo"
@@ -2292,7 +2967,10 @@
     "set": "A3",
     "number": 226,
     "rarity": "S",
-    "name": "Cubone",
+    "name": {
+      "en": "Cubone",
+      "fr": "Osselait"
+    },
     "image": "cPK_20_001510_01_KARAKARA_S.webp",
     "packs": [
       "Lunala"
@@ -2302,7 +2980,10 @@
     "set": "A3",
     "number": 227,
     "rarity": "S",
-    "name": "Marowak",
+    "name": {
+      "en": "Marowak",
+      "fr": "Ossatueur"
+    },
     "image": "cPK_20_001520_00_GARAGARA_S.webp",
     "packs": [
       "Lunala"
@@ -2312,7 +2993,10 @@
     "set": "A3",
     "number": 228,
     "rarity": "S",
-    "name": "Jigglypuff",
+    "name": {
+      "en": "Jigglypuff",
+      "fr": "Rondoudou"
+    },
     "image": "cPK_20_005750_00_PURIN_S.webp",
     "packs": [
       "Solgaleo"
@@ -2322,7 +3006,10 @@
     "set": "A3",
     "number": 229,
     "rarity": "S",
-    "name": "Wigglytuff",
+    "name": {
+      "en": "Wigglytuff",
+      "fr": "Grodoudou"
+    },
     "image": "cPK_20_005760_01_PUKURIN_S.webp",
     "packs": [
       "Solgaleo"
@@ -2332,7 +3019,10 @@
     "set": "A3",
     "number": 230,
     "rarity": "SSR",
-    "name": "Venusaur ex",
+    "name": {
+      "en": "Venusaur ex",
+      "fr": "Florizarre-ex"
+    },
     "image": "cPK_20_000040_01_FUSHIGIBANAex_SSR.webp",
     "packs": [
       "Solgaleo"
@@ -2342,7 +3032,10 @@
     "set": "A3",
     "number": 231,
     "rarity": "SSR",
-    "name": "Exeggutor ex",
+    "name": {
+      "en": "Exeggutor ex",
+      "fr": "Noadkoko-ex"
+    },
     "image": "cPK_20_000230_01_NASSYex_SSR.webp",
     "packs": [
       "Lunala"
@@ -2352,7 +3045,10 @@
     "set": "A3",
     "number": 232,
     "rarity": "SSR",
-    "name": "Blastoise ex",
+    "name": {
+      "en": "Blastoise ex",
+      "fr": "Tortank-ex"
+    },
     "image": "cPK_20_000560_01_KAMEXex_SSR.webp",
     "packs": [
       "Lunala"
@@ -2362,7 +3058,10 @@
     "set": "A3",
     "number": 233,
     "rarity": "SSR",
-    "name": "Starmie ex",
+    "name": {
+      "en": "Starmie ex",
+      "fr": "Staross-ex"
+    },
     "image": "cPK_20_000760_01_STARMIEex_SSR.webp",
     "packs": [
       "Solgaleo"
@@ -2372,7 +3071,10 @@
     "set": "A3",
     "number": 234,
     "rarity": "SSR",
-    "name": "Gengar ex",
+    "name": {
+      "en": "Gengar ex",
+      "fr": "Ectoplasma-ex"
+    },
     "image": "cPK_20_001230_02_GANGARex_SSR.webp",
     "packs": [
       "Lunala"
@@ -2382,7 +3084,10 @@
     "set": "A3",
     "number": 235,
     "rarity": "SSR",
-    "name": "Machamp ex",
+    "name": {
+      "en": "Machamp ex",
+      "fr": "Mackogneur-ex"
+    },
     "image": "cPK_20_001460_02_KAIRIKYex_SSR.webp",
     "packs": [
       "Solgaleo"
@@ -2392,7 +3097,10 @@
     "set": "A3",
     "number": 236,
     "rarity": "SSR",
-    "name": "Marowak ex",
+    "name": {
+      "en": "Marowak ex",
+      "fr": "Ossatueur-ex"
+    },
     "image": "cPK_20_001530_01_GARAGARAex_SSR.webp",
     "packs": [
       "Lunala"
@@ -2402,7 +3110,10 @@
     "set": "A3",
     "number": 237,
     "rarity": "SSR",
-    "name": "Wigglytuff ex",
+    "name": {
+      "en": "Wigglytuff ex",
+      "fr": "Grodoudou-ex"
+    },
     "image": "cPK_20_001950_02_PUKURINex_SSR.webp",
     "packs": [
       "Solgaleo"
@@ -2412,7 +3123,10 @@
     "set": "A3",
     "number": 238,
     "rarity": "UR",
-    "name": "Lunala ex",
+    "name": {
+      "en": "Lunala ex",
+      "fr": "Lunala-ex"
+    },
     "image": "cPK_20_006680_02_LUNALAex_UR.webp",
     "packs": [
       "Solgaleo",
@@ -2423,7 +3137,10 @@
     "set": "A3",
     "number": 239,
     "rarity": "UR",
-    "name": "Solgaleo ex",
+    "name": {
+      "en": "Solgaleo ex",
+      "fr": "Solgaleo-ex"
+    },
     "image": "cPK_20_007030_02_SOLGALEOex_UR.webp",
     "packs": [
       "Solgaleo",
