@@ -4,7 +4,10 @@
     "number": 1,
     "rarity": "C",
     "image": "cPK_10_016070_00_STRIKE_C.webp",
-    "name": "Scyther",
+    "name": {
+      "en": "Scyther",
+      "fr": "Insécateur"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -14,7 +17,10 @@
     "number": 2,
     "rarity": "C",
     "image": "cPK_10_016080_00_KUNUGIDAMA_C.webp",
-    "name": "Pineco",
+    "name": {
+      "en": "Pineco",
+      "fr": "Pomdepik"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -24,7 +30,10 @@
     "number": 3,
     "rarity": "C",
     "image": "cPK_10_016090_00_BARUBEAT_C.webp",
-    "name": "Volbeat",
+    "name": {
+      "en": "Volbeat",
+      "fr": "Muciole"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -34,7 +43,10 @@
     "number": 4,
     "rarity": "C",
     "image": "cPK_10_016100_00_ILLUMISE_C.webp",
-    "name": "Illumise",
+    "name": {
+      "en": "Illumise",
+      "fr": "Lumivole"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -44,7 +56,10 @@
     "number": 5,
     "rarity": "C",
     "image": "cPK_10_016110_00_BOKUREI_C.webp",
-    "name": "Phantump",
+    "name": {
+      "en": "Phantump",
+      "fr": "Brocélôme"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -54,7 +69,10 @@
     "number": 6,
     "rarity": "U",
     "image": "cPK_10_016120_00_OHROT_U.webp",
-    "name": "Trevenant",
+    "name": {
+      "en": "Trevenant",
+      "fr": "Desséliande"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -64,7 +82,10 @@
     "number": 7,
     "rarity": "C",
     "image": "cPK_10_016130_00_HITOKAGE_C.webp",
-    "name": "Charmander",
+    "name": {
+      "en": "Charmander",
+      "fr": "Salamèche"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -74,7 +95,10 @@
     "number": 8,
     "rarity": "U",
     "image": "cPK_10_016140_00_LIZARDO_U.webp",
-    "name": "Charmeleon",
+    "name": {
+      "en": "Charmeleon",
+      "fr": "Reptincel"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -84,7 +108,10 @@
     "number": 9,
     "rarity": "RR",
     "image": "cPK_10_016150_00_MEGALIZARDONXex_RR.webp",
-    "name": "Mega Charizard X ex",
+    "name": {
+      "en": "Mega Charizard X ex",
+      "fr": "Méga-Dracaufeu X-ex"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -94,7 +121,10 @@
     "number": 10,
     "rarity": "C",
     "image": "cPK_10_016160_00_PONYTA_C.webp",
-    "name": "Ponyta",
+    "name": {
+      "en": "Ponyta",
+      "fr": "Ponyta"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -104,7 +134,10 @@
     "number": 11,
     "rarity": "C",
     "image": "cPK_10_016170_00_GALLOP_C.webp",
-    "name": "Rapidash",
+    "name": {
+      "en": "Rapidash",
+      "fr": "Galopa"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -114,7 +147,10 @@
     "number": 12,
     "rarity": "C",
     "image": "cPK_10_016180_00_BOOBER_C.webp",
-    "name": "Magmar",
+    "name": {
+      "en": "Magmar",
+      "fr": "Magmar"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -124,7 +160,10 @@
     "number": 13,
     "rarity": "U",
     "image": "cPK_10_016190_00_BOOBURN_U.webp",
-    "name": "Magmortar",
+    "name": {
+      "en": "Magmortar",
+      "fr": "Maganon"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -134,7 +173,10 @@
     "number": 14,
     "rarity": "C",
     "image": "cPK_10_016200_00_PALDEAKENTAUROS_C.webp",
-    "name": "Paldean Tauros",
+    "name": {
+      "en": "Paldean Tauros",
+      "fr": "Tauros de Paldea"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -144,7 +186,10 @@
     "number": 15,
     "rarity": "C",
     "image": "cPK_10_016000_00_YADON_C.webp",
-    "name": "Slowpoke",
+    "name": {
+      "en": "Slowpoke",
+      "fr": "Ramoloss"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -154,7 +199,10 @@
     "number": 16,
     "rarity": "RR",
     "image": "cPK_10_016210_00_MEGAYADORANex_RR.webp",
-    "name": "Mega Slowbro ex",
+    "name": {
+      "en": "Mega Slowbro ex",
+      "fr": "Méga-Flagadoss-ex"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -164,7 +212,10 @@
     "number": 17,
     "rarity": "U",
     "image": "cPK_10_016220_00_LAPLACE_U.webp",
-    "name": "Lapras",
+    "name": {
+      "en": "Lapras",
+      "fr": "Lokhlass"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -174,7 +225,10 @@
     "number": 18,
     "rarity": "C",
     "image": "cPK_10_016230_00_POCHAMA_C.webp",
-    "name": "Piplup",
+    "name": {
+      "en": "Piplup",
+      "fr": "Tiplouf"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -184,7 +238,10 @@
     "number": 19,
     "rarity": "U",
     "image": "cPK_10_016240_00_POTTAISHI_U.webp",
-    "name": "Prinplup",
+    "name": {
+      "en": "Prinplup",
+      "fr": "Prinplouf"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -194,7 +251,10 @@
     "number": 20,
     "rarity": "R",
     "image": "cPK_10_016250_00_EMPERTE_R.webp",
-    "name": "Empoleon",
+    "name": {
+      "en": "Empoleon",
+      "fr": "Pingoléon"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -204,7 +264,10 @@
     "number": 21,
     "rarity": "U",
     "image": "cPK_10_016260_00_PHIONE_U.webp",
-    "name": "Phione",
+    "name": {
+      "en": "Phione",
+      "fr": "Phione"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -214,7 +277,10 @@
     "number": 22,
     "rarity": "C",
     "image": "cPK_10_016270_00_PIKACHU_C.webp",
-    "name": "Pikachu",
+    "name": {
+      "en": "Pikachu",
+      "fr": "Pikachu"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -224,7 +290,10 @@
     "number": 23,
     "rarity": "U",
     "image": "cPK_10_016280_00_RAICHU_U.webp",
-    "name": "Raichu",
+    "name": {
+      "en": "Raichu",
+      "fr": "Raichu"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -234,7 +303,10 @@
     "number": 24,
     "rarity": "C",
     "image": "cPK_10_016290_00_ELEBOO_C.webp",
-    "name": "Electabuzz",
+    "name": {
+      "en": "Electabuzz",
+      "fr": "Élektek"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -244,7 +316,10 @@
     "number": 25,
     "rarity": "U",
     "image": "cPK_10_016300_00_ELEKIBLE_U.webp",
-    "name": "Electivire",
+    "name": {
+      "en": "Electivire",
+      "fr": "Élekable"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -254,7 +329,10 @@
     "number": 26,
     "rarity": "C",
     "image": "cPK_10_016310_00_RAKURAI_C.webp",
-    "name": "Electrike",
+    "name": {
+      "en": "Electrike",
+      "fr": "Dynavolt"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -264,7 +342,10 @@
     "number": 27,
     "rarity": "RR",
     "image": "cPK_10_016320_00_MEGALIVOLTex_RR.webp",
-    "name": "Mega Manectric ex",
+    "name": {
+      "en": "Mega Manectric ex",
+      "fr": "Méga-Élecsprint-ex"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -274,7 +355,10 @@
     "number": 28,
     "rarity": "C",
     "image": "cPK_10_016330_00_SLEEPE_C.webp",
-    "name": "Drowzee",
+    "name": {
+      "en": "Drowzee",
+      "fr": "Soporifik"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -284,7 +368,10 @@
     "number": 29,
     "rarity": "U",
     "image": "cPK_10_016340_00_SLEEPER_U.webp",
-    "name": "Hypno",
+    "name": {
+      "en": "Hypno",
+      "fr": "Hypnomade"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -294,7 +381,10 @@
     "number": 30,
     "rarity": "R",
     "image": "cPK_10_016350_00_MEW_R.webp",
-    "name": "Mew",
+    "name": {
+      "en": "Mew",
+      "fr": "Mew"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -304,7 +394,10 @@
     "number": 31,
     "rarity": "C",
     "image": "cPK_10_016360_00_BANEBOO_C.webp",
-    "name": "Spoink",
+    "name": {
+      "en": "Spoink",
+      "fr": "Spoink"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -314,7 +407,10 @@
     "number": 32,
     "rarity": "U",
     "image": "cPK_10_016370_00_BOOPIG_U.webp",
-    "name": "Grumpig",
+    "name": {
+      "en": "Grumpig",
+      "fr": "Groret"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -324,7 +420,10 @@
     "number": 33,
     "rarity": "C",
     "image": "cPK_10_016380_00_DIGDA_C.webp",
-    "name": "Diglett",
+    "name": {
+      "en": "Diglett",
+      "fr": "Taupiqueur"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -334,7 +433,10 @@
     "number": 34,
     "rarity": "U",
     "image": "cPK_10_016390_00_DUGTRIO_U.webp",
-    "name": "Dugtrio",
+    "name": {
+      "en": "Dugtrio",
+      "fr": "Triopikeur"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -344,7 +446,10 @@
     "number": 35,
     "rarity": "R",
     "image": "cPK_10_016400_00_GROUDON_R.webp",
-    "name": "Groudon",
+    "name": {
+      "en": "Groudon",
+      "fr": "Groudon"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -354,7 +459,10 @@
     "number": 36,
     "rarity": "C",
     "image": "cPK_10_016410_00_LUCHABULL_C.webp",
-    "name": "Hawlucha",
+    "name": {
+      "en": "Hawlucha",
+      "fr": "Brutalibré"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -364,7 +472,10 @@
     "number": 37,
     "rarity": "C",
     "image": "cPK_10_016050_00_GHOS_C.webp",
-    "name": "Gastly",
+    "name": {
+      "en": "Gastly",
+      "fr": "Fantominus"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -374,7 +485,10 @@
     "number": 38,
     "rarity": "U",
     "image": "cPK_10_016420_00_GHOST_U.webp",
-    "name": "Haunter",
+    "name": {
+      "en": "Haunter",
+      "fr": "Spectrum"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -384,7 +498,10 @@
     "number": 39,
     "rarity": "RR",
     "image": "cPK_10_016430_00_MEGAGANGARex_RR.webp",
-    "name": "Mega Gengar ex",
+    "name": {
+      "en": "Mega Gengar ex",
+      "fr": "Méga-Ectoplasma-ex"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -394,7 +511,10 @@
     "number": 40,
     "rarity": "R",
     "image": "cPK_10_016440_00_DARKRAI_R.webp",
-    "name": "Darkrai",
+    "name": {
+      "en": "Darkrai",
+      "fr": "Darkrai"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -404,7 +524,10 @@
     "number": 41,
     "rarity": "C",
     "image": "cPK_10_016450_00_YABUKURON_C.webp",
-    "name": "Trubbish",
+    "name": {
+      "en": "Trubbish",
+      "fr": "Miamiasme"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -414,7 +537,10 @@
     "number": 42,
     "rarity": "C",
     "image": "cPK_10_016460_00_DUSTDAS_C.webp",
-    "name": "Garbodor",
+    "name": {
+      "en": "Garbodor",
+      "fr": "Miasmax"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -424,7 +550,10 @@
     "number": 43,
     "rarity": "C",
     "image": "cPK_10_016470_00_ZORUA_C.webp",
-    "name": "Zorua",
+    "name": {
+      "en": "Zorua",
+      "fr": "Zorua"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -434,7 +563,10 @@
     "number": 44,
     "rarity": "R",
     "image": "cPK_10_016480_00_ZOROARK_R.webp",
-    "name": "Zoroark",
+    "name": {
+      "en": "Zoroark",
+      "fr": "Zoroark"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -444,7 +576,10 @@
     "number": 45,
     "rarity": "C",
     "image": "cPK_10_016490_00_MORPEKO_C.webp",
-    "name": "Morpeko",
+    "name": {
+      "en": "Morpeko",
+      "fr": "Morpeko"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -454,7 +589,10 @@
     "number": 46,
     "rarity": "U",
     "image": "cPK_10_016500_00_FORETOS_U.webp",
-    "name": "Forretress",
+    "name": {
+      "en": "Forretress",
+      "fr": "Foretress"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -464,7 +602,10 @@
     "number": 47,
     "rarity": "RR",
     "image": "cPK_10_016510_00_MEGAHASSAMex_RR.webp",
-    "name": "Mega Scizor ex",
+    "name": {
+      "en": "Mega Scizor ex",
+      "fr": "Méga-Cizayox-ex"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -474,7 +615,10 @@
     "number": 48,
     "rarity": "U",
     "image": "cPK_10_016520_00_KAMITURUGI_U.webp",
-    "name": "Kartana",
+    "name": {
+      "en": "Kartana",
+      "fr": "Katagami"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -484,7 +628,10 @@
     "number": 49,
     "rarity": "C",
     "image": "cPK_10_016530_00_BURORON_C.webp",
-    "name": "Varoom",
+    "name": {
+      "en": "Varoom",
+      "fr": "Vrombi"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -494,7 +641,10 @@
     "number": 50,
     "rarity": "R",
     "image": "cPK_10_016540_00_BUROROROOM_R.webp",
-    "name": "Revavroom",
+    "name": {
+      "en": "Revavroom",
+      "fr": "Vrombotor"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -504,7 +654,10 @@
     "number": 51,
     "rarity": "C",
     "image": "cPK_10_016550_00_MINIRYU_C.webp",
-    "name": "Dratini",
+    "name": {
+      "en": "Dratini",
+      "fr": "Minidraco"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -514,7 +667,10 @@
     "number": 52,
     "rarity": "U",
     "image": "cPK_10_016560_00_HAKURYU_U.webp",
-    "name": "Dragonair",
+    "name": {
+      "en": "Dragonair",
+      "fr": "Draco"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -524,7 +680,10 @@
     "number": 53,
     "rarity": "R",
     "image": "cPK_10_016570_00_KAIRYU_R.webp",
-    "name": "Dragonite",
+    "name": {
+      "en": "Dragonite",
+      "fr": "Dracolosse"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -534,7 +693,10 @@
     "number": 54,
     "rarity": "C",
     "image": "cPK_10_016580_00_KIBAGO_C.webp",
-    "name": "Axew",
+    "name": {
+      "en": "Axew",
+      "fr": "Coupenotte"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -544,7 +706,10 @@
     "number": 55,
     "rarity": "U",
     "image": "cPK_10_016590_00_ONONDO_U.webp",
-    "name": "Fraxure",
+    "name": {
+      "en": "Fraxure",
+      "fr": "Incisache"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -554,7 +719,10 @@
     "number": 56,
     "rarity": "R",
     "image": "cPK_10_016030_00_ONONOKUS_R.webp",
-    "name": "Haxorus",
+    "name": {
+      "en": "Haxorus",
+      "fr": "Tranchodon"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -564,7 +732,10 @@
     "number": 57,
     "rarity": "C",
     "image": "cPK_10_016600_00_CRIMGAN_C.webp",
-    "name": "Druddigon",
+    "name": {
+      "en": "Druddigon",
+      "fr": "Drakkarmin"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -574,7 +745,10 @@
     "number": 58,
     "rarity": "C",
     "image": "cPK_10_016610_00_PURIN_C.webp",
-    "name": "Jigglypuff",
+    "name": {
+      "en": "Jigglypuff",
+      "fr": "Rondoudou"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -584,7 +758,10 @@
     "number": 59,
     "rarity": "C",
     "image": "cPK_10_016060_00_PUKURIN_C.webp",
-    "name": "Wigglytuff",
+    "name": {
+      "en": "Wigglytuff",
+      "fr": "Grodoudou"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -594,7 +771,10 @@
     "number": 60,
     "rarity": "U",
     "image": "cPK_10_016620_00_MILTANK_U.webp",
-    "name": "Miltank",
+    "name": {
+      "en": "Miltank",
+      "fr": "Écrémeuh"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -604,7 +784,10 @@
     "number": 61,
     "rarity": "C",
     "image": "cPK_10_016040_00_PERAP_C.webp",
-    "name": "Chatot",
+    "name": {
+      "en": "Chatot",
+      "fr": "Pijako"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -614,7 +797,10 @@
     "number": 62,
     "rarity": "C",
     "image": "cPK_10_016630_00_CHILLARMY_C.webp",
-    "name": "Minccino",
+    "name": {
+      "en": "Minccino",
+      "fr": "Chinchidou"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -624,7 +810,10 @@
     "number": 63,
     "rarity": "C",
     "image": "cPK_10_016640_00_CHILLACCINO_C.webp",
-    "name": "Cinccino",
+    "name": {
+      "en": "Cinccino",
+      "fr": "Pashmilla"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -634,7 +823,10 @@
     "number": 64,
     "rarity": "U",
     "image": "cPK_10_016650_00_TRIMMIEN_U.webp",
-    "name": "Furfrou",
+    "name": {
+      "en": "Furfrou",
+      "fr": "Couafarel"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -644,7 +836,10 @@
     "number": 65,
     "rarity": "U",
     "image": "cTR_10_001230_00_IJIWARULETTER_U.webp",
-    "name": "Nasty Notice",
+    "name": {
+      "en": "Nasty Notice",
+      "fr": "Message Désagréable"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -654,7 +849,10 @@
     "number": 66,
     "rarity": "U",
     "image": "cTR_10_001240_00_MAINTENANCE_U.webp",
-    "name": "Maintenance",
+    "name": {
+      "en": "Maintenance",
+      "fr": "Entretien"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -664,7 +862,10 @@
     "number": 67,
     "rarity": "U",
     "image": "cTR_10_001250_00_IRIS_U.webp",
-    "name": "Iris",
+    "name": {
+      "en": "Iris",
+      "fr": "Iris"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -674,7 +875,10 @@
     "number": 68,
     "rarity": "U",
     "image": "cTR_10_001260_00_CALME_U.webp",
-    "name": "Calem",
+    "name": {
+      "en": "Calem",
+      "fr": "Kalem"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -684,7 +888,10 @@
     "number": 69,
     "rarity": "U",
     "image": "cTR_10_001270_00_HAIKINGUCOURSE_U.webp",
-    "name": "Hiking Trail",
+    "name": {
+      "en": "Hiking Trail",
+      "fr": "Chemin de Randonnée"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -694,7 +901,10 @@
     "number": 70,
     "rarity": "AR",
     "image": "cPK_20_016220_00_LAPLACE_AR.webp",
-    "name": "Lapras",
+    "name": {
+      "en": "Lapras",
+      "fr": "Lokhlass"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -704,7 +914,10 @@
     "number": 71,
     "rarity": "AR",
     "image": "cPK_20_016250_00_EMPERTE_AR.webp",
-    "name": "Empoleon",
+    "name": {
+      "en": "Empoleon",
+      "fr": "Pingoléon"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -714,7 +927,10 @@
     "number": 72,
     "rarity": "AR",
     "image": "cPK_20_016400_00_GROUDON_AR.webp",
-    "name": "Groudon",
+    "name": {
+      "en": "Groudon",
+      "fr": "Groudon"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -724,7 +940,10 @@
     "number": 73,
     "rarity": "AR",
     "image": "cPK_20_016490_00_MORPEKO_AR.webp",
-    "name": "Morpeko",
+    "name": {
+      "en": "Morpeko",
+      "fr": "Morpeko"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -734,7 +953,10 @@
     "number": 74,
     "rarity": "AR",
     "image": "cPK_20_016540_00_BUROROROOM_AR.webp",
-    "name": "Revavroom",
+    "name": {
+      "en": "Revavroom",
+      "fr": "Vrombotor"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -744,7 +966,10 @@
     "number": 75,
     "rarity": "AR",
     "image": "cPK_20_016620_00_MILTANK_AR.webp",
-    "name": "Miltank",
+    "name": {
+      "en": "Miltank",
+      "fr": "Écrémeuh"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -754,7 +979,10 @@
     "number": 76,
     "rarity": "SR",
     "image": "cPK_20_016150_00_MEGALIZARDONXex_SR.webp",
-    "name": "Mega Charizard X ex",
+    "name": {
+      "en": "Mega Charizard X ex",
+      "fr": "Méga-Dracaufeu X-ex"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -764,7 +992,10 @@
     "number": 77,
     "rarity": "SR",
     "image": "cPK_20_016210_00_MEGAYADORANex_SR.webp",
-    "name": "Mega Slowbro ex",
+    "name": {
+      "en": "Mega Slowbro ex",
+      "fr": "Méga-Flagadoss-ex"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -774,7 +1005,10 @@
     "number": 78,
     "rarity": "SR",
     "image": "cPK_20_016320_00_MEGALIVOLTex_SR.webp",
-    "name": "Mega Manectric ex",
+    "name": {
+      "en": "Mega Manectric ex",
+      "fr": "Méga-Élecsprint-ex"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -784,7 +1018,10 @@
     "number": 79,
     "rarity": "SR",
     "image": "cPK_20_016430_00_MEGAGANGARex_SR.webp",
-    "name": "Mega Gengar ex",
+    "name": {
+      "en": "Mega Gengar ex",
+      "fr": "Méga-Ectoplasma-ex"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -794,7 +1031,10 @@
     "number": 80,
     "rarity": "SR",
     "image": "cPK_20_016510_00_MEGAHASSAMex_SR.webp",
-    "name": "Mega Scizor ex",
+    "name": {
+      "en": "Mega Scizor ex",
+      "fr": "Méga-Cizayox-ex"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -804,7 +1044,10 @@
     "number": 81,
     "rarity": "SR",
     "image": "cTR_20_001250_00_IRIS_SR.webp",
-    "name": "Iris",
+    "name": {
+      "en": "Iris",
+      "fr": "Iris"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -814,7 +1057,10 @@
     "number": 82,
     "rarity": "SR",
     "image": "cTR_20_001260_00_CALME_SR.webp",
-    "name": "Calem",
+    "name": {
+      "en": "Calem",
+      "fr": "Kalem"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -824,7 +1070,10 @@
     "number": 83,
     "rarity": "SAR",
     "image": "cPK_20_016210_01_MEGAYADORANex_SAR.webp",
-    "name": "Mega Slowbro ex",
+    "name": {
+      "en": "Mega Slowbro ex",
+      "fr": "Méga-Flagadoss-ex"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -834,7 +1083,10 @@
     "number": 84,
     "rarity": "SAR",
     "image": "cPK_20_016320_01_MEGALIVOLTex_SAR.webp",
-    "name": "Mega Manectric ex",
+    "name": {
+      "en": "Mega Manectric ex",
+      "fr": "Méga-Élecsprint-ex"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -844,7 +1096,10 @@
     "number": 85,
     "rarity": "IM",
     "image": "cPK_20_016350_00_MEW_IM.webp",
-    "name": "Mew",
+    "name": {
+      "en": "Mew",
+      "fr": "Mew"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -854,7 +1109,10 @@
     "number": 86,
     "rarity": "IM",
     "image": "cPK_20_016350_01_MEW_IM.webp",
-    "name": "Mew",
+    "name": {
+      "en": "Mew",
+      "fr": "Mew"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -864,7 +1122,10 @@
     "number": 87,
     "rarity": "S",
     "image": "cPK_20_016070_00_STRIKE_S.webp",
-    "name": "Scyther",
+    "name": {
+      "en": "Scyther",
+      "fr": "Insécateur"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -874,7 +1135,10 @@
     "number": 88,
     "rarity": "S",
     "image": "cPK_20_016080_00_KUNUGIDAMA_S.webp",
-    "name": "Pineco",
+    "name": {
+      "en": "Pineco",
+      "fr": "Pomdepik"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -884,7 +1148,10 @@
     "number": 89,
     "rarity": "S",
     "image": "cPK_20_016110_00_BOKUREI_S.webp",
-    "name": "Phantump",
+    "name": {
+      "en": "Phantump",
+      "fr": "Brocélôme"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -894,7 +1161,10 @@
     "number": 90,
     "rarity": "S",
     "image": "cPK_20_016120_00_OHROT_S.webp",
-    "name": "Trevenant",
+    "name": {
+      "en": "Trevenant",
+      "fr": "Desséliande"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -904,7 +1174,10 @@
     "number": 91,
     "rarity": "S",
     "image": "cPK_20_016130_00_HITOKAGE_S.webp",
-    "name": "Charmander",
+    "name": {
+      "en": "Charmander",
+      "fr": "Salamèche"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -914,7 +1187,10 @@
     "number": 92,
     "rarity": "S",
     "image": "cPK_20_016140_00_LIZARDO_S.webp",
-    "name": "Charmeleon",
+    "name": {
+      "en": "Charmeleon",
+      "fr": "Reptincel"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -924,7 +1200,10 @@
     "number": 93,
     "rarity": "S",
     "image": "cPK_20_016160_00_PONYTA_S.webp",
-    "name": "Ponyta",
+    "name": {
+      "en": "Ponyta",
+      "fr": "Ponyta"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -934,7 +1213,10 @@
     "number": 94,
     "rarity": "S",
     "image": "cPK_20_016170_00_GALLOP_S.webp",
-    "name": "Rapidash",
+    "name": {
+      "en": "Rapidash",
+      "fr": "Galopa"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -944,7 +1226,10 @@
     "number": 95,
     "rarity": "S",
     "image": "cPK_20_016000_00_YADON_S.webp",
-    "name": "Slowpoke",
+    "name": {
+      "en": "Slowpoke",
+      "fr": "Ramoloss"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -954,7 +1239,10 @@
     "number": 96,
     "rarity": "S",
     "image": "cPK_20_016270_00_PIKACHU_S.webp",
-    "name": "Pikachu",
+    "name": {
+      "en": "Pikachu",
+      "fr": "Pikachu"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -964,7 +1252,10 @@
     "number": 97,
     "rarity": "S",
     "image": "cPK_20_016280_00_RAICHU_S.webp",
-    "name": "Raichu",
+    "name": {
+      "en": "Raichu",
+      "fr": "Raichu"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -974,7 +1265,10 @@
     "number": 98,
     "rarity": "S",
     "image": "cPK_20_016310_00_RAKURAI_S.webp",
-    "name": "Electrike",
+    "name": {
+      "en": "Electrike",
+      "fr": "Dynavolt"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -984,7 +1278,10 @@
     "number": 99,
     "rarity": "S",
     "image": "cPK_20_016410_00_LUCHABULL_S.webp",
-    "name": "Hawlucha",
+    "name": {
+      "en": "Hawlucha",
+      "fr": "Brutalibré"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -994,7 +1291,10 @@
     "number": 100,
     "rarity": "S",
     "image": "cPK_20_016050_00_GHOS_S.webp",
-    "name": "Gastly",
+    "name": {
+      "en": "Gastly",
+      "fr": "Fantominus"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -1004,7 +1304,10 @@
     "number": 101,
     "rarity": "S",
     "image": "cPK_20_016420_00_GHOST_S.webp",
-    "name": "Haunter",
+    "name": {
+      "en": "Haunter",
+      "fr": "Spectrum"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -1014,7 +1317,10 @@
     "number": 102,
     "rarity": "S",
     "image": "cPK_20_016470_00_ZORUA_S.webp",
-    "name": "Zorua",
+    "name": {
+      "en": "Zorua",
+      "fr": "Zorua"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -1024,7 +1330,10 @@
     "number": 103,
     "rarity": "S",
     "image": "cPK_20_016480_00_ZOROARK_S.webp",
-    "name": "Zoroark",
+    "name": {
+      "en": "Zoroark",
+      "fr": "Zoroark"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -1034,7 +1343,10 @@
     "number": 104,
     "rarity": "S",
     "image": "cPK_20_016500_00_FORETOS_S.webp",
-    "name": "Forretress",
+    "name": {
+      "en": "Forretress",
+      "fr": "Foretress"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -1044,7 +1356,10 @@
     "number": 105,
     "rarity": "S",
     "image": "cPK_20_016550_00_MINIRYU_S.webp",
-    "name": "Dratini",
+    "name": {
+      "en": "Dratini",
+      "fr": "Minidraco"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -1054,7 +1369,10 @@
     "number": 106,
     "rarity": "S",
     "image": "cPK_20_016560_00_HAKURYU_S.webp",
-    "name": "Dragonair",
+    "name": {
+      "en": "Dragonair",
+      "fr": "Draco"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -1064,7 +1382,10 @@
     "number": 107,
     "rarity": "S",
     "image": "cPK_20_016570_00_KAIRYU_S.webp",
-    "name": "Dragonite",
+    "name": {
+      "en": "Dragonite",
+      "fr": "Dracolosse"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -1074,7 +1395,10 @@
     "number": 108,
     "rarity": "S",
     "image": "cPK_20_016580_00_KIBAGO_S.webp",
-    "name": "Axew",
+    "name": {
+      "en": "Axew",
+      "fr": "Coupenotte"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -1084,7 +1408,10 @@
     "number": 109,
     "rarity": "S",
     "image": "cPK_20_016590_00_ONONDO_S.webp",
-    "name": "Fraxure",
+    "name": {
+      "en": "Fraxure",
+      "fr": "Incisache"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -1094,7 +1421,10 @@
     "number": 110,
     "rarity": "S",
     "image": "cPK_20_016030_00_ONONOKUS_S.webp",
-    "name": "Haxorus",
+    "name": {
+      "en": "Haxorus",
+      "fr": "Tranchodon"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -1104,7 +1434,10 @@
     "number": 111,
     "rarity": "SSR",
     "image": "cPK_20_016150_01_MEGALIZARDONXex_SSR.webp",
-    "name": "Mega Charizard X ex",
+    "name": {
+      "en": "Mega Charizard X ex",
+      "fr": "Méga-Dracaufeu X-ex"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -1114,7 +1447,10 @@
     "number": 112,
     "rarity": "SSR",
     "image": "cPK_20_016210_02_MEGAYADORANex_SSR.webp",
-    "name": "Mega Slowbro ex",
+    "name": {
+      "en": "Mega Slowbro ex",
+      "fr": "Méga-Flagadoss-ex"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -1124,7 +1460,10 @@
     "number": 113,
     "rarity": "SSR",
     "image": "cPK_20_016320_02_MEGALIVOLTex_SSR.webp",
-    "name": "Mega Manectric ex",
+    "name": {
+      "en": "Mega Manectric ex",
+      "fr": "Méga-Élecsprint-ex"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -1134,7 +1473,10 @@
     "number": 114,
     "rarity": "SSR",
     "image": "cPK_20_016430_01_MEGAGANGARex_SSR.webp",
-    "name": "Mega Gengar ex",
+    "name": {
+      "en": "Mega Gengar ex",
+      "fr": "Méga-Ectoplasma-ex"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -1144,7 +1486,10 @@
     "number": 115,
     "rarity": "SSR",
     "image": "cPK_20_016510_01_MEGAHASSAMex_SSR.webp",
-    "name": "Mega Scizor ex",
+    "name": {
+      "en": "Mega Scizor ex",
+      "fr": "Méga-Cizayox-ex"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -1154,7 +1499,10 @@
     "number": 116,
     "rarity": "UR",
     "image": "cPK_20_015180_00_OLIVA_UR.webp",
-    "name": "Arboliva",
+    "name": {
+      "en": "Arboliva",
+      "fr": "Arboliva"
+    },
     "packs": [
       "Mega Shine"
     ]
@@ -1164,7 +1512,10 @@
     "number": 117,
     "rarity": "UR",
     "image": "cTR_20_001090_00_METARUKOABARIA_UR.webp",
-    "name": "Metal Core Barrier",
+    "name": {
+      "en": "Metal Core Barrier",
+      "fr": "Barrière de Métal Renforcé"
+    },
     "packs": [
       "Mega Shine"
     ]
