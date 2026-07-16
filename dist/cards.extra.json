@@ -32755,7 +32755,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Grass",
     "type": "pokemon",
-    "stage": 0,
+    "stage": "basic",
     "goodWith": ["Ivysaur", "Venusaur", "Mega Venusaur"]
   },
   {
@@ -32806,7 +32806,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Grass",
     "type": "pokemon",
-    "stage": 0,
+    "stage": "basic",
     "goodWith": ["Ariados"]
   },
   {
@@ -32831,7 +32831,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Grass",
     "type": "pokemon",
-    "stage": 0,
+    "stage": "basic",
     "goodWith": ["Sunflora"]
   },
   {
@@ -32856,7 +32856,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Grass",
     "type": "pokemon",
-    "stage": 0,
+    "stage": "basic",
     "goodWith": ["Wormadam", "Mothim"]
   },
   {
@@ -32881,7 +32881,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Fire",
     "type": "pokemon",
-    "stage": 0,
+    "stage": "basic",
     "goodWith": [
       "Charmeleon",
       "Charizard",
@@ -32947,7 +32947,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Fire",
     "type": "pokemon",
-    "stage": 0,
+    "stage": "basic",
     "goodWith": ["Houndoom", "Mega Houndoom"]
   },
   {
@@ -32972,7 +32972,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Water",
     "type": "pokemon",
-    "stage": 0,
+    "stage": "basic",
     "goodWith": ["Wartortle", "Blastoise", "Mega Blastoise"]
   },
   {
@@ -33023,7 +33023,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Water",
     "type": "pokemon",
-    "stage": 0,
+    "stage": "basic",
     "goodWith": ["Basculegion"]
   },
   {
@@ -33035,7 +33035,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Water",
     "type": "pokemon",
-    "stage": 0,
+    "stage": "basic",
     "goodWith": ["Clawitzer"]
   },
   {
@@ -33060,7 +33060,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Lightning",
     "type": "pokemon",
-    "stage": 0,
+    "stage": "basic",
     "goodWith": ["Magneton", "Magnezone"]
   },
   {
@@ -33098,7 +33098,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Lightning",
     "type": "pokemon",
-    "stage": 0
+    "stage": "basic"
   },
   {
     "set": "B1a",
@@ -33109,7 +33109,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Lightning",
     "type": "pokemon",
-    "stage": 0,
+    "stage": "basic",
     "goodWith": ["Heliolisk"]
   },
   {
@@ -33134,7 +33134,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Psychic",
     "type": "pokemon",
-    "stage": 0,
+    "stage": "basic",
     "goodWith": ["Mismagius"]
   },
   {
@@ -33159,7 +33159,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Psychic",
     "type": "pokemon",
-    "stage": 0,
+    "stage": "basic",
     "goodWith": ["Duosion", "Reuniclus"]
   },
   {
@@ -33197,7 +33197,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Psychic",
     "type": "pokemon",
-    "stage": 0,
+    "stage": "basic",
     "goodWith": ["Aromatisse"]
   },
   {
@@ -33222,7 +33222,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Psychic",
     "type": "pokemon",
-    "stage": 0
+    "stage": "basic"
   },
   {
     "set": "B1a",
@@ -33233,7 +33233,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Fighting",
     "type": "pokemon",
-    "stage": 0,
+    "stage": "basic",
     "goodWith": ["Steelix"]
   },
   {
@@ -33245,7 +33245,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Fighting",
     "type": "pokemon",
-    "stage": 0,
+    "stage": "basic",
     "goodWith": ["Hariyama"]
   },
   {
@@ -33270,7 +33270,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Fighting",
     "type": "pokemon",
-    "stage": 0,
+    "stage": "basic",
     "goodWith": ["Probopass"]
   },
   {
@@ -33295,7 +33295,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Fighting",
     "type": "pokemon",
-    "stage": 0,
+    "stage": "basic",
     "goodWith": ["Mienshao"]
   },
   {
@@ -33320,7 +33320,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Darkness",
     "type": "pokemon",
-    "stage": 0,
+    "stage": "basic",
     "goodWith": ["Muk"]
   },
   {
@@ -33345,7 +33345,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Darkness",
     "type": "pokemon",
-    "stage": 0,
+    "stage": "basic",
     "goodWith": ["Liepard"]
   },
   {
@@ -33370,7 +33370,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Darkness",
     "type": "pokemon",
-    "stage": 0,
+    "stage": "basic",
     "goodWith": ["Garbodor"]
   },
   {
@@ -33434,7 +33434,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Metal",
     "type": "pokemon",
-    "stage": 0
+    "stage": "basic"
   },
   {
     "set": "B1a",
@@ -33445,7 +33445,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Colorless",
     "type": "pokemon",
-    "stage": 0
+    "stage": "basic"
   },
   {
     "set": "B1a",
@@ -33456,7 +33456,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Colorless",
     "type": "pokemon",
-    "stage": 0,
+    "stage": "basic",
     "goodWith": ["Porygon2", "Porygon-Z"]
   },
   {
@@ -33494,7 +33494,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Colorless",
     "type": "pokemon",
-    "stage": 0,
+    "stage": "basic",
     "goodWith": ["Staravia", "Staraptor"]
   },
   {
@@ -33532,7 +33532,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Colorless",
     "type": "pokemon",
-    "stage": 0,
+    "stage": "basic",
     "goodWith": ["Lopunny", "Mega Lopunny"]
   },
   {
@@ -33557,7 +33557,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Colorless",
     "type": "pokemon",
-    "stage": 0
+    "stage": "basic"
   },
   {
     "set": "B1a",
@@ -33568,7 +33568,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Colorless",
     "type": "pokemon",
-    "stage": 0
+    "stage": "basic"
   },
   {
     "set": "B1a",
@@ -33654,7 +33654,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Psychic",
     "type": "pokemon",
-    "stage": 0
+    "stage": "basic"
   },
   {
     "set": "B1a",
@@ -33665,7 +33665,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Darkness",
     "type": "pokemon",
-    "stage": 0,
+    "stage": "basic",
     "goodWith": ["Garbodor"]
   },
   {
@@ -33677,7 +33677,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Colorless",
     "type": "pokemon",
-    "stage": 0,
+    "stage": "basic",
     "goodWith": ["Lopunny", "Mega Lopunny"]
   },
   {
@@ -33837,7 +33837,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Grass",
     "type": "pokemon",
-    "stage": 0,
+    "stage": "basic",
     "goodWith": ["Gloom", "Vileplume", "Bellossom"]
   },
   {
@@ -33893,7 +33893,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Water",
     "type": "pokemon",
-    "stage": 0,
+    "stage": "basic",
     "goodWith": ["Cloyster"]
   },
   {
@@ -33918,7 +33918,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Fighting",
     "type": "pokemon",
-    "stage": 0,
+    "stage": "basic",
     "goodWith": ["Sandslash"]
   },
   {
@@ -33943,7 +33943,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Colorless",
     "type": "pokemon",
-    "stage": 0,
+    "stage": "basic",
     "goodWith": ["Silvally"]
   },
   {
@@ -33968,7 +33968,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Grass",
     "type": "pokemon",
-    "stage": 0
+    "stage": "basic"
   },
   {
     "set": "B1a",
@@ -33992,7 +33992,7 @@
     "packs": ["Crimson Blaze"],
     "element": "Darkness",
     "type": "pokemon",
-    "stage": 0
+    "stage": "basic"
   },
   {
     "set": "B1a",
