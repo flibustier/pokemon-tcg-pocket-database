@@ -694,5 +694,76 @@
     "rarity": "R",
     "image": "cPK_90_019020_00_EMOLGA_R.webp",
     "name": "Emolga"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 79,
+    "rarity": "AR",
+    "image": "cPK_90_016690_00_CELEBI_AR.webp",
+    "name": "Celebi"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 80,
+    "rarity": "RR",
+    "image": "cPK_90_021060_00_MEGAHELLGARex_RR.webp",
+    "name": "Mega Houndoom ex",
+    "packs": [
+      "B Series Vol. 11"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 81,
+    "rarity": "C",
+    "image": "cPK_90_021070_00_KIBANHA_C.webp",
+    "name": "Carvanha",
+    "packs": [
+      "B Series Vol. 11"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 82,
+    "rarity": "C",
+    "image": "cPK_90_020100_00_PIKACHU_C.webp",
+    "name": "Pikachu",
+    "packs": [
+      "B Series Vol. 11"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 83,
+    "rarity": "R",
+    "image": "cPK_90_020830_00_ONVERN_R.webp",
+    "name": "Noivern",
+    "packs": [
+      "B Series Vol. 11"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 84,
+    "rarity": "C",
+    "image": "cPK_90_021080_00_ENECO_C.webp",
+    "name": "Skitty",
+    "packs": [
+      "B Series Vol. 11"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 85,
+    "rarity": "R",
+    "image": "cPK_90_020150_00_PACHIRISU_R.webp",
+    "name": "Pachirisu"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 86,
+    "rarity": "R",
+    "image": "cPK_90_020670_00_DUMBBER_R.webp",
+    "name": "Beldum"
   }
 ]

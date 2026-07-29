@@ -22505,6 +22505,67 @@
     "name": "Emolga"
   },
   {
+    "set": "PROMO-B",
+    "number": 79,
+    "rarity": "AR",
+    "image": "cPK_90_016690_00_CELEBI_AR.webp",
+    "name": "Celebi"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 80,
+    "rarity": "RR",
+    "image": "cPK_90_021060_00_MEGAHELLGARex_RR.webp",
+    "name": "Mega Houndoom ex",
+    "packs": ["B Series Vol. 11"]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 81,
+    "rarity": "C",
+    "image": "cPK_90_021070_00_KIBANHA_C.webp",
+    "name": "Carvanha",
+    "packs": ["B Series Vol. 11"]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 82,
+    "rarity": "C",
+    "image": "cPK_90_020100_00_PIKACHU_C.webp",
+    "name": "Pikachu",
+    "packs": ["B Series Vol. 11"]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 83,
+    "rarity": "R",
+    "image": "cPK_90_020830_00_ONVERN_R.webp",
+    "name": "Noivern",
+    "packs": ["B Series Vol. 11"]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 84,
+    "rarity": "C",
+    "image": "cPK_90_021080_00_ENECO_C.webp",
+    "name": "Skitty",
+    "packs": ["B Series Vol. 11"]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 85,
+    "rarity": "R",
+    "image": "cPK_90_020150_00_PACHIRISU_R.webp",
+    "name": "Pachirisu"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 86,
+    "rarity": "R",
+    "image": "cPK_90_020670_00_DUMBBER_R.webp",
+    "name": "Beldum"
+  },
+  {
     "set": "B2a",
     "number": 1,
     "rarity": "C",
@@ -28079,5 +28140,1869 @@
     "image": "cTR_20_001430_00_CHIISANAFUUSEN_UR.webp",
     "name": "Small Balloon",
     "packs": ["Everyday Wonders"]
+  },
+  {
+    "set": "B4",
+    "number": 1,
+    "rarity": "C",
+    "image": "cPK_10_019620_00_KEMUSSO_C.webp",
+    "name": "Wurmple",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 2,
+    "rarity": "C",
+    "image": "cPK_10_019630_00_KARASALIS_C.webp",
+    "name": "Silcoon",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 3,
+    "rarity": "U",
+    "image": "cPK_10_019640_00_AGEHUNT_U.webp",
+    "name": "Beautifly",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 4,
+    "rarity": "C",
+    "image": "cPK_10_019650_00_MAYULD_C.webp",
+    "name": "Cascoon",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 5,
+    "rarity": "R",
+    "image": "cPK_10_019660_00_DOKUCALE_R.webp",
+    "name": "Dustox",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 6,
+    "rarity": "U",
+    "image": "cPK_10_019670_00_LILYLA_U.webp",
+    "name": "Lileep",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 7,
+    "rarity": "R",
+    "image": "cPK_10_019680_00_YURADLE_R.webp",
+    "name": "Cradily",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 8,
+    "rarity": "C",
+    "image": "cPK_10_019690_00_KOROBOHSHI_C.webp",
+    "name": "Kricketot",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 9,
+    "rarity": "C",
+    "image": "cPK_10_019700_00_KOROTOCK_C.webp",
+    "name": "Kricketune",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 10,
+    "rarity": "C",
+    "image": "cPK_10_019710_00_MITSUHONEY_C.webp",
+    "name": "Combee",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 11,
+    "rarity": "RR",
+    "image": "cPK_10_019720_00_BEEQUENex_RR.webp",
+    "name": "Vespiquen ex",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 12,
+    "rarity": "C",
+    "image": "cPK_10_019730_00_KABURUMO_C.webp",
+    "name": "Karrablast",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 13,
+    "rarity": "C",
+    "image": "cPK_10_019740_00_CHOBOMAKI_C.webp",
+    "name": "Shelmet",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 14,
+    "rarity": "R",
+    "image": "cPK_10_019750_00_AGILDER_R.webp",
+    "name": "Accelgor",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 15,
+    "rarity": "C",
+    "image": "cPK_10_019760_00_DADARIN_C.webp",
+    "name": "Dhelmise",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 16,
+    "rarity": "U",
+    "image": "cPK_10_019770_00_PHEROACHE_U.webp",
+    "name": "Pheromosa",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 17,
+    "rarity": "C",
+    "image": "cPK_10_019780_00_CHADEATH_C.webp",
+    "name": "Poltchageist",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 18,
+    "rarity": "U",
+    "image": "cPK_10_019790_00_YABASOCHA_U.webp",
+    "name": "Sinistcha",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 19,
+    "rarity": "R",
+    "image": "cPK_10_019800_00_OGERPONMIDORINOMEN_R.webp",
+    "name": "Teal MaskOgerpon",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 20,
+    "rarity": "C",
+    "image": "cPK_10_019810_00_PONYTA_C.webp",
+    "name": "Ponyta",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 21,
+    "rarity": "U",
+    "image": "cPK_10_019820_00_GALLOP_U.webp",
+    "name": "Rapidash",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 22,
+    "rarity": "U",
+    "image": "cPK_10_019830_00_BOOSTER_U.webp",
+    "name": "Flareon",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 23,
+    "rarity": "R",
+    "image": "cPK_10_019840_00_FIRE_R.webp",
+    "name": "Moltres",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 24,
+    "rarity": "C",
+    "image": "cPK_10_019850_00_HINOARASHI_C.webp",
+    "name": "Cyndaquil",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 25,
+    "rarity": "U",
+    "image": "cPK_10_019860_00_MAGMARASHI_U.webp",
+    "name": "Quilava",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 26,
+    "rarity": "RR",
+    "image": "cPK_10_019870_00_BAKPHOONex_RR.webp",
+    "name": "Typhlosion ex",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 27,
+    "rarity": "C",
+    "image": "cPK_10_019880_00_DELVIL_C.webp",
+    "name": "Houndour",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 28,
+    "rarity": "U",
+    "image": "cPK_10_019890_00_HELLGAR_U.webp",
+    "name": "Houndoom",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 29,
+    "rarity": "C",
+    "image": "cPK_10_019900_00_KUITARAN_C.webp",
+    "name": "Heatmor",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 30,
+    "rarity": "C",
+    "image": "cPK_10_019910_00_KODUCK_C.webp",
+    "name": "Psyduck",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 31,
+    "rarity": "C",
+    "image": "cPK_10_019920_00_GOLDUCK_C.webp",
+    "name": "Golduck",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 32,
+    "rarity": "C",
+    "image": "cPK_10_019930_00_HITODEMAN_C.webp",
+    "name": "Staryu",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 33,
+    "rarity": "U",
+    "image": "cPK_10_019940_00_STARMIE_U.webp",
+    "name": "Starmie",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 34,
+    "rarity": "C",
+    "image": "cPK_10_019950_00_KIBANHA_C.webp",
+    "name": "Carvanha",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 35,
+    "rarity": "RR",
+    "image": "cPK_10_019960_00_MEGASAMEHADERex_RR.webp",
+    "name": "Mega Sharpedo ex",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 36,
+    "rarity": "C",
+    "image": "cPK_10_019970_00_HOERUKO_C.webp",
+    "name": "Wailmer",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 37,
+    "rarity": "RR",
+    "image": "cPK_10_019980_00_WHALOHex_RR.webp",
+    "name": "Wailord ex",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 38,
+    "rarity": "C",
+    "image": "cPK_10_019990_00_TAMAZARASHI_C.webp",
+    "name": "Spheal",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 39,
+    "rarity": "U",
+    "image": "cPK_10_020000_00_TODOGGLER_U.webp",
+    "name": "Sealeo",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 40,
+    "rarity": "R",
+    "image": "cPK_10_020010_00_TODOSERUGA_R.webp",
+    "name": "Walrein",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 41,
+    "rarity": "R",
+    "image": "cPK_10_020020_00_KYOGRE_R.webp",
+    "name": "Kyogre",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 42,
+    "rarity": "C",
+    "image": "cPK_10_020030_00_MIJUMARU_C.webp",
+    "name": "Oshawott",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 43,
+    "rarity": "U",
+    "image": "cPK_10_020040_00_FUTACHIMARU_U.webp",
+    "name": "Dewott",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 44,
+    "rarity": "R",
+    "image": "cPK_10_020050_00_DAIKENKI_R.webp",
+    "name": "Samurott",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 45,
+    "rarity": "U",
+    "image": "cPK_10_020060_00_MAMANBOU_U.webp",
+    "name": "Alomomola",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 46,
+    "rarity": "C",
+    "image": "cPK_10_020070_00_SHIZUKUMO_C.webp",
+    "name": "Dewpider",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 47,
+    "rarity": "U",
+    "image": "cPK_10_020080_00_ONISHIZUKUMO_U.webp",
+    "name": "Araquanid",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 48,
+    "rarity": "C",
+    "image": "cPK_10_020090_00_HAGIGISHIRI_C.webp",
+    "name": "Bruxish",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 49,
+    "rarity": "C",
+    "image": "cPK_10_020100_00_PIKACHU_C.webp",
+    "name": "Pikachu",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 50,
+    "rarity": "R",
+    "image": "cPK_10_020110_00_RAICHU_R.webp",
+    "name": "Raichu",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 51,
+    "rarity": "C",
+    "image": "cPK_10_020120_00_KOLINK_C.webp",
+    "name": "Shinx",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 52,
+    "rarity": "U",
+    "image": "cPK_10_020130_00_LUXIO_U.webp",
+    "name": "Luxio",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 53,
+    "rarity": "R",
+    "image": "cPK_10_020140_00_RENTORAR_R.webp",
+    "name": "Luxray",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 54,
+    "rarity": "C",
+    "image": "cPK_10_020150_00_PACHIRISU_C.webp",
+    "name": "Pachirisu",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 55,
+    "rarity": "RR",
+    "image": "cPK_10_020160_00_ROTOMex_RR.webp",
+    "name": "Rotom ex",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 56,
+    "rarity": "C",
+    "image": "cPK_10_020170_00_SHIBISHIRASU_C.webp",
+    "name": "Tynamo",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 57,
+    "rarity": "C",
+    "image": "cPK_10_020180_00_SHIBIBEEL_C.webp",
+    "name": "Eelektrik",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 58,
+    "rarity": "U",
+    "image": "cPK_10_020190_00_SHIBIRUDON_U.webp",
+    "name": "Eelektross",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 59,
+    "rarity": "R",
+    "image": "cPK_10_020200_00_VOLTOLOS_R.webp",
+    "name": "Thundurus",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 60,
+    "rarity": "C",
+    "image": "cPK_10_020210_00_ERIKITERU_C.webp",
+    "name": "Helioptile",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 61,
+    "rarity": "U",
+    "image": "cPK_10_020220_00_ELEZARD_U.webp",
+    "name": "Heliolisk",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 62,
+    "rarity": "C",
+    "image": "cPK_10_020230_00_KAIDEN_C.webp",
+    "name": "Wattrel",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 63,
+    "rarity": "U",
+    "image": "cPK_10_020240_00_TAIKAIDEN_U.webp",
+    "name": "Kilowattrel",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 64,
+    "rarity": "C",
+    "image": "cPK_10_020250_00_PIPPI_C.webp",
+    "name": "Clefairy",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 65,
+    "rarity": "C",
+    "image": "cPK_10_020260_00_PIXY_C.webp",
+    "name": "Clefable",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 66,
+    "rarity": "C",
+    "image": "cPK_10_020270_00_SLEEPE_C.webp",
+    "name": "Drowzee",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 67,
+    "rarity": "U",
+    "image": "cPK_10_020280_00_SLEEPER_U.webp",
+    "name": "Hypno",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 68,
+    "rarity": "R",
+    "image": "cPK_10_020290_00_MANENE_R.webp",
+    "name": "Mime Jr.",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 69,
+    "rarity": "C",
+    "image": "cPK_10_020300_00_BARRIERD_C.webp",
+    "name": "Mr. Mime",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 70,
+    "rarity": "R",
+    "image": "cPK_10_020310_00_MEWTWO_R.webp",
+    "name": "Mewtwo",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 71,
+    "rarity": "C",
+    "image": "cPK_10_020320_00_RALTS_C.webp",
+    "name": "Ralts",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 72,
+    "rarity": "U",
+    "image": "cPK_10_020330_00_KIRLIA_U.webp",
+    "name": "Kirlia",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 73,
+    "rarity": "C",
+    "image": "cPK_10_020340_00_CHIREAN_C.webp",
+    "name": "Chimecho",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 74,
+    "rarity": "R",
+    "image": "cPK_10_020350_00_SOHNANO_R.webp",
+    "name": "Wynaut",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 75,
+    "rarity": "C",
+    "image": "cPK_10_020360_00_KOROMORI_C.webp",
+    "name": "Woobat",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 76,
+    "rarity": "C",
+    "image": "cPK_10_020370_00_KOKOROMORI_C.webp",
+    "name": "Swoobat",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 77,
+    "rarity": "U",
+    "image": "cPK_10_020380_00_HOOPA_U.webp",
+    "name": "Hoopa",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 78,
+    "rarity": "U",
+    "image": "cPK_10_020390_00_ODORIDORI_U.webp",
+    "name": "Oricorio",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 79,
+    "rarity": "C",
+    "image": "cPK_10_020400_00_MAKUNOSHITA_C.webp",
+    "name": "Makuhita",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 80,
+    "rarity": "U",
+    "image": "cPK_10_020410_00_HARITEYAMA_U.webp",
+    "name": "Hariyama",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 81,
+    "rarity": "U",
+    "image": "cPK_10_020420_00_ANOPTH_U.webp",
+    "name": "Anorith",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 82,
+    "rarity": "R",
+    "image": "cPK_10_020430_00_ARMALDO_R.webp",
+    "name": "Armaldo",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 83,
+    "rarity": "R",
+    "image": "cPK_10_020440_00_GROUDON_R.webp",
+    "name": "Groudon",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 84,
+    "rarity": "RR",
+    "image": "cPK_10_020450_00_MEGAERUREIDOex_RR.webp",
+    "name": "Mega Gallade ex",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 85,
+    "rarity": "C",
+    "image": "cPK_10_020460_00_MOGUREW_C.webp",
+    "name": "Drilbur",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 86,
+    "rarity": "U",
+    "image": "cPK_10_020470_00_DORYUZU_U.webp",
+    "name": "Excadrill",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 87,
+    "rarity": "C",
+    "image": "cPK_10_020480_00_DOKKORER_C.webp",
+    "name": "Timburr",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 88,
+    "rarity": "U",
+    "image": "cPK_10_020490_00_DOTEKKOTSU_U.webp",
+    "name": "Gurdurr",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 89,
+    "rarity": "R",
+    "image": "cPK_10_020500_00_ROUBUSHIN_R.webp",
+    "name": "Conkeldurr",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 90,
+    "rarity": "C",
+    "image": "cPK_10_020510_00_METENO_C.webp",
+    "name": "Minior",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 91,
+    "rarity": "C",
+    "image": "cPK_10_020520_00_BETBETER_C.webp",
+    "name": "Grimer",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 92,
+    "rarity": "U",
+    "image": "cPK_10_020530_00_BETBETON_U.webp",
+    "name": "Muk",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 93,
+    "rarity": "C",
+    "image": "cPK_10_020540_00_POCHIENA_C.webp",
+    "name": "Poochyena",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 94,
+    "rarity": "C",
+    "image": "cPK_10_020550_00_GRAENA_C.webp",
+    "name": "Mightyena",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 95,
+    "rarity": "C",
+    "image": "cPK_10_020560_00_GALARJIGUZAGUMA_C.webp",
+    "name": "GalarianZigzagoon",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 96,
+    "rarity": "U",
+    "image": "cPK_10_020570_00_GALARMASSUGUMA_U.webp",
+    "name": "GalarianLinoone",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 97,
+    "rarity": "R",
+    "image": "cPK_10_020580_00_GALARTACHIFUSAGUMA_R.webp",
+    "name": "GalarianObstagoon",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 98,
+    "rarity": "C",
+    "image": "cPK_10_020590_00_GOKULIN_C.webp",
+    "name": "Gulpin",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 99,
+    "rarity": "U",
+    "image": "cPK_10_020600_00_MARUNOOM_U.webp",
+    "name": "Swalot",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 100,
+    "rarity": "U",
+    "image": "cPK_10_020610_00_ABSOL_U.webp",
+    "name": "Absol",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 101,
+    "rarity": "C",
+    "image": "cPK_10_020620_00_VALCHAI_C.webp",
+    "name": "Vullaby",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 102,
+    "rarity": "U",
+    "image": "cPK_10_020630_00_VULGINA_U.webp",
+    "name": "Mandibuzz",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 103,
+    "rarity": "RR",
+    "image": "cPK_10_020640_00_HOOPAex_RR.webp",
+    "name": "Hoopa ex",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 104,
+    "rarity": "C",
+    "image": "cPK_10_020650_00_AIRMD_C.webp",
+    "name": "Skarmory",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 105,
+    "rarity": "C",
+    "image": "cPK_10_020660_00_KUCHEAT_C.webp",
+    "name": "Mawile",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 106,
+    "rarity": "C",
+    "image": "cPK_10_020670_00_DUMBBER_C.webp",
+    "name": "Beldum",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 107,
+    "rarity": "U",
+    "image": "cPK_10_020680_00_METANG_U.webp",
+    "name": "Metang",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 108,
+    "rarity": "R",
+    "image": "cPK_10_020690_00_METAGROSS_R.webp",
+    "name": "Metagross",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 109,
+    "rarity": "RR",
+    "image": "cPK_10_020700_00_MEGAMETAGROSSex_RR.webp",
+    "name": "Mega Metagross ex",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 110,
+    "rarity": "U",
+    "image": "cPK_10_020710_00_CHEVARGO_U.webp",
+    "name": "Escavalier",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 111,
+    "rarity": "R",
+    "image": "cPK_10_020720_00_GENESECT_R.webp",
+    "name": "Genesect",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 112,
+    "rarity": "U",
+    "image": "cPK_10_020730_00_DURALUDON_U.webp",
+    "name": "Duraludon",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 113,
+    "rarity": "R",
+    "image": "cPK_10_020740_00_BRIDURAS_R.webp",
+    "name": "Archaludon",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 114,
+    "rarity": "C",
+    "image": "cPK_10_020750_00_BURORON_C.webp",
+    "name": "Varoom",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 115,
+    "rarity": "R",
+    "image": "cPK_10_020760_00_BUROROROOM_R.webp",
+    "name": "Revavroom",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 116,
+    "rarity": "C",
+    "image": "cPK_10_020770_00_MINIRYU_C.webp",
+    "name": "Dratini",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 117,
+    "rarity": "U",
+    "image": "cPK_10_020780_00_HAKURYU_U.webp",
+    "name": "Dragonair",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 118,
+    "rarity": "R",
+    "image": "cPK_10_020790_00_KAIRYU_R.webp",
+    "name": "Dragonite",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 119,
+    "rarity": "R",
+    "image": "cPK_10_020800_00_RAYQUAZA_R.webp",
+    "name": "Rayquaza",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 120,
+    "rarity": "RR",
+    "image": "cPK_10_020810_00_MEGARAYQUAZAex_RR.webp",
+    "name": "Mega Rayquaza ex",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 121,
+    "rarity": "C",
+    "image": "cPK_10_020820_00_ONBAT_C.webp",
+    "name": "Noibat",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 122,
+    "rarity": "R",
+    "image": "cPK_10_020830_00_ONVERN_R.webp",
+    "name": "Noivern",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 123,
+    "rarity": "U",
+    "image": "cPK_10_020840_00_BAKUGAMES_U.webp",
+    "name": "Turtonator",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 124,
+    "rarity": "U",
+    "image": "cPK_10_020850_00_JIJILONG_U.webp",
+    "name": "Drampa",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 125,
+    "rarity": "C",
+    "image": "cPK_10_020860_00_KAJICCHU_C.webp",
+    "name": "Applin",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 126,
+    "rarity": "U",
+    "image": "cPK_10_020870_00_KAMICCHU_U.webp",
+    "name": "Dipplin",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 127,
+    "rarity": "R",
+    "image": "cPK_10_020880_00_KAMITSUOROCHI_R.webp",
+    "name": "Hydrapple",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 128,
+    "rarity": "U",
+    "image": "cPK_10_020890_00_MOTOTOKAGE_U.webp",
+    "name": "Cyclizar",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 129,
+    "rarity": "C",
+    "image": "cPK_10_020900_00_KORATTA_C.webp",
+    "name": "Rattata",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 130,
+    "rarity": "R",
+    "image": "cPK_10_020910_00_RATTA_R.webp",
+    "name": "Raticate",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 131,
+    "rarity": "C",
+    "image": "cPK_10_020920_00_EIEVUI_C.webp",
+    "name": "Eevee",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 132,
+    "rarity": "C",
+    "image": "cPK_10_020930_00_EIPAM_C.webp",
+    "name": "Aipom",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 133,
+    "rarity": "C",
+    "image": "cPK_10_020940_00_ETEBOTH_C.webp",
+    "name": "Ambipom",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 134,
+    "rarity": "C",
+    "image": "cPK_10_020950_00_ENECO_C.webp",
+    "name": "Skitty",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 135,
+    "rarity": "U",
+    "image": "cPK_10_020960_00_ENEKORORO_U.webp",
+    "name": "Delcatty",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 136,
+    "rarity": "C",
+    "image": "cPK_10_020970_00_KAKUREON_C.webp",
+    "name": "Kecleon",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 137,
+    "rarity": "C",
+    "image": "cPK_10_020980_00_MAMEPATO_C.webp",
+    "name": "Pidove",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 138,
+    "rarity": "C",
+    "image": "cPK_10_020990_00_HATOBOH_C.webp",
+    "name": "Tranquill",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 139,
+    "rarity": "U",
+    "image": "cPK_10_021000_00_KENHALLOW_U.webp",
+    "name": "Unfezant",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 140,
+    "rarity": "C",
+    "image": "cPK_10_021010_00_KOARUHIE_C.webp",
+    "name": "Ducklett",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 141,
+    "rarity": "RR",
+    "image": "cPK_10_021020_00_SWANNAex_RR.webp",
+    "name": "Swanna ex",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 142,
+    "rarity": "U",
+    "image": "cPK_10_021030_00_TRIMMIEN_U.webp",
+    "name": "Furfrou",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 143,
+    "rarity": "U",
+    "image": "cPK_10_021040_00_TYPENULL_U.webp",
+    "name": "Type: Null",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 144,
+    "rarity": "R",
+    "image": "cPK_10_021050_00_SILVADY_R.webp",
+    "name": "Silvally",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 145,
+    "rarity": "U",
+    "image": "cTR_10_001490_00_OTORIYOSEPADDO_U.webp",
+    "name": "Order Pad",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 146,
+    "rarity": "C",
+    "image": "cTR_10_001500_00_TSUMENOKASEKI_C.webp",
+    "name": "Claw Fossil",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 147,
+    "rarity": "C",
+    "image": "cTR_10_001510_00_NEKKONOKASEKI_C.webp",
+    "name": "Root Fossil",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 148,
+    "rarity": "U",
+    "image": "cTR_10_001520_00_INCHIKIBARI_U.webp",
+    "name": "Deceptive Needle",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 149,
+    "rarity": "U",
+    "image": "cTR_10_001530_00_KURIAVEIL_U.webp",
+    "name": "Clear Veil",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 150,
+    "rarity": "U",
+    "image": "cTR_10_001540_00_SAIKIKKA_U.webp",
+    "name": "Psychic",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 151,
+    "rarity": "U",
+    "image": "cTR_10_001550_00_SYAGA_U.webp",
+    "name": "Drayden",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 152,
+    "rarity": "U",
+    "image": "cTR_10_001560_00_HUURO_U.webp",
+    "name": "Skyla",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 153,
+    "rarity": "U",
+    "image": "cTR_10_001570_00_MITSURU_U.webp",
+    "name": "Wally",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 154,
+    "rarity": "U",
+    "image": "cTR_10_001580_00_IYASHINOUMIBE_U.webp",
+    "name": "Soothing Shore",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 155,
+    "rarity": "U",
+    "image": "cTR_10_001590_00_NIJIIRONODOUKUTSU_U.webp",
+    "name": "Rainbow Cave",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 156,
+    "rarity": "AR",
+    "image": "cPK_20_019620_00_KEMUSSO_AR.webp",
+    "name": "Wurmple",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 157,
+    "rarity": "AR",
+    "image": "cPK_20_019670_00_LILYLA_AR.webp",
+    "name": "Lileep",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 158,
+    "rarity": "AR",
+    "image": "cPK_20_019700_00_KOROTOCK_AR.webp",
+    "name": "Kricketune",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 159,
+    "rarity": "AR",
+    "image": "cPK_20_019750_00_AGILDER_AR.webp",
+    "name": "Accelgor",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 160,
+    "rarity": "AR",
+    "image": "cPK_20_019810_00_PONYTA_AR.webp",
+    "name": "Ponyta",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 161,
+    "rarity": "AR",
+    "image": "cPK_20_019860_00_MAGMARASHI_AR.webp",
+    "name": "Quilava",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 162,
+    "rarity": "AR",
+    "image": "cPK_20_020020_00_KYOGRE_AR.webp",
+    "name": "Kyogre",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 163,
+    "rarity": "AR",
+    "image": "cPK_20_020050_00_DAIKENKI_AR.webp",
+    "name": "Samurott",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 164,
+    "rarity": "AR",
+    "image": "cPK_20_020110_00_RAICHU_AR.webp",
+    "name": "Raichu",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 165,
+    "rarity": "AR",
+    "image": "cPK_20_020230_00_KAIDEN_AR.webp",
+    "name": "Wattrel",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 166,
+    "rarity": "AR",
+    "image": "cPK_20_020250_00_PIPPI_AR.webp",
+    "name": "Clefairy",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 167,
+    "rarity": "AR",
+    "image": "cPK_20_020320_00_RALTS_AR.webp",
+    "name": "Ralts",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 168,
+    "rarity": "AR",
+    "image": "cPK_20_020350_00_SOHNANO_AR.webp",
+    "name": "Wynaut",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 169,
+    "rarity": "AR",
+    "image": "cPK_20_020390_00_ODORIDORI_AR.webp",
+    "name": "Oricorio",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 170,
+    "rarity": "AR",
+    "image": "cPK_20_020420_00_ANOPTH_AR.webp",
+    "name": "Anorith",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 171,
+    "rarity": "AR",
+    "image": "cPK_20_020540_00_POCHIENA_AR.webp",
+    "name": "Poochyena",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 172,
+    "rarity": "AR",
+    "image": "cPK_20_020590_00_GOKULIN_AR.webp",
+    "name": "Gulpin",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 173,
+    "rarity": "AR",
+    "image": "cPK_20_020620_00_VALCHAI_AR.webp",
+    "name": "Vullaby",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 174,
+    "rarity": "AR",
+    "image": "cPK_20_020720_00_GENESECT_AR.webp",
+    "name": "Genesect",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 175,
+    "rarity": "AR",
+    "image": "cPK_20_020780_00_HAKURYU_AR.webp",
+    "name": "Dragonair",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 176,
+    "rarity": "AR",
+    "image": "cPK_20_020830_00_ONVERN_AR.webp",
+    "name": "Noivern",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 177,
+    "rarity": "AR",
+    "image": "cPK_20_020890_00_MOTOTOKAGE_AR.webp",
+    "name": "Cyclizar",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 178,
+    "rarity": "AR",
+    "image": "cPK_20_020910_00_RATTA_AR.webp",
+    "name": "Raticate",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 179,
+    "rarity": "AR",
+    "image": "cPK_20_020930_00_EIPAM_AR.webp",
+    "name": "Aipom",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 180,
+    "rarity": "SR",
+    "image": "cPK_20_019720_00_BEEQUENex_SR.webp",
+    "name": "Vespiquen ex",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 181,
+    "rarity": "SR",
+    "image": "cPK_20_019870_00_BAKPHOONex_SR.webp",
+    "name": "Typhlosion ex",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 182,
+    "rarity": "SR",
+    "image": "cPK_20_019960_00_MEGASAMEHADERex_SR.webp",
+    "name": "Mega Sharpedo ex",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 183,
+    "rarity": "SR",
+    "image": "cPK_20_019980_00_WHALOHex_SR.webp",
+    "name": "Wailord ex",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 184,
+    "rarity": "SR",
+    "image": "cPK_20_020160_00_ROTOMex_SR.webp",
+    "name": "Rotom ex",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 185,
+    "rarity": "SR",
+    "image": "cPK_20_020450_00_MEGAERUREIDOex_SR.webp",
+    "name": "Mega Gallade ex",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 186,
+    "rarity": "SR",
+    "image": "cPK_20_020640_00_HOOPAex_SR.webp",
+    "name": "Hoopa ex",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 187,
+    "rarity": "SR",
+    "image": "cPK_20_020700_00_MEGAMETAGROSSex_SR.webp",
+    "name": "Mega Metagross ex",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 188,
+    "rarity": "SR",
+    "image": "cPK_20_020810_00_MEGARAYQUAZAex_SR.webp",
+    "name": "Mega Rayquaza ex",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 189,
+    "rarity": "SR",
+    "image": "cPK_20_021020_00_SWANNAex_SR.webp",
+    "name": "Swanna ex",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 190,
+    "rarity": "SR",
+    "image": "cTR_20_001540_00_SAIKIKKA_SR.webp",
+    "name": "Psychic",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 191,
+    "rarity": "SR",
+    "image": "cTR_20_001550_00_SYAGA_SR.webp",
+    "name": "Drayden",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 192,
+    "rarity": "SR",
+    "image": "cTR_20_001560_00_HUURO_SR.webp",
+    "name": "Skyla",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 193,
+    "rarity": "SR",
+    "image": "cTR_20_001570_00_MITSURU_SR.webp",
+    "name": "Wally",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 194,
+    "rarity": "SAR",
+    "image": "cPK_20_019720_01_BEEQUENex_SAR.webp",
+    "name": "Vespiquen ex",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 195,
+    "rarity": "SAR",
+    "image": "cPK_20_019870_01_BAKPHOONex_SAR.webp",
+    "name": "Typhlosion ex",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 196,
+    "rarity": "SAR",
+    "image": "cPK_20_019960_01_MEGASAMEHADERex_SAR.webp",
+    "name": "Mega Sharpedo ex",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 197,
+    "rarity": "SAR",
+    "image": "cPK_20_019980_01_WHALOHex_SAR.webp",
+    "name": "Wailord ex",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 198,
+    "rarity": "SAR",
+    "image": "cPK_20_020450_01_MEGAERUREIDOex_SAR.webp",
+    "name": "Mega Gallade ex",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 199,
+    "rarity": "SAR",
+    "image": "cPK_20_020640_01_HOOPAex_SAR.webp",
+    "name": "Hoopa ex",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 200,
+    "rarity": "SAR",
+    "image": "cPK_20_020700_01_MEGAMETAGROSSex_SAR.webp",
+    "name": "Mega Metagross ex",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 201,
+    "rarity": "SAR",
+    "image": "cPK_20_021020_01_SWANNAex_SAR.webp",
+    "name": "Swanna ex",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 202,
+    "rarity": "IM",
+    "image": "cPK_20_020160_01_ROTOMex_IM.webp",
+    "name": "Rotom ex",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 203,
+    "rarity": "IM",
+    "image": "cPK_20_020810_01_MEGARAYQUAZAex_IM.webp",
+    "name": "Mega Rayquaza ex",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 204,
+    "rarity": "S",
+    "image": "cPK_20_013940_00_ALOLAROKON_S.webp",
+    "name": "AlolanVulpix",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 205,
+    "rarity": "S",
+    "image": "cPK_20_013990_00_MIZUGOROU_S.webp",
+    "name": "Mudkip",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 206,
+    "rarity": "S",
+    "image": "cPK_20_014000_00_NUMACRAW_S.webp",
+    "name": "Marshtomp",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 207,
+    "rarity": "S",
+    "image": "cPK_20_014010_00_LAGLARGE_S.webp",
+    "name": "Swampert",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 208,
+    "rarity": "S",
+    "image": "cPK_20_016290_00_ELEBOO_S.webp",
+    "name": "Electabuzz",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 209,
+    "rarity": "S",
+    "image": "cPK_20_014180_00_PRASLE_S.webp",
+    "name": "Plusle",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 210,
+    "rarity": "S",
+    "image": "cPK_20_014190_01_MINUN_S.webp",
+    "name": "Minun",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 211,
+    "rarity": "S",
+    "image": "cPK_20_020300_00_BARRIERD_S.webp",
+    "name": "Mr. Mime",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 212,
+    "rarity": "S",
+    "image": "cPK_20_020310_00_MEWTWO_S.webp",
+    "name": "Mewtwo",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 213,
+    "rarity": "S",
+    "image": "cPK_20_014510_00_DANGORO_S.webp",
+    "name": "Roggenrola",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 214,
+    "rarity": "S",
+    "image": "cPK_20_014520_00_GANTLE_S.webp",
+    "name": "Boldore",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 215,
+    "rarity": "S",
+    "image": "cPK_20_014580_01_TAIRETSU_S.webp",
+    "name": "Falinks",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 216,
+    "rarity": "S",
+    "image": "cPK_20_017660_00_DOGARS_S.webp",
+    "name": "Koffing",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 217,
+    "rarity": "S",
+    "image": "cPK_20_017670_00_MATADOGAS_S.webp",
+    "name": "Weezing",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 218,
+    "rarity": "S",
+    "image": "cPK_20_014760_00_GALARNYARTH_S.webp",
+    "name": "GalarianMeowth",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 219,
+    "rarity": "S",
+    "image": "cPK_20_014770_01_GALARNYAIKING_S.webp",
+    "name": "GalarianPerrserker",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 220,
+    "rarity": "S",
+    "image": "cPK_20_020900_00_KORATTA_S.webp",
+    "name": "Rattata",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 221,
+    "rarity": "S",
+    "image": "cPK_20_020910_01_RATTA_S.webp",
+    "name": "Raticate",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 222,
+    "rarity": "S",
+    "image": "cPK_20_014960_00_DOBLE_S.webp",
+    "name": "Smeargle",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 223,
+    "rarity": "S",
+    "image": "cPK_20_013040_01_MIMIROL_S.webp",
+    "name": "Buneary",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 224,
+    "rarity": "SSR",
+    "image": "cPK_20_013890_02_ZUGADOONex_SSR.webp",
+    "name": "Blacephalon ex",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 225,
+    "rarity": "SSR",
+    "image": "cPK_20_013950_02_ALOLAKYUKONex_SSR.webp",
+    "name": "AlolanNinetales ex",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 226,
+    "rarity": "SSR",
+    "image": "cPK_20_014020_02_MEGALAGLARGEex_SSR.webp",
+    "name": "Mega Swampert ex",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 227,
+    "rarity": "SSR",
+    "image": "cPK_20_014320_02_MEGASIRNIGHTex_SSR.webp",
+    "name": "Mega Gardevoir ex",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 228,
+    "rarity": "SSR",
+    "image": "cPK_20_013460_02_MEGAMIMILOPex_SSR.webp",
+    "name": "Mega Lopunny ex",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 229,
+    "rarity": "SSR",
+    "image": "cPK_20_014530_02_GIGAIATHex_SSR.webp",
+    "name": "Gigalith ex",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 230,
+    "rarity": "SSR",
+    "image": "cPK_20_017710_02_ZOROARKex_SSR.webp",
+    "name": "Zoroark ex",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 231,
+    "rarity": "SSR",
+    "image": "cPK_20_014930_02_MEGAGARURAex_SSR.webp",
+    "name": "Mega Kangaskhan ex",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 232,
+    "rarity": "UR",
+    "image": "cPK_20_020110_01_RAICHU_UR.webp",
+    "name": "Raichu",
+    "packs": ["Ruler of the Skies"]
+  },
+  {
+    "set": "B4",
+    "number": 233,
+    "rarity": "UR",
+    "image": "cPK_20_020780_01_HAKURYU_UR.webp",
+    "name": "Dragonair",
+    "packs": ["Ruler of the Skies"]
   }
 ]
