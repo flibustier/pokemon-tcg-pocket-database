@@ -15,11 +15,7 @@
         "ja": "最強の遺伝子",
         "ko": "최강의유전자"
       },
-      "packs": [
-        "Charizard",
-        "Mewtwo",
-        "Pikachu"
-      ]
+      "packs": ["Charizard", "Mewtwo", "Pikachu"]
     },
     {
       "code": "A1a",
@@ -36,9 +32,7 @@
         "zh": "幻遊鳥",
         "ko": "환상이있는섬"
       },
-      "packs": [
-        "Mew"
-      ]
+      "packs": ["Mew"]
     },
     {
       "code": "A2",
@@ -48,10 +42,7 @@
         "en": "Space-Time Smackdown",
         "fr": "Choc Spatio-Temporel"
       },
-      "packs": [
-        "Dialga",
-        "Palkia"
-      ]
+      "packs": ["Dialga", "Palkia"]
     },
     {
       "code": "A2a",
@@ -62,9 +53,7 @@
         "fr": "Lumière Triomphale",
         "es": "Luz Triunfal"
       },
-      "packs": [
-        "Arceus"
-      ]
+      "packs": ["Arceus"]
     },
     {
       "code": "A2b",
@@ -74,9 +63,7 @@
         "en": "Shining Revelry",
         "fr": "Réjouissances Rayonnantes"
       },
-      "packs": [
-        "Shining"
-      ]
+      "packs": ["Shining"]
     },
     {
       "code": "A3",
@@ -86,10 +73,7 @@
         "en": "Celestial Guardians",
         "fr": "Gardiens Célestes"
       },
-      "packs": [
-        "Lunala",
-        "Solgaleo"
-      ]
+      "packs": ["Lunala", "Solgaleo"]
     },
     {
       "code": "A3a",
@@ -99,9 +83,7 @@
         "en": "Extradimensional Crisis",
         "fr": "Crise Interdimensionnelle"
       },
-      "packs": [
-        "Extradimensional"
-      ]
+      "packs": ["Extradimensional"]
     },
     {
       "code": "A3b",
@@ -111,9 +93,7 @@
         "en": "Eevee Grove",
         "fr": "La Clairière d'Évoli"
       },
-      "packs": [
-        "Eevee"
-      ]
+      "packs": ["Eevee"]
     },
     {
       "code": "A4",
@@ -123,10 +103,7 @@
         "en": "Wisdom of Sea and Sky",
         "fr": "Sagesse entre Ciel et Mer"
       },
-      "packs": [
-        "Ho-Oh",
-        "Lugia"
-      ]
+      "packs": ["Ho-Oh", "Lugia"]
     },
     {
       "code": "A4a",
@@ -136,9 +113,7 @@
         "en": "Secluded Springs",
         "fr": "Source Secrète"
       },
-      "packs": [
-        "Secluded"
-      ]
+      "packs": ["Secluded"]
     },
     {
       "code": "A4b",
@@ -148,9 +123,7 @@
         "en": "Deluxe Pack: ex",
         "fr": "Booster de Luxe ex"
       },
-      "packs": [
-        "Deluxe"
-      ]
+      "packs": ["Deluxe"]
     },
     {
       "code": "PROMO-A",
@@ -186,11 +159,7 @@
         "en": "Mega Rising",
         "fr": "Méga-Ascension"
       },
-      "packs": [
-        "Mega Altaria",
-        "Mega Blaziken",
-        "Mega Gyarados"
-      ]
+      "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
     },
     {
       "code": "B1a",
@@ -200,9 +169,7 @@
         "en": "Crimson Blaze",
         "fr": "Embrasement Écarlate"
       },
-      "packs": [
-        "Crimson Blaze"
-      ]
+      "packs": ["Crimson Blaze"]
     },
     {
       "code": "B2",
@@ -212,9 +179,7 @@
         "en": "Fantastical Parade",
         "fr": "Parade Onirique"
       },
-      "packs": [
-        "Gardevoir"
-      ]
+      "packs": ["Gardevoir"]
     },
     {
       "code": "B2a",
@@ -224,9 +189,7 @@
         "en": "Paldean Wonders",
         "fr": "Merveilles de Paldea"
       },
-      "packs": [
-        "Paldean"
-      ]
+      "packs": ["Paldean"]
     },
     {
       "code": "B2b",
@@ -236,9 +199,7 @@
         "en": "Mega Shine",
         "fr": "Méga-Rayonnement"
       },
-      "packs": [
-        "Mega Shine"
-      ]
+      "packs": ["Mega Shine"]
     },
     {
       "code": "B3",
@@ -248,9 +209,7 @@
         "en": "Pulsing Aura",
         "fr": "Aura Palpitante"
       },
-      "packs": [
-        "Pulsing Aura"
-      ]
+      "packs": ["Pulsing Aura"]
     },
     {
       "code": "B3a",
@@ -260,9 +219,7 @@
         "en": "Paradox Drive",
         "fr": "Propulsion Paradoxe"
       },
-      "packs": [
-        "Paradox Drive"
-      ]
+      "packs": ["Paradox Drive"]
     },
     {
       "code": "B3b",
@@ -272,9 +229,17 @@
         "en": "Everyday Wonders",
         "fr": "Jours Heureux"
       },
-      "packs": [
-        "Everyday Wonders"
-      ]
+      "packs": ["Everyday Wonders"]
+    },
+    {
+      "code": "B4",
+      "releaseDate": "2026-07-30",
+      "count": 233,
+      "name": {
+        "en": "Rulers of the Skies",
+        "fr": "Domination Céleste"
+      },
+      "packs": ["Rulers of the Skies"]
     },
     {
       "code": "PROMO-B",
