@@ -232,11 +232,26 @@ cards-by-set/B2a/23.webp
 
 To calculate the path, you can simply do `cards-by-set/${card.set}/${card.number}.webp`.
 
+### Languages
+
+You can find a french variation of the files :
+- `cards.fr.json`
+- `cards.fr.min.json`
+- `cards.fr.no-image.min.json`
+
+And also a language specific subdirectory :
+- `cards/fr/A1.json`
+- `cards/fr/A1.min.json`
+- `cards/fr/A1.no-image.min.json`
+… for each set
+
+Want an other language ? Help us build it !
+
 ### Roadmap
 
+- [x] Add French language (fr_FR) thanks to @adriendeval
 - [ ] Add German language (de_DE)
 - [ ] Add Spanish language (es_ES)
-- [ ] Add French language (fr_FR)
 - [ ] Add Italian language (it_IT)
 - [ ] Add Japanese language (ja_JP)
 - [ ] Add Korean language (ko_KR)
