@@ -224,6 +224,7 @@ Here is an example of a set object (`sets.json`):
 If you’re looking for images, you can find them [here](https://github.com/flibustier/pokemon-tcg-exchange/tree/main/public/images/cards) or in [latest release](https://github.com/flibustier/pokemon-tcg-pocket-database/releases/).
 
 Since 2.1.0, you can also use the directory `cards-by-set` which contains images renamed as predictable names, group by set directory :
+
 ```
 cards-by-set/A1/1.webp
 ...
@@ -235,19 +236,27 @@ To calculate the path, you can simply do `cards-by-set/${card.set}/${card.number
 ### Languages
 
 You can find a french variation of the files :
+
 - `cards.fr.json`
 - `cards.fr.min.json`
 - `cards.fr.no-image.min.json`
 
 And also a language specific subdirectory :
+
 - `cards/fr/A1.json`
 - `cards/fr/A1.min.json`
 - `cards/fr/A1.no-image.min.json`
-… for each set
+  … for each set
 
 Want an other language ? Help us build it !
 
-### Roadmap
+## Contributing
+
+Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
+
+If you want to add a new language, just create a `cards.[Language Code (two letters)].json` file and use `npm run build` to generate the others variations.
+
+## Roadmap
 
 - [x] Add French language (fr_FR) thanks to @adriendeval
 - [ ] Add German language (de_DE)
@@ -257,5 +266,3 @@ Want an other language ? Help us build it !
 - [ ] Add Korean language (ko_KR)
 - [ ] Add Portuguese language (pt_BR)
 - [ ] Add Chinese language (zh_TW)
-
-Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
