@@ -765,5 +765,76 @@
     "rarity": "R",
     "image": "cPK_90_020670_00_DUMBBER_R.webp",
     "name": "Beldum"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 87,
+    "rarity": "RR",
+    "image": "cPK_90_016730_00_MEGAJUKAINex_RR.webp",
+    "name": "Mega Sceptile ex"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 88,
+    "rarity": "C",
+    "image": "cPK_90_021090_00_ROCKETDANNOSTRIKE_C.webp",
+    "name": "Team Rocket’s Scyther",
+    "packs": [
+      "B Series Vol. 12"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 89,
+    "rarity": "AR",
+    "image": "cPK_90_021100_00_ROCKETDANNOLAPLACE_AR.webp",
+    "name": "Team Rocket’s Lapras",
+    "packs": [
+      "B Series Vol. 12"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 90,
+    "rarity": "C",
+    "image": "cPK_90_021110_00_CAMOME_C.webp",
+    "name": "Wingull",
+    "packs": [
+      "B Series Vol. 12"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 91,
+    "rarity": "R",
+    "image": "cPK_90_021120_00_ROCKETDANNOSONANS_R.webp",
+    "name": "Team Rocket’s Wobbuffet",
+    "packs": [
+      "B Series Vol. 12"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 92,
+    "rarity": "U",
+    "image": "cPK_90_021130_00_GARAGARA_U.webp",
+    "name": "Marowak",
+    "packs": [
+      "B Series Vol. 12"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 93,
+    "rarity": "R",
+    "image": "cPK_90_021170_00_FOKKO_R.webp",
+    "name": "Fennekin"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 94,
+    "rarity": "R",
+    "image": "cPK_90_021180_00_NYAONIX_R.webp",
+    "name": "Meowstic"
   }
 ]

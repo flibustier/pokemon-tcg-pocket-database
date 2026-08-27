@@ -242,6 +242,16 @@
       "packs": ["Ruler of the Skies"]
     },
     {
+      "code": "B4a",
+      "releaseDate": "2026-08-27",
+      "count": 110,
+      "name": {
+        "en": "Team Rocket’s Ambition",
+        "fr": "L’Ambition de la Team Rocket"
+      },
+      "packs": ["Ruler of the Skies"]
+    },
+    {
       "code": "PROMO-B",
       "releaseDate": "2025-10-30",
       "name": {
@@ -255,7 +265,12 @@
         "B Series Vol. 4",
         "B Series Vol. 5",
         "B Series Vol. 6",
-        "B Series Vol. 7"
+        "B Series Vol. 7",
+        "B Series Vol. 8",
+        "B Series Vol. 9",
+        "B Series Vol. 10",
+        "B Series Vol. 11",
+        "B Series Vol. 12"
       ]
     }
   ]
