@@ -252,6 +252,16 @@
       "packs": ["Ruler of the Skies"]
     },
     {
+      "code": "B4b",
+      "releaseDate": "2026-09-30",
+      "count": 429,
+      "name": {
+        "en": "Deluxe Pack: Mega",
+        "fr": "Booster de Luxe Méga"
+      },
+      "packs": ["Deluxe Pack Mega"]
+    },
+    {
       "code": "PROMO-B",
       "releaseDate": "2025-10-30",
       "name": {
@@ -270,7 +280,8 @@
         "B Series Vol. 9",
         "B Series Vol. 10",
         "B Series Vol. 11",
-        "B Series Vol. 12"
+        "B Series Vol. 12",
+        "B Series Vol. 13"
       ]
     }
   ]
