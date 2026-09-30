@@ -836,5 +836,80 @@
     "rarity": "R",
     "image": "cPK_90_021180_00_NYAONIX_R.webp",
     "name": "Meowstic"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 95,
+    "rarity": "AR",
+    "image": "cPK_90_016440_00_DARKRAI_AR.webp",
+    "name": "Darkrai"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 96,
+    "rarity": "U",
+    "image": "cPK_90_014580_00_TAIRETSU_U.webp",
+    "name": "Falinks",
+    "packs": [
+      "B Series Vol. 13"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 97,
+    "rarity": "C",
+    "image": "cPK_90_021140_00_FUKAMARU_C.webp",
+    "name": "Gible",
+    "packs": [
+      "B Series Vol. 13"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 98,
+    "rarity": "U",
+    "image": "cPK_90_021150_00_GABITE_U.webp",
+    "name": "Gabite",
+    "packs": [
+      "B Series Vol. 13"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 99,
+    "rarity": "RR",
+    "image": "cPK_90_021160_00_MEGAGABURIASex_RR.webp",
+    "name": "Mega Garchomp ex",
+    "packs": [
+      "B Series Vol. 13"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 100,
+    "rarity": "U",
+    "image": "cPK_90_020960_00_ENEKORORO_U.webp",
+    "name": "Delcatty"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 101,
+    "rarity": "R",
+    "image": "cPK_90_016130_00_HITOKAGE_R.webp",
+    "name": "Charmander"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 102,
+    "rarity": "R",
+    "image": "cPK_90_020850_00_JIJILONG_R.webp",
+    "name": "Drampa"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 103,
+    "rarity": "IM",
+    "image": "cPK_90_005410_00_PIKACHUex_IM.webp",
+    "name": "Pikachu ex"
   }
 ]

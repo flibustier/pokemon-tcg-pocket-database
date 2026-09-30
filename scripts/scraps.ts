@@ -1,5 +1,6 @@
 import fs from "node:fs";
 import * as cheerio from "cheerio";
+import prettier from "prettier";
 import existing from "../dist/cards.json";
 
 console.log("Usage: bun ./scripts/scraps.ts [URL] ([packName])");
@@ -35,15 +36,24 @@ if (process.argv.length > 2) {
 
   $(".card-grid__cell").each((index, element) => {
     const $card = $(element);
-    const hrefParts = $card.find("a").attr("href").split("/").filter(Boolean);
-    const imgSrc = $card.find("img").attr("src");
+    const href = $card.find("a").attr("href") || "";
+    const hrefParts = href.split("/").filter(Boolean);
+    const imgSrc = $card.find("img").attr("src") || $card.find("img").attr("data-src") || "";
     const figcaption = $card.find("figcaption").text().trim();
 
-    // Extract image name from URL
-    const imageName = imgSrc.split("/CardPreviews/")[1].split("?")[0];
+    if (!imgSrc || hrefParts.length < 3) {
+      return;
+    }
 
-    // Extract rarity code from image name
-    const rarityCode = imageName.split("_").pop().split(".")[0];
+    // Extract raw filename from URL (ignoring query parameters)
+    const rawFileName = imgSrc.split("/").pop()?.split("?")[0] || "";
+    const dotParts = rawFileName.split(".");
+    const ext = dotParts.length > 1 ? dotParts[dotParts.length - 1] : "webp";
+    const baseName = dotParts[0];
+
+    // Reconstruct clean image name and extract rarity code
+    const imageName = `${baseName}.${ext}`;
+    const rarityCode = baseName.split("_").pop() || "";
 
     let set = hrefParts[1];
     if (set.toUpperCase().startsWith("PROMO")) {
@@ -86,7 +96,13 @@ if (process.argv.length > 2) {
 
 const cardsWithoutImage = cards.map(({ image, ...rest }) => rest);
 
-fs.writeFileSync("./dist/cards.json", JSON.stringify(cards, null, 2));
+const prettierOptions = await prettier.resolveConfig("./dist/cards.json");
+const formattedCards = await prettier.format(JSON.stringify(cards), {
+  ...prettierOptions,
+  parser: "json",
+});
+
+fs.writeFileSync("./dist/cards.json", formattedCards);
 fs.writeFileSync("./dist/cards.min.json", JSON.stringify(cards));
 fs.writeFileSync(
   "./dist/cards.no-image.min.json",

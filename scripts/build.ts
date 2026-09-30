@@ -1,10 +1,11 @@
 import fs from "node:fs";
+import prettier from "prettier";
 import mainCards from "../dist/cards.json";
 import frCards from "../dist/cards.fr.json";
 
 type Card = (typeof mainCards)[number];
 
-function generateAllCardsVariation(
+async function generateAllCardsVariation(
   cardsVariation: Card[],
   languageCode?: string,
 ) {
@@ -23,8 +24,15 @@ function generateAllCardsVariation(
   const cardsWithoutImage = cards.map(({ image, ...rest }) => rest);
 
   const filename = languageCode ? `cards.${languageCode}` : "cards";
+  const filePath = `./dist/${filename}.json`;
 
-  //fs.writeFileSync(`./dist/${filename}.json`, JSON.stringify(cards, null, 2));
+  const prettierOptions = await prettier.resolveConfig(filePath);
+  const formattedCards = await prettier.format(JSON.stringify(cards), {
+    ...prettierOptions,
+    parser: "json",
+  });
+
+  fs.writeFileSync(filePath, formattedCards);
   fs.writeFileSync(`./dist/${filename}.min.json`, JSON.stringify(cards));
   fs.writeFileSync(
     `./dist/${filename}.no-image.min.json`,
@@ -55,7 +63,7 @@ function generateAllCardsVariation(
   }
 }
 
-generateAllCardsVariation(mainCards);
-generateAllCardsVariation(frCards, "fr");
+await generateAllCardsVariation(mainCards);
+await generateAllCardsVariation(frCards, "fr");
 
 console.log("Done! ✅");

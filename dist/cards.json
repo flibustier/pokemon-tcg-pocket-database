@@ -22570,8 +22570,7 @@
     "number": 87,
     "rarity": "RR",
     "image": "cPK_90_016730_00_MEGAJUKAINex_RR.webp",
-    "name": "Mega Sceptile ex",
-    "packs": []
+    "name": "Mega Sceptile ex"
   },
   {
     "set": "PROMO-B",
@@ -22618,16 +22617,81 @@
     "number": 93,
     "rarity": "R",
     "image": "cPK_90_021170_00_FOKKO_R.webp",
-    "name": "Fennekin",
-    "packs": []
+    "name": "Fennekin"
   },
   {
     "set": "PROMO-B",
     "number": 94,
     "rarity": "R",
     "image": "cPK_90_021180_00_NYAONIX_R.webp",
-    "name": "Meowstic",
-    "packs": []
+    "name": "Meowstic"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 95,
+    "rarity": "AR",
+    "image": "cPK_90_016440_00_DARKRAI_AR.webp",
+    "name": "Darkrai"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 96,
+    "rarity": "U",
+    "image": "cPK_90_014580_00_TAIRETSU_U.webp",
+    "name": "Falinks",
+    "packs": ["B Series Vol. 13"]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 97,
+    "rarity": "C",
+    "image": "cPK_90_021140_00_FUKAMARU_C.webp",
+    "name": "Gible",
+    "packs": ["B Series Vol. 13"]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 98,
+    "rarity": "U",
+    "image": "cPK_90_021150_00_GABITE_U.webp",
+    "name": "Gabite",
+    "packs": ["B Series Vol. 13"]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 99,
+    "rarity": "RR",
+    "image": "cPK_90_021160_00_MEGAGABURIASex_RR.webp",
+    "name": "Mega Garchomp ex",
+    "packs": ["B Series Vol. 13"]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 100,
+    "rarity": "U",
+    "image": "cPK_90_020960_00_ENEKORORO_U.webp",
+    "name": "Delcatty"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 101,
+    "rarity": "R",
+    "image": "cPK_90_016130_00_HITOKAGE_R.webp",
+    "name": "Charmander"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 102,
+    "rarity": "R",
+    "image": "cPK_90_020850_00_JIJILONG_R.webp",
+    "name": "Drampa"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 103,
+    "rarity": "IM",
+    "image": "cPK_90_005410_00_PIKACHUex_IM.webp",
+    "name": "Pikachu ex"
   },
   {
     "set": "B2a",
@@ -30948,5 +31012,3437 @@
     "image": "cTR_20_001610_00_ROCKETDANNOBETOBETOBAZOOKA_UR.webp",
     "name": "Team Rocket’s Goo-zooka",
     "packs": ["Team Rocket"]
+  },
+  {
+    "set": "B4b",
+    "number": 3,
+    "rarity": "RR",
+    "image": "cPK_10_013100_00_MEGAFUSHIGIBANAex_RR.webp",
+    "name": "Mega Venusaur ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 4,
+    "rarity": "C",
+    "image": "cPK_10_019040_00_CATERPIE_C.webp",
+    "name": "Caterpie",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 5,
+    "rarity": "U",
+    "image": "cPK_10_019050_00_TRANSEL_U.webp",
+    "name": "Metapod",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 6,
+    "rarity": "R",
+    "image": "cPK_10_019060_00_BUTTERFREE_R.webp",
+    "name": "Butterfree",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 8,
+    "rarity": "RR",
+    "image": "cPK_10_010840_00_MEGAKAILIOSex_RR.webp",
+    "name": "Mega Pinsir ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 12,
+    "rarity": "RR",
+    "image": "cPK_10_016730_00_MEGAJUKAINex_RR.webp",
+    "name": "Mega Sceptile ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 14,
+    "rarity": "C",
+    "image": "cPK_10_019710_00_MITSUHONEY_C.webp",
+    "name": "Combee",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 15,
+    "rarity": "RR",
+    "image": "cPK_10_019720_00_BEEQUENex_RR.webp",
+    "name": "Vespiquen ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 27,
+    "rarity": "R",
+    "image": "cPK_10_019800_00_OGERPONMIDORINOMEN_R.webp",
+    "name": "Teal Mask Ogerpon",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 31,
+    "rarity": "RR",
+    "image": "cPK_10_016150_00_MEGALIZARDONXex_RR.webp",
+    "name": "Mega Charizard X ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 32,
+    "rarity": "RR",
+    "image": "cPK_10_013190_00_MEGALIZARDONYex_RR.webp",
+    "name": "Mega Charizard Y ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 33,
+    "rarity": "C",
+    "image": "cPK_10_019010_00_GARDIE_C.webp",
+    "name": "Growlithe",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 34,
+    "rarity": "C",
+    "image": "cPK_10_019810_00_PONYTA_C.webp",
+    "name": "Ponyta",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 36,
+    "rarity": "C",
+    "image": "cPK_10_019850_00_HINOARASHI_C.webp",
+    "name": "Cyndaquil",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 37,
+    "rarity": "U",
+    "image": "cPK_10_019860_00_MAGMARASHI_U.webp",
+    "name": "Quilava",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 38,
+    "rarity": "RR",
+    "image": "cPK_10_019870_00_BAKPHOONex_RR.webp",
+    "name": "Typhlosion ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 41,
+    "rarity": "RR",
+    "image": "cPK_10_011180_00_MEGABURSYAMOex_RR.webp",
+    "name": "Mega Blaziken ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 43,
+    "rarity": "RR",
+    "image": "cPK_10_016880_00_MEGABAKUUDAex_RR.webp",
+    "name": "Mega Camerupt ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 54,
+    "rarity": "RR",
+    "image": "cPK_10_013250_00_MEGAKAMEXex_RR.webp",
+    "name": "Mega Blastoise ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 58,
+    "rarity": "RR",
+    "image": "cPK_10_016210_00_MEGAYADORANex_RR.webp",
+    "name": "Mega Slowbro ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 60,
+    "rarity": "RR",
+    "image": "cPK_10_011340_00_MEGAGYARADOSex_RR.webp",
+    "name": "Mega Gyarados ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 64,
+    "rarity": "RR",
+    "image": "cPK_10_014020_00_MEGALAGLARGEex_RR.webp",
+    "name": "Mega Swampert ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 65,
+    "rarity": "C",
+    "image": "cPK_10_019950_00_KIBANHA_C.webp",
+    "name": "Carvanha",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 66,
+    "rarity": "RR",
+    "image": "cPK_10_019960_00_MEGASAMEHADERex_RR.webp",
+    "name": "Mega Sharpedo ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 67,
+    "rarity": "C",
+    "image": "cPK_10_019970_00_HOERUKO_C.webp",
+    "name": "Wailmer",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 68,
+    "rarity": "RR",
+    "image": "cPK_10_019980_00_WHALOHex_RR.webp",
+    "name": "Wailord ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 69,
+    "rarity": "C",
+    "image": "cPK_10_019150_00_HINBASS_C.webp",
+    "name": "Feebas",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 70,
+    "rarity": "RR",
+    "image": "cPK_10_019160_00_MILOKAROSSex_RR.webp",
+    "name": "Milotic ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 82,
+    "rarity": "C",
+    "image": "cPK_10_020100_00_PIKACHU_C.webp",
+    "name": "Pikachu",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 83,
+    "rarity": "R",
+    "image": "cPK_10_020110_00_RAICHU_R.webp",
+    "name": "Raichu",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 90,
+    "rarity": "RR",
+    "image": "cPK_10_011670_00_MEGADENRYUex_RR.webp",
+    "name": "Mega Ampharos ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 92,
+    "rarity": "RR",
+    "image": "cPK_10_016320_00_MEGALIVOLTex_RR.webp",
+    "name": "Mega Manectric ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 93,
+    "rarity": "RR",
+    "image": "cPK_10_020160_00_ROTOMex_RR.webp",
+    "name": "Rotom ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 94,
+    "rarity": "C",
+    "image": "cPK_10_020210_00_ERIKITERU_C.webp",
+    "name": "Helioptile",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 95,
+    "rarity": "U",
+    "image": "cPK_10_020220_00_ELEZARD_U.webp",
+    "name": "Heliolisk",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 96,
+    "rarity": "RR",
+    "image": "cPK_10_019220_00_DEDENNEex_RR.webp",
+    "name": "Dedenne ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 97,
+    "rarity": "C",
+    "image": "cPK_10_019230_00_WANPACHI_C.webp",
+    "name": "Yamper",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 104,
+    "rarity": "C",
+    "image": "cPK_10_020320_00_RALTS_C.webp",
+    "name": "Ralts",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 105,
+    "rarity": "U",
+    "image": "cPK_10_020330_00_KIRLIA_U.webp",
+    "name": "Kirlia",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 106,
+    "rarity": "RR",
+    "image": "cPK_10_014320_00_MEGASIRNIGHTex_RR.webp",
+    "name": "Mega Gardevoir ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 107,
+    "rarity": "RR",
+    "image": "cPK_10_011840_00_MEGATYLTALISex_RR.webp",
+    "name": "Mega Altaria ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 108,
+    "rarity": "R",
+    "image": "cPK_10_020350_00_SOHNANO_R.webp",
+    "name": "Wynaut",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 110,
+    "rarity": "R",
+    "image": "cPK_10_020290_00_MANENE_R.webp",
+    "name": "Mime Jr.",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 112,
+    "rarity": "R",
+    "image": "cPK_10_019280_00_NYMPHIA_R.webp",
+    "name": "Sylveon",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 114,
+    "rarity": "RR",
+    "image": "cPK_10_019300_00_MEGADIANCIEex_RR.webp",
+    "name": "Mega Diancie ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 117,
+    "rarity": "C",
+    "image": "cPK_10_019320_00_PUPIMOCCHI_C.webp",
+    "name": "Fidough",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 125,
+    "rarity": "RR",
+    "image": "cPK_10_013460_00_MEGAMIMILOPex_RR.webp",
+    "name": "Mega Lopunny ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 127,
+    "rarity": "RR",
+    "image": "cPK_10_017460_00_MEGALUCARIOex_RR.webp",
+    "name": "Mega Lucario ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 128,
+    "rarity": "RR",
+    "image": "cPK_10_020450_00_MEGAERUREIDOex_RR.webp",
+    "name": "Mega Gallade ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 134,
+    "rarity": "C",
+    "image": "cPK_10_019360_00_IWANKO_C.webp",
+    "name": "Rockruff",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 136,
+    "rarity": "RR",
+    "image": "cPK_10_018510_00_KORAIDONex_RR.webp",
+    "name": "Koraidon ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 141,
+    "rarity": "RR",
+    "image": "cPK_10_016430_00_MEGAGANGARex_RR.webp",
+    "name": "Mega Gengar ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 142,
+    "rarity": "RR",
+    "image": "cPK_10_019390_00_MEGAYAMIRAMIex_RR.webp",
+    "name": "Mega Sableye ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 143,
+    "rarity": "RR",
+    "image": "cPK_10_012330_00_MEGAABSOLex_RR.webp",
+    "name": "Mega Absol ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 149,
+    "rarity": "RR",
+    "image": "cPK_10_020640_00_HOOPAex_RR.webp",
+    "name": "Hoopa ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 152,
+    "rarity": "R",
+    "image": "cPK_10_018620_00_TODOROKUTSUKI_R.webp",
+    "name": "Roaring Moon",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 155,
+    "rarity": "RR",
+    "image": "cPK_10_013560_00_MEGAHAGANEILex_RR.webp",
+    "name": "Mega Steelix ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 156,
+    "rarity": "RR",
+    "image": "cPK_10_016510_00_MEGAHASSAMex_RR.webp",
+    "name": "Mega Scizor ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 157,
+    "rarity": "RR",
+    "image": "cPK_10_014790_00_MEGAKUCHEATex_RR.webp",
+    "name": "Mega Mawile ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 158,
+    "rarity": "C",
+    "image": "cPK_10_020670_00_DUMBBER_C.webp",
+    "name": "Beldum",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 159,
+    "rarity": "U",
+    "image": "cPK_10_020680_00_METANG_U.webp",
+    "name": "Metang",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 160,
+    "rarity": "RR",
+    "image": "cPK_10_020700_00_MEGAMETAGROSSex_RR.webp",
+    "name": "Mega Metagross ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 169,
+    "rarity": "C",
+    "image": "cPK_10_020770_00_MINIRYU_C.webp",
+    "name": "Dratini",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 170,
+    "rarity": "U",
+    "image": "cPK_10_020780_00_HAKURYU_U.webp",
+    "name": "Dragonair",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 173,
+    "rarity": "RR",
+    "image": "cPK_10_020810_00_MEGARAYQUAZAex_RR.webp",
+    "name": "Mega Rayquaza ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 177,
+    "rarity": "U",
+    "image": "cPK_10_020850_00_JIJILONG_U.webp",
+    "name": "Drampa",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 178,
+    "rarity": "C",
+    "image": "cPK_10_020900_00_KORATTA_C.webp",
+    "name": "Rattata",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 179,
+    "rarity": "R",
+    "image": "cPK_10_020910_00_RATTA_R.webp",
+    "name": "Raticate",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 181,
+    "rarity": "RR",
+    "image": "cPK_10_014930_00_MEGAGARURAex_RR.webp",
+    "name": "Mega Kangaskhan ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 188,
+    "rarity": "R",
+    "image": "cPK_10_019520_00_GONBE_R.webp",
+    "name": "Munchlax",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 190,
+    "rarity": "RR",
+    "image": "cPK_10_018060_00_MEGATABUNNEex_RR.webp",
+    "name": "Mega Audino ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 191,
+    "rarity": "C",
+    "image": "cPK_10_019000_00_HISUIZORUA_C.webp",
+    "name": "Hisuian Zorua",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 192,
+    "rarity": "RR",
+    "image": "cPK_10_019570_00_HISUIZOROARKex_RR.webp",
+    "name": "Hisuian Zoroark ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 193,
+    "rarity": "C",
+    "image": "cPK_10_021010_00_KOARUHIE_C.webp",
+    "name": "Ducklett",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 194,
+    "rarity": "RR",
+    "image": "cPK_10_021020_00_SWANNAex_RR.webp",
+    "name": "Swanna ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 197,
+    "rarity": "RR",
+    "image": "cPK_10_018830_00_TERAPAGOSex_RR.webp",
+    "name": "Terapagos ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 198,
+    "rarity": "U",
+    "image": "cTR_10_001060_00_ATARITSUKIAISU_U.webp",
+    "name": "Lucky Ice Pop",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 199,
+    "rarity": "U",
+    "image": "cTR_10_001170_00_ELECTRICGENERATOR_U.webp",
+    "name": "Electric Generator",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 200,
+    "rarity": "U",
+    "image": "cTR_10_001490_00_OTORIYOSEPADDO_U.webp",
+    "name": "Order Pad",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 201,
+    "rarity": "U",
+    "image": "cTR_10_001020_00_SOUJYUKUEKISU_U.webp",
+    "name": "Quick-Grow Extract",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 202,
+    "rarity": "U",
+    "image": "cTR_10_001280_00_FIELDBLOWER_U.webp",
+    "name": "Field Blower",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 203,
+    "rarity": "U",
+    "image": "cTR_10_000910_00_FUREIMUPACCHI_U.webp",
+    "name": "Flame Patch",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 204,
+    "rarity": "U",
+    "image": "cTR_10_001520_00_INCHIKIBARI_U.webp",
+    "name": "Deceptive Needle",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 205,
+    "rarity": "U",
+    "image": "cTR_10_001290_00_HAPPINESSEGG_U.webp",
+    "name": "Lucky Egg",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 206,
+    "rarity": "U",
+    "image": "cTR_10_001430_00_CHIISANAFUUSEN_U.webp",
+    "name": "Small Balloon",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 207,
+    "rarity": "U",
+    "image": "cTR_10_001370_00_BUSUTOENAJIKODAI_U.webp",
+    "name": "Ancient Booster Energy Capsule",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 208,
+    "rarity": "U",
+    "image": "cTR_10_001380_00_BUSUTOENAJIMIRAI_U.webp",
+    "name": "Future Booster Energy Capsule",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 209,
+    "rarity": "U",
+    "image": "cTR_10_001080_00_MAMORINOPONCHO_U.webp",
+    "name": "Protective Poncho",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 210,
+    "rarity": "U",
+    "image": "cTR_10_001090_00_METARUKOABARIA_U.webp",
+    "name": "Metal Core Barrier",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 211,
+    "rarity": "U",
+    "image": "cTR_10_001440_00_YUUGANAMANTO_U.webp",
+    "name": "Elegant Cape",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 212,
+    "rarity": "U",
+    "image": "cTR_10_001250_00_IRIS_U.webp",
+    "name": "Iris",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 213,
+    "rarity": "U",
+    "image": "cTR_10_001390_00_AOI_U.webp",
+    "name": "Juliana",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 214,
+    "rarity": "U",
+    "image": "cTR_10_001100_00_CARNE_U.webp",
+    "name": "Diantha",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 215,
+    "rarity": "U",
+    "image": "cTR_10_001260_00_CALME_U.webp",
+    "name": "Calem",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 216,
+    "rarity": "U",
+    "image": "cTR_10_001460_00_KOINUDAISUKIGARL_U.webp",
+    "name": "Puppy-Loving Girl",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 217,
+    "rarity": "U",
+    "image": "cTR_10_001300_00_CORNI_U.webp",
+    "name": "Korrina",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 218,
+    "rarity": "U",
+    "image": "cTR_10_001030_00_CITRON_U.webp",
+    "name": "Clemont",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 219,
+    "rarity": "U",
+    "image": "cTR_10_001040_00_SERENA_U.webp",
+    "name": "Serena",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 220,
+    "rarity": "U",
+    "image": "cTR_10_000970_00_HARUKA_U.webp",
+    "name": "May",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 221,
+    "rarity": "U",
+    "image": "cTR_10_001560_00_HUURO_U.webp",
+    "name": "Skyla",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 222,
+    "rarity": "U",
+    "image": "cTR_10_001210_00_PEPER_U.webp",
+    "name": "Arven",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 223,
+    "rarity": "U",
+    "image": "cTR_10_001470_00_MIKURI_U.webp",
+    "name": "Wallace",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 224,
+    "rarity": "U",
+    "image": "cTR_10_001570_00_MITSURU_U.webp",
+    "name": "Wally",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 225,
+    "rarity": "U",
+    "image": "cTR_10_000990_00_MONOMANEMUSUME_U.webp",
+    "name": "Copycat",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 226,
+    "rarity": "U",
+    "image": "cTR_10_001000_00_RUCHIA_U.webp",
+    "name": "Lisia",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 227,
+    "rarity": "U",
+    "image": "cTR_10_001340_00_AMAKUKAORUMORI_U.webp",
+    "name": "Fragrant Forest",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 228,
+    "rarity": "U",
+    "image": "cTR_10_001350_00_INISHIENOTOUGIJYOU_U.webp",
+    "name": "Arena of Antiquity",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 229,
+    "rarity": "U",
+    "image": "cTR_10_001580_00_IYASHINOUMIBE_U.webp",
+    "name": "Soothing Shore",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 230,
+    "rarity": "U",
+    "image": "cTR_10_001360_00_KEKKAINOFIELD_U.webp",
+    "name": "Bounded Field",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 231,
+    "rarity": "U",
+    "image": "cTR_10_001220_00_TABLECITY_U.webp",
+    "name": "Mesagoza",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 232,
+    "rarity": "U",
+    "image": "cTR_10_001140_00_TORENINGUERIA_U.webp",
+    "name": "Training Area",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 233,
+    "rarity": "U",
+    "image": "cTR_10_001590_00_NIJIIRONODOUKUTSU_U.webp",
+    "name": "Rainbow Cave",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 234,
+    "rarity": "U",
+    "image": "cTR_10_001270_00_HAIKINGUCOURSE_U.webp",
+    "name": "Hiking Trail",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 235,
+    "rarity": "U",
+    "image": "cTR_10_001150_00_HAJIMARINOHEIGEN_U.webp",
+    "name": "Starting Plains",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 236,
+    "rarity": "U",
+    "image": "cTR_10_001160_00_FUSHIGINAHIROBA_U.webp",
+    "name": "Peculiar Plaza",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 239,
+    "rarity": "C",
+    "image": "cPK_10_019040_01_CATERPIE_C.webp",
+    "name": "Caterpie",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 240,
+    "rarity": "U",
+    "image": "cPK_10_019050_01_TRANSEL_U.webp",
+    "name": "Metapod",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 241,
+    "rarity": "R",
+    "image": "cPK_10_019060_01_BUTTERFREE_R.webp",
+    "name": "Butterfree",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 247,
+    "rarity": "C",
+    "image": "cPK_10_019710_01_MITSUHONEY_C.webp",
+    "name": "Combee",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 257,
+    "rarity": "R",
+    "image": "cPK_10_019800_01_OGERPONMIDORINOMEN_R.webp",
+    "name": "Teal Mask Ogerpon",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 260,
+    "rarity": "C",
+    "image": "cPK_10_019010_01_GARDIE_C.webp",
+    "name": "Growlithe",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 261,
+    "rarity": "C",
+    "image": "cPK_10_019810_01_PONYTA_C.webp",
+    "name": "Ponyta",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 262,
+    "rarity": "C",
+    "image": "cPK_10_019850_01_HINOARASHI_C.webp",
+    "name": "Cyndaquil",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 263,
+    "rarity": "U",
+    "image": "cPK_10_019860_01_MAGMARASHI_U.webp",
+    "name": "Quilava",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 280,
+    "rarity": "C",
+    "image": "cPK_10_019950_01_KIBANHA_C.webp",
+    "name": "Carvanha",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 281,
+    "rarity": "C",
+    "image": "cPK_10_019970_01_HOERUKO_C.webp",
+    "name": "Wailmer",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 282,
+    "rarity": "C",
+    "image": "cPK_10_019150_01_HINBASS_C.webp",
+    "name": "Feebas",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 291,
+    "rarity": "C",
+    "image": "cPK_10_020100_01_PIKACHU_C.webp",
+    "name": "Pikachu",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 292,
+    "rarity": "R",
+    "image": "cPK_10_020110_01_RAICHU_R.webp",
+    "name": "Raichu",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 298,
+    "rarity": "C",
+    "image": "cPK_10_020210_01_ERIKITERU_C.webp",
+    "name": "Helioptile",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 299,
+    "rarity": "U",
+    "image": "cPK_10_020220_01_ELEZARD_U.webp",
+    "name": "Heliolisk",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 300,
+    "rarity": "C",
+    "image": "cPK_10_019230_01_WANPACHI_C.webp",
+    "name": "Yamper",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 303,
+    "rarity": "U",
+    "image": "cPK_10_018330_01_TETSUNOIBARA_U.webp",
+    "name": "Iron Thorns",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 304,
+    "rarity": "C",
+    "image": "cPK_10_020320_01_RALTS_C.webp",
+    "name": "Ralts",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 305,
+    "rarity": "U",
+    "image": "cPK_10_020330_01_KIRLIA_U.webp",
+    "name": "Kirlia",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 306,
+    "rarity": "R",
+    "image": "cPK_10_020350_01_SOHNANO_R.webp",
+    "name": "Wynaut",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 308,
+    "rarity": "R",
+    "image": "cPK_10_020290_01_MANENE_R.webp",
+    "name": "Mime Jr.",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 310,
+    "rarity": "R",
+    "image": "cPK_10_019280_01_NYMPHIA_R.webp",
+    "name": "Sylveon",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 312,
+    "rarity": "C",
+    "image": "cPK_10_019320_01_PUPIMOCCHI_C.webp",
+    "name": "Fidough",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 322,
+    "rarity": "C",
+    "image": "cPK_10_019360_01_IWANKO_C.webp",
+    "name": "Rockruff",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 332,
+    "rarity": "R",
+    "image": "cPK_10_017800_01_OTOSHIDORI_R.webp",
+    "name": "Bombirdier",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 333,
+    "rarity": "R",
+    "image": "cPK_10_018620_01_TODOROKUTSUKI_R.webp",
+    "name": "Roaring Moon",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 336,
+    "rarity": "C",
+    "image": "cPK_10_020670_01_DUMBBER_C.webp",
+    "name": "Beldum",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 337,
+    "rarity": "U",
+    "image": "cPK_10_020680_01_METANG_U.webp",
+    "name": "Metang",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 343,
+    "rarity": "C",
+    "image": "cPK_10_020770_01_MINIRYU_C.webp",
+    "name": "Dratini",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 344,
+    "rarity": "U",
+    "image": "cPK_10_020780_01_HAKURYU_U.webp",
+    "name": "Dragonair",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 345,
+    "rarity": "U",
+    "image": "cPK_10_017900_01_VIBRAVA_U.webp",
+    "name": "Vibrava",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 349,
+    "rarity": "U",
+    "image": "cPK_10_020850_01_JIJILONG_U.webp",
+    "name": "Drampa",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 350,
+    "rarity": "C",
+    "image": "cPK_10_020900_01_KORATTA_C.webp",
+    "name": "Rattata",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 351,
+    "rarity": "R",
+    "image": "cPK_10_020910_01_RATTA_R.webp",
+    "name": "Raticate",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 357,
+    "rarity": "C",
+    "image": "cPK_10_013040_01_MIMIROL_C.webp",
+    "name": "Buneary",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 358,
+    "rarity": "R",
+    "image": "cPK_10_019520_01_GONBE_R.webp",
+    "name": "Munchlax",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 359,
+    "rarity": "C",
+    "image": "cPK_10_018020_01_YORTERRIE_C.webp",
+    "name": "Lillipup",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 360,
+    "rarity": "C",
+    "image": "cPK_10_019000_01_HISUIZORUA_C.webp",
+    "name": "Hisuian Zorua",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 361,
+    "rarity": "C",
+    "image": "cPK_10_021010_01_KOARUHIE_C.webp",
+    "name": "Ducklett",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 362,
+    "rarity": "C",
+    "image": "cPK_10_018100_01_KOKOGARA_C.webp",
+    "name": "Rookidee",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 363,
+    "rarity": "U",
+    "image": "cPK_10_018110_01_AOGARASU_U.webp",
+    "name": "Corvisquire",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 364,
+    "rarity": "U",
+    "image": "cTR_10_001060_01_ATARITSUKIAISU_U.webp",
+    "name": "Lucky Ice Pop",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 365,
+    "rarity": "U",
+    "image": "cTR_10_001170_01_ELECTRICGENERATOR_U.webp",
+    "name": "Electric Generator",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 366,
+    "rarity": "U",
+    "image": "cTR_10_001490_01_OTORIYOSEPADDO_U.webp",
+    "name": "Order Pad",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 367,
+    "rarity": "U",
+    "image": "cTR_10_001020_01_SOUJYUKUEKISU_U.webp",
+    "name": "Quick-Grow Extract",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 368,
+    "rarity": "U",
+    "image": "cTR_10_001280_01_FIELDBLOWER_U.webp",
+    "name": "Field Blower",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 369,
+    "rarity": "U",
+    "image": "cTR_10_000910_01_FUREIMUPACCHI_U.webp",
+    "name": "Flame Patch",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 370,
+    "rarity": "U",
+    "image": "cTR_10_001520_01_INCHIKIBARI_U.webp",
+    "name": "Deceptive Needle",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 371,
+    "rarity": "U",
+    "image": "cTR_10_001290_01_HAPPINESSEGG_U.webp",
+    "name": "Lucky Egg",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 372,
+    "rarity": "U",
+    "image": "cTR_10_001430_01_CHIISANAFUUSEN_U.webp",
+    "name": "Small Balloon",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 373,
+    "rarity": "U",
+    "image": "cTR_10_001370_01_BUSUTOENAJIKODAI_U.webp",
+    "name": "Ancient Booster Energy Capsule",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 374,
+    "rarity": "U",
+    "image": "cTR_10_001380_01_BUSUTOENAJIMIRAI_U.webp",
+    "name": "Future Booster Energy Capsule",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 375,
+    "rarity": "U",
+    "image": "cTR_10_001080_01_MAMORINOPONCHO_U.webp",
+    "name": "Protective Poncho",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 376,
+    "rarity": "U",
+    "image": "cTR_10_001090_01_METARUKOABARIA_U.webp",
+    "name": "Metal Core Barrier",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 377,
+    "rarity": "U",
+    "image": "cTR_10_001440_01_YUUGANAMANTO_U.webp",
+    "name": "Elegant Cape",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 378,
+    "rarity": "U",
+    "image": "cTR_10_001250_01_IRIS_U.webp",
+    "name": "Iris",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 379,
+    "rarity": "U",
+    "image": "cTR_10_001390_01_AOI_U.webp",
+    "name": "Juliana",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 380,
+    "rarity": "U",
+    "image": "cTR_10_001100_01_CARNE_U.webp",
+    "name": "Diantha",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 381,
+    "rarity": "U",
+    "image": "cTR_10_001260_01_CALME_U.webp",
+    "name": "Calem",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 382,
+    "rarity": "U",
+    "image": "cTR_10_001460_01_KOINUDAISUKIGARL_U.webp",
+    "name": "Puppy-Loving Girl",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 383,
+    "rarity": "U",
+    "image": "cTR_10_001300_01_CORNI_U.webp",
+    "name": "Korrina",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 384,
+    "rarity": "U",
+    "image": "cTR_10_001030_01_CITRON_U.webp",
+    "name": "Clemont",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 385,
+    "rarity": "U",
+    "image": "cTR_10_001040_01_SERENA_U.webp",
+    "name": "Serena",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 386,
+    "rarity": "U",
+    "image": "cTR_10_000970_01_HARUKA_U.webp",
+    "name": "May",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 387,
+    "rarity": "U",
+    "image": "cTR_10_001560_01_HUURO_U.webp",
+    "name": "Skyla",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 388,
+    "rarity": "U",
+    "image": "cTR_10_001210_01_PEPER_U.webp",
+    "name": "Arven",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 389,
+    "rarity": "U",
+    "image": "cTR_10_001470_01_MIKURI_U.webp",
+    "name": "Wallace",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 390,
+    "rarity": "U",
+    "image": "cTR_10_001570_01_MITSURU_U.webp",
+    "name": "Wally",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 391,
+    "rarity": "U",
+    "image": "cTR_10_000990_01_MONOMANEMUSUME_U.webp",
+    "name": "Copycat",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 392,
+    "rarity": "U",
+    "image": "cTR_10_001000_01_RUCHIA_U.webp",
+    "name": "Lisia",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 393,
+    "rarity": "U",
+    "image": "cTR_10_001340_01_AMAKUKAORUMORI_U.webp",
+    "name": "Fragrant Forest",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 394,
+    "rarity": "U",
+    "image": "cTR_10_001350_01_INISHIENOTOUGIJYOU_U.webp",
+    "name": "Arena of Antiquity",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 395,
+    "rarity": "U",
+    "image": "cTR_10_001580_01_IYASHINOUMIBE_U.webp",
+    "name": "Soothing Shore",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 396,
+    "rarity": "U",
+    "image": "cTR_10_001360_01_KEKKAINOFIELD_U.webp",
+    "name": "Bounded Field",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 397,
+    "rarity": "U",
+    "image": "cTR_10_001220_01_TABLECITY_U.webp",
+    "name": "Mesagoza",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 398,
+    "rarity": "U",
+    "image": "cTR_10_001140_01_TORENINGUERIA_U.webp",
+    "name": "Training Area",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 399,
+    "rarity": "U",
+    "image": "cTR_10_001590_01_NIJIIRONODOUKUTSU_U.webp",
+    "name": "Rainbow Cave",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 400,
+    "rarity": "U",
+    "image": "cTR_10_001270_01_HAIKINGUCOURSE_U.webp",
+    "name": "Hiking Trail",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 401,
+    "rarity": "U",
+    "image": "cTR_10_001150_01_HAJIMARINOHEIGEN_U.webp",
+    "name": "Starting Plains",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 402,
+    "rarity": "U",
+    "image": "cTR_10_001160_01_FUSHIGINAHIROBA_U.webp",
+    "name": "Peculiar Plaza",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 403,
+    "rarity": "AR",
+    "image": "cPK_20_016140_01_LIZARDO_AR.webp",
+    "name": "Charmeleon",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 404,
+    "rarity": "AR",
+    "image": "cPK_20_015450_01_SEGLAIVE_AR.webp",
+    "name": "Baxcalibur",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 405,
+    "rarity": "AR",
+    "image": "cPK_20_014360_01_MELOETTA_AR.webp",
+    "name": "Meloetta",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 406,
+    "rarity": "AR",
+    "image": "cPK_20_019320_00_PUPIMOCCHI_AR.webp",
+    "name": "Fidough",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 407,
+    "rarity": "AR",
+    "image": "cPK_20_020770_00_MINIRYU_AR.webp",
+    "name": "Dratini",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 408,
+    "rarity": "AR",
+    "image": "cPK_20_012660_00_EIEVUI_AR.webp",
+    "name": "Eevee",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 409,
+    "rarity": "SR",
+    "image": "cPK_20_013100_02_MEGAFUSHIGIBANAex_SR.webp",
+    "name": "Mega Venusaur ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 410,
+    "rarity": "SR",
+    "image": "cPK_20_016730_02_MEGAJUKAINex_SR.webp",
+    "name": "Mega Sceptile ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 411,
+    "rarity": "SR",
+    "image": "cPK_20_016150_02_MEGALIZARDONXex_SR.webp",
+    "name": "Mega Charizard X ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 412,
+    "rarity": "SR",
+    "image": "cPK_20_013190_03_MEGALIZARDONYex_SR.webp",
+    "name": "Mega Charizard Y ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 413,
+    "rarity": "SR",
+    "image": "cPK_20_011180_03_MEGABURSYAMOex_SR.webp",
+    "name": "Mega Blaziken ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 414,
+    "rarity": "SR",
+    "image": "cPK_20_013250_02_MEGAKAMEXex_SR.webp",
+    "name": "Mega Blastoise ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 415,
+    "rarity": "SR",
+    "image": "cPK_20_011340_03_MEGAGYARADOSex_SR.webp",
+    "name": "Mega Gyarados ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 416,
+    "rarity": "SR",
+    "image": "cPK_20_014320_03_MEGASIRNIGHTex_SR.webp",
+    "name": "Mega Gardevoir ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 417,
+    "rarity": "SR",
+    "image": "cPK_20_011840_03_MEGATYLTALISex_SR.webp",
+    "name": "Mega Altaria ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 418,
+    "rarity": "SR",
+    "image": "cPK_20_017460_02_MEGALUCARIOex_SR.webp",
+    "name": "Mega Lucario ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 419,
+    "rarity": "SR",
+    "image": "cPK_20_016430_02_MEGAGANGARex_SR.webp",
+    "name": "Mega Gengar ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 420,
+    "rarity": "SR",
+    "image": "cPK_20_020810_02_MEGARAYQUAZAex_SR.webp",
+    "name": "Mega Rayquaza ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 421,
+    "rarity": "SR",
+    "image": "cTR_20_001250_01_IRIS_SR.webp",
+    "name": "Iris",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 422,
+    "rarity": "SR",
+    "image": "cTR_20_001450_01_KAMITSURE_SR.webp",
+    "name": "Elesa",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 423,
+    "rarity": "SR",
+    "image": "cTR_20_001210_02_PEPER_SR.webp",
+    "name": "Arven",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 424,
+    "rarity": "SR",
+    "image": "cTR_20_000990_01_MONOMANEMUSUME_SR.webp",
+    "name": "Copycat",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 425,
+    "rarity": "IM",
+    "image": "cPK_20_016150_03_MEGALIZARDONXex_IM.webp",
+    "name": "Mega Charizard X ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 426,
+    "rarity": "SSR",
+    "image": "cPK_20_019220_02_DEDENNEex_SSR.webp",
+    "name": "Dedenne ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 427,
+    "rarity": "SSR",
+    "image": "cPK_20_019300_02_MEGADIANCIEex_SSR.webp",
+    "name": "Mega Diancie ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 428,
+    "rarity": "UR",
+    "image": "cPK_20_018340_02_MIRAIDONex_UR.webp",
+    "name": "Miraidon ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 429,
+    "rarity": "UR",
+    "image": "cPK_20_018510_02_KORAIDONex_UR.webp",
+    "name": "Koraidon ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 1,
+    "rarity": "C",
+    "image": "cPK_10_013070_00_FUSHIGIDANE_C.webp",
+    "name": "Bulbasaur",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 2,
+    "rarity": "U",
+    "image": "cPK_10_013080_00_FUSHIGISOU_U.webp",
+    "name": "Ivysaur",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 7,
+    "rarity": "C",
+    "image": "cPK_10_016070_00_STRIKE_C.webp",
+    "name": "Scyther",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 9,
+    "rarity": "R",
+    "image": "cPK_10_016690_00_CELEBI_R.webp",
+    "name": "Celebi",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 10,
+    "rarity": "C",
+    "image": "cPK_10_016700_00_KIMORI_C.webp",
+    "name": "Treecko",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 11,
+    "rarity": "U",
+    "image": "cPK_10_016710_00_JUPTILE_U.webp",
+    "name": "Grovyle",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 13,
+    "rarity": "R",
+    "image": "cPK_10_016780_00_SUBOMIE_R.webp",
+    "name": "Budew",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 16,
+    "rarity": "C",
+    "image": "cPK_10_010970_00_MONMEN_C.webp",
+    "name": "Cottonee",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 17,
+    "rarity": "RR",
+    "image": "cPK_10_010980_00_ELFUUNex_RR.webp",
+    "name": "Whimsicott ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 18,
+    "rarity": "C",
+    "image": "cPK_10_010990_00_CHURINE_C.webp",
+    "name": "Petilil",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 19,
+    "rarity": "R",
+    "image": "cPK_10_011000_00_DREDEAR_R.webp",
+    "name": "Lilligant",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 20,
+    "rarity": "C",
+    "image": "cPK_10_016830_00_AIANT_C.webp",
+    "name": "Durant",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 21,
+    "rarity": "C",
+    "image": "cPK_10_015100_00_NYAHOJA_C.webp",
+    "name": "Sprigatito",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 22,
+    "rarity": "C",
+    "image": "cPK_10_015110_00_NYAROTE_C.webp",
+    "name": "Floragato",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 23,
+    "rarity": "RR",
+    "image": "cPK_10_015120_00_MASQUERNYAex_RR.webp",
+    "name": "Meowscarada ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 24,
+    "rarity": "C",
+    "image": "cPK_10_015160_00_MINIVE_C.webp",
+    "name": "Smoliv",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 25,
+    "rarity": "C",
+    "image": "cPK_10_015170_00_OLINYO_C.webp",
+    "name": "Dolliv",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 26,
+    "rarity": "R",
+    "image": "cPK_10_015180_00_OLIVA_R.webp",
+    "name": "Arboliva",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 28,
+    "rarity": "RR",
+    "image": "cPK_10_013830_00_OGERPONMIDORINOMENex_RR.webp",
+    "name": "Teal Mask Ogerpon ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 29,
+    "rarity": "C",
+    "image": "cPK_10_016130_00_HITOKAGE_C.webp",
+    "name": "Charmander",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 30,
+    "rarity": "U",
+    "image": "cPK_10_016140_00_LIZARDO_U.webp",
+    "name": "Charmeleon",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 35,
+    "rarity": "RR",
+    "image": "cPK_10_011130_00_GALLOPex_RR.webp",
+    "name": "Rapidash ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 39,
+    "rarity": "C",
+    "image": "cPK_10_011150_00_ACHAMO_C.webp",
+    "name": "Torchic",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 40,
+    "rarity": "U",
+    "image": "cPK_10_011160_00_WAKASYAMO_U.webp",
+    "name": "Combusken",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 42,
+    "rarity": "C",
+    "image": "cPK_10_016860_00_DONMEL_C.webp",
+    "name": "Numel",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 44,
+    "rarity": "R",
+    "image": "cPK_10_016900_00_VICTINI_R.webp",
+    "name": "Victini",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 45,
+    "rarity": "RR",
+    "image": "cPK_10_013890_00_ZUGADOONex_RR.webp",
+    "name": "Blacephalon ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 46,
+    "rarity": "C",
+    "image": "cPK_10_015250_00_HOGATOR_C.webp",
+    "name": "Fuecoco",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 47,
+    "rarity": "C",
+    "image": "cPK_10_015260_00_ACHIGATOR_C.webp",
+    "name": "Crocalor",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 48,
+    "rarity": "R",
+    "image": "cPK_10_015270_00_LAUDBON_R.webp",
+    "name": "Skeledirge",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 49,
+    "rarity": "C",
+    "image": "cPK_10_015280_00_CARBOU_C.webp",
+    "name": "Charcadet",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 50,
+    "rarity": "RR",
+    "image": "cPK_10_015290_00_GURENARMAex_RR.webp",
+    "name": "Armarouge ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 51,
+    "rarity": "R",
+    "image": "cPK_10_013930_00_OGERPONKAMADONOMEN_R.webp",
+    "name": "Hearthflame Mask Ogerpon",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 52,
+    "rarity": "C",
+    "image": "cPK_10_013220_00_ZENIGAME_C.webp",
+    "name": "Squirtle",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 53,
+    "rarity": "U",
+    "image": "cPK_10_013230_00_KAMEIL_U.webp",
+    "name": "Wartortle",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 55,
+    "rarity": "C",
+    "image": "cPK_10_013940_00_ALOLAROKON_C.webp",
+    "name": "Alolan Vulpix",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 56,
+    "rarity": "RR",
+    "image": "cPK_10_013950_00_ALOLAKYUKONex_RR.webp",
+    "name": "Alolan Ninetales ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 57,
+    "rarity": "C",
+    "image": "cPK_10_016000_00_YADON_C.webp",
+    "name": "Slowpoke",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 59,
+    "rarity": "C",
+    "image": "cPK_10_011320_00_KOIKING_C.webp",
+    "name": "Magikarp",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 61,
+    "rarity": "RR",
+    "image": "cPK_10_017020_00_SHOWERSex_RR.webp",
+    "name": "Vaporeon ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 62,
+    "rarity": "C",
+    "image": "cPK_10_013990_00_MIZUGOROU_C.webp",
+    "name": "Mudkip",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 63,
+    "rarity": "U",
+    "image": "cPK_10_014000_00_NUMACRAW_U.webp",
+    "name": "Marshtomp",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 71,
+    "rarity": "C",
+    "image": "cPK_10_011530_00_KEROMATSU_C.webp",
+    "name": "Froakie",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 72,
+    "rarity": "U",
+    "image": "cPK_10_011540_00_GEKOGASHIRA_U.webp",
+    "name": "Frogadier",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 73,
+    "rarity": "RR",
+    "image": "cPK_10_011550_00_GEKKOUGAex_RR.webp",
+    "name": "Greninja ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 74,
+    "rarity": "C",
+    "image": "cPK_10_017130_00_MESSON_C.webp",
+    "name": "Sobble",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 75,
+    "rarity": "U",
+    "image": "cPK_10_017140_00_JIMEREON_U.webp",
+    "name": "Drizzile",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 76,
+    "rarity": "R",
+    "image": "cPK_10_017150_00_INTEREON_R.webp",
+    "name": "Inteleon",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 77,
+    "rarity": "RR",
+    "image": "cPK_10_018280_00_TETSUNOTSUTSUMIex_RR.webp",
+    "name": "Iron Bundle ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 78,
+    "rarity": "C",
+    "image": "cPK_10_015430_00_SEBIE_C.webp",
+    "name": "Frigibax",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 79,
+    "rarity": "C",
+    "image": "cPK_10_015440_00_SEGOHRU_C.webp",
+    "name": "Arctibax",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 80,
+    "rarity": "R",
+    "image": "cPK_10_015450_00_SEGLAIVE_R.webp",
+    "name": "Baxcalibur",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 81,
+    "rarity": "RR",
+    "image": "cPK_10_015460_00_PAOJIANex_RR.webp",
+    "name": "Chien-Pao ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 84,
+    "rarity": "C",
+    "image": "cPK_10_013290_00_COIL_C.webp",
+    "name": "Magnemite",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 85,
+    "rarity": "U",
+    "image": "cPK_10_013300_00_RARECOIL_U.webp",
+    "name": "Magneton",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 86,
+    "rarity": "RR",
+    "image": "cPK_10_017190_00_JIBACOILex_RR.webp",
+    "name": "Magnezone ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 87,
+    "rarity": "RR",
+    "image": "cPK_10_011630_00_THUNDERSex_RR.webp",
+    "name": "Jolteon ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 88,
+    "rarity": "C",
+    "image": "cPK_10_011640_00_MERRIEP_C.webp",
+    "name": "Mareep",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 89,
+    "rarity": "U",
+    "image": "cPK_10_011650_00_MOKOKO_U.webp",
+    "name": "Flaaffy",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 91,
+    "rarity": "C",
+    "image": "cPK_10_016310_00_RAKURAI_C.webp",
+    "name": "Electrike",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 98,
+    "rarity": "C",
+    "image": "cPK_10_014200_00_ELESON_C.webp",
+    "name": "Toxel",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 99,
+    "rarity": "RR",
+    "image": "cPK_10_014210_00_STRINDERex_RR.webp",
+    "name": "Toxtricity ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 100,
+    "rarity": "C",
+    "image": "cPK_10_014220_00_ZUPIKA_C.webp",
+    "name": "Tadbulb",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 101,
+    "rarity": "RR",
+    "image": "cPK_10_015510_00_HARABARIEex_RR.webp",
+    "name": "Bellibolt ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 102,
+    "rarity": "U",
+    "image": "cPK_10_018330_00_TETSUNOIBARA_U.webp",
+    "name": "Iron Thorns",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 103,
+    "rarity": "RR",
+    "image": "cPK_10_018340_00_MIRAIDONex_RR.webp",
+    "name": "Miraidon ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 109,
+    "rarity": "R",
+    "image": "cPK_10_011910_00_LISYAN_R.webp",
+    "name": "Chingling",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 111,
+    "rarity": "U",
+    "image": "cPK_10_014360_00_MELOETTA_U.webp",
+    "name": "Meloetta",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 113,
+    "rarity": "R",
+    "image": "cPK_10_012020_00_CLEFFY_R.webp",
+    "name": "Klefki",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 115,
+    "rarity": "RR",
+    "image": "cPK_10_014390_00_MIMIKKYUex_RR.webp",
+    "name": "Mimikyu ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 116,
+    "rarity": "RR",
+    "image": "cPK_10_012030_00_YESSANMESUNOSUGATA_RR.webp",
+    "name": "Indeedee ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 118,
+    "rarity": "C",
+    "image": "cPK_10_017370_00_ANOKUSA_C.webp",
+    "name": "Bramblin",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 119,
+    "rarity": "R",
+    "image": "cPK_10_017380_00_ANOHORAGUSA_R.webp",
+    "name": "Brambleghast",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 120,
+    "rarity": "RR",
+    "image": "cPK_10_018410_00_HABATAKUKAMIex_RR.webp",
+    "name": "Flutter Mane ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 121,
+    "rarity": "C",
+    "image": "cPK_10_015630_00_COLLECUREI_C.webp",
+    "name": "Gimmighoul",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 122,
+    "rarity": "C",
+    "image": "cPK_10_013420_00_IWARK_C.webp",
+    "name": "Onix",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 123,
+    "rarity": "RR",
+    "image": "cPK_10_012060_00_EBIWALARex_RR.webp",
+    "name": "Hitmonchan ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 124,
+    "rarity": "C",
+    "image": "cPK_10_017410_00_NUCKRAR_C.webp",
+    "name": "Trapinch",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 126,
+    "rarity": "C",
+    "image": "cPK_10_017440_00_RIOLU_C.webp",
+    "name": "Riolu",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 129,
+    "rarity": "C",
+    "image": "cPK_10_014510_00_DANGORO_C.webp",
+    "name": "Roggenrola",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 130,
+    "rarity": "U",
+    "image": "cPK_10_014520_00_GANTLE_U.webp",
+    "name": "Boldore",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 131,
+    "rarity": "RR",
+    "image": "cPK_10_014530_00_GIGAIATHex_RR.webp",
+    "name": "Gigalith ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 132,
+    "rarity": "C",
+    "image": "cPK_10_017520_00_ISHIZUMAI_C.webp",
+    "name": "Dwebble",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 133,
+    "rarity": "RR",
+    "image": "cPK_10_017530_00_IWAPALACEex_RR.webp",
+    "name": "Crustle ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 135,
+    "rarity": "U",
+    "image": "cPK_10_014580_00_TAIRETSU_U.webp",
+    "name": "Falinks",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 137,
+    "rarity": "C",
+    "image": "cPK_10_014620_00_ALOLABETBETER_C.webp",
+    "name": "Alolan Grimer",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 138,
+    "rarity": "R",
+    "image": "cPK_10_014630_00_ALOLABETBETON_R.webp",
+    "name": "Alolan Muk",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 139,
+    "rarity": "C",
+    "image": "cPK_10_016050_00_GHOS_C.webp",
+    "name": "Gastly",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 140,
+    "rarity": "U",
+    "image": "cPK_10_016420_00_GHOST_U.webp",
+    "name": "Haunter",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 144,
+    "rarity": "R",
+    "image": "cPK_10_016440_00_DARKRAI_R.webp",
+    "name": "Darkrai",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 145,
+    "rarity": "C",
+    "image": "cPK_10_017700_00_ZORUA_C.webp",
+    "name": "Zorua",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 146,
+    "rarity": "RR",
+    "image": "cPK_10_017710_00_ZOROARKex_RR.webp",
+    "name": "Zoroark ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 147,
+    "rarity": "C",
+    "image": "cPK_10_012410_00_KUZUMO_C.webp",
+    "name": "Skrelp",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 148,
+    "rarity": "RR",
+    "image": "cPK_10_012420_00_DRAMIDOROex_RR.webp",
+    "name": "Dragalge ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 150,
+    "rarity": "R",
+    "image": "cPK_10_017790_00_ZARUDE_R.webp",
+    "name": "Zarude",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 151,
+    "rarity": "R",
+    "image": "cPK_10_017800_00_OTOSHIDORI_R.webp",
+    "name": "Bombirdier",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 153,
+    "rarity": "C",
+    "image": "cPK_10_014760_00_GALARNYARTH_C.webp",
+    "name": "Galarian Meowth",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 154,
+    "rarity": "R",
+    "image": "cPK_10_014770_00_GALARNYAIKING_R.webp",
+    "name": "Galarian Perrserker",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 161,
+    "rarity": "C",
+    "image": "cPK_10_012520_00_HITOTSUKI_C.webp",
+    "name": "Honedge",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 162,
+    "rarity": "U",
+    "image": "cPK_10_012530_00_NIDANGILL_U.webp",
+    "name": "Doublade",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 163,
+    "rarity": "R",
+    "image": "cPK_10_014860_00_GILLGARD_R.webp",
+    "name": "Aegislash",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 164,
+    "rarity": "R",
+    "image": "cPK_10_012540_00_GILLGARDBLADEFORME_R.webp",
+    "name": "Aegislash",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 165,
+    "rarity": "C",
+    "image": "cPK_10_012550_00_MELTAN_C.webp",
+    "name": "Meltan",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 166,
+    "rarity": "RR",
+    "image": "cPK_10_012560_00_MELMETALex_RR.webp",
+    "name": "Melmetal ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 167,
+    "rarity": "RR",
+    "image": "cPK_10_017890_00_ARMORGAex_RR.webp",
+    "name": "Corviknight ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 168,
+    "rarity": "RR",
+    "image": "cPK_10_015870_00_SURFUGOex_RR.webp",
+    "name": "Gholdengo ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 171,
+    "rarity": "U",
+    "image": "cPK_10_017900_00_VIBRAVA_U.webp",
+    "name": "Vibrava",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 172,
+    "rarity": "RR",
+    "image": "cPK_10_017910_00_FLYGONex_RR.webp",
+    "name": "Flygon ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 174,
+    "rarity": "C",
+    "image": "cPK_10_016580_00_KIBAGO_C.webp",
+    "name": "Axew",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 175,
+    "rarity": "U",
+    "image": "cPK_10_016590_00_ONONDO_U.webp",
+    "name": "Fraxure",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 176,
+    "rarity": "R",
+    "image": "cPK_10_016030_00_ONONOKUS_R.webp",
+    "name": "Haxorus",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 180,
+    "rarity": "C",
+    "image": "cPK_10_014900_00_NYARTH_C.webp",
+    "name": "Meowth",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 182,
+    "rarity": "RR",
+    "image": "cPK_10_012650_00_KENTAUROSex_RR.webp",
+    "name": "Tauros ex",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 183,
+    "rarity": "C",
+    "image": "cPK_10_012660_00_EIEVUI_C.webp",
+    "name": "Eevee",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 184,
+    "rarity": "C",
+    "image": "cPK_10_012750_00_ENECO_C.webp",
+    "name": "Skitty",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 185,
+    "rarity": "R",
+    "image": "cPK_10_012760_00_ENEKORORO_R.webp",
+    "name": "Delcatty",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 186,
+    "rarity": "C",
+    "image": "cPK_10_012780_00_TYLTTO_C.webp",
+    "name": "Swablu",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 187,
+    "rarity": "C",
+    "image": "cPK_10_013040_00_MIMIROL_C.webp",
+    "name": "Buneary",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 189,
+    "rarity": "C",
+    "image": "cPK_10_018020_00_YORTERRIE_C.webp",
+    "name": "Lillipup",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 195,
+    "rarity": "C",
+    "image": "cPK_10_018100_00_KOKOGARA_C.webp",
+    "name": "Rookidee",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 196,
+    "rarity": "U",
+    "image": "cPK_10_018110_00_AOGARASU_U.webp",
+    "name": "Corvisquire",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 237,
+    "rarity": "C",
+    "image": "cPK_10_013070_01_FUSHIGIDANE_C.webp",
+    "name": "Bulbasaur",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 238,
+    "rarity": "U",
+    "image": "cPK_10_013080_01_FUSHIGISOU_U.webp",
+    "name": "Ivysaur",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 242,
+    "rarity": "C",
+    "image": "cPK_10_016070_01_STRIKE_C.webp",
+    "name": "Scyther",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 243,
+    "rarity": "R",
+    "image": "cPK_10_016690_01_CELEBI_R.webp",
+    "name": "Celebi",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 244,
+    "rarity": "C",
+    "image": "cPK_10_016700_01_KIMORI_C.webp",
+    "name": "Treecko",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 245,
+    "rarity": "U",
+    "image": "cPK_10_016710_01_JUPTILE_U.webp",
+    "name": "Grovyle",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 246,
+    "rarity": "R",
+    "image": "cPK_10_016780_01_SUBOMIE_R.webp",
+    "name": "Budew",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 248,
+    "rarity": "C",
+    "image": "cPK_10_010970_01_MONMEN_C.webp",
+    "name": "Cottonee",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 249,
+    "rarity": "C",
+    "image": "cPK_10_010990_01_CHURINE_C.webp",
+    "name": "Petilil",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 250,
+    "rarity": "R",
+    "image": "cPK_10_011000_01_DREDEAR_R.webp",
+    "name": "Lilligant",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 251,
+    "rarity": "C",
+    "image": "cPK_10_016830_01_AIANT_C.webp",
+    "name": "Durant",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 252,
+    "rarity": "C",
+    "image": "cPK_10_015100_01_NYAHOJA_C.webp",
+    "name": "Sprigatito",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 253,
+    "rarity": "C",
+    "image": "cPK_10_015110_01_NYAROTE_C.webp",
+    "name": "Floragato",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 254,
+    "rarity": "C",
+    "image": "cPK_10_015160_01_MINIVE_C.webp",
+    "name": "Smoliv",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 255,
+    "rarity": "C",
+    "image": "cPK_10_015170_01_OLINYO_C.webp",
+    "name": "Dolliv",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 256,
+    "rarity": "R",
+    "image": "cPK_10_015180_01_OLIVA_R.webp",
+    "name": "Arboliva",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 258,
+    "rarity": "C",
+    "image": "cPK_10_016130_01_HITOKAGE_C.webp",
+    "name": "Charmander",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 259,
+    "rarity": "U",
+    "image": "cPK_10_016140_01_LIZARDO_U.webp",
+    "name": "Charmeleon",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 264,
+    "rarity": "C",
+    "image": "cPK_10_011150_01_ACHAMO_C.webp",
+    "name": "Torchic",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 265,
+    "rarity": "U",
+    "image": "cPK_10_011160_01_WAKASYAMO_U.webp",
+    "name": "Combusken",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 266,
+    "rarity": "C",
+    "image": "cPK_10_016860_01_DONMEL_C.webp",
+    "name": "Numel",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 267,
+    "rarity": "R",
+    "image": "cPK_10_016900_01_VICTINI_R.webp",
+    "name": "Victini",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 268,
+    "rarity": "C",
+    "image": "cPK_10_015250_01_HOGATOR_C.webp",
+    "name": "Fuecoco",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 269,
+    "rarity": "C",
+    "image": "cPK_10_015260_01_ACHIGATOR_C.webp",
+    "name": "Crocalor",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 270,
+    "rarity": "R",
+    "image": "cPK_10_015270_01_LAUDBON_R.webp",
+    "name": "Skeledirge",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 271,
+    "rarity": "C",
+    "image": "cPK_10_015280_01_CARBOU_C.webp",
+    "name": "Charcadet",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 272,
+    "rarity": "R",
+    "image": "cPK_10_013930_01_OGERPONKAMADONOMEN_R.webp",
+    "name": "Hearthflame Mask Ogerpon",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 273,
+    "rarity": "C",
+    "image": "cPK_10_013220_01_ZENIGAME_C.webp",
+    "name": "Squirtle",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 274,
+    "rarity": "U",
+    "image": "cPK_10_013230_01_KAMEIL_U.webp",
+    "name": "Wartortle",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 275,
+    "rarity": "C",
+    "image": "cPK_10_013940_01_ALOLAROKON_C.webp",
+    "name": "Alolan Vulpix",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 276,
+    "rarity": "C",
+    "image": "cPK_10_016000_01_YADON_C.webp",
+    "name": "Slowpoke",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 277,
+    "rarity": "C",
+    "image": "cPK_10_011320_01_KOIKING_C.webp",
+    "name": "Magikarp",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 278,
+    "rarity": "C",
+    "image": "cPK_10_013990_01_MIZUGOROU_C.webp",
+    "name": "Mudkip",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 279,
+    "rarity": "U",
+    "image": "cPK_10_014000_01_NUMACRAW_U.webp",
+    "name": "Marshtomp",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 283,
+    "rarity": "C",
+    "image": "cPK_10_011530_01_KEROMATSU_C.webp",
+    "name": "Froakie",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 284,
+    "rarity": "U",
+    "image": "cPK_10_011540_01_GEKOGASHIRA_U.webp",
+    "name": "Frogadier",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 285,
+    "rarity": "C",
+    "image": "cPK_10_017130_01_MESSON_C.webp",
+    "name": "Sobble",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 286,
+    "rarity": "U",
+    "image": "cPK_10_017140_01_JIMEREON_U.webp",
+    "name": "Drizzile",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 287,
+    "rarity": "R",
+    "image": "cPK_10_017150_01_INTEREON_R.webp",
+    "name": "Inteleon",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 288,
+    "rarity": "C",
+    "image": "cPK_10_015430_01_SEBIE_C.webp",
+    "name": "Frigibax",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 289,
+    "rarity": "C",
+    "image": "cPK_10_015440_01_SEGOHRU_C.webp",
+    "name": "Arctibax",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 290,
+    "rarity": "R",
+    "image": "cPK_10_015450_01_SEGLAIVE_R.webp",
+    "name": "Baxcalibur",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 293,
+    "rarity": "C",
+    "image": "cPK_10_013290_01_COIL_C.webp",
+    "name": "Magnemite",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 294,
+    "rarity": "U",
+    "image": "cPK_10_013300_01_RARECOIL_U.webp",
+    "name": "Magneton",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 295,
+    "rarity": "C",
+    "image": "cPK_10_011640_01_MERRIEP_C.webp",
+    "name": "Mareep",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 296,
+    "rarity": "U",
+    "image": "cPK_10_011650_01_MOKOKO_U.webp",
+    "name": "Flaaffy",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 297,
+    "rarity": "C",
+    "image": "cPK_10_016310_01_RAKURAI_C.webp",
+    "name": "Electrike",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 301,
+    "rarity": "C",
+    "image": "cPK_10_014200_01_ELESON_C.webp",
+    "name": "Toxel",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 302,
+    "rarity": "C",
+    "image": "cPK_10_014220_01_ZUPIKA_C.webp",
+    "name": "Tadbulb",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 307,
+    "rarity": "R",
+    "image": "cPK_10_011910_01_LISYAN_R.webp",
+    "name": "Chingling",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 309,
+    "rarity": "U",
+    "image": "cPK_10_014360_01_MELOETTA_U.webp",
+    "name": "Meloetta",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 311,
+    "rarity": "R",
+    "image": "cPK_10_012020_01_CLEFFY_R.webp",
+    "name": "Klefki",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 313,
+    "rarity": "C",
+    "image": "cPK_10_017370_01_ANOKUSA_C.webp",
+    "name": "Bramblin",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 314,
+    "rarity": "R",
+    "image": "cPK_10_017380_01_ANOHORAGUSA_R.webp",
+    "name": "Brambleghast",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 315,
+    "rarity": "C",
+    "image": "cPK_10_015630_01_COLLECUREI_C.webp",
+    "name": "Gimmighoul",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 316,
+    "rarity": "C",
+    "image": "cPK_10_013420_01_IWARK_C.webp",
+    "name": "Onix",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 317,
+    "rarity": "C",
+    "image": "cPK_10_017410_01_NUCKRAR_C.webp",
+    "name": "Trapinch",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 318,
+    "rarity": "C",
+    "image": "cPK_10_017440_01_RIOLU_C.webp",
+    "name": "Riolu",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 319,
+    "rarity": "C",
+    "image": "cPK_10_014510_01_DANGORO_C.webp",
+    "name": "Roggenrola",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 320,
+    "rarity": "U",
+    "image": "cPK_10_014520_01_GANTLE_U.webp",
+    "name": "Boldore",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 321,
+    "rarity": "C",
+    "image": "cPK_10_017520_01_ISHIZUMAI_C.webp",
+    "name": "Dwebble",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 323,
+    "rarity": "U",
+    "image": "cPK_10_014580_01_TAIRETSU_U.webp",
+    "name": "Falinks",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 324,
+    "rarity": "C",
+    "image": "cPK_10_014620_01_ALOLABETBETER_C.webp",
+    "name": "Alolan Grimer",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 325,
+    "rarity": "R",
+    "image": "cPK_10_014630_01_ALOLABETBETON_R.webp",
+    "name": "Alolan Muk",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 326,
+    "rarity": "C",
+    "image": "cPK_10_016050_01_GHOS_C.webp",
+    "name": "Gastly",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 327,
+    "rarity": "U",
+    "image": "cPK_10_016420_01_GHOST_U.webp",
+    "name": "Haunter",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 328,
+    "rarity": "R",
+    "image": "cPK_10_016440_01_DARKRAI_R.webp",
+    "name": "Darkrai",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 329,
+    "rarity": "C",
+    "image": "cPK_10_017700_01_ZORUA_C.webp",
+    "name": "Zorua",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 330,
+    "rarity": "C",
+    "image": "cPK_10_012410_01_KUZUMO_C.webp",
+    "name": "Skrelp",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 331,
+    "rarity": "R",
+    "image": "cPK_10_017790_01_ZARUDE_R.webp",
+    "name": "Zarude",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 334,
+    "rarity": "C",
+    "image": "cPK_10_014760_01_GALARNYARTH_C.webp",
+    "name": "Galarian Meowth",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 335,
+    "rarity": "R",
+    "image": "cPK_10_014770_01_GALARNYAIKING_R.webp",
+    "name": "Galarian Perrserker",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 338,
+    "rarity": "C",
+    "image": "cPK_10_012520_01_HITOTSUKI_C.webp",
+    "name": "Honedge",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 339,
+    "rarity": "U",
+    "image": "cPK_10_012530_01_NIDANGILL_U.webp",
+    "name": "Doublade",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 340,
+    "rarity": "R",
+    "image": "cPK_10_014860_01_GILLGARD_R.webp",
+    "name": "Aegislash",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 341,
+    "rarity": "R",
+    "image": "cPK_10_012540_01_GILLGARDBLADEFORME_R.webp",
+    "name": "Aegislash",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 342,
+    "rarity": "C",
+    "image": "cPK_10_012550_01_MELTAN_C.webp",
+    "name": "Meltan",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 346,
+    "rarity": "C",
+    "image": "cPK_10_016580_01_KIBAGO_C.webp",
+    "name": "Axew",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 347,
+    "rarity": "U",
+    "image": "cPK_10_016590_01_ONONDO_U.webp",
+    "name": "Fraxure",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 348,
+    "rarity": "R",
+    "image": "cPK_10_016030_01_ONONOKUS_R.webp",
+    "name": "Haxorus",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 352,
+    "rarity": "C",
+    "image": "cPK_10_014900_01_NYARTH_C.webp",
+    "name": "Meowth",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 353,
+    "rarity": "C",
+    "image": "cPK_10_012660_01_EIEVUI_C.webp",
+    "name": "Eevee",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 354,
+    "rarity": "C",
+    "image": "cPK_10_012750_01_ENECO_C.webp",
+    "name": "Skitty",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 355,
+    "rarity": "R",
+    "image": "cPK_10_012760_01_ENEKORORO_R.webp",
+    "name": "Delcatty",
+    "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "B4b",
+    "number": 356,
+    "rarity": "C",
+    "image": "cPK_10_012780_01_TYLTTO_C.webp",
+    "name": "Swablu",
+    "packs": ["Deluxe Pack Mega"]
   }
 ]
