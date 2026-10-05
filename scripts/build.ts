@@ -21,6 +21,15 @@ async function generateAllCardsVariation(
     packs: (card.packs?.length || 0) > 0 ? card.packs : undefined,
   }));
 
+  const setOrder = [...new Set(cards.map(({ set }) => set))];
+  const setIndexMap = new Map(setOrder.map((s, i) => [s, i]));
+
+  cards.sort((a, b) => {
+    const setDiff = (setIndexMap.get(a.set) ?? 0) - (setIndexMap.get(b.set) ?? 0);
+    if (setDiff !== 0) return setDiff;
+    return a.number - b.number;
+  });
+
   const cardsWithoutImage = cards.map(({ image, ...rest }) => rest);
 
   const filename = languageCode ? `cards.${languageCode}` : "cards";

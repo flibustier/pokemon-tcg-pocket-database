@@ -3,7 +3,7 @@
     "set": "A2b",
     "number": 1,
     "rarity": "C",
-    "name": "Aspicot",
+    "name": "Weedle",
     "image": "cPK_10_005210_00_BEEDLE_C.webp",
     "packs": [
       "Shining"
@@ -13,7 +13,7 @@
     "set": "A2b",
     "number": 2,
     "rarity": "U",
-    "name": "Coconfort",
+    "name": "Kakuna",
     "image": "cPK_10_005220_00_COCOON_U.webp",
     "packs": [
       "Shining"
@@ -23,7 +23,7 @@
     "set": "A2b",
     "number": 3,
     "rarity": "RR",
-    "name": "Dardargnan-ex",
+    "name": "Beedrill ex",
     "image": "cPK_10_005230_00_SPEARex_RR.webp",
     "packs": [
       "Shining"
@@ -33,7 +33,7 @@
     "set": "A2b",
     "number": 4,
     "rarity": "C",
-    "name": "Scarabrute",
+    "name": "Pinsir",
     "image": "cPK_10_005240_00_KAILIOS_C.webp",
     "packs": [
       "Shining"
@@ -43,7 +43,7 @@
     "set": "A2b",
     "number": 5,
     "rarity": "C",
-    "name": "Poussacha",
+    "name": "Sprigatito",
     "image": "cPK_10_005080_00_NYAHOJA_C.webp",
     "packs": [
       "Shining"
@@ -53,7 +53,7 @@
     "set": "A2b",
     "number": 6,
     "rarity": "U",
-    "name": "Matourgeon",
+    "name": "Floragato",
     "image": "cPK_10_005250_00_NYAROTE_U.webp",
     "packs": [
       "Shining"
@@ -63,7 +63,7 @@
     "set": "A2b",
     "number": 7,
     "rarity": "R",
-    "name": "Miascarade",
+    "name": "Meowscarada",
     "image": "cPK_10_005260_00_MASQUERNYA_R.webp",
     "packs": [
       "Shining"
@@ -73,7 +73,7 @@
     "set": "A2b",
     "number": 8,
     "rarity": "C",
-    "name": "Salamèche",
+    "name": "Charmander",
     "image": "cPK_10_005270_00_HITOKAGE_C.webp",
     "packs": [
       "Shining"
@@ -83,7 +83,7 @@
     "set": "A2b",
     "number": 9,
     "rarity": "U",
-    "name": "Reptincel",
+    "name": "Charmeleon",
     "image": "cPK_10_005280_00_LIZARDO_U.webp",
     "packs": [
       "Shining"
@@ -93,7 +93,7 @@
     "set": "A2b",
     "number": 10,
     "rarity": "RR",
-    "name": "Dracaufeu-ex",
+    "name": "Charizard ex",
     "image": "cPK_10_005290_00_LIZARDONex_RR.webp",
     "packs": [
       "Shining"
@@ -113,7 +113,7 @@
     "set": "A2b",
     "number": 12,
     "rarity": "R",
-    "name": "Maganon",
+    "name": "Magmortar",
     "image": "cPK_10_005310_00_BOOBURN_R.webp",
     "packs": [
       "Shining"
@@ -123,7 +123,7 @@
     "set": "A2b",
     "number": 13,
     "rarity": "U",
-    "name": "Tauros de Paldea",
+    "name": "Paldean Tauros",
     "image": "cPK_10_005320_00_PALDEAKENTAUROS_U.webp",
     "packs": [
       "Shining"
@@ -153,7 +153,7 @@
     "set": "A2b",
     "number": 16,
     "rarity": "C",
-    "name": "Mustébouée",
+    "name": "Buizel",
     "image": "cPK_10_005350_00_BUOYSEL_C.webp",
     "packs": [
       "Shining"
@@ -163,7 +163,7 @@
     "set": "A2b",
     "number": 17,
     "rarity": "U",
-    "name": "Mustéflott",
+    "name": "Floatzel",
     "image": "cPK_10_005360_00_FLOAZEL_U.webp",
     "packs": [
       "Shining"
@@ -173,7 +173,7 @@
     "set": "A2b",
     "number": 18,
     "rarity": "C",
-    "name": "Taupikeau",
+    "name": "Wiglett",
     "image": "cPK_10_005370_00_UMIDIGDA_C.webp",
     "packs": [
       "Shining"
@@ -183,7 +183,7 @@
     "set": "A2b",
     "number": 19,
     "rarity": "RR",
-    "name": "Triopikeau-ex",
+    "name": "Wugtrio ex",
     "image": "cPK_10_005380_00_UMITRIOex_RR.webp",
     "packs": [
       "Shining"
@@ -193,7 +193,7 @@
     "set": "A2b",
     "number": 20,
     "rarity": "R",
-    "name": "Oyacata",
+    "name": "Dondozo",
     "image": "cPK_10_005390_00_HEYRUSHER_R.webp",
     "packs": [
       "Shining"
@@ -203,7 +203,7 @@
     "set": "A2b",
     "number": 21,
     "rarity": "U",
-    "name": "Nigirigon",
+    "name": "Tatsugiri",
     "image": "cPK_10_005400_00_SYARITATSU_U.webp",
     "packs": [
       "Shining"
@@ -213,7 +213,7 @@
     "set": "A2b",
     "number": 22,
     "rarity": "RR",
-    "name": "Pikachu-ex",
+    "name": "Pikachu ex",
     "image": "cPK_10_005410_00_PIKACHUex_RR.webp",
     "packs": [
       "Shining"
@@ -223,7 +223,7 @@
     "set": "A2b",
     "number": 23,
     "rarity": "C",
-    "name": "Voltorbe",
+    "name": "Voltorb",
     "image": "cPK_10_005420_00_BIRIRIDAMA_C.webp",
     "packs": [
       "Shining"
@@ -233,7 +233,7 @@
     "set": "A2b",
     "number": 24,
     "rarity": "U",
-    "name": "Électrode",
+    "name": "Electrode",
     "image": "cPK_10_005430_00_MARUMINE_U.webp",
     "packs": [
       "Shining"
@@ -253,7 +253,7 @@
     "set": "A2b",
     "number": 26,
     "rarity": "C",
-    "name": "Pohm",
+    "name": "Pawmi",
     "image": "cPK_10_005440_00_PAMO_C.webp",
     "packs": [
       "Shining"
@@ -263,7 +263,7 @@
     "set": "A2b",
     "number": 27,
     "rarity": "U",
-    "name": "Pohmotte",
+    "name": "Pawmo",
     "image": "cPK_10_005450_00_PAMOT_U.webp",
     "packs": [
       "Shining"
@@ -273,7 +273,7 @@
     "set": "A2b",
     "number": 28,
     "rarity": "R",
-    "name": "Pohmarmotte",
+    "name": "Pawmot",
     "image": "cPK_10_005010_00_PARMOT_R.webp",
     "packs": [
       "Shining"
@@ -313,7 +313,7 @@
     "set": "A2b",
     "number": 32,
     "rarity": "C",
-    "name": "M. Mime",
+    "name": "Mr. Mime",
     "image": "cPK_10_005490_00_BARRIERD_C.webp",
     "packs": [
       "Shining"
@@ -323,7 +323,7 @@
     "set": "A2b",
     "number": 33,
     "rarity": "C",
-    "name": "Baudrive",
+    "name": "Drifloon",
     "image": "cPK_10_005500_00_FUWANTE_C.webp",
     "packs": [
       "Shining"
@@ -333,7 +333,7 @@
     "set": "A2b",
     "number": 34,
     "rarity": "U",
-    "name": "Grodrive",
+    "name": "Drifblim",
     "image": "cPK_10_005510_00_FUWARIDE_U.webp",
     "packs": [
       "Shining"
@@ -343,7 +343,7 @@
     "set": "A2b",
     "number": 35,
     "rarity": "RR",
-    "name": "Giratina-ex",
+    "name": "Giratina ex",
     "image": "cPK_10_005520_00_GIRATINAex_RR.webp",
     "packs": [
       "Shining"
@@ -353,7 +353,7 @@
     "set": "A2b",
     "number": 36,
     "rarity": "C",
-    "name": "Mordudor",
+    "name": "Gimmighoul",
     "image": "cPK_10_005530_00_COLLECUREI_C.webp",
     "packs": [
       "Shining"
@@ -363,7 +363,7 @@
     "set": "A2b",
     "number": 37,
     "rarity": "C",
-    "name": "Machoc",
+    "name": "Machop",
     "image": "cPK_10_005540_00_WANRIKY_C.webp",
     "packs": [
       "Shining"
@@ -373,7 +373,7 @@
     "set": "A2b",
     "number": 38,
     "rarity": "C",
-    "name": "Machopeur",
+    "name": "Machoke",
     "image": "cPK_10_005550_00_GORIKY_C.webp",
     "packs": [
       "Shining"
@@ -383,7 +383,7 @@
     "set": "A2b",
     "number": 39,
     "rarity": "R",
-    "name": "Mackogneur",
+    "name": "Machamp",
     "image": "cPK_10_005020_00_KAIRIKY_R.webp",
     "packs": [
       "Shining"
@@ -393,7 +393,7 @@
     "set": "A2b",
     "number": 40,
     "rarity": "C",
-    "name": "Kicklee",
+    "name": "Hitmonlee",
     "image": "cPK_10_005560_00_SAWAMULAR_C.webp",
     "packs": [
       "Shining"
@@ -403,7 +403,7 @@
     "set": "A2b",
     "number": 41,
     "rarity": "C",
-    "name": "Tygnon",
+    "name": "Hitmonchan",
     "image": "cPK_10_005570_00_EBIWALAR_C.webp",
     "packs": [
       "Shining"
@@ -423,7 +423,7 @@
     "set": "A2b",
     "number": 43,
     "rarity": "RR",
-    "name": "Lucario-ex",
+    "name": "Lucario ex",
     "image": "cPK_10_005580_00_LUCARIOex_RR.webp",
     "packs": [
       "Shining"
@@ -433,7 +433,7 @@
     "set": "A2b",
     "number": 44,
     "rarity": "U",
-    "name": "Flamenroule",
+    "name": "Flamigo",
     "image": "cPK_10_005590_00_KARAMINGO_U.webp",
     "packs": [
       "Shining"
@@ -443,7 +443,7 @@
     "set": "A2b",
     "number": 45,
     "rarity": "C",
-    "name": "Abo",
+    "name": "Ekans",
     "image": "cPK_10_005600_00_ARBO_C.webp",
     "packs": [
       "Shining"
@@ -463,7 +463,7 @@
     "set": "A2b",
     "number": 47,
     "rarity": "C",
-    "name": "Axoloto de Paldea",
+    "name": "Paldean Wooper",
     "image": "cPK_10_005620_00_PALDEAUPAH_C.webp",
     "packs": [
       "Shining"
@@ -473,7 +473,7 @@
     "set": "A2b",
     "number": 48,
     "rarity": "RR",
-    "name": "Terraiste de Paldea-ex",
+    "name": "Paldean Clodsire ex",
     "image": "cPK_10_005630_00_PALDEADOOHex_RR.webp",
     "packs": [
       "Shining"
@@ -493,7 +493,7 @@
     "set": "A2b",
     "number": 50,
     "rarity": "C",
-    "name": "Gribouraigne",
+    "name": "Shroodle",
     "image": "cPK_10_005650_00_SHIRUSHREW_C.webp",
     "packs": [
       "Shining"
@@ -503,7 +503,7 @@
     "set": "A2b",
     "number": 51,
     "rarity": "R",
-    "name": "Tag-Tag",
+    "name": "Grafaiai",
     "image": "cPK_10_005660_00_TAGGINGRU_R.webp",
     "packs": [
       "Shining"
@@ -513,7 +513,7 @@
     "set": "A2b",
     "number": 52,
     "rarity": "C",
-    "name": "Forgerette",
+    "name": "Tinkatink",
     "image": "cPK_10_005670_00_KANUCHAN_C.webp",
     "packs": [
       "Shining"
@@ -523,7 +523,7 @@
     "set": "A2b",
     "number": 53,
     "rarity": "U",
-    "name": "Forgella",
+    "name": "Tinkatuff",
     "image": "cPK_10_005680_00_NAKANUCHAN_U.webp",
     "packs": [
       "Shining"
@@ -533,7 +533,7 @@
     "set": "A2b",
     "number": 54,
     "rarity": "RR",
-    "name": "Forgelina-ex",
+    "name": "Tinkaton ex",
     "image": "cPK_10_005690_00_DEKANUCHANex_RR.webp",
     "packs": [
       "Shining"
@@ -543,7 +543,7 @@
     "set": "A2b",
     "number": 55,
     "rarity": "C",
-    "name": "Vrombi",
+    "name": "Varoom",
     "image": "cPK_10_005700_00_BURORON_C.webp",
     "packs": [
       "Shining"
@@ -553,7 +553,7 @@
     "set": "A2b",
     "number": 56,
     "rarity": "U",
-    "name": "Vrombotor",
+    "name": "Revavroom",
     "image": "cPK_10_005710_00_BUROROROOM_U.webp",
     "packs": [
       "Shining"
@@ -563,7 +563,7 @@
     "set": "A2b",
     "number": 57,
     "rarity": "R",
-    "name": "Gromago",
+    "name": "Gholdengo",
     "image": "cPK_10_005720_00_SURFUGO_R.webp",
     "packs": [
       "Shining"
@@ -583,7 +583,7 @@
     "set": "A2b",
     "number": 59,
     "rarity": "C",
-    "name": "Rattatac",
+    "name": "Raticate",
     "image": "cPK_10_005740_00_RATTA_C.webp",
     "packs": [
       "Shining"
@@ -593,7 +593,7 @@
     "set": "A2b",
     "number": 60,
     "rarity": "C",
-    "name": "Rondoudou",
+    "name": "Jigglypuff",
     "image": "cPK_10_005750_00_PURIN_C.webp",
     "packs": [
       "Shining"
@@ -603,7 +603,7 @@
     "set": "A2b",
     "number": 61,
     "rarity": "R",
-    "name": "Grodoudou",
+    "name": "Wigglytuff",
     "image": "cPK_10_005760_00_PUKURIN_R.webp",
     "packs": [
       "Shining"
@@ -613,7 +613,7 @@
     "set": "A2b",
     "number": 62,
     "rarity": "C",
-    "name": "Excelangue",
+    "name": "Lickitung",
     "image": "cPK_10_005770_00_BERORINGA_C.webp",
     "packs": [
       "Shining"
@@ -623,7 +623,7 @@
     "set": "A2b",
     "number": 63,
     "rarity": "C",
-    "name": "Coudlangue",
+    "name": "Lickilicky",
     "image": "cPK_10_005780_00_BEROBELT_C.webp",
     "packs": [
       "Shining"
@@ -633,7 +633,7 @@
     "set": "A2b",
     "number": 64,
     "rarity": "C",
-    "name": "Keunotor",
+    "name": "Bidoof",
     "image": "cPK_10_005040_00_BIPPA_C.webp",
     "packs": [
       "Shining"
@@ -643,7 +643,7 @@
     "set": "A2b",
     "number": 65,
     "rarity": "RR",
-    "name": "Castorno-ex",
+    "name": "Bibarel ex",
     "image": "cPK_10_005790_00_BEADARUex_RR.webp",
     "packs": [
       "Shining"
@@ -653,7 +653,7 @@
     "set": "A2b",
     "number": 66,
     "rarity": "C",
-    "name": "Laporeille",
+    "name": "Buneary",
     "image": "cPK_10_005800_00_MIMIROL_C.webp",
     "packs": [
       "Shining"
@@ -663,7 +663,7 @@
     "set": "A2b",
     "number": 67,
     "rarity": "C",
-    "name": "Lockpin",
+    "name": "Lopunny",
     "image": "cPK_10_005810_00_MIMILOP_C.webp",
     "packs": [
       "Shining"
@@ -673,7 +673,7 @@
     "set": "A2b",
     "number": 68,
     "rarity": "U",
-    "name": "Motorizard",
+    "name": "Cyclizar",
     "image": "cPK_10_005090_00_MOTOTOKAGE_U.webp",
     "packs": [
       "Shining"
@@ -683,7 +683,7 @@
     "set": "A2b",
     "number": 69,
     "rarity": "U",
-    "name": "Mashynn",
+    "name": "Iono",
     "image": "cTR_10_000420_00_NANJYAMO_U.webp",
     "packs": [
       "Shining"
@@ -693,7 +693,7 @@
     "set": "A2b",
     "number": 70,
     "rarity": "U",
-    "name": "Dame du Centre Pokémon",
+    "name": "Pokémon Center Lady",
     "image": "cTR_10_000430_00_POKEMONCENTERNOONEESAN_U.webp",
     "packs": [
       "Shining"
@@ -713,7 +713,7 @@
     "set": "A2b",
     "number": 72,
     "rarity": "U",
-    "name": "Sbire de la Team Rocket",
+    "name": "Team Rocket Grunt",
     "image": "cTR_10_000450_00_ROCKETDANNOSHITAPPA_U.webp",
     "packs": [
       "Shining"
@@ -723,7 +723,7 @@
     "set": "A2b",
     "number": 73,
     "rarity": "AR",
-    "name": "Miascarade",
+    "name": "Meowscarada",
     "image": "cPK_20_005260_00_MASQUERNYA_AR.webp",
     "packs": [
       "Shining"
@@ -733,7 +733,7 @@
     "set": "A2b",
     "number": 74,
     "rarity": "AR",
-    "name": "Mustébouée",
+    "name": "Buizel",
     "image": "cPK_20_005350_00_BUOYSEL_AR.webp",
     "packs": [
       "Shining"
@@ -743,7 +743,7 @@
     "set": "A2b",
     "number": 75,
     "rarity": "AR",
-    "name": "Nigirigon",
+    "name": "Tatsugiri",
     "image": "cPK_20_005400_00_SYARITATSU_AR.webp",
     "packs": [
       "Shining"
@@ -753,7 +753,7 @@
     "set": "A2b",
     "number": 76,
     "rarity": "AR",
-    "name": "Tag-Tag",
+    "name": "Grafaiai",
     "image": "cPK_20_005660_00_TAGGINGRU_AR.webp",
     "packs": [
       "Shining"
@@ -763,7 +763,7 @@
     "set": "A2b",
     "number": 77,
     "rarity": "AR",
-    "name": "Gromago",
+    "name": "Gholdengo",
     "image": "cPK_20_005720_00_SURFUGO_AR.webp",
     "packs": [
       "Shining"
@@ -773,7 +773,7 @@
     "set": "A2b",
     "number": 78,
     "rarity": "AR",
-    "name": "Grodoudou",
+    "name": "Wigglytuff",
     "image": "cPK_20_005760_00_PUKURIN_AR.webp",
     "packs": [
       "Shining"
@@ -783,7 +783,7 @@
     "set": "A2b",
     "number": 79,
     "rarity": "SR",
-    "name": "Dardargnan-ex",
+    "name": "Beedrill ex",
     "image": "cPK_20_005230_00_SPEARex_SR.webp",
     "packs": [
       "Shining"
@@ -793,7 +793,7 @@
     "set": "A2b",
     "number": 80,
     "rarity": "SR",
-    "name": "Dracaufeu-ex",
+    "name": "Charizard ex",
     "image": "cPK_20_005290_00_LIZARDONex_SR.webp",
     "packs": [
       "Shining"
@@ -803,7 +803,7 @@
     "set": "A2b",
     "number": 81,
     "rarity": "SR",
-    "name": "Triopikeau-ex",
+    "name": "Wugtrio ex",
     "image": "cPK_20_005380_00_UMITRIOex_SR.webp",
     "packs": [
       "Shining"
@@ -813,7 +813,7 @@
     "set": "A2b",
     "number": 82,
     "rarity": "SR",
-    "name": "Pikachu-ex",
+    "name": "Pikachu ex",
     "image": "cPK_20_005410_00_PIKACHUex_SR.webp",
     "packs": [
       "Shining"
@@ -823,7 +823,7 @@
     "set": "A2b",
     "number": 83,
     "rarity": "SR",
-    "name": "Giratina-ex",
+    "name": "Giratina ex",
     "image": "cPK_20_005520_00_GIRATINAex_SR.webp",
     "packs": [
       "Shining"
@@ -833,7 +833,7 @@
     "set": "A2b",
     "number": 84,
     "rarity": "SR",
-    "name": "Lucario-ex",
+    "name": "Lucario ex",
     "image": "cPK_20_005580_00_LUCARIOex_SR.webp",
     "packs": [
       "Shining"
@@ -843,7 +843,7 @@
     "set": "A2b",
     "number": 85,
     "rarity": "SR",
-    "name": "Terraiste de Paldea-ex",
+    "name": "Paldean Clodsire ex",
     "image": "cPK_20_005630_00_PALDEADOOHex_SR.webp",
     "packs": [
       "Shining"
@@ -853,7 +853,7 @@
     "set": "A2b",
     "number": 86,
     "rarity": "SR",
-    "name": "Forgelina-ex",
+    "name": "Tinkaton ex",
     "image": "cPK_20_005690_00_DEKANUCHANex_SR.webp",
     "packs": [
       "Shining"
@@ -863,7 +863,7 @@
     "set": "A2b",
     "number": 87,
     "rarity": "SR",
-    "name": "Castorno-ex",
+    "name": "Bibarel ex",
     "image": "cPK_20_005790_00_BEADARUex_SR.webp",
     "packs": [
       "Shining"
@@ -873,7 +873,7 @@
     "set": "A2b",
     "number": 88,
     "rarity": "SR",
-    "name": "Mashynn",
+    "name": "Iono",
     "image": "cTR_20_000420_00_NANJYAMO_SR.webp",
     "packs": [
       "Shining"
@@ -883,7 +883,7 @@
     "set": "A2b",
     "number": 89,
     "rarity": "SR",
-    "name": "Dame du Centre Pokémon",
+    "name": "Pokémon Center Lady",
     "image": "cTR_20_000430_00_POKEMONCENTERNOONEESAN_SR.webp",
     "packs": [
       "Shining"
@@ -903,7 +903,7 @@
     "set": "A2b",
     "number": 91,
     "rarity": "SR",
-    "name": "Sbire de la Team Rocket",
+    "name": "Team Rocket Grunt",
     "image": "cTR_20_000450_00_ROCKETDANNOSHITAPPA_SR.webp",
     "packs": [
       "Shining"
@@ -913,7 +913,7 @@
     "set": "A2b",
     "number": 92,
     "rarity": "SAR",
-    "name": "Pikachu-ex",
+    "name": "Pikachu ex",
     "image": "cPK_20_005410_01_PIKACHUex_SAR.webp",
     "packs": [
       "Shining"
@@ -923,7 +923,7 @@
     "set": "A2b",
     "number": 93,
     "rarity": "SAR",
-    "name": "Terraiste de Paldea-ex",
+    "name": "Paldean Clodsire ex",
     "image": "cPK_20_005630_01_PALDEADOOHex_SAR.webp",
     "packs": [
       "Shining"
@@ -933,7 +933,7 @@
     "set": "A2b",
     "number": 94,
     "rarity": "SAR",
-    "name": "Forgelina-ex",
+    "name": "Tinkaton ex",
     "image": "cPK_20_005690_01_DEKANUCHANex_SAR.webp",
     "packs": [
       "Shining"
@@ -943,7 +943,7 @@
     "set": "A2b",
     "number": 95,
     "rarity": "SAR",
-    "name": "Castorno-ex",
+    "name": "Bibarel ex",
     "image": "cPK_20_005790_01_BEADARUex_SAR.webp",
     "packs": [
       "Shining"
@@ -953,7 +953,7 @@
     "set": "A2b",
     "number": 96,
     "rarity": "IM",
-    "name": "Giratina-ex",
+    "name": "Giratina ex",
     "image": "cPK_20_005520_01_GIRATINAex_IM.webp",
     "packs": [
       "Shining"
@@ -963,7 +963,7 @@
     "set": "A2b",
     "number": 97,
     "rarity": "S",
-    "name": "Aspicot",
+    "name": "Weedle",
     "image": "cPK_20_005210_00_BEEDLE_S.webp",
     "packs": [
       "Shining"
@@ -973,7 +973,7 @@
     "set": "A2b",
     "number": 98,
     "rarity": "S",
-    "name": "Coconfort",
+    "name": "Kakuna",
     "image": "cPK_20_005220_00_COCOON_S.webp",
     "packs": [
       "Shining"
@@ -983,7 +983,7 @@
     "set": "A2b",
     "number": 99,
     "rarity": "S",
-    "name": "Salamèche",
+    "name": "Charmander",
     "image": "cPK_20_005270_00_HITOKAGE_S.webp",
     "packs": [
       "Shining"
@@ -993,7 +993,7 @@
     "set": "A2b",
     "number": 100,
     "rarity": "S",
-    "name": "Reptincel",
+    "name": "Charmeleon",
     "image": "cPK_20_005280_00_LIZARDO_S.webp",
     "packs": [
       "Shining"
@@ -1003,7 +1003,7 @@
     "set": "A2b",
     "number": 101,
     "rarity": "S",
-    "name": "Taupikeau",
+    "name": "Wiglett",
     "image": "cPK_20_005370_00_UMIDIGDA_S.webp",
     "packs": [
       "Shining"
@@ -1013,7 +1013,7 @@
     "set": "A2b",
     "number": 102,
     "rarity": "S",
-    "name": "Oyacata",
+    "name": "Dondozo",
     "image": "cPK_20_005390_00_HEYRUSHER_S.webp",
     "packs": [
       "Shining"
@@ -1043,7 +1043,7 @@
     "set": "A2b",
     "number": 105,
     "rarity": "S",
-    "name": "Vrombi",
+    "name": "Varoom",
     "image": "cPK_20_005700_00_BURORON_S.webp",
     "packs": [
       "Shining"
@@ -1053,7 +1053,7 @@
     "set": "A2b",
     "number": 106,
     "rarity": "S",
-    "name": "Vrombotor",
+    "name": "Revavroom",
     "image": "cPK_20_005710_00_BUROROROOM_S.webp",
     "packs": [
       "Shining"
@@ -1063,7 +1063,7 @@
     "set": "A2b",
     "number": 107,
     "rarity": "SSR",
-    "name": "Dardargnan-ex",
+    "name": "Beedrill ex",
     "image": "cPK_20_005230_01_SPEARex_SSR.webp",
     "packs": [
       "Shining"
@@ -1073,7 +1073,7 @@
     "set": "A2b",
     "number": 108,
     "rarity": "SSR",
-    "name": "Dracaufeu-ex",
+    "name": "Charizard ex",
     "image": "cPK_20_005290_01_LIZARDONex_SSR.webp",
     "packs": [
       "Shining"
@@ -1083,7 +1083,7 @@
     "set": "A2b",
     "number": 109,
     "rarity": "SSR",
-    "name": "Triopikeau-ex",
+    "name": "Wugtrio ex",
     "image": "cPK_20_005380_01_UMITRIOex_SSR.webp",
     "packs": [
       "Shining"
@@ -1093,7 +1093,7 @@
     "set": "A2b",
     "number": 110,
     "rarity": "SSR",
-    "name": "Lucario-ex",
+    "name": "Lucario ex",
     "image": "cPK_20_005580_01_LUCARIOex_SSR.webp",
     "packs": [
       "Shining"

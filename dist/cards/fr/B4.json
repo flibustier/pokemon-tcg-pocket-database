@@ -4,7 +4,7 @@
     "number": 1,
     "rarity": "C",
     "image": "cPK_10_019620_00_KEMUSSO_C.webp",
-    "name": "Chenipotte",
+    "name": "Wurmple",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -14,7 +14,7 @@
     "number": 2,
     "rarity": "C",
     "image": "cPK_10_019630_00_KARASALIS_C.webp",
-    "name": "Armulys",
+    "name": "Silcoon",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -24,7 +24,7 @@
     "number": 3,
     "rarity": "U",
     "image": "cPK_10_019640_00_AGEHUNT_U.webp",
-    "name": "Charmillon",
+    "name": "Beautifly",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -34,7 +34,7 @@
     "number": 4,
     "rarity": "C",
     "image": "cPK_10_019650_00_MAYULD_C.webp",
-    "name": "Blindalys",
+    "name": "Cascoon",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -44,7 +44,7 @@
     "number": 5,
     "rarity": "R",
     "image": "cPK_10_019660_00_DOKUCALE_R.webp",
-    "name": "Papinox",
+    "name": "Dustox",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -54,7 +54,7 @@
     "number": 6,
     "rarity": "U",
     "image": "cPK_10_019670_00_LILYLA_U.webp",
-    "name": "Lilia",
+    "name": "Lileep",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -64,7 +64,7 @@
     "number": 7,
     "rarity": "R",
     "image": "cPK_10_019680_00_YURADLE_R.webp",
-    "name": "Vacilys",
+    "name": "Cradily",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -74,7 +74,7 @@
     "number": 8,
     "rarity": "C",
     "image": "cPK_10_019690_00_KOROBOHSHI_C.webp",
-    "name": "Crikzik",
+    "name": "Kricketot",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -84,7 +84,7 @@
     "number": 9,
     "rarity": "C",
     "image": "cPK_10_019700_00_KOROTOCK_C.webp",
-    "name": "Mélokrik",
+    "name": "Kricketune",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -94,7 +94,7 @@
     "number": 10,
     "rarity": "C",
     "image": "cPK_10_019710_00_MITSUHONEY_C.webp",
-    "name": "Apitrini",
+    "name": "Combee",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -104,7 +104,7 @@
     "number": 11,
     "rarity": "RR",
     "image": "cPK_10_019720_00_BEEQUENex_RR.webp",
-    "name": "Apireine-ex",
+    "name": "Vespiquen ex",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -114,7 +114,7 @@
     "number": 12,
     "rarity": "C",
     "image": "cPK_10_019730_00_KABURUMO_C.webp",
-    "name": "Carabing",
+    "name": "Karrablast",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -124,7 +124,7 @@
     "number": 13,
     "rarity": "C",
     "image": "cPK_10_019740_00_CHOBOMAKI_C.webp",
-    "name": "Escargaume",
+    "name": "Shelmet",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -134,7 +134,7 @@
     "number": 14,
     "rarity": "R",
     "image": "cPK_10_019750_00_AGILDER_R.webp",
-    "name": "Limaspeed",
+    "name": "Accelgor",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -144,7 +144,7 @@
     "number": 15,
     "rarity": "C",
     "image": "cPK_10_019760_00_DADARIN_C.webp",
-    "name": "Sinistrail",
+    "name": "Dhelmise",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -154,7 +154,7 @@
     "number": 16,
     "rarity": "U",
     "image": "cPK_10_019770_00_PHEROACHE_U.webp",
-    "name": "Cancrelove",
+    "name": "Pheromosa",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -174,7 +174,7 @@
     "number": 18,
     "rarity": "U",
     "image": "cPK_10_019790_00_YABASOCHA_U.webp",
-    "name": "Théffroyable",
+    "name": "Sinistcha",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -184,7 +184,7 @@
     "number": 19,
     "rarity": "R",
     "image": "cPK_10_019800_00_OGERPONMIDORINOMEN_R.webp",
-    "name": "Ogerpon Masque Turquoise",
+    "name": "Teal MaskOgerpon",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -204,7 +204,7 @@
     "number": 21,
     "rarity": "U",
     "image": "cPK_10_019820_00_GALLOP_U.webp",
-    "name": "Galopa",
+    "name": "Rapidash",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -214,7 +214,7 @@
     "number": 22,
     "rarity": "U",
     "image": "cPK_10_019830_00_BOOSTER_U.webp",
-    "name": "Pyroli",
+    "name": "Flareon",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -224,7 +224,7 @@
     "number": 23,
     "rarity": "R",
     "image": "cPK_10_019840_00_FIRE_R.webp",
-    "name": "Sulfura",
+    "name": "Moltres",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -234,7 +234,7 @@
     "number": 24,
     "rarity": "C",
     "image": "cPK_10_019850_00_HINOARASHI_C.webp",
-    "name": "Héricendre",
+    "name": "Cyndaquil",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -244,7 +244,7 @@
     "number": 25,
     "rarity": "U",
     "image": "cPK_10_019860_00_MAGMARASHI_U.webp",
-    "name": "Feurisson",
+    "name": "Quilava",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -254,7 +254,7 @@
     "number": 26,
     "rarity": "RR",
     "image": "cPK_10_019870_00_BAKPHOONex_RR.webp",
-    "name": "Typhlosion-ex",
+    "name": "Typhlosion ex",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -264,7 +264,7 @@
     "number": 27,
     "rarity": "C",
     "image": "cPK_10_019880_00_DELVIL_C.webp",
-    "name": "Malosse",
+    "name": "Houndour",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -274,7 +274,7 @@
     "number": 28,
     "rarity": "U",
     "image": "cPK_10_019890_00_HELLGAR_U.webp",
-    "name": "Démolosse",
+    "name": "Houndoom",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -284,7 +284,7 @@
     "number": 29,
     "rarity": "C",
     "image": "cPK_10_019900_00_KUITARAN_C.webp",
-    "name": "Aflamanoir",
+    "name": "Heatmor",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -294,7 +294,7 @@
     "number": 30,
     "rarity": "C",
     "image": "cPK_10_019910_00_KODUCK_C.webp",
-    "name": "Psykokwak",
+    "name": "Psyduck",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -304,7 +304,7 @@
     "number": 31,
     "rarity": "C",
     "image": "cPK_10_019920_00_GOLDUCK_C.webp",
-    "name": "Akwakwak",
+    "name": "Golduck",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -314,7 +314,7 @@
     "number": 32,
     "rarity": "C",
     "image": "cPK_10_019930_00_HITODEMAN_C.webp",
-    "name": "Stari",
+    "name": "Staryu",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -324,7 +324,7 @@
     "number": 33,
     "rarity": "U",
     "image": "cPK_10_019940_00_STARMIE_U.webp",
-    "name": "Staross",
+    "name": "Starmie",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -344,7 +344,7 @@
     "number": 35,
     "rarity": "RR",
     "image": "cPK_10_019960_00_MEGASAMEHADERex_RR.webp",
-    "name": "Méga-Sharpedo-ex",
+    "name": "Mega Sharpedo ex",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -364,7 +364,7 @@
     "number": 37,
     "rarity": "RR",
     "image": "cPK_10_019980_00_WHALOHex_RR.webp",
-    "name": "Wailord-ex",
+    "name": "Wailord ex",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -374,7 +374,7 @@
     "number": 38,
     "rarity": "C",
     "image": "cPK_10_019990_00_TAMAZARASHI_C.webp",
-    "name": "Obalie",
+    "name": "Spheal",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -384,7 +384,7 @@
     "number": 39,
     "rarity": "U",
     "image": "cPK_10_020000_00_TODOGGLER_U.webp",
-    "name": "Phogleur",
+    "name": "Sealeo",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -394,7 +394,7 @@
     "number": 40,
     "rarity": "R",
     "image": "cPK_10_020010_00_TODOSERUGA_R.webp",
-    "name": "Kaimorse",
+    "name": "Walrein",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -414,7 +414,7 @@
     "number": 42,
     "rarity": "C",
     "image": "cPK_10_020030_00_MIJUMARU_C.webp",
-    "name": "Moustillon",
+    "name": "Oshawott",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -424,7 +424,7 @@
     "number": 43,
     "rarity": "U",
     "image": "cPK_10_020040_00_FUTACHIMARU_U.webp",
-    "name": "Mateloutre",
+    "name": "Dewott",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -434,7 +434,7 @@
     "number": 44,
     "rarity": "R",
     "image": "cPK_10_020050_00_DAIKENKI_R.webp",
-    "name": "Clamiral",
+    "name": "Samurott",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -444,7 +444,7 @@
     "number": 45,
     "rarity": "U",
     "image": "cPK_10_020060_00_MAMANBOU_U.webp",
-    "name": "Mamanbo",
+    "name": "Alomomola",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -454,7 +454,7 @@
     "number": 46,
     "rarity": "C",
     "image": "cPK_10_020070_00_SHIZUKUMO_C.webp",
-    "name": "Araqua",
+    "name": "Dewpider",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -464,7 +464,7 @@
     "number": 47,
     "rarity": "U",
     "image": "cPK_10_020080_00_ONISHIZUKUMO_U.webp",
-    "name": "Tarenbulle",
+    "name": "Araquanid",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -474,7 +474,7 @@
     "number": 48,
     "rarity": "C",
     "image": "cPK_10_020090_00_HAGIGISHIRI_C.webp",
-    "name": "Denticrisse",
+    "name": "Bruxish",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -504,7 +504,7 @@
     "number": 51,
     "rarity": "C",
     "image": "cPK_10_020120_00_KOLINK_C.webp",
-    "name": "Lixy",
+    "name": "Shinx",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -544,7 +544,7 @@
     "number": 55,
     "rarity": "RR",
     "image": "cPK_10_020160_00_ROTOMex_RR.webp",
-    "name": "Motisma-ex",
+    "name": "Rotom ex",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -554,7 +554,7 @@
     "number": 56,
     "rarity": "C",
     "image": "cPK_10_020170_00_SHIBISHIRASU_C.webp",
-    "name": "Anchwatt",
+    "name": "Tynamo",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -564,7 +564,7 @@
     "number": 57,
     "rarity": "C",
     "image": "cPK_10_020180_00_SHIBIBEEL_C.webp",
-    "name": "Lampéroie",
+    "name": "Eelektrik",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -574,7 +574,7 @@
     "number": 58,
     "rarity": "U",
     "image": "cPK_10_020190_00_SHIBIRUDON_U.webp",
-    "name": "Ohmassacre",
+    "name": "Eelektross",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -584,7 +584,7 @@
     "number": 59,
     "rarity": "R",
     "image": "cPK_10_020200_00_VOLTOLOS_R.webp",
-    "name": "Fulguris",
+    "name": "Thundurus",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -594,7 +594,7 @@
     "number": 60,
     "rarity": "C",
     "image": "cPK_10_020210_00_ERIKITERU_C.webp",
-    "name": "Galvaran",
+    "name": "Helioptile",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -604,7 +604,7 @@
     "number": 61,
     "rarity": "U",
     "image": "cPK_10_020220_00_ELEZARD_U.webp",
-    "name": "Iguolta",
+    "name": "Heliolisk",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -614,7 +614,7 @@
     "number": 62,
     "rarity": "C",
     "image": "cPK_10_020230_00_KAIDEN_C.webp",
-    "name": "Zapétrel",
+    "name": "Wattrel",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -624,7 +624,7 @@
     "number": 63,
     "rarity": "U",
     "image": "cPK_10_020240_00_TAIKAIDEN_U.webp",
-    "name": "Fulgulairo",
+    "name": "Kilowattrel",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -634,7 +634,7 @@
     "number": 64,
     "rarity": "C",
     "image": "cPK_10_020250_00_PIPPI_C.webp",
-    "name": "Mélofée",
+    "name": "Clefairy",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -644,7 +644,7 @@
     "number": 65,
     "rarity": "C",
     "image": "cPK_10_020260_00_PIXY_C.webp",
-    "name": "Mélodelfe",
+    "name": "Clefable",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -654,7 +654,7 @@
     "number": 66,
     "rarity": "C",
     "image": "cPK_10_020270_00_SLEEPE_C.webp",
-    "name": "Soporifik",
+    "name": "Drowzee",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -664,7 +664,7 @@
     "number": 67,
     "rarity": "U",
     "image": "cPK_10_020280_00_SLEEPER_U.webp",
-    "name": "Hypnomade",
+    "name": "Hypno",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -684,7 +684,7 @@
     "number": 69,
     "rarity": "C",
     "image": "cPK_10_020300_00_BARRIERD_C.webp",
-    "name": "M. Mime",
+    "name": "Mr. Mime",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -704,7 +704,7 @@
     "number": 71,
     "rarity": "C",
     "image": "cPK_10_020320_00_RALTS_C.webp",
-    "name": "Tarsal",
+    "name": "Ralts",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -724,7 +724,7 @@
     "number": 73,
     "rarity": "C",
     "image": "cPK_10_020340_00_CHIREAN_C.webp",
-    "name": "Éoko",
+    "name": "Chimecho",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -734,7 +734,7 @@
     "number": 74,
     "rarity": "R",
     "image": "cPK_10_020350_00_SOHNANO_R.webp",
-    "name": "Okéoké",
+    "name": "Wynaut",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -744,7 +744,7 @@
     "number": 75,
     "rarity": "C",
     "image": "cPK_10_020360_00_KOROMORI_C.webp",
-    "name": "Chovsourir",
+    "name": "Woobat",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -754,7 +754,7 @@
     "number": 76,
     "rarity": "C",
     "image": "cPK_10_020370_00_KOKOROMORI_C.webp",
-    "name": "Rhinolove",
+    "name": "Swoobat",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -774,7 +774,7 @@
     "number": 78,
     "rarity": "U",
     "image": "cPK_10_020390_00_ODORIDORI_U.webp",
-    "name": "Plumeline",
+    "name": "Oricorio",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -834,7 +834,7 @@
     "number": 84,
     "rarity": "RR",
     "image": "cPK_10_020450_00_MEGAERUREIDOex_RR.webp",
-    "name": "Méga-Gallame-ex",
+    "name": "Mega Gallade ex",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -844,7 +844,7 @@
     "number": 85,
     "rarity": "C",
     "image": "cPK_10_020460_00_MOGUREW_C.webp",
-    "name": "Rototaupe",
+    "name": "Drilbur",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -854,7 +854,7 @@
     "number": 86,
     "rarity": "U",
     "image": "cPK_10_020470_00_DORYUZU_U.webp",
-    "name": "Minotaupe",
+    "name": "Excadrill",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -864,7 +864,7 @@
     "number": 87,
     "rarity": "C",
     "image": "cPK_10_020480_00_DOKKORER_C.webp",
-    "name": "Charpenti",
+    "name": "Timburr",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -874,7 +874,7 @@
     "number": 88,
     "rarity": "U",
     "image": "cPK_10_020490_00_DOTEKKOTSU_U.webp",
-    "name": "Ouvrifier",
+    "name": "Gurdurr",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -884,7 +884,7 @@
     "number": 89,
     "rarity": "R",
     "image": "cPK_10_020500_00_ROUBUSHIN_R.webp",
-    "name": "Bétochef",
+    "name": "Conkeldurr",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -894,7 +894,7 @@
     "number": 90,
     "rarity": "C",
     "image": "cPK_10_020510_00_METENO_C.webp",
-    "name": "Météno",
+    "name": "Minior",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -904,7 +904,7 @@
     "number": 91,
     "rarity": "C",
     "image": "cPK_10_020520_00_BETBETER_C.webp",
-    "name": "Tadmorv",
+    "name": "Grimer",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -914,7 +914,7 @@
     "number": 92,
     "rarity": "U",
     "image": "cPK_10_020530_00_BETBETON_U.webp",
-    "name": "Grotadmorv",
+    "name": "Muk",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -924,7 +924,7 @@
     "number": 93,
     "rarity": "C",
     "image": "cPK_10_020540_00_POCHIENA_C.webp",
-    "name": "Medhyèna",
+    "name": "Poochyena",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -934,7 +934,7 @@
     "number": 94,
     "rarity": "C",
     "image": "cPK_10_020550_00_GRAENA_C.webp",
-    "name": "Grahyèna",
+    "name": "Mightyena",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -944,7 +944,7 @@
     "number": 95,
     "rarity": "C",
     "image": "cPK_10_020560_00_GALARJIGUZAGUMA_C.webp",
-    "name": "Zigzaton de Galar",
+    "name": "GalarianZigzagoon",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -954,7 +954,7 @@
     "number": 96,
     "rarity": "U",
     "image": "cPK_10_020570_00_GALARMASSUGUMA_U.webp",
-    "name": "Linéon de Galar",
+    "name": "GalarianLinoone",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -964,7 +964,7 @@
     "number": 97,
     "rarity": "R",
     "image": "cPK_10_020580_00_GALARTACHIFUSAGUMA_R.webp",
-    "name": "Ixon de Galar",
+    "name": "GalarianObstagoon",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -974,7 +974,7 @@
     "number": 98,
     "rarity": "C",
     "image": "cPK_10_020590_00_GOKULIN_C.webp",
-    "name": "Gloupti",
+    "name": "Gulpin",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -984,7 +984,7 @@
     "number": 99,
     "rarity": "U",
     "image": "cPK_10_020600_00_MARUNOOM_U.webp",
-    "name": "Avaltout",
+    "name": "Swalot",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1004,7 +1004,7 @@
     "number": 101,
     "rarity": "C",
     "image": "cPK_10_020620_00_VALCHAI_C.webp",
-    "name": "Vostourno",
+    "name": "Vullaby",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1014,7 +1014,7 @@
     "number": 102,
     "rarity": "U",
     "image": "cPK_10_020630_00_VULGINA_U.webp",
-    "name": "Vaututrice",
+    "name": "Mandibuzz",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1024,7 +1024,7 @@
     "number": 103,
     "rarity": "RR",
     "image": "cPK_10_020640_00_HOOPAex_RR.webp",
-    "name": "Hoopa-ex",
+    "name": "Hoopa ex",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1034,7 +1034,7 @@
     "number": 104,
     "rarity": "C",
     "image": "cPK_10_020650_00_AIRMD_C.webp",
-    "name": "Airmure",
+    "name": "Skarmory",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1044,7 +1044,7 @@
     "number": 105,
     "rarity": "C",
     "image": "cPK_10_020660_00_KUCHEAT_C.webp",
-    "name": "Mysdibule",
+    "name": "Mawile",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1054,7 +1054,7 @@
     "number": 106,
     "rarity": "C",
     "image": "cPK_10_020670_00_DUMBBER_C.webp",
-    "name": "Terhal",
+    "name": "Beldum",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1064,7 +1064,7 @@
     "number": 107,
     "rarity": "U",
     "image": "cPK_10_020680_00_METANG_U.webp",
-    "name": "Métang",
+    "name": "Metang",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1074,7 +1074,7 @@
     "number": 108,
     "rarity": "R",
     "image": "cPK_10_020690_00_METAGROSS_R.webp",
-    "name": "Métalosse",
+    "name": "Metagross",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1084,7 +1084,7 @@
     "number": 109,
     "rarity": "RR",
     "image": "cPK_10_020700_00_MEGAMETAGROSSex_RR.webp",
-    "name": "Méga-Métalosse-ex",
+    "name": "Mega Metagross ex",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1094,7 +1094,7 @@
     "number": 110,
     "rarity": "U",
     "image": "cPK_10_020710_00_CHEVARGO_U.webp",
-    "name": "Lançargot",
+    "name": "Escavalier",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1114,7 +1114,7 @@
     "number": 112,
     "rarity": "U",
     "image": "cPK_10_020730_00_DURALUDON_U.webp",
-    "name": "Duralugon",
+    "name": "Duraludon",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1124,7 +1124,7 @@
     "number": 113,
     "rarity": "R",
     "image": "cPK_10_020740_00_BRIDURAS_R.webp",
-    "name": "Pondralugon",
+    "name": "Archaludon",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1134,7 +1134,7 @@
     "number": 114,
     "rarity": "C",
     "image": "cPK_10_020750_00_BURORON_C.webp",
-    "name": "Vrombi",
+    "name": "Varoom",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1144,7 +1144,7 @@
     "number": 115,
     "rarity": "R",
     "image": "cPK_10_020760_00_BUROROROOM_R.webp",
-    "name": "Vrombotor",
+    "name": "Revavroom",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1154,7 +1154,7 @@
     "number": 116,
     "rarity": "C",
     "image": "cPK_10_020770_00_MINIRYU_C.webp",
-    "name": "Minidraco",
+    "name": "Dratini",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1164,7 +1164,7 @@
     "number": 117,
     "rarity": "U",
     "image": "cPK_10_020780_00_HAKURYU_U.webp",
-    "name": "Draco",
+    "name": "Dragonair",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1174,7 +1174,7 @@
     "number": 118,
     "rarity": "R",
     "image": "cPK_10_020790_00_KAIRYU_R.webp",
-    "name": "Dracolosse",
+    "name": "Dragonite",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1194,7 +1194,7 @@
     "number": 120,
     "rarity": "RR",
     "image": "cPK_10_020810_00_MEGARAYQUAZAex_RR.webp",
-    "name": "Méga-Rayquaza-ex",
+    "name": "Mega Rayquaza ex",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1204,7 +1204,7 @@
     "number": 121,
     "rarity": "C",
     "image": "cPK_10_020820_00_ONBAT_C.webp",
-    "name": "Sonistrelle",
+    "name": "Noibat",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1214,7 +1214,7 @@
     "number": 122,
     "rarity": "R",
     "image": "cPK_10_020830_00_ONVERN_R.webp",
-    "name": "Bruyverne",
+    "name": "Noivern",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1224,7 +1224,7 @@
     "number": 123,
     "rarity": "U",
     "image": "cPK_10_020840_00_BAKUGAMES_U.webp",
-    "name": "Boumata",
+    "name": "Turtonator",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1234,7 +1234,7 @@
     "number": 124,
     "rarity": "U",
     "image": "cPK_10_020850_00_JIJILONG_U.webp",
-    "name": "Draïeul",
+    "name": "Drampa",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1244,7 +1244,7 @@
     "number": 125,
     "rarity": "C",
     "image": "cPK_10_020860_00_KAJICCHU_C.webp",
-    "name": "Verpom",
+    "name": "Applin",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1254,7 +1254,7 @@
     "number": 126,
     "rarity": "U",
     "image": "cPK_10_020870_00_KAMICCHU_U.webp",
-    "name": "Pomdramour",
+    "name": "Dipplin",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1264,7 +1264,7 @@
     "number": 127,
     "rarity": "R",
     "image": "cPK_10_020880_00_KAMITSUOROCHI_R.webp",
-    "name": "Pomdorochi",
+    "name": "Hydrapple",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1274,7 +1274,7 @@
     "number": 128,
     "rarity": "U",
     "image": "cPK_10_020890_00_MOTOTOKAGE_U.webp",
-    "name": "Motorizard",
+    "name": "Cyclizar",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1294,7 +1294,7 @@
     "number": 130,
     "rarity": "R",
     "image": "cPK_10_020910_00_RATTA_R.webp",
-    "name": "Rattatac",
+    "name": "Raticate",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1304,7 +1304,7 @@
     "number": 131,
     "rarity": "C",
     "image": "cPK_10_020920_00_EIEVUI_C.webp",
-    "name": "Évoli",
+    "name": "Eevee",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1314,7 +1314,7 @@
     "number": 132,
     "rarity": "C",
     "image": "cPK_10_020930_00_EIPAM_C.webp",
-    "name": "Capumain",
+    "name": "Aipom",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1324,7 +1324,7 @@
     "number": 133,
     "rarity": "C",
     "image": "cPK_10_020940_00_ETEBOTH_C.webp",
-    "name": "Capidextre",
+    "name": "Ambipom",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1364,7 +1364,7 @@
     "number": 137,
     "rarity": "C",
     "image": "cPK_10_020980_00_MAMEPATO_C.webp",
-    "name": "Poichigeon",
+    "name": "Pidove",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1374,7 +1374,7 @@
     "number": 138,
     "rarity": "C",
     "image": "cPK_10_020990_00_HATOBOH_C.webp",
-    "name": "Colombeau",
+    "name": "Tranquill",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1384,7 +1384,7 @@
     "number": 139,
     "rarity": "U",
     "image": "cPK_10_021000_00_KENHALLOW_U.webp",
-    "name": "Déflaisan",
+    "name": "Unfezant",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1394,7 +1394,7 @@
     "number": 140,
     "rarity": "C",
     "image": "cPK_10_021010_00_KOARUHIE_C.webp",
-    "name": "Couaneton",
+    "name": "Ducklett",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1404,7 +1404,7 @@
     "number": 141,
     "rarity": "RR",
     "image": "cPK_10_021020_00_SWANNAex_RR.webp",
-    "name": "Lakmécygne-ex",
+    "name": "Swanna ex",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1414,7 +1414,7 @@
     "number": 142,
     "rarity": "U",
     "image": "cPK_10_021030_00_TRIMMIEN_U.webp",
-    "name": "Couafarel",
+    "name": "Furfrou",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1424,7 +1424,7 @@
     "number": 143,
     "rarity": "U",
     "image": "cPK_10_021040_00_TYPENULL_U.webp",
-    "name": "Type:0",
+    "name": "Type: Null",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1434,7 +1434,7 @@
     "number": 144,
     "rarity": "R",
     "image": "cPK_10_021050_00_SILVADY_R.webp",
-    "name": "Silvallié",
+    "name": "Silvally",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1444,7 +1444,7 @@
     "number": 145,
     "rarity": "U",
     "image": "cTR_10_001490_00_OTORIYOSEPADDO_U.webp",
-    "name": "Terminal de Commande",
+    "name": "Order Pad",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1454,7 +1454,7 @@
     "number": 146,
     "rarity": "C",
     "image": "cTR_10_001500_00_TSUMENOKASEKI_C.webp",
-    "name": "Fossile Griffe",
+    "name": "Claw Fossil",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1464,7 +1464,7 @@
     "number": 147,
     "rarity": "C",
     "image": "cTR_10_001510_00_NEKKONOKASEKI_C.webp",
-    "name": "Fossile Racine",
+    "name": "Root Fossil",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1474,7 +1474,7 @@
     "number": 148,
     "rarity": "U",
     "image": "cTR_10_001520_00_INCHIKIBARI_U.webp",
-    "name": "Dard Dissimulé",
+    "name": "Deceptive Needle",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1484,7 +1484,7 @@
     "number": 149,
     "rarity": "U",
     "image": "cTR_10_001530_00_KURIAVEIL_U.webp",
-    "name": "Voile Transparent",
+    "name": "Clear Veil",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1494,7 +1494,7 @@
     "number": 150,
     "rarity": "U",
     "image": "cTR_10_001540_00_SAIKIKKA_U.webp",
-    "name": "Kinésiste",
+    "name": "Psychic",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1504,7 +1504,7 @@
     "number": 151,
     "rarity": "U",
     "image": "cTR_10_001550_00_SYAGA_U.webp",
-    "name": "Watson",
+    "name": "Drayden",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1514,7 +1514,7 @@
     "number": 152,
     "rarity": "U",
     "image": "cTR_10_001560_00_HUURO_U.webp",
-    "name": "Carolina",
+    "name": "Skyla",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1524,7 +1524,7 @@
     "number": 153,
     "rarity": "U",
     "image": "cTR_10_001570_00_MITSURU_U.webp",
-    "name": "Timmy",
+    "name": "Wally",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1534,7 +1534,7 @@
     "number": 154,
     "rarity": "U",
     "image": "cTR_10_001580_00_IYASHINOUMIBE_U.webp",
-    "name": "Côte Apaisante",
+    "name": "Soothing Shore",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1544,7 +1544,7 @@
     "number": 155,
     "rarity": "U",
     "image": "cTR_10_001590_00_NIJIIRONODOUKUTSU_U.webp",
-    "name": "Grotte Arc-en-Ciel",
+    "name": "Rainbow Cave",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1554,7 +1554,7 @@
     "number": 156,
     "rarity": "AR",
     "image": "cPK_20_019620_00_KEMUSSO_AR.webp",
-    "name": "Chenipotte",
+    "name": "Wurmple",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1564,7 +1564,7 @@
     "number": 157,
     "rarity": "AR",
     "image": "cPK_20_019670_00_LILYLA_AR.webp",
-    "name": "Lilia",
+    "name": "Lileep",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1574,7 +1574,7 @@
     "number": 158,
     "rarity": "AR",
     "image": "cPK_20_019700_00_KOROTOCK_AR.webp",
-    "name": "Mélokrik",
+    "name": "Kricketune",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1584,7 +1584,7 @@
     "number": 159,
     "rarity": "AR",
     "image": "cPK_20_019750_00_AGILDER_AR.webp",
-    "name": "Limaspeed",
+    "name": "Accelgor",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1604,7 +1604,7 @@
     "number": 161,
     "rarity": "AR",
     "image": "cPK_20_019860_00_MAGMARASHI_AR.webp",
-    "name": "Feurisson",
+    "name": "Quilava",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1624,7 +1624,7 @@
     "number": 163,
     "rarity": "AR",
     "image": "cPK_20_020050_00_DAIKENKI_AR.webp",
-    "name": "Clamiral",
+    "name": "Samurott",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1644,7 +1644,7 @@
     "number": 165,
     "rarity": "AR",
     "image": "cPK_20_020230_00_KAIDEN_AR.webp",
-    "name": "Zapétrel",
+    "name": "Wattrel",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1654,7 +1654,7 @@
     "number": 166,
     "rarity": "AR",
     "image": "cPK_20_020250_00_PIPPI_AR.webp",
-    "name": "Mélofée",
+    "name": "Clefairy",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1664,7 +1664,7 @@
     "number": 167,
     "rarity": "AR",
     "image": "cPK_20_020320_00_RALTS_AR.webp",
-    "name": "Tarsal",
+    "name": "Ralts",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1674,7 +1674,7 @@
     "number": 168,
     "rarity": "AR",
     "image": "cPK_20_020350_00_SOHNANO_AR.webp",
-    "name": "Okéoké",
+    "name": "Wynaut",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1684,7 +1684,7 @@
     "number": 169,
     "rarity": "AR",
     "image": "cPK_20_020390_00_ODORIDORI_AR.webp",
-    "name": "Plumeline",
+    "name": "Oricorio",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1704,7 +1704,7 @@
     "number": 171,
     "rarity": "AR",
     "image": "cPK_20_020540_00_POCHIENA_AR.webp",
-    "name": "Medhyèna",
+    "name": "Poochyena",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1714,7 +1714,7 @@
     "number": 172,
     "rarity": "AR",
     "image": "cPK_20_020590_00_GOKULIN_AR.webp",
-    "name": "Gloupti",
+    "name": "Gulpin",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1724,7 +1724,7 @@
     "number": 173,
     "rarity": "AR",
     "image": "cPK_20_020620_00_VALCHAI_AR.webp",
-    "name": "Vostourno",
+    "name": "Vullaby",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1744,7 +1744,7 @@
     "number": 175,
     "rarity": "AR",
     "image": "cPK_20_020780_00_HAKURYU_AR.webp",
-    "name": "Draco",
+    "name": "Dragonair",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1754,7 +1754,7 @@
     "number": 176,
     "rarity": "AR",
     "image": "cPK_20_020830_00_ONVERN_AR.webp",
-    "name": "Bruyverne",
+    "name": "Noivern",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1764,7 +1764,7 @@
     "number": 177,
     "rarity": "AR",
     "image": "cPK_20_020890_00_MOTOTOKAGE_AR.webp",
-    "name": "Motorizard",
+    "name": "Cyclizar",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1774,7 +1774,7 @@
     "number": 178,
     "rarity": "AR",
     "image": "cPK_20_020910_00_RATTA_AR.webp",
-    "name": "Rattatac",
+    "name": "Raticate",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1784,7 +1784,7 @@
     "number": 179,
     "rarity": "AR",
     "image": "cPK_20_020930_00_EIPAM_AR.webp",
-    "name": "Capumain",
+    "name": "Aipom",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1794,7 +1794,7 @@
     "number": 180,
     "rarity": "SR",
     "image": "cPK_20_019720_00_BEEQUENex_SR.webp",
-    "name": "Apireine-ex",
+    "name": "Vespiquen ex",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1804,7 +1804,7 @@
     "number": 181,
     "rarity": "SR",
     "image": "cPK_20_019870_00_BAKPHOONex_SR.webp",
-    "name": "Typhlosion-ex",
+    "name": "Typhlosion ex",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1814,7 +1814,7 @@
     "number": 182,
     "rarity": "SR",
     "image": "cPK_20_019960_00_MEGASAMEHADERex_SR.webp",
-    "name": "Méga-Sharpedo-ex",
+    "name": "Mega Sharpedo ex",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1824,7 +1824,7 @@
     "number": 183,
     "rarity": "SR",
     "image": "cPK_20_019980_00_WHALOHex_SR.webp",
-    "name": "Wailord-ex",
+    "name": "Wailord ex",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1834,7 +1834,7 @@
     "number": 184,
     "rarity": "SR",
     "image": "cPK_20_020160_00_ROTOMex_SR.webp",
-    "name": "Motisma-ex",
+    "name": "Rotom ex",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1844,7 +1844,7 @@
     "number": 185,
     "rarity": "SR",
     "image": "cPK_20_020450_00_MEGAERUREIDOex_SR.webp",
-    "name": "Méga-Gallame-ex",
+    "name": "Mega Gallade ex",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1854,7 +1854,7 @@
     "number": 186,
     "rarity": "SR",
     "image": "cPK_20_020640_00_HOOPAex_SR.webp",
-    "name": "Hoopa-ex",
+    "name": "Hoopa ex",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1864,7 +1864,7 @@
     "number": 187,
     "rarity": "SR",
     "image": "cPK_20_020700_00_MEGAMETAGROSSex_SR.webp",
-    "name": "Méga-Métalosse-ex",
+    "name": "Mega Metagross ex",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1874,7 +1874,7 @@
     "number": 188,
     "rarity": "SR",
     "image": "cPK_20_020810_00_MEGARAYQUAZAex_SR.webp",
-    "name": "Méga-Rayquaza-ex",
+    "name": "Mega Rayquaza ex",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1884,7 +1884,7 @@
     "number": 189,
     "rarity": "SR",
     "image": "cPK_20_021020_00_SWANNAex_SR.webp",
-    "name": "Lakmécygne-ex",
+    "name": "Swanna ex",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1894,7 +1894,7 @@
     "number": 190,
     "rarity": "SR",
     "image": "cTR_20_001540_00_SAIKIKKA_SR.webp",
-    "name": "Kinésiste",
+    "name": "Psychic",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1904,7 +1904,7 @@
     "number": 191,
     "rarity": "SR",
     "image": "cTR_20_001550_00_SYAGA_SR.webp",
-    "name": "Watson",
+    "name": "Drayden",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1914,7 +1914,7 @@
     "number": 192,
     "rarity": "SR",
     "image": "cTR_20_001560_00_HUURO_SR.webp",
-    "name": "Carolina",
+    "name": "Skyla",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1924,7 +1924,7 @@
     "number": 193,
     "rarity": "SR",
     "image": "cTR_20_001570_00_MITSURU_SR.webp",
-    "name": "Timmy",
+    "name": "Wally",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1934,7 +1934,7 @@
     "number": 194,
     "rarity": "SAR",
     "image": "cPK_20_019720_01_BEEQUENex_SAR.webp",
-    "name": "Apireine-ex",
+    "name": "Vespiquen ex",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1944,7 +1944,7 @@
     "number": 195,
     "rarity": "SAR",
     "image": "cPK_20_019870_01_BAKPHOONex_SAR.webp",
-    "name": "Typhlosion-ex",
+    "name": "Typhlosion ex",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1954,7 +1954,7 @@
     "number": 196,
     "rarity": "SAR",
     "image": "cPK_20_019960_01_MEGASAMEHADERex_SAR.webp",
-    "name": "Méga-Sharpedo-ex",
+    "name": "Mega Sharpedo ex",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1964,7 +1964,7 @@
     "number": 197,
     "rarity": "SAR",
     "image": "cPK_20_019980_01_WHALOHex_SAR.webp",
-    "name": "Wailord-ex",
+    "name": "Wailord ex",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1974,7 +1974,7 @@
     "number": 198,
     "rarity": "SAR",
     "image": "cPK_20_020450_01_MEGAERUREIDOex_SAR.webp",
-    "name": "Méga-Gallame-ex",
+    "name": "Mega Gallade ex",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1984,7 +1984,7 @@
     "number": 199,
     "rarity": "SAR",
     "image": "cPK_20_020640_01_HOOPAex_SAR.webp",
-    "name": "Hoopa-ex",
+    "name": "Hoopa ex",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -1994,7 +1994,7 @@
     "number": 200,
     "rarity": "SAR",
     "image": "cPK_20_020700_01_MEGAMETAGROSSex_SAR.webp",
-    "name": "Méga-Métalosse-ex",
+    "name": "Mega Metagross ex",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -2004,7 +2004,7 @@
     "number": 201,
     "rarity": "SAR",
     "image": "cPK_20_021020_01_SWANNAex_SAR.webp",
-    "name": "Lakmécygne-ex",
+    "name": "Swanna ex",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -2014,7 +2014,7 @@
     "number": 202,
     "rarity": "IM",
     "image": "cPK_20_020160_01_ROTOMex_IM.webp",
-    "name": "Motisma-ex",
+    "name": "Rotom ex",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -2024,7 +2024,7 @@
     "number": 203,
     "rarity": "IM",
     "image": "cPK_20_020810_01_MEGARAYQUAZAex_IM.webp",
-    "name": "Méga-Rayquaza-ex",
+    "name": "Mega Rayquaza ex",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -2034,7 +2034,7 @@
     "number": 204,
     "rarity": "S",
     "image": "cPK_20_013940_00_ALOLAROKON_S.webp",
-    "name": "Goupix d'Alola",
+    "name": "AlolanVulpix",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -2044,7 +2044,7 @@
     "number": 205,
     "rarity": "S",
     "image": "cPK_20_013990_00_MIZUGOROU_S.webp",
-    "name": "Gobou",
+    "name": "Mudkip",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -2054,7 +2054,7 @@
     "number": 206,
     "rarity": "S",
     "image": "cPK_20_014000_00_NUMACRAW_S.webp",
-    "name": "Flobio",
+    "name": "Marshtomp",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -2064,7 +2064,7 @@
     "number": 207,
     "rarity": "S",
     "image": "cPK_20_014010_00_LAGLARGE_S.webp",
-    "name": "Laggron",
+    "name": "Swampert",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -2074,7 +2074,7 @@
     "number": 208,
     "rarity": "S",
     "image": "cPK_20_016290_00_ELEBOO_S.webp",
-    "name": "Élektek",
+    "name": "Electabuzz",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -2084,7 +2084,7 @@
     "number": 209,
     "rarity": "S",
     "image": "cPK_20_014180_00_PRASLE_S.webp",
-    "name": "Posipi",
+    "name": "Plusle",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -2094,7 +2094,7 @@
     "number": 210,
     "rarity": "S",
     "image": "cPK_20_014190_01_MINUN_S.webp",
-    "name": "Négapi",
+    "name": "Minun",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -2104,7 +2104,7 @@
     "number": 211,
     "rarity": "S",
     "image": "cPK_20_020300_00_BARRIERD_S.webp",
-    "name": "M. Mime",
+    "name": "Mr. Mime",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -2124,7 +2124,7 @@
     "number": 213,
     "rarity": "S",
     "image": "cPK_20_014510_00_DANGORO_S.webp",
-    "name": "Nodulithe",
+    "name": "Roggenrola",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -2134,7 +2134,7 @@
     "number": 214,
     "rarity": "S",
     "image": "cPK_20_014520_00_GANTLE_S.webp",
-    "name": "Géolithe",
+    "name": "Boldore",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -2144,7 +2144,7 @@
     "number": 215,
     "rarity": "S",
     "image": "cPK_20_014580_01_TAIRETSU_S.webp",
-    "name": "Hexadron",
+    "name": "Falinks",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -2154,7 +2154,7 @@
     "number": 216,
     "rarity": "S",
     "image": "cPK_20_017660_00_DOGARS_S.webp",
-    "name": "Smogo",
+    "name": "Koffing",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -2164,7 +2164,7 @@
     "number": 217,
     "rarity": "S",
     "image": "cPK_20_017670_00_MATADOGAS_S.webp",
-    "name": "Smogogo",
+    "name": "Weezing",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -2174,7 +2174,7 @@
     "number": 218,
     "rarity": "S",
     "image": "cPK_20_014760_00_GALARNYARTH_S.webp",
-    "name": "Miaouss de Galar",
+    "name": "GalarianMeowth",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -2184,7 +2184,7 @@
     "number": 219,
     "rarity": "S",
     "image": "cPK_20_014770_01_GALARNYAIKING_S.webp",
-    "name": "Berserkatt de Galar",
+    "name": "GalarianPerrserker",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -2204,7 +2204,7 @@
     "number": 221,
     "rarity": "S",
     "image": "cPK_20_020910_01_RATTA_S.webp",
-    "name": "Rattatac",
+    "name": "Raticate",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -2214,7 +2214,7 @@
     "number": 222,
     "rarity": "S",
     "image": "cPK_20_014960_00_DOBLE_S.webp",
-    "name": "Queulorior",
+    "name": "Smeargle",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -2224,7 +2224,7 @@
     "number": 223,
     "rarity": "S",
     "image": "cPK_20_013040_01_MIMIROL_S.webp",
-    "name": "Laporeille",
+    "name": "Buneary",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -2234,7 +2234,7 @@
     "number": 224,
     "rarity": "SSR",
     "image": "cPK_20_013890_02_ZUGADOONex_SSR.webp",
-    "name": "Pierroteknik-ex",
+    "name": "Blacephalon ex",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -2244,7 +2244,7 @@
     "number": 225,
     "rarity": "SSR",
     "image": "cPK_20_013950_02_ALOLAKYUKONex_SSR.webp",
-    "name": "Feunard d'Alola-ex",
+    "name": "AlolanNinetales ex",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -2254,7 +2254,7 @@
     "number": 226,
     "rarity": "SSR",
     "image": "cPK_20_014020_02_MEGALAGLARGEex_SSR.webp",
-    "name": "Méga-Laggron-ex",
+    "name": "Mega Swampert ex",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -2264,7 +2264,7 @@
     "number": 227,
     "rarity": "SSR",
     "image": "cPK_20_014320_02_MEGASIRNIGHTex_SSR.webp",
-    "name": "Méga-Gardevoir-ex",
+    "name": "Mega Gardevoir ex",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -2274,7 +2274,7 @@
     "number": 228,
     "rarity": "SSR",
     "image": "cPK_20_013460_02_MEGAMIMILOPex_SSR.webp",
-    "name": "Méga-Lockpin-ex",
+    "name": "Mega Lopunny ex",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -2284,7 +2284,7 @@
     "number": 229,
     "rarity": "SSR",
     "image": "cPK_20_014530_02_GIGAIATHex_SSR.webp",
-    "name": "Gigalithe-ex",
+    "name": "Gigalith ex",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -2294,7 +2294,7 @@
     "number": 230,
     "rarity": "SSR",
     "image": "cPK_20_017710_02_ZOROARKex_SSR.webp",
-    "name": "Zoroark-ex",
+    "name": "Zoroark ex",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -2304,7 +2304,7 @@
     "number": 231,
     "rarity": "SSR",
     "image": "cPK_20_014930_02_MEGAGARURAex_SSR.webp",
-    "name": "Méga-Kangourex-ex",
+    "name": "Mega Kangaskhan ex",
     "packs": [
       "Ruler of the Skies"
     ]
@@ -2324,7 +2324,7 @@
     "number": 233,
     "rarity": "UR",
     "image": "cPK_20_020780_01_HAKURYU_UR.webp",
-    "name": "Draco",
+    "name": "Dragonair",
     "packs": [
       "Ruler of the Skies"
     ]

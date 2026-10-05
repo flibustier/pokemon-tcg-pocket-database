@@ -3,7 +3,7 @@
     "set": "A3a",
     "number": 1,
     "rarity": "C",
-    "name": "Chlorobule",
+    "name": "Petilil",
     "image": "cPK_10_007430_00_CHURINE_C.webp",
     "packs": [
       "Extradimensional"
@@ -13,7 +13,7 @@
     "set": "A3a",
     "number": 2,
     "rarity": "C",
-    "name": "Fragilady",
+    "name": "Lilligant",
     "image": "cPK_10_007440_00_DREDEAR_C.webp",
     "packs": [
       "Extradimensional"
@@ -23,7 +23,7 @@
     "set": "A3a",
     "number": 3,
     "rarity": "C",
-    "name": "Brindibou",
+    "name": "Rowlet",
     "image": "cPK_10_007450_00_MOKUROH_C.webp",
     "packs": [
       "Extradimensional"
@@ -33,7 +33,7 @@
     "set": "A3a",
     "number": 4,
     "rarity": "U",
-    "name": "Efflèche",
+    "name": "Dartrix",
     "image": "cPK_10_007460_00_FUKUTHROW_U.webp",
     "packs": [
       "Extradimensional"
@@ -43,7 +43,7 @@
     "set": "A3a",
     "number": 5,
     "rarity": "R",
-    "name": "Archéduc",
+    "name": "Decidueye",
     "image": "cPK_10_007470_00_JUNAIPER_R.webp",
     "packs": [
       "Extradimensional"
@@ -53,7 +53,7 @@
     "set": "A3a",
     "number": 6,
     "rarity": "RR",
-    "name": "Mouscoto-ex",
+    "name": "Buzzwole ex",
     "image": "cPK_10_007480_00_MASSIVOONex_RR.webp",
     "packs": [
       "Extradimensional"
@@ -63,7 +63,7 @@
     "set": "A3a",
     "number": 7,
     "rarity": "U",
-    "name": "Cancrelove",
+    "name": "Pheromosa",
     "image": "cPK_10_007490_00_PHEROACHE_U.webp",
     "packs": [
       "Extradimensional"
@@ -73,7 +73,7 @@
     "set": "A3a",
     "number": 8,
     "rarity": "C",
-    "name": "Katagami",
+    "name": "Kartana",
     "image": "cPK_10_007250_00_KAMITURUGI_C.webp",
     "packs": [
       "Extradimensional"
@@ -83,7 +83,7 @@
     "set": "A3a",
     "number": 9,
     "rarity": "U",
-    "name": "Pierroteknik",
+    "name": "Blacephalon",
     "image": "cPK_10_007260_00_ZUGADOON_U.webp",
     "packs": [
       "Extradimensional"
@@ -93,7 +93,7 @@
     "set": "A3a",
     "number": 10,
     "rarity": "C",
-    "name": "Démanta",
+    "name": "Mantine",
     "image": "cPK_10_007500_00_MANTAIN_C.webp",
     "packs": [
       "Extradimensional"
@@ -123,7 +123,7 @@
     "set": "A3a",
     "number": 13,
     "rarity": "C",
-    "name": "Lixy",
+    "name": "Shinx",
     "image": "cPK_10_007530_00_KOLINK_C.webp",
     "packs": [
       "Extradimensional"
@@ -153,7 +153,7 @@
     "set": "A3a",
     "number": 16,
     "rarity": "C",
-    "name": "Zébibron",
+    "name": "Blitzle",
     "image": "cPK_10_007560_00_SHIMAMA_C.webp",
     "packs": [
       "Extradimensional"
@@ -163,7 +163,7 @@
     "set": "A3a",
     "number": 17,
     "rarity": "C",
-    "name": "Zéblitz",
+    "name": "Zebstrika",
     "image": "cPK_10_007570_00_ZEBRAIKA_C.webp",
     "packs": [
       "Extradimensional"
@@ -183,7 +183,7 @@
     "set": "A3a",
     "number": 19,
     "rarity": "RR",
-    "name": "Tokorico-ex",
+    "name": "Tapu Koko ex",
     "image": "cPK_10_007420_00_KAPU-KOKEKOex_RR.webp",
     "packs": [
       "Extradimensional"
@@ -193,7 +193,7 @@
     "set": "A3a",
     "number": 20,
     "rarity": "U",
-    "name": "Câblifère",
+    "name": "Xurkitree",
     "image": "cPK_10_007270_00_DENJYUMOKU_U.webp",
     "packs": [
       "Extradimensional"
@@ -213,7 +213,7 @@
     "set": "A3a",
     "number": 22,
     "rarity": "C",
-    "name": "Mélofée",
+    "name": "Clefairy",
     "image": "cPK_10_007590_00_PIPPI_C.webp",
     "packs": [
       "Extradimensional"
@@ -223,7 +223,7 @@
     "set": "A3a",
     "number": 23,
     "rarity": "U",
-    "name": "Mélodelfe",
+    "name": "Clefable",
     "image": "cPK_10_007600_00_PIXY_U.webp",
     "packs": [
       "Extradimensional"
@@ -233,7 +233,7 @@
     "set": "A3a",
     "number": 24,
     "rarity": "C",
-    "name": "Brocélôme",
+    "name": "Phantump",
     "image": "cPK_10_007610_00_BOKUREI_C.webp",
     "packs": [
       "Extradimensional"
@@ -243,7 +243,7 @@
     "set": "A3a",
     "number": 25,
     "rarity": "C",
-    "name": "Desséliande",
+    "name": "Trevenant",
     "image": "cPK_10_007620_00_OHROT_C.webp",
     "packs": [
       "Extradimensional"
@@ -253,7 +253,7 @@
     "set": "A3a",
     "number": 26,
     "rarity": "C",
-    "name": "Spododo",
+    "name": "Morelull",
     "image": "cPK_10_007630_00_NEMASYU_C.webp",
     "packs": [
       "Extradimensional"
@@ -263,7 +263,7 @@
     "set": "A3a",
     "number": 27,
     "rarity": "R",
-    "name": "Lampignon",
+    "name": "Shiinotic",
     "image": "cPK_10_007640_00_MASHADE_R.webp",
     "packs": [
       "Extradimensional"
@@ -273,7 +273,7 @@
     "set": "A3a",
     "number": 28,
     "rarity": "C",
-    "name": "Méditikka",
+    "name": "Meditite",
     "image": "cPK_10_007650_00_ASANAN_C.webp",
     "packs": [
       "Extradimensional"
@@ -283,7 +283,7 @@
     "set": "A3a",
     "number": 29,
     "rarity": "U",
-    "name": "Charmina",
+    "name": "Medicham",
     "image": "cPK_10_007660_00_CHAREM_U.webp",
     "packs": [
       "Extradimensional"
@@ -293,7 +293,7 @@
     "set": "A3a",
     "number": 30,
     "rarity": "C",
-    "name": "Balbuto",
+    "name": "Baltoy",
     "image": "cPK_10_007670_00_YAJILON_C.webp",
     "packs": [
       "Extradimensional"
@@ -303,7 +303,7 @@
     "set": "A3a",
     "number": 31,
     "rarity": "U",
-    "name": "Kaorine",
+    "name": "Claydol",
     "image": "cPK_10_007680_00_NENDOLL_U.webp",
     "packs": [
       "Extradimensional"
@@ -313,7 +313,7 @@
     "set": "A3a",
     "number": 32,
     "rarity": "C",
-    "name": "Rocabot",
+    "name": "Rockruff",
     "image": "cPK_10_007690_00_IWANKO_C.webp",
     "packs": [
       "Extradimensional"
@@ -323,7 +323,7 @@
     "set": "A3a",
     "number": 33,
     "rarity": "RR",
-    "name": "Lougaroc-ex",
+    "name": "Lycanroc ex",
     "image": "cPK_10_007700_00_LUGARUGANTASOGARENOSUGATA_RR.webp",
     "packs": [
       "Extradimensional"
@@ -333,7 +333,7 @@
     "set": "A3a",
     "number": 34,
     "rarity": "C",
-    "name": "Quartermac",
+    "name": "Passimian",
     "image": "cPK_10_007710_00_NAGETUKESARU_C.webp",
     "packs": [
       "Extradimensional"
@@ -343,7 +343,7 @@
     "set": "A3a",
     "number": 35,
     "rarity": "C",
-    "name": "Bacabouh",
+    "name": "Sandygast",
     "image": "cPK_10_007720_00_SUNABA_C.webp",
     "packs": [
       "Extradimensional"
@@ -353,7 +353,7 @@
     "set": "A3a",
     "number": 36,
     "rarity": "U",
-    "name": "Trépassable",
+    "name": "Palossand",
     "image": "cPK_10_007730_00_SIRODETHNA_U.webp",
     "packs": [
       "Extradimensional"
@@ -363,7 +363,7 @@
     "set": "A3a",
     "number": 37,
     "rarity": "C",
-    "name": "Miaouss d'Alola",
+    "name": "Alolan Meowth",
     "image": "cPK_10_007740_00_ALOLANYARTH_C.webp",
     "packs": [
       "Extradimensional"
@@ -373,7 +373,7 @@
     "set": "A3a",
     "number": 38,
     "rarity": "U",
-    "name": "Persian d'Alola",
+    "name": "Alolan Persian",
     "image": "cPK_10_007750_00_ALOLAPERSIAN_U.webp",
     "packs": [
       "Extradimensional"
@@ -383,7 +383,7 @@
     "set": "A3a",
     "number": 39,
     "rarity": "C",
-    "name": "Mascaïman",
+    "name": "Sandile",
     "image": "cPK_10_007760_00_MEGUROCO_C.webp",
     "packs": [
       "Extradimensional"
@@ -393,7 +393,7 @@
     "set": "A3a",
     "number": 40,
     "rarity": "C",
-    "name": "Escroco",
+    "name": "Krokorok",
     "image": "cPK_10_007770_00_WARUVILE_C.webp",
     "packs": [
       "Extradimensional"
@@ -403,7 +403,7 @@
     "set": "A3a",
     "number": 41,
     "rarity": "U",
-    "name": "Crocorible",
+    "name": "Krookodile",
     "image": "cPK_10_007780_00_WARUVIAL_U.webp",
     "packs": [
       "Extradimensional"
@@ -413,7 +413,7 @@
     "set": "A3a",
     "number": 42,
     "rarity": "R",
-    "name": "Zéroïd",
+    "name": "Nihilego",
     "image": "cPK_10_007790_00_UTUROID_R.webp",
     "packs": [
       "Extradimensional"
@@ -423,7 +423,7 @@
     "set": "A3a",
     "number": 43,
     "rarity": "RR",
-    "name": "Engloutyran-ex",
+    "name": "Guzzlord ex",
     "image": "cPK_10_007800_00_AKUZIKINGex_RR.webp",
     "packs": [
       "Extradimensional"
@@ -433,7 +433,7 @@
     "set": "A3a",
     "number": 44,
     "rarity": "C",
-    "name": "Vémini",
+    "name": "Poipole",
     "image": "cPK_10_007370_00_BEVENOM_C.webp",
     "packs": [
       "Extradimensional"
@@ -443,7 +443,7 @@
     "set": "A3a",
     "number": 45,
     "rarity": "R",
-    "name": "Mandrillon",
+    "name": "Naganadel",
     "image": "cPK_10_007810_00_AGOYON_R.webp",
     "packs": [
       "Extradimensional"
@@ -453,7 +453,7 @@
     "set": "A3a",
     "number": 46,
     "rarity": "C",
-    "name": "Taupiqueur d'Alola",
+    "name": "Alolan Diglett",
     "image": "cPK_10_007820_00_ALOLADIGDA_C.webp",
     "packs": [
       "Extradimensional"
@@ -463,7 +463,7 @@
     "set": "A3a",
     "number": 47,
     "rarity": "RR",
-    "name": "Triopikeur d'Alola-ex",
+    "name": "Alolan Dugtrio ex",
     "image": "cPK_10_007830_00_ALOLADUGTRIOex_RR.webp",
     "packs": [
       "Extradimensional"
@@ -473,7 +473,7 @@
     "set": "A3a",
     "number": 48,
     "rarity": "C",
-    "name": "Galekid",
+    "name": "Aron",
     "image": "cPK_10_007840_00_COKODORA_C.webp",
     "packs": [
       "Extradimensional"
@@ -483,7 +483,7 @@
     "set": "A3a",
     "number": 49,
     "rarity": "C",
-    "name": "Galegon",
+    "name": "Lairon",
     "image": "cPK_10_007850_00_KODORA_C.webp",
     "packs": [
       "Extradimensional"
@@ -493,7 +493,7 @@
     "set": "A3a",
     "number": 50,
     "rarity": "U",
-    "name": "Galeking",
+    "name": "Aggron",
     "image": "cPK_10_007860_00_BOSSGODORA_U.webp",
     "packs": [
       "Extradimensional"
@@ -503,7 +503,7 @@
     "set": "A3a",
     "number": 51,
     "rarity": "C",
-    "name": "Grindur",
+    "name": "Ferroseed",
     "image": "cPK_10_007870_00_TESSEED_C.webp",
     "packs": [
       "Extradimensional"
@@ -513,7 +513,7 @@
     "set": "A3a",
     "number": 52,
     "rarity": "U",
-    "name": "Noacier",
+    "name": "Ferrothorn",
     "image": "cPK_10_007880_00_NUTREY_U.webp",
     "packs": [
       "Extradimensional"
@@ -523,7 +523,7 @@
     "set": "A3a",
     "number": 53,
     "rarity": "U",
-    "name": "Ama-Ama",
+    "name": "Stakataka",
     "image": "cPK_10_007300_00_TUNDETUNDE_U.webp",
     "packs": [
       "Extradimensional"
@@ -533,7 +533,7 @@
     "set": "A3a",
     "number": 54,
     "rarity": "C",
-    "name": "Ponchiot",
+    "name": "Lillipup",
     "image": "cPK_10_007890_00_YORTERRIE_C.webp",
     "packs": [
       "Extradimensional"
@@ -543,7 +543,7 @@
     "set": "A3a",
     "number": 55,
     "rarity": "C",
-    "name": "Ponchien",
+    "name": "Herdier",
     "image": "cPK_10_007900_00_HERDERRIE_C.webp",
     "packs": [
       "Extradimensional"
@@ -553,7 +553,7 @@
     "set": "A3a",
     "number": 56,
     "rarity": "U",
-    "name": "Mastouffe",
+    "name": "Stoutland",
     "image": "cPK_10_007910_00_MOOLAND_U.webp",
     "packs": [
       "Extradimensional"
@@ -563,7 +563,7 @@
     "set": "A3a",
     "number": 57,
     "rarity": "C",
-    "name": "Nounourson",
+    "name": "Stufful",
     "image": "cPK_10_007380_00_NUIKOGUMA_C.webp",
     "packs": [
       "Extradimensional"
@@ -573,7 +573,7 @@
     "set": "A3a",
     "number": 58,
     "rarity": "U",
-    "name": "Chelours",
+    "name": "Bewear",
     "image": "cPK_10_007920_00_KITERUGUMA_U.webp",
     "packs": [
       "Extradimensional"
@@ -583,7 +583,7 @@
     "set": "A3a",
     "number": 59,
     "rarity": "C",
-    "name": "Gouroutan",
+    "name": "Oranguru",
     "image": "cPK_10_007930_00_YAREYUUTAN_C.webp",
     "packs": [
       "Extradimensional"
@@ -593,7 +593,7 @@
     "set": "A3a",
     "number": 60,
     "rarity": "U",
-    "name": "Type:0",
+    "name": "Type: Null",
     "image": "cPK_10_007940_00_TYPENULL_U.webp",
     "packs": [
       "Extradimensional"
@@ -603,7 +603,7 @@
     "set": "A3a",
     "number": 61,
     "rarity": "R",
-    "name": "Silvallié",
+    "name": "Silvally",
     "image": "cPK_10_007950_00_SILVADY_R.webp",
     "packs": [
       "Extradimensional"
@@ -613,7 +613,7 @@
     "set": "A3a",
     "number": 62,
     "rarity": "R",
-    "name": "Bamboiselle",
+    "name": "Celesteela",
     "image": "cPK_10_007960_00_TEKKAGUYA_R.webp",
     "packs": [
       "Extradimensional"
@@ -623,7 +623,7 @@
     "set": "A3a",
     "number": 63,
     "rarity": "U",
-    "name": "Barrière Chimère",
+    "name": "Beast Wall",
     "image": "cTR_10_000600_00_BISUTOWORU_U.webp",
     "packs": [
       "Extradimensional"
@@ -633,7 +633,7 @@
     "set": "A3a",
     "number": 64,
     "rarity": "U",
-    "name": "Repousse",
+    "name": "Repel",
     "image": "cTR_10_000610_00_MUSHIYOKESUPUREI_U.webp",
     "packs": [
       "Extradimensional"
@@ -643,7 +643,7 @@
     "set": "A3a",
     "number": 65,
     "rarity": "U",
-    "name": "Câble Électrique",
+    "name": "Electrical Cord",
     "image": "cTR_10_000620_00_EREKIKORD_U.webp",
     "packs": [
       "Extradimensional"
@@ -653,7 +653,7 @@
     "set": "A3a",
     "number": 66,
     "rarity": "U",
-    "name": "Chimérite",
+    "name": "Beastite",
     "image": "cTR_10_000630_00_BISUTONAITO_U.webp",
     "packs": [
       "Extradimensional"
@@ -663,7 +663,7 @@
     "set": "A3a",
     "number": 67,
     "rarity": "U",
-    "name": "Gladio",
+    "name": "Gladion",
     "image": "cTR_10_000640_00_GLAZIO_U.webp",
     "packs": [
       "Extradimensional"
@@ -673,7 +673,7 @@
     "set": "A3a",
     "number": 68,
     "rarity": "U",
-    "name": "Beladonis",
+    "name": "Looker",
     "image": "cTR_10_000650_00_HANDSOME_U.webp",
     "packs": [
       "Extradimensional"
@@ -683,7 +683,7 @@
     "set": "A3a",
     "number": 69,
     "rarity": "U",
-    "name": "Elsa-Mina",
+    "name": "Lusamine",
     "image": "cTR_10_000660_00_LUSAMINE_U.webp",
     "packs": [
       "Extradimensional"
@@ -693,7 +693,7 @@
     "set": "A3a",
     "number": 70,
     "rarity": "AR",
-    "name": "Brindibou",
+    "name": "Rowlet",
     "image": "cPK_20_007450_00_MOKUROH_AR.webp",
     "packs": [
       "Extradimensional"
@@ -703,7 +703,7 @@
     "set": "A3a",
     "number": 71,
     "rarity": "AR",
-    "name": "Cancrelove",
+    "name": "Pheromosa",
     "image": "cPK_20_007490_00_PHEROACHE_AR.webp",
     "packs": [
       "Extradimensional"
@@ -713,7 +713,7 @@
     "set": "A3a",
     "number": 72,
     "rarity": "AR",
-    "name": "Pierroteknik",
+    "name": "Blacephalon",
     "image": "cPK_20_007260_00_ZUGADOON_AR.webp",
     "packs": [
       "Extradimensional"
@@ -723,7 +723,7 @@
     "set": "A3a",
     "number": 73,
     "rarity": "AR",
-    "name": "Miaouss d'Alola",
+    "name": "Alolan Meowth",
     "image": "cPK_20_007740_00_ALOLANYARTH_AR.webp",
     "packs": [
       "Extradimensional"
@@ -733,7 +733,7 @@
     "set": "A3a",
     "number": 74,
     "rarity": "AR",
-    "name": "Silvallié",
+    "name": "Silvally",
     "image": "cPK_20_007950_00_SILVADY_AR.webp",
     "packs": [
       "Extradimensional"
@@ -743,7 +743,7 @@
     "set": "A3a",
     "number": 75,
     "rarity": "AR",
-    "name": "Bamboiselle",
+    "name": "Celesteela",
     "image": "cPK_20_007960_00_TEKKAGUYA_AR.webp",
     "packs": [
       "Extradimensional"
@@ -753,7 +753,7 @@
     "set": "A3a",
     "number": 76,
     "rarity": "SR",
-    "name": "Mouscoto-ex",
+    "name": "Buzzwole ex",
     "image": "cPK_20_007480_00_MASSIVOONex_SR.webp",
     "packs": [
       "Extradimensional"
@@ -763,7 +763,7 @@
     "set": "A3a",
     "number": 77,
     "rarity": "SR",
-    "name": "Tokorico-ex",
+    "name": "Tapu Koko ex",
     "image": "cPK_20_007420_00_KAPU-KOKEKOex_SR.webp",
     "packs": [
       "Extradimensional"
@@ -773,7 +773,7 @@
     "set": "A3a",
     "number": 78,
     "rarity": "SR",
-    "name": "Lougaroc-ex",
+    "name": "Lycanroc ex",
     "image": "cPK_20_007700_00_LUGARUGANex_SR.webp",
     "packs": [
       "Extradimensional"
@@ -783,7 +783,7 @@
     "set": "A3a",
     "number": 79,
     "rarity": "SR",
-    "name": "Engloutyran-ex",
+    "name": "Guzzlord ex",
     "image": "cPK_20_007800_00_AKUZIKINGex_SR.webp",
     "packs": [
       "Extradimensional"
@@ -793,7 +793,7 @@
     "set": "A3a",
     "number": 80,
     "rarity": "SR",
-    "name": "Triopikeur d'Alola-ex",
+    "name": "Alolan Dugtrio ex",
     "image": "cPK_20_007830_00_ALOLADUGTRIOex_SR.webp",
     "packs": [
       "Extradimensional"
@@ -803,7 +803,7 @@
     "set": "A3a",
     "number": 81,
     "rarity": "SR",
-    "name": "Gladio",
+    "name": "Gladion",
     "image": "cTR_20_000640_00_GLAZIO_SR.webp",
     "packs": [
       "Extradimensional"
@@ -813,7 +813,7 @@
     "set": "A3a",
     "number": 82,
     "rarity": "SR",
-    "name": "Beladonis",
+    "name": "Looker",
     "image": "cTR_20_000650_00_HANDSOME_SR.webp",
     "packs": [
       "Extradimensional"
@@ -823,7 +823,7 @@
     "set": "A3a",
     "number": 83,
     "rarity": "SR",
-    "name": "Elsa-Mina",
+    "name": "Lusamine",
     "image": "cTR_20_000660_00_LUSAMINE_SR.webp",
     "packs": [
       "Extradimensional"
@@ -833,7 +833,7 @@
     "set": "A3a",
     "number": 84,
     "rarity": "SAR",
-    "name": "Tokorico-ex",
+    "name": "Tapu Koko ex",
     "image": "cPK_20_007420_01_KAPU-KOKEKOex_SAR.webp",
     "packs": [
       "Extradimensional"
@@ -843,7 +843,7 @@
     "set": "A3a",
     "number": 85,
     "rarity": "SAR",
-    "name": "Lougaroc-ex",
+    "name": "Lycanroc ex",
     "image": "cPK_20_007700_01_LUGARUGANex_SAR.webp",
     "packs": [
       "Extradimensional"
@@ -853,7 +853,7 @@
     "set": "A3a",
     "number": 86,
     "rarity": "SAR",
-    "name": "Engloutyran-ex",
+    "name": "Guzzlord ex",
     "image": "cPK_20_007800_01_AKUZIKINGex_SAR.webp",
     "packs": [
       "Extradimensional"
@@ -863,7 +863,7 @@
     "set": "A3a",
     "number": 87,
     "rarity": "SAR",
-    "name": "Triopikeur d'Alola-ex",
+    "name": "Alolan Dugtrio ex",
     "image": "cPK_20_007830_01_ALOLADUGTRIOex_SAR.webp",
     "packs": [
       "Extradimensional"
@@ -873,7 +873,7 @@
     "set": "A3a",
     "number": 88,
     "rarity": "IM",
-    "name": "Mouscoto-ex",
+    "name": "Buzzwole ex",
     "image": "cPK_20_007480_01_MASSIVOONex_IM.webp",
     "packs": [
       "Extradimensional"
@@ -883,7 +883,7 @@
     "set": "A3a",
     "number": 89,
     "rarity": "S",
-    "name": "Caninos",
+    "name": "Growlithe",
     "image": "cPK_20_000390_00_GARDIE_S.webp",
     "packs": [
       "Extradimensional"
@@ -893,7 +893,7 @@
     "set": "A3a",
     "number": 90,
     "rarity": "S",
-    "name": "Arcanin",
+    "name": "Arcanine",
     "image": "cPK_20_000400_00_WINDIE_S.webp",
     "packs": [
       "Extradimensional"
@@ -903,7 +903,7 @@
     "set": "A3a",
     "number": 91,
     "rarity": "S",
-    "name": "Grenousse",
+    "name": "Froakie",
     "image": "cPK_20_000870_00_KEROMATSU_S.webp",
     "packs": [
       "Extradimensional"
@@ -913,7 +913,7 @@
     "set": "A3a",
     "number": 92,
     "rarity": "S",
-    "name": "Croâporal",
+    "name": "Frogadier",
     "image": "cPK_20_000880_00_GEKOGASHIRA_S.webp",
     "packs": [
       "Extradimensional"
@@ -923,7 +923,7 @@
     "set": "A3a",
     "number": 93,
     "rarity": "S",
-    "name": "Amphinobi",
+    "name": "Greninja",
     "image": "cPK_20_000890_00_GEKKOUGA_S.webp",
     "packs": [
       "Extradimensional"
@@ -933,7 +933,7 @@
     "set": "A3a",
     "number": 94,
     "rarity": "S",
-    "name": "Lippoutou",
+    "name": "Jynx",
     "image": "cPK_20_001270_00_ROUGELA_S.webp",
     "packs": [
       "Extradimensional"
@@ -943,7 +943,7 @@
     "set": "A3a",
     "number": 95,
     "rarity": "S",
-    "name": "Roucool",
+    "name": "Pidgey",
     "image": "cPK_20_001860_00_POPPO_S.webp",
     "packs": [
       "Extradimensional"
@@ -953,7 +953,7 @@
     "set": "A3a",
     "number": 96,
     "rarity": "S",
-    "name": "Roucoups",
+    "name": "Pidgeotto",
     "image": "cPK_20_001870_00_PIGEON_S.webp",
     "packs": [
       "Extradimensional"
@@ -963,7 +963,7 @@
     "set": "A3a",
     "number": 97,
     "rarity": "S",
-    "name": "Roucarnage",
+    "name": "Pidgeot",
     "image": "cPK_20_001880_01_PIGEOT_S.webp",
     "packs": [
       "Extradimensional"
@@ -973,7 +973,7 @@
     "set": "A3a",
     "number": 98,
     "rarity": "S",
-    "name": "Ptéra",
+    "name": "Aerodactyl",
     "image": "cPK_20_002080_00_PTERA_S.webp",
     "packs": [
       "Extradimensional"
@@ -983,7 +983,7 @@
     "set": "A3a",
     "number": 99,
     "rarity": "SSR",
-    "name": "Celebi-ex",
+    "name": "Celebi ex",
     "image": "cPK_20_002170_02_CELEBIex_SSR.webp",
     "packs": [
       "Extradimensional"
@@ -993,7 +993,7 @@
     "set": "A3a",
     "number": 100,
     "rarity": "SSR",
-    "name": "Arcanin-ex",
+    "name": "Arcanine ex",
     "image": "cPK_20_000410_01_WINDIEex_SSR.webp",
     "packs": [
       "Extradimensional"
@@ -1003,7 +1003,7 @@
     "set": "A3a",
     "number": 101,
     "rarity": "SSR",
-    "name": "Ptéra-ex",
+    "name": "Aerodactyl ex",
     "image": "cPK_20_002590_02_PTERAex_SSR.webp",
     "packs": [
       "Extradimensional"
@@ -1013,7 +1013,7 @@
     "set": "A3a",
     "number": 102,
     "rarity": "SSR",
-    "name": "Roucarnage-ex",
+    "name": "Pidgeot ex",
     "image": "cPK_20_002720_01_PIGEOTex_SSR.webp",
     "packs": [
       "Extradimensional"
@@ -1023,7 +1023,7 @@
     "set": "A3a",
     "number": 103,
     "rarity": "UR",
-    "name": "Zéroïd",
+    "name": "Nihilego",
     "image": "cPK_20_007790_00_UTUROID_UR.webp",
     "packs": [
       "Extradimensional"

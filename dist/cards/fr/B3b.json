@@ -4,7 +4,7 @@
     "number": 1,
     "rarity": "C",
     "image": "cPK_10_019040_00_CATERPIE_C.webp",
-    "name": "Chenipan",
+    "name": "Caterpie",
     "packs": [
       "Everyday Wonders"
     ]
@@ -14,7 +14,7 @@
     "number": 2,
     "rarity": "U",
     "image": "cPK_10_019050_00_TRANSEL_U.webp",
-    "name": "Chrysacier",
+    "name": "Metapod",
     "packs": [
       "Everyday Wonders"
     ]
@@ -24,7 +24,7 @@
     "number": 3,
     "rarity": "R",
     "image": "cPK_10_019060_00_BUTTERFREE_R.webp",
-    "name": "Papilusion",
+    "name": "Butterfree",
     "packs": [
       "Everyday Wonders"
     ]
@@ -54,7 +54,7 @@
     "number": 6,
     "rarity": "C",
     "image": "cPK_10_019090_00_CHURINE_C.webp",
-    "name": "Chlorobule",
+    "name": "Petilil",
     "packs": [
       "Everyday Wonders"
     ]
@@ -64,7 +64,7 @@
     "number": 7,
     "rarity": "U",
     "image": "cPK_10_019100_00_HISUIDREDEAR_U.webp",
-    "name": "Fragilady de Hisui",
+    "name": "Hisuian Lilligant",
     "packs": [
       "Everyday Wonders"
     ]
@@ -74,7 +74,7 @@
     "number": 8,
     "rarity": "C",
     "image": "cPK_10_019110_00_ROKON_C.webp",
-    "name": "Goupix",
+    "name": "Vulpix",
     "packs": [
       "Everyday Wonders"
     ]
@@ -84,7 +84,7 @@
     "number": 9,
     "rarity": "U",
     "image": "cPK_10_019120_00_KYUKON_U.webp",
-    "name": "Feunard",
+    "name": "Ninetales",
     "packs": [
       "Everyday Wonders"
     ]
@@ -94,7 +94,7 @@
     "number": 10,
     "rarity": "C",
     "image": "cPK_10_019010_00_GARDIE_C.webp",
-    "name": "Caninos",
+    "name": "Growlithe",
     "packs": [
       "Everyday Wonders"
     ]
@@ -104,7 +104,7 @@
     "number": 11,
     "rarity": "C",
     "image": "cPK_10_019030_00_KODUCK_C.webp",
-    "name": "Psykokwak",
+    "name": "Psyduck",
     "packs": [
       "Everyday Wonders"
     ]
@@ -114,7 +114,7 @@
     "number": 12,
     "rarity": "C",
     "image": "cPK_10_019130_00_TOSAKINTO_C.webp",
-    "name": "Poissirène",
+    "name": "Goldeen",
     "packs": [
       "Everyday Wonders"
     ]
@@ -124,7 +124,7 @@
     "number": 13,
     "rarity": "U",
     "image": "cPK_10_019140_00_AZUMAO_U.webp",
-    "name": "Poissoroy",
+    "name": "Seaking",
     "packs": [
       "Everyday Wonders"
     ]
@@ -134,7 +134,7 @@
     "number": 14,
     "rarity": "C",
     "image": "cPK_10_019150_00_HINBASS_C.webp",
-    "name": "Barpau",
+    "name": "Feebas",
     "packs": [
       "Everyday Wonders"
     ]
@@ -144,7 +144,7 @@
     "number": 15,
     "rarity": "RR",
     "image": "cPK_10_019160_00_MILOKAROSSex_RR.webp",
-    "name": "Milobellus-ex",
+    "name": "Milotic ex",
     "packs": [
       "Everyday Wonders"
     ]
@@ -154,7 +154,7 @@
     "number": 16,
     "rarity": "C",
     "image": "cPK_10_019170_00_YUKIWARASHI_C.webp",
-    "name": "Stalgamin",
+    "name": "Snorunt",
     "packs": [
       "Everyday Wonders"
     ]
@@ -164,7 +164,7 @@
     "number": 17,
     "rarity": "R",
     "image": "cPK_10_018970_00_YUKIMENOKO_R.webp",
-    "name": "Momartik",
+    "name": "Froslass",
     "packs": [
       "Everyday Wonders"
     ]
@@ -174,7 +174,7 @@
     "number": 18,
     "rarity": "C",
     "image": "cPK_10_019180_00_LOVECUS_C.webp",
-    "name": "Lovdisc",
+    "name": "Luvdisc",
     "packs": [
       "Everyday Wonders"
     ]
@@ -184,7 +184,7 @@
     "number": 19,
     "rarity": "C",
     "image": "cPK_10_019190_00_POCHAMA_C.webp",
-    "name": "Tiplouf",
+    "name": "Piplup",
     "packs": [
       "Everyday Wonders"
     ]
@@ -194,7 +194,7 @@
     "number": 20,
     "rarity": "U",
     "image": "cPK_10_019200_00_TETSUNOTSUTSUMI_U.webp",
-    "name": "Hotte-de-Fer",
+    "name": "Iron Bundle",
     "packs": [
       "Everyday Wonders"
     ]
@@ -234,7 +234,7 @@
     "number": 24,
     "rarity": "RR",
     "image": "cPK_10_019220_00_DEDENNEex_RR.webp",
-    "name": "Dedenne-ex",
+    "name": "Dedenne ex",
     "packs": [
       "Everyday Wonders"
     ]
@@ -244,7 +244,7 @@
     "number": 25,
     "rarity": "C",
     "image": "cPK_10_019230_00_WANPACHI_C.webp",
-    "name": "Voltoutou",
+    "name": "Yamper",
     "packs": [
       "Everyday Wonders"
     ]
@@ -254,7 +254,7 @@
     "number": 26,
     "rarity": "C",
     "image": "cPK_10_019240_00_YADON_C.webp",
-    "name": "Ramoloss",
+    "name": "Slowpoke",
     "packs": [
       "Everyday Wonders"
     ]
@@ -264,7 +264,7 @@
     "number": 27,
     "rarity": "U",
     "image": "cPK_10_019250_00_YADORAN_U.webp",
-    "name": "Flagadoss",
+    "name": "Slowbro",
     "packs": [
       "Everyday Wonders"
     ]
@@ -284,7 +284,7 @@
     "number": 29,
     "rarity": "U",
     "image": "cPK_10_019270_00_MUSHARNA_U.webp",
-    "name": "Mushana",
+    "name": "Musharna",
     "packs": [
       "Everyday Wonders"
     ]
@@ -294,7 +294,7 @@
     "number": 30,
     "rarity": "R",
     "image": "cPK_10_019280_00_NYMPHIA_R.webp",
-    "name": "Nymphali",
+    "name": "Sylveon",
     "packs": [
       "Everyday Wonders"
     ]
@@ -304,7 +304,7 @@
     "number": 31,
     "rarity": "U",
     "image": "cPK_10_019290_00_MELECIE_U.webp",
-    "name": "Strassie",
+    "name": "Carbink",
     "packs": [
       "Everyday Wonders"
     ]
@@ -314,7 +314,7 @@
     "number": 32,
     "rarity": "RR",
     "image": "cPK_10_019300_00_MEGADIANCIEex_RR.webp",
-    "name": "Méga-Diancie-ex",
+    "name": "Mega Diancie ex",
     "packs": [
       "Everyday Wonders"
     ]
@@ -324,7 +324,7 @@
     "number": 33,
     "rarity": "R",
     "image": "cPK_10_019310_00_LOVETOLOS_R.webp",
-    "name": "Amovénus",
+    "name": "Enamorus",
     "packs": [
       "Everyday Wonders"
     ]
@@ -334,7 +334,7 @@
     "number": 34,
     "rarity": "C",
     "image": "cPK_10_019320_00_PUPIMOCCHI_C.webp",
-    "name": "Pâtachiot",
+    "name": "Fidough",
     "packs": [
       "Everyday Wonders"
     ]
@@ -344,7 +344,7 @@
     "number": 35,
     "rarity": "U",
     "image": "cPK_10_019330_00_HABATAKUKAMI_U.webp",
-    "name": "Flotte-Mèche",
+    "name": "Flutter Mane",
     "packs": [
       "Everyday Wonders"
     ]
@@ -354,7 +354,7 @@
     "number": 36,
     "rarity": "C",
     "image": "cPK_10_019340_00_UPAH_C.webp",
-    "name": "Axoloto",
+    "name": "Wooper",
     "packs": [
       "Everyday Wonders"
     ]
@@ -364,7 +364,7 @@
     "number": 37,
     "rarity": "U",
     "image": "cPK_10_019350_00_NUOH_U.webp",
-    "name": "Maraiste",
+    "name": "Quagsire",
     "packs": [
       "Everyday Wonders"
     ]
@@ -374,7 +374,7 @@
     "number": 38,
     "rarity": "C",
     "image": "cPK_10_019360_00_IWANKO_C.webp",
-    "name": "Rocabot",
+    "name": "Rockruff",
     "packs": [
       "Everyday Wonders"
     ]
@@ -384,7 +384,7 @@
     "number": 39,
     "rarity": "C",
     "image": "cPK_10_019370_00_SUNABA_C.webp",
-    "name": "Bacabouh",
+    "name": "Sandygast",
     "packs": [
       "Everyday Wonders"
     ]
@@ -394,7 +394,7 @@
     "number": 40,
     "rarity": "U",
     "image": "cPK_10_019380_00_SIRODETHNA_U.webp",
-    "name": "Trépassable",
+    "name": "Palossand",
     "packs": [
       "Everyday Wonders"
     ]
@@ -404,7 +404,7 @@
     "number": 41,
     "rarity": "RR",
     "image": "cPK_10_019390_00_MEGAYAMIRAMIex_RR.webp",
-    "name": "Méga-Ténéfix-ex",
+    "name": "Mega Sableye ex",
     "packs": [
       "Everyday Wonders"
     ]
@@ -434,7 +434,7 @@
     "number": 44,
     "rarity": "C",
     "image": "cPK_10_019420_00_ZURUGGU_C.webp",
-    "name": "Baggiguane",
+    "name": "Scraggy",
     "packs": [
       "Everyday Wonders"
     ]
@@ -444,7 +444,7 @@
     "number": 45,
     "rarity": "U",
     "image": "cPK_10_019430_00_ZURUZUKIN_U.webp",
-    "name": "Baggaïd",
+    "name": "Scrafty",
     "packs": [
       "Everyday Wonders"
     ]
@@ -454,7 +454,7 @@
     "number": 46,
     "rarity": "C",
     "image": "cPK_10_019440_00_HIDOIDE_C.webp",
-    "name": "Vorastérie",
+    "name": "Mareanie",
     "packs": [
       "Everyday Wonders"
     ]
@@ -464,7 +464,7 @@
     "number": 47,
     "rarity": "U",
     "image": "cPK_10_019450_00_DOHIDOIDE_U.webp",
-    "name": "Prédastérie",
+    "name": "Toxapex",
     "packs": [
       "Everyday Wonders"
     ]
@@ -474,7 +474,7 @@
     "number": 48,
     "rarity": "C",
     "image": "cPK_10_019460_00_NUMERA_C.webp",
-    "name": "Mucuscule",
+    "name": "Goomy",
     "packs": [
       "Everyday Wonders"
     ]
@@ -484,7 +484,7 @@
     "number": 49,
     "rarity": "U",
     "image": "cPK_10_019470_00_HISUINUMEIL_U.webp",
-    "name": "Colimucus de Hisui",
+    "name": "Hisuian Sliggoo",
     "packs": [
       "Everyday Wonders"
     ]
@@ -494,7 +494,7 @@
     "number": 50,
     "rarity": "R",
     "image": "cPK_10_019480_00_HISUINUMELGON_R.webp",
-    "name": "Muplodocus de Hisui",
+    "name": "Hisuian Goodra",
     "packs": [
       "Everyday Wonders"
     ]
@@ -504,7 +504,7 @@
     "number": 51,
     "rarity": "C",
     "image": "cPK_10_019490_00_PURIN_C.webp",
-    "name": "Rondoudou",
+    "name": "Jigglypuff",
     "packs": [
       "Everyday Wonders"
     ]
@@ -514,7 +514,7 @@
     "number": 52,
     "rarity": "U",
     "image": "cPK_10_019500_00_PUKURIN_U.webp",
-    "name": "Grodoudou",
+    "name": "Wigglytuff",
     "packs": [
       "Everyday Wonders"
     ]
@@ -524,7 +524,7 @@
     "number": 53,
     "rarity": "C",
     "image": "cPK_10_019510_00_EIEVUI_C.webp",
-    "name": "Évoli",
+    "name": "Eevee",
     "packs": [
       "Everyday Wonders"
     ]
@@ -534,7 +534,7 @@
     "number": 54,
     "rarity": "R",
     "image": "cPK_10_019520_00_GONBE_R.webp",
-    "name": "Goinfrex",
+    "name": "Munchlax",
     "packs": [
       "Everyday Wonders"
     ]
@@ -544,7 +544,7 @@
     "number": 55,
     "rarity": "R",
     "image": "cPK_10_019530_00_KABIGON_R.webp",
-    "name": "Ronflex",
+    "name": "Snorlax",
     "packs": [
       "Everyday Wonders"
     ]
@@ -574,7 +574,7 @@
     "number": 58,
     "rarity": "R",
     "image": "cPK_10_019560_00_GACHIGUMA_R.webp",
-    "name": "Ursaking",
+    "name": "Ursaluna",
     "packs": [
       "Everyday Wonders"
     ]
@@ -584,7 +584,7 @@
     "number": 59,
     "rarity": "C",
     "image": "cPK_10_019000_00_HISUIZORUA_C.webp",
-    "name": "Zorua de Hisui",
+    "name": "Hisuian Zorua",
     "packs": [
       "Everyday Wonders"
     ]
@@ -594,7 +594,7 @@
     "number": 60,
     "rarity": "RR",
     "image": "cPK_10_019570_00_HISUIZOROARKex_RR.webp",
-    "name": "Zoroark de Hisui-ex",
+    "name": "Hisuian Zoroark ex",
     "packs": [
       "Everyday Wonders"
     ]
@@ -604,7 +604,7 @@
     "number": 61,
     "rarity": "C",
     "image": "cPK_10_019580_00_TRIMMIEN_C.webp",
-    "name": "Couafarel",
+    "name": "Furfrou",
     "packs": [
       "Everyday Wonders"
     ]
@@ -614,7 +614,7 @@
     "number": 62,
     "rarity": "C",
     "image": "cPK_10_019590_00_HOSHIGARISU_C.webp",
-    "name": "Rongourmand",
+    "name": "Skwovet",
     "packs": [
       "Everyday Wonders"
     ]
@@ -624,7 +624,7 @@
     "number": 63,
     "rarity": "U",
     "image": "cPK_10_019600_00_YOKUBARISU_U.webp",
-    "name": "Rongrigou",
+    "name": "Greedent",
     "packs": [
       "Everyday Wonders"
     ]
@@ -634,7 +634,7 @@
     "number": 64,
     "rarity": "U",
     "image": "cTR_10_001430_00_CHIISANAFUUSEN_U.webp",
-    "name": "Petit Ballon",
+    "name": "Small Balloon",
     "packs": [
       "Everyday Wonders"
     ]
@@ -644,7 +644,7 @@
     "number": 65,
     "rarity": "U",
     "image": "cTR_10_001440_00_YUUGANAMANTO_U.webp",
-    "name": "Cape Élégante",
+    "name": "Elegant Cape",
     "packs": [
       "Everyday Wonders"
     ]
@@ -654,7 +654,7 @@
     "number": 66,
     "rarity": "U",
     "image": "cTR_10_001450_00_KAMITSURE_U.webp",
-    "name": "Inezia",
+    "name": "Elesa",
     "packs": [
       "Everyday Wonders"
     ]
@@ -664,7 +664,7 @@
     "number": 67,
     "rarity": "U",
     "image": "cTR_10_001460_00_KOINUDAISUKIGARL_U.webp",
-    "name": "Fan de Chiots",
+    "name": "Puppy-Loving Girl",
     "packs": [
       "Everyday Wonders"
     ]
@@ -674,7 +674,7 @@
     "number": 68,
     "rarity": "U",
     "image": "cTR_10_001470_00_MIKURI_U.webp",
-    "name": "Marc",
+    "name": "Wallace",
     "packs": [
       "Everyday Wonders"
     ]
@@ -684,7 +684,7 @@
     "number": 69,
     "rarity": "U",
     "image": "cTR_10_001480_00_KODOMOBEYA_U.webp",
-    "name": "Chambre d'Enfant",
+    "name": "Kid’s Room",
     "packs": [
       "Everyday Wonders"
     ]
@@ -694,7 +694,7 @@
     "number": 70,
     "rarity": "AR",
     "image": "cPK_20_019110_00_ROKON_AR.webp",
-    "name": "Goupix",
+    "name": "Vulpix",
     "packs": [
       "Everyday Wonders"
     ]
@@ -704,7 +704,7 @@
     "number": 71,
     "rarity": "AR",
     "image": "cPK_20_019190_00_POCHAMA_AR.webp",
-    "name": "Tiplouf",
+    "name": "Piplup",
     "packs": [
       "Everyday Wonders"
     ]
@@ -724,7 +724,7 @@
     "number": 73,
     "rarity": "AR",
     "image": "cPK_20_019280_00_NYMPHIA_AR.webp",
-    "name": "Nymphali",
+    "name": "Sylveon",
     "packs": [
       "Everyday Wonders"
     ]
@@ -734,7 +734,7 @@
     "number": 74,
     "rarity": "AR",
     "image": "cPK_20_019440_00_HIDOIDE_AR.webp",
-    "name": "Vorastérie",
+    "name": "Mareanie",
     "packs": [
       "Everyday Wonders"
     ]
@@ -744,7 +744,7 @@
     "number": 75,
     "rarity": "AR",
     "image": "cPK_20_019490_00_PURIN_AR.webp",
-    "name": "Rondoudou",
+    "name": "Jigglypuff",
     "packs": [
       "Everyday Wonders"
     ]
@@ -754,7 +754,7 @@
     "number": 76,
     "rarity": "AR",
     "image": "cPK_20_019530_00_KABIGON_AR.webp",
-    "name": "Ronflex",
+    "name": "Snorlax",
     "packs": [
       "Everyday Wonders"
     ]
@@ -764,7 +764,7 @@
     "number": 77,
     "rarity": "AR",
     "image": "cPK_20_019600_00_YOKUBARISU_AR.webp",
-    "name": "Rongrigou",
+    "name": "Greedent",
     "packs": [
       "Everyday Wonders"
     ]
@@ -774,7 +774,7 @@
     "number": 78,
     "rarity": "SR",
     "image": "cPK_20_019160_00_MILOKAROSSex_SR.webp",
-    "name": "Milobellus-ex",
+    "name": "Milotic ex",
     "packs": [
       "Everyday Wonders"
     ]
@@ -784,7 +784,7 @@
     "number": 79,
     "rarity": "SR",
     "image": "cPK_20_019220_00_DEDENNEex_SR.webp",
-    "name": "Dedenne-ex",
+    "name": "Dedenne ex",
     "packs": [
       "Everyday Wonders"
     ]
@@ -794,7 +794,7 @@
     "number": 80,
     "rarity": "SR",
     "image": "cPK_20_019300_00_MEGADIANCIEex_SR.webp",
-    "name": "Méga-Diancie-ex",
+    "name": "Mega Diancie ex",
     "packs": [
       "Everyday Wonders"
     ]
@@ -804,7 +804,7 @@
     "number": 81,
     "rarity": "SR",
     "image": "cPK_20_019390_00_MEGAYAMIRAMIex_SR.webp",
-    "name": "Méga-Ténéfix-ex",
+    "name": "Mega Sableye ex",
     "packs": [
       "Everyday Wonders"
     ]
@@ -814,7 +814,7 @@
     "number": 82,
     "rarity": "SR",
     "image": "cPK_20_019570_00_HISUIZOROARKex_SR.webp",
-    "name": "Zoroark de Hisui-ex",
+    "name": "Hisuian Zoroark ex",
     "packs": [
       "Everyday Wonders"
     ]
@@ -824,7 +824,7 @@
     "number": 83,
     "rarity": "SR",
     "image": "cTR_20_001450_00_KAMITSURE_SR.webp",
-    "name": "Inezia",
+    "name": "Elesa",
     "packs": [
       "Everyday Wonders"
     ]
@@ -834,7 +834,7 @@
     "number": 84,
     "rarity": "SR",
     "image": "cTR_20_001460_00_KOINUDAISUKIGARL_SR.webp",
-    "name": "Fan de Chiots",
+    "name": "Puppy-Loving Girl",
     "packs": [
       "Everyday Wonders"
     ]
@@ -844,7 +844,7 @@
     "number": 85,
     "rarity": "SR",
     "image": "cTR_20_001470_00_MIKURI_SR.webp",
-    "name": "Marc",
+    "name": "Wallace",
     "packs": [
       "Everyday Wonders"
     ]
@@ -854,7 +854,7 @@
     "number": 86,
     "rarity": "SAR",
     "image": "cPK_20_019160_01_MILOKAROSSex_SAR.webp",
-    "name": "Milobellus-ex",
+    "name": "Milotic ex",
     "packs": [
       "Everyday Wonders"
     ]
@@ -864,7 +864,7 @@
     "number": 87,
     "rarity": "SAR",
     "image": "cPK_20_019300_01_MEGADIANCIEex_SAR.webp",
-    "name": "Méga-Diancie-ex",
+    "name": "Mega Diancie ex",
     "packs": [
       "Everyday Wonders"
     ]
@@ -874,7 +874,7 @@
     "number": 88,
     "rarity": "SAR",
     "image": "cPK_20_019390_01_MEGAYAMIRAMIex_SAR.webp",
-    "name": "Méga-Ténéfix-ex",
+    "name": "Mega Sableye ex",
     "packs": [
       "Everyday Wonders"
     ]
@@ -884,7 +884,7 @@
     "number": 89,
     "rarity": "SAR",
     "image": "cPK_20_019570_01_HISUIZOROARKex_SAR.webp",
-    "name": "Zoroark de Hisui-ex",
+    "name": "Hisuian Zoroark ex",
     "packs": [
       "Everyday Wonders"
     ]
@@ -894,7 +894,7 @@
     "number": 90,
     "rarity": "IM",
     "image": "cPK_20_019220_01_DEDENNEex_IM.webp",
-    "name": "Dedenne-ex",
+    "name": "Dedenne ex",
     "packs": [
       "Everyday Wonders"
     ]
@@ -904,7 +904,7 @@
     "number": 91,
     "rarity": "S",
     "image": "cPK_20_019040_00_CATERPIE_S.webp",
-    "name": "Chenipan",
+    "name": "Caterpie",
     "packs": [
       "Everyday Wonders"
     ]
@@ -914,7 +914,7 @@
     "number": 92,
     "rarity": "S",
     "image": "cPK_20_019050_00_TRANSEL_S.webp",
-    "name": "Chrysacier",
+    "name": "Metapod",
     "packs": [
       "Everyday Wonders"
     ]
@@ -924,7 +924,7 @@
     "number": 93,
     "rarity": "S",
     "image": "cPK_20_019060_00_BUTTERFREE_S.webp",
-    "name": "Papilusion",
+    "name": "Butterfree",
     "packs": [
       "Everyday Wonders"
     ]
@@ -934,7 +934,7 @@
     "number": 94,
     "rarity": "S",
     "image": "cPK_20_011640_00_MERRIEP_S.webp",
-    "name": "Wattouat",
+    "name": "Mareep",
     "packs": [
       "Everyday Wonders"
     ]
@@ -944,7 +944,7 @@
     "number": 95,
     "rarity": "S",
     "image": "cPK_20_011650_00_MOKOKO_S.webp",
-    "name": "Lainergie",
+    "name": "Flaaffy",
     "packs": [
       "Everyday Wonders"
     ]
@@ -954,7 +954,7 @@
     "number": 96,
     "rarity": "S",
     "image": "cPK_20_011660_00_DENRYU_S.webp",
-    "name": "Pharamp",
+    "name": "Ampharos",
     "packs": [
       "Everyday Wonders"
     ]
@@ -964,7 +964,7 @@
     "number": 97,
     "rarity": "S",
     "image": "cPK_20_019250_00_YADORAN_S.webp",
-    "name": "Flagadoss",
+    "name": "Slowbro",
     "packs": [
       "Everyday Wonders"
     ]
@@ -974,7 +974,7 @@
     "number": 98,
     "rarity": "S",
     "image": "cPK_20_014920_00_GARURA_S.webp",
-    "name": "Kangourex",
+    "name": "Kangaskhan",
     "packs": [
       "Everyday Wonders"
     ]
@@ -984,7 +984,7 @@
     "number": 99,
     "rarity": "S",
     "image": "cPK_20_013060_00_METAMON_S.webp",
-    "name": "Métamorph",
+    "name": "Ditto",
     "packs": [
       "Everyday Wonders"
     ]
@@ -994,7 +994,7 @@
     "number": 100,
     "rarity": "S",
     "image": "cPK_20_019530_01_KABIGON_S.webp",
-    "name": "Ronflex",
+    "name": "Snorlax",
     "packs": [
       "Everyday Wonders"
     ]
@@ -1004,7 +1004,7 @@
     "number": 101,
     "rarity": "SSR",
     "image": "cPK_20_011340_02_MEGAGYARADOSex_SSR.webp",
-    "name": "Méga-Léviator-ex",
+    "name": "Mega Gyarados ex",
     "packs": [
       "Everyday Wonders"
     ]
@@ -1014,7 +1014,7 @@
     "number": 102,
     "rarity": "SSR",
     "image": "cPK_20_017020_02_SHOWERSex_SSR.webp",
-    "name": "Aquali-ex",
+    "name": "Vaporeon ex",
     "packs": [
       "Everyday Wonders"
     ]
@@ -1024,7 +1024,7 @@
     "number": 103,
     "rarity": "SSR",
     "image": "cPK_20_011670_02_MEGADENRYUex_SSR.webp",
-    "name": "Méga-Pharamp-ex",
+    "name": "Mega Ampharos ex",
     "packs": [
       "Everyday Wonders"
     ]
@@ -1034,7 +1034,7 @@
     "number": 104,
     "rarity": "SSR",
     "image": "cPK_20_012030_02_YESSANex_SSR.webp",
-    "name": "Wimessir-ex",
+    "name": "Indeedee ex",
     "packs": [
       "Everyday Wonders"
     ]
@@ -1044,7 +1044,7 @@
     "number": 105,
     "rarity": "UR",
     "image": "cPK_20_019520_00_GONBE_UR.webp",
-    "name": "Goinfrex",
+    "name": "Munchlax",
     "packs": [
       "Everyday Wonders"
     ]
@@ -1054,7 +1054,7 @@
     "number": 106,
     "rarity": "UR",
     "image": "cTR_20_001430_00_CHIISANAFUUSEN_UR.webp",
-    "name": "Petit Ballon",
+    "name": "Small Balloon",
     "packs": [
       "Everyday Wonders"
     ]

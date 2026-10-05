@@ -3,7 +3,7 @@
     "set": "B1",
     "number": 1,
     "rarity": "C",
-    "name": "Scarabrute",
+    "name": "Pinsir",
     "image": "cPK_10_010830_00_KAILIOS_C.webp",
     "packs": [
       "Mega Blaziken"
@@ -13,7 +13,7 @@
     "set": "B1",
     "number": 2,
     "rarity": "RR",
-    "name": "Méga-Scarabrute-ex",
+    "name": "Mega Pinsir ex",
     "image": "cPK_10_010840_00_MEGAKAILIOSex_RR.webp",
     "packs": [
       "Mega Blaziken"
@@ -23,7 +23,7 @@
     "set": "B1",
     "number": 3,
     "rarity": "C",
-    "name": "Chenipotte",
+    "name": "Wurmple",
     "image": "cPK_10_010850_00_KEMUSSO_C.webp",
     "packs": [
       "Mega Blaziken"
@@ -33,7 +33,7 @@
     "set": "B1",
     "number": 4,
     "rarity": "C",
-    "name": "Armulys",
+    "name": "Silcoon",
     "image": "cPK_10_010860_00_KARASALIS_C.webp",
     "packs": [
       "Mega Blaziken"
@@ -43,7 +43,7 @@
     "set": "B1",
     "number": 5,
     "rarity": "R",
-    "name": "Charmillon",
+    "name": "Beautifly",
     "image": "cPK_10_010870_00_AGEHUNT_R.webp",
     "packs": [
       "Mega Blaziken"
@@ -53,7 +53,7 @@
     "set": "B1",
     "number": 6,
     "rarity": "C",
-    "name": "Blindalys",
+    "name": "Cascoon",
     "image": "cPK_10_010880_00_MAYULD_C.webp",
     "packs": [
       "Mega Blaziken"
@@ -63,7 +63,7 @@
     "set": "B1",
     "number": 7,
     "rarity": "R",
-    "name": "Papinox",
+    "name": "Dustox",
     "image": "cPK_10_010890_00_DOKUCALE_R.webp",
     "packs": [
       "Mega Blaziken"
@@ -73,7 +73,7 @@
     "set": "B1",
     "number": 8,
     "rarity": "C",
-    "name": "Grainipiot",
+    "name": "Seedot",
     "image": "cPK_10_010900_00_TANEBOH_C.webp",
     "packs": [
       "Mega Blaziken"
@@ -83,7 +83,7 @@
     "set": "B1",
     "number": 9,
     "rarity": "U",
-    "name": "Pifeuil",
+    "name": "Nuzleaf",
     "image": "cPK_10_010910_00_KONOHANA_U.webp",
     "packs": [
       "Mega Blaziken"
@@ -93,7 +93,7 @@
     "set": "B1",
     "number": 10,
     "rarity": "R",
-    "name": "Tengalice",
+    "name": "Shiftry",
     "image": "cPK_10_010920_00_DIRTENG_R.webp",
     "packs": [
       "Mega Blaziken"
@@ -103,7 +103,7 @@
     "set": "B1",
     "number": 11,
     "rarity": "C",
-    "name": "Balignon",
+    "name": "Shroomish",
     "image": "cPK_10_010930_00_KINOCOCO_C.webp",
     "packs": [
       "Mega Altaria",
@@ -115,7 +115,7 @@
     "set": "B1",
     "number": 12,
     "rarity": "U",
-    "name": "Chapignon",
+    "name": "Breloom",
     "image": "cPK_10_010940_00_KINOGASSA_U.webp",
     "packs": [
       "Mega Altaria",
@@ -127,7 +127,7 @@
     "set": "B1",
     "number": 13,
     "rarity": "C",
-    "name": "Feuillajou",
+    "name": "Pansage",
     "image": "cPK_10_010950_00_YANAPPU_C.webp",
     "packs": [
       "Mega Gyarados"
@@ -137,7 +137,7 @@
     "set": "B1",
     "number": 14,
     "rarity": "C",
-    "name": "Feuiloutan",
+    "name": "Simisage",
     "image": "cPK_10_010960_00_YANAKKIE_C.webp",
     "packs": [
       "Mega Gyarados"
@@ -147,7 +147,7 @@
     "set": "B1",
     "number": 15,
     "rarity": "C",
-    "name": "Doudouvet",
+    "name": "Cottonee",
     "image": "cPK_10_010970_00_MONMEN_C.webp",
     "packs": [
       "Mega Altaria"
@@ -157,7 +157,7 @@
     "set": "B1",
     "number": 16,
     "rarity": "RR",
-    "name": "Farfaduvet-ex",
+    "name": "Whimsicott ex",
     "image": "cPK_10_010980_00_ELFUUNex_RR.webp",
     "packs": [
       "Mega Altaria"
@@ -167,7 +167,7 @@
     "set": "B1",
     "number": 17,
     "rarity": "C",
-    "name": "Chlorobule",
+    "name": "Petilil",
     "image": "cPK_10_010990_00_CHURINE_C.webp",
     "packs": [
       "Mega Altaria"
@@ -177,7 +177,7 @@
     "set": "B1",
     "number": 18,
     "rarity": "R",
-    "name": "Fragilady",
+    "name": "Lilligant",
     "image": "cPK_10_011000_00_DREDEAR_R.webp",
     "packs": [
       "Mega Altaria"
@@ -187,7 +187,7 @@
     "set": "B1",
     "number": 19,
     "rarity": "C",
-    "name": "Maracachi",
+    "name": "Maractus",
     "image": "cPK_10_011010_00_MARACACCHI_C.webp",
     "packs": [
       "Mega Altaria",
@@ -199,7 +199,7 @@
     "set": "B1",
     "number": 20,
     "rarity": "R",
-    "name": "Viridium",
+    "name": "Virizion",
     "image": "cPK_10_011020_00_VIRIZION_R.webp",
     "packs": [
       "Mega Altaria"
@@ -209,7 +209,7 @@
     "set": "B1",
     "number": 21,
     "rarity": "C",
-    "name": "Cabriolaine",
+    "name": "Skiddo",
     "image": "cPK_10_011030_00_MEECLE_C.webp",
     "packs": [
       "Mega Altaria"
@@ -219,7 +219,7 @@
     "set": "B1",
     "number": 22,
     "rarity": "C",
-    "name": "Chevroum",
+    "name": "Gogoat",
     "image": "cPK_10_011040_00_GOGOAT_C.webp",
     "packs": [
       "Mega Altaria"
@@ -229,7 +229,7 @@
     "set": "B1",
     "number": 23,
     "rarity": "C",
-    "name": "Brocélôme",
+    "name": "Phantump",
     "image": "cPK_10_011050_00_BOKUREI_C.webp",
     "packs": [
       "Mega Altaria",
@@ -241,7 +241,7 @@
     "set": "B1",
     "number": 24,
     "rarity": "U",
-    "name": "Desséliande",
+    "name": "Trevenant",
     "image": "cPK_10_011060_00_OHROT_U.webp",
     "packs": [
       "Mega Altaria",
@@ -253,7 +253,7 @@
     "set": "B1",
     "number": 25,
     "rarity": "C",
-    "name": "Ouistempo",
+    "name": "Grookey",
     "image": "cPK_10_011070_00_SARUNORI_C.webp",
     "packs": [
       "Mega Altaria"
@@ -263,7 +263,7 @@
     "set": "B1",
     "number": 26,
     "rarity": "U",
-    "name": "Badabouin",
+    "name": "Thwackey",
     "image": "cPK_10_011080_00_BACHINKEY_U.webp",
     "packs": [
       "Mega Altaria"
@@ -273,7 +273,7 @@
     "set": "B1",
     "number": 27,
     "rarity": "R",
-    "name": "Gorythmic",
+    "name": "Rillaboom",
     "image": "cPK_10_011090_00_GORIRANDER_R.webp",
     "packs": [
       "Mega Altaria"
@@ -283,7 +283,7 @@
     "set": "B1",
     "number": 28,
     "rarity": "C",
-    "name": "Caninos",
+    "name": "Growlithe",
     "image": "cPK_10_011100_00_GARDIE_C.webp",
     "packs": [
       "Mega Blaziken"
@@ -293,7 +293,7 @@
     "set": "B1",
     "number": 29,
     "rarity": "U",
-    "name": "Arcanin",
+    "name": "Arcanine",
     "image": "cPK_10_011110_00_WINDIE_U.webp",
     "packs": [
       "Mega Blaziken"
@@ -313,7 +313,7 @@
     "set": "B1",
     "number": 31,
     "rarity": "RR",
-    "name": "Galopa-ex",
+    "name": "Rapidash ex",
     "image": "cPK_10_011130_00_GALLOPex_RR.webp",
     "packs": [
       "Mega Blaziken"
@@ -333,7 +333,7 @@
     "set": "B1",
     "number": 33,
     "rarity": "C",
-    "name": "Poussifeu",
+    "name": "Torchic",
     "image": "cPK_10_011150_00_ACHAMO_C.webp",
     "packs": [
       "Mega Blaziken"
@@ -343,7 +343,7 @@
     "set": "B1",
     "number": 34,
     "rarity": "U",
-    "name": "Galifeu",
+    "name": "Combusken",
     "image": "cPK_10_011160_00_WAKASYAMO_U.webp",
     "packs": [
       "Mega Blaziken"
@@ -353,7 +353,7 @@
     "set": "B1",
     "number": 35,
     "rarity": "R",
-    "name": "Braségali",
+    "name": "Blaziken",
     "image": "cPK_10_011170_00_BURSYAMO_R.webp",
     "packs": [
       "Mega Blaziken"
@@ -363,7 +363,7 @@
     "set": "B1",
     "number": 36,
     "rarity": "RR",
-    "name": "Méga-Braségali-ex",
+    "name": "Mega Blaziken ex",
     "image": "cPK_10_011180_00_MEGABURSYAMOex_RR.webp",
     "packs": [
       "Mega Blaziken"
@@ -373,7 +373,7 @@
     "set": "B1",
     "number": 37,
     "rarity": "C",
-    "name": "Flamajou",
+    "name": "Pansear",
     "image": "cPK_10_011190_00_BAOPPU_C.webp",
     "packs": [
       "Mega Blaziken"
@@ -383,7 +383,7 @@
     "set": "B1",
     "number": 38,
     "rarity": "C",
-    "name": "Flamoutan",
+    "name": "Simisear",
     "image": "cPK_10_011200_00_BAOKKIE_C.webp",
     "packs": [
       "Mega Blaziken"
@@ -393,7 +393,7 @@
     "set": "B1",
     "number": 39,
     "rarity": "C",
-    "name": "Darumarond",
+    "name": "Darumaka",
     "image": "cPK_10_011210_00_DARUMAKKA_C.webp",
     "packs": [
       "Mega Gyarados"
@@ -403,7 +403,7 @@
     "set": "B1",
     "number": 40,
     "rarity": "U",
-    "name": "Darumacho",
+    "name": "Darmanitan",
     "image": "cPK_10_011220_00_HIHIDARUMA_U.webp",
     "packs": [
       "Mega Gyarados"
@@ -413,7 +413,7 @@
     "set": "B1",
     "number": 41,
     "rarity": "C",
-    "name": "Funécire",
+    "name": "Litwick",
     "image": "cPK_10_011230_00_HITOMOSHI_C.webp",
     "packs": [
       "Mega Altaria"
@@ -423,7 +423,7 @@
     "set": "B1",
     "number": 42,
     "rarity": "U",
-    "name": "Mélancolux",
+    "name": "Lampent",
     "image": "cPK_10_011240_00_LAMPLER_U.webp",
     "packs": [
       "Mega Altaria"
@@ -433,7 +433,7 @@
     "set": "B1",
     "number": 43,
     "rarity": "R",
-    "name": "Lugulabre",
+    "name": "Chandelure",
     "image": "cPK_10_011250_00_CHANDELA_R.webp",
     "packs": [
       "Mega Altaria"
@@ -443,7 +443,7 @@
     "set": "B1",
     "number": 44,
     "rarity": "C",
-    "name": "Aflamanoir",
+    "name": "Heatmor",
     "image": "cPK_10_011260_00_KUITARAN_C.webp",
     "packs": [
       "Mega Altaria",
@@ -455,7 +455,7 @@
     "set": "B1",
     "number": 45,
     "rarity": "C",
-    "name": "Hélionceau",
+    "name": "Litleo",
     "image": "cPK_10_011270_00_SHISHIKO_C.webp",
     "packs": [
       "Mega Blaziken"
@@ -465,7 +465,7 @@
     "set": "B1",
     "number": 46,
     "rarity": "R",
-    "name": "Némélios",
+    "name": "Pyroar",
     "image": "cPK_10_011280_00_KAENJISHI_R.webp",
     "packs": [
       "Mega Blaziken"
@@ -475,7 +475,7 @@
     "set": "B1",
     "number": 47,
     "rarity": "U",
-    "name": "Boumata",
+    "name": "Turtonator",
     "image": "cPK_10_011290_00_BAKUGAMES_U.webp",
     "packs": [
       "Mega Gyarados"
@@ -485,7 +485,7 @@
     "set": "B1",
     "number": 48,
     "rarity": "C",
-    "name": "Psykokwak",
+    "name": "Psyduck",
     "image": "cPK_10_011300_00_KODUCK_C.webp",
     "packs": [
       "Mega Blaziken"
@@ -495,7 +495,7 @@
     "set": "B1",
     "number": 49,
     "rarity": "C",
-    "name": "Akwakwak",
+    "name": "Golduck",
     "image": "cPK_10_011310_00_GOLDUCK_C.webp",
     "packs": [
       "Mega Blaziken"
@@ -505,7 +505,7 @@
     "set": "B1",
     "number": 50,
     "rarity": "C",
-    "name": "Magicarpe",
+    "name": "Magikarp",
     "image": "cPK_10_011320_00_KOIKING_C.webp",
     "packs": [
       "Mega Gyarados"
@@ -515,7 +515,7 @@
     "set": "B1",
     "number": 51,
     "rarity": "R",
-    "name": "Léviator",
+    "name": "Gyarados",
     "image": "cPK_10_011330_00_GYARADOS_R.webp",
     "packs": [
       "Mega Gyarados"
@@ -525,7 +525,7 @@
     "set": "B1",
     "number": 52,
     "rarity": "RR",
-    "name": "Méga-Léviator-ex",
+    "name": "Mega Gyarados ex",
     "image": "cPK_10_011340_00_MEGAGYARADOSex_RR.webp",
     "packs": [
       "Mega Gyarados"
@@ -535,7 +535,7 @@
     "set": "B1",
     "number": 53,
     "rarity": "C",
-    "name": "Nénupiot",
+    "name": "Lotad",
     "image": "cPK_10_011350_00_HASSBOH_C.webp",
     "packs": [
       "Mega Altaria"
@@ -585,7 +585,7 @@
     "set": "B1",
     "number": 58,
     "rarity": "C",
-    "name": "Écrapince",
+    "name": "Corphish",
     "image": "cPK_10_011400_00_HEIGANI_C.webp",
     "packs": [
       "Mega Altaria",
@@ -597,7 +597,7 @@
     "set": "B1",
     "number": 59,
     "rarity": "U",
-    "name": "Colhomard",
+    "name": "Crawdaunt",
     "image": "cPK_10_011410_00_SHIZARIGER_U.webp",
     "packs": [
       "Mega Altaria",
@@ -609,7 +609,7 @@
     "set": "B1",
     "number": 60,
     "rarity": "C",
-    "name": "Lovdisc",
+    "name": "Luvdisc",
     "image": "cPK_10_011420_00_LOVECUS_C.webp",
     "packs": [
       "Mega Altaria"
@@ -619,7 +619,7 @@
     "set": "B1",
     "number": 61,
     "rarity": "C",
-    "name": "Flotajou",
+    "name": "Panpour",
     "image": "cPK_10_011430_00_HIYAPPU_C.webp",
     "packs": [
       "Mega Altaria"
@@ -629,7 +629,7 @@
     "set": "B1",
     "number": 62,
     "rarity": "C",
-    "name": "Flotoutan",
+    "name": "Simipour",
     "image": "cPK_10_011440_00_HIYAKKIE_C.webp",
     "packs": [
       "Mega Altaria"
@@ -639,7 +639,7 @@
     "set": "B1",
     "number": 63,
     "rarity": "C",
-    "name": "Tritonde",
+    "name": "Tympole",
     "image": "cPK_10_011450_00_OTAMARO_C.webp",
     "packs": [
       "Mega Altaria",
@@ -651,7 +651,7 @@
     "set": "B1",
     "number": 64,
     "rarity": "C",
-    "name": "Batracné",
+    "name": "Palpitoad",
     "image": "cPK_10_011460_00_GAMAGARU_C.webp",
     "packs": [
       "Mega Altaria",
@@ -663,7 +663,7 @@
     "set": "B1",
     "number": 65,
     "rarity": "U",
-    "name": "Crapustule",
+    "name": "Seismitoad",
     "image": "cPK_10_011470_00_GAMAGEROGE_U.webp",
     "packs": [
       "Mega Altaria",
@@ -675,7 +675,7 @@
     "set": "B1",
     "number": 66,
     "rarity": "U",
-    "name": "Carapagos",
+    "name": "Tirtouga",
     "image": "cPK_10_011480_00_PROTOGA_U.webp",
     "packs": [
       "Mega Gyarados"
@@ -685,7 +685,7 @@
     "set": "B1",
     "number": 67,
     "rarity": "R",
-    "name": "Mégapagos",
+    "name": "Carracosta",
     "image": "cPK_10_011490_00_ABAGOURA_R.webp",
     "packs": [
       "Mega Gyarados"
@@ -695,7 +695,7 @@
     "set": "B1",
     "number": 68,
     "rarity": "C",
-    "name": "Viskuse",
+    "name": "Frillish",
     "image": "cPK_10_011500_00_PURURILL_C.webp",
     "packs": [
       "Mega Gyarados"
@@ -705,7 +705,7 @@
     "set": "B1",
     "number": 69,
     "rarity": "R",
-    "name": "Moyade",
+    "name": "Jellicent",
     "image": "cPK_10_011510_00_BURUNGEL_R.webp",
     "packs": [
       "Mega Gyarados"
@@ -725,7 +725,7 @@
     "set": "B1",
     "number": 71,
     "rarity": "C",
-    "name": "Grenousse",
+    "name": "Froakie",
     "image": "cPK_10_011530_00_KEROMATSU_C.webp",
     "packs": [
       "Mega Gyarados"
@@ -735,7 +735,7 @@
     "set": "B1",
     "number": 72,
     "rarity": "U",
-    "name": "Croâporal",
+    "name": "Frogadier",
     "image": "cPK_10_011540_00_GEKOGASHIRA_U.webp",
     "packs": [
       "Mega Gyarados"
@@ -745,7 +745,7 @@
     "set": "B1",
     "number": 73,
     "rarity": "RR",
-    "name": "Amphinobi-ex",
+    "name": "Greninja ex",
     "image": "cPK_10_011550_00_GEKKOUGAex_RR.webp",
     "packs": [
       "Mega Gyarados"
@@ -755,7 +755,7 @@
     "set": "B1",
     "number": 74,
     "rarity": "C",
-    "name": "Grelaçon",
+    "name": "Bergmite",
     "image": "cPK_10_011560_00_KACHIKOHRU_C.webp",
     "packs": [
       "Mega Gyarados"
@@ -765,7 +765,7 @@
     "set": "B1",
     "number": 75,
     "rarity": "U",
-    "name": "Séracrawl",
+    "name": "Avalugg",
     "image": "cPK_10_011570_00_CREBASE_U.webp",
     "packs": [
       "Mega Gyarados"
@@ -775,7 +775,7 @@
     "set": "B1",
     "number": 76,
     "rarity": "C",
-    "name": "Khélocrok",
+    "name": "Chewtle",
     "image": "cPK_10_011580_00_KAMUKAME_C.webp",
     "packs": [
       "Mega Gyarados"
@@ -785,7 +785,7 @@
     "set": "B1",
     "number": 77,
     "rarity": "U",
-    "name": "Torgamord",
+    "name": "Drednaw",
     "image": "cPK_10_011590_00_KAJIRIGAME_U.webp",
     "packs": [
       "Mega Gyarados"
@@ -795,7 +795,7 @@
     "set": "B1",
     "number": 78,
     "rarity": "C",
-    "name": "Embrochet",
+    "name": "Arrokuda",
     "image": "cPK_10_011600_00_SASIKAMASU_C.webp",
     "packs": [
       "Mega Gyarados"
@@ -805,7 +805,7 @@
     "set": "B1",
     "number": 79,
     "rarity": "U",
-    "name": "Hastacuda",
+    "name": "Barraskewda",
     "image": "cPK_10_011610_00_KAMASUJAW_U.webp",
     "packs": [
       "Mega Gyarados"
@@ -815,7 +815,7 @@
     "set": "B1",
     "number": 80,
     "rarity": "R",
-    "name": "Bekaglaçon",
+    "name": "Eiscue",
     "image": "cPK_10_011620_00_KORIPPO_R.webp",
     "packs": [
       "Mega Altaria"
@@ -825,7 +825,7 @@
     "set": "B1",
     "number": 81,
     "rarity": "RR",
-    "name": "Voltali-ex",
+    "name": "Jolteon ex",
     "image": "cPK_10_011630_00_THUNDERSex_RR.webp",
     "packs": [
       "Mega Gyarados"
@@ -835,7 +835,7 @@
     "set": "B1",
     "number": 82,
     "rarity": "C",
-    "name": "Wattouat",
+    "name": "Mareep",
     "image": "cPK_10_011640_00_MERRIEP_C.webp",
     "packs": [
       "Mega Altaria"
@@ -845,7 +845,7 @@
     "set": "B1",
     "number": 83,
     "rarity": "U",
-    "name": "Lainergie",
+    "name": "Flaaffy",
     "image": "cPK_10_011650_00_MOKOKO_U.webp",
     "packs": [
       "Mega Altaria"
@@ -855,7 +855,7 @@
     "set": "B1",
     "number": 84,
     "rarity": "R",
-    "name": "Pharamp",
+    "name": "Ampharos",
     "image": "cPK_10_011660_00_DENRYU_R.webp",
     "packs": [
       "Mega Altaria"
@@ -865,7 +865,7 @@
     "set": "B1",
     "number": 85,
     "rarity": "RR",
-    "name": "Méga-Pharamp-ex",
+    "name": "Mega Ampharos ex",
     "image": "cPK_10_011670_00_MEGADENRYUex_RR.webp",
     "packs": [
       "Mega Altaria"
@@ -875,7 +875,7 @@
     "set": "B1",
     "number": 86,
     "rarity": "C",
-    "name": "Lixy",
+    "name": "Shinx",
     "image": "cPK_10_011680_00_KOLINK_C.webp",
     "packs": [
       "Mega Blaziken"
@@ -917,7 +917,7 @@
     "set": "B1",
     "number": 90,
     "rarity": "C",
-    "name": "Zébibron",
+    "name": "Blitzle",
     "image": "cPK_10_011720_00_SHIMAMA_C.webp",
     "packs": [
       "Mega Blaziken"
@@ -927,7 +927,7 @@
     "set": "B1",
     "number": 91,
     "rarity": "U",
-    "name": "Zéblitz",
+    "name": "Zebstrika",
     "image": "cPK_10_011730_00_ZEBRAIKA_U.webp",
     "packs": [
       "Mega Blaziken"
@@ -937,7 +937,7 @@
     "set": "B1",
     "number": 92,
     "rarity": "C",
-    "name": "Statitik",
+    "name": "Joltik",
     "image": "cPK_10_011740_00_BACHURU_C.webp",
     "packs": [
       "Mega Altaria",
@@ -949,7 +949,7 @@
     "set": "B1",
     "number": 93,
     "rarity": "U",
-    "name": "Mygavolt",
+    "name": "Galvantula",
     "image": "cPK_10_011750_00_DENTULA_U.webp",
     "packs": [
       "Mega Altaria",
@@ -971,7 +971,7 @@
     "set": "B1",
     "number": 95,
     "rarity": "C",
-    "name": "Voltoutou",
+    "name": "Yamper",
     "image": "cPK_10_011770_00_WANPACHI_C.webp",
     "packs": [
       "Mega Altaria"
@@ -981,7 +981,7 @@
     "set": "B1",
     "number": 96,
     "rarity": "U",
-    "name": "Fulgudog",
+    "name": "Boltund",
     "image": "cPK_10_011780_00_PULSEWAN_U.webp",
     "packs": [
       "Mega Altaria"
@@ -1015,7 +1015,7 @@
     "set": "B1",
     "number": 99,
     "rarity": "C",
-    "name": "Feuforêve",
+    "name": "Misdreavus",
     "image": "cPK_10_011810_00_MUMA_C.webp",
     "packs": [
       "Mega Altaria",
@@ -1027,7 +1027,7 @@
     "set": "B1",
     "number": 100,
     "rarity": "U",
-    "name": "Magirêve",
+    "name": "Mismagius",
     "image": "cPK_10_011820_00_MUMARGI_U.webp",
     "packs": [
       "Mega Altaria",
@@ -1039,7 +1039,7 @@
     "set": "B1",
     "number": 101,
     "rarity": "C",
-    "name": "Ténéfix",
+    "name": "Sableye",
     "image": "cPK_10_011830_00_YAMIRAMI_C.webp",
     "packs": [
       "Mega Altaria"
@@ -1049,7 +1049,7 @@
     "set": "B1",
     "number": 102,
     "rarity": "RR",
-    "name": "Méga-Altaria-ex",
+    "name": "Mega Altaria ex",
     "image": "cPK_10_011840_00_MEGATYLTALISex_RR.webp",
     "packs": [
       "Mega Altaria"
@@ -1059,7 +1059,7 @@
     "set": "B1",
     "number": 103,
     "rarity": "C",
-    "name": "Skelénox",
+    "name": "Duskull",
     "image": "cPK_10_011850_00_YOMAWARU_C.webp",
     "packs": [
       "Mega Blaziken"
@@ -1069,7 +1069,7 @@
     "set": "B1",
     "number": 104,
     "rarity": "U",
-    "name": "Téraclope",
+    "name": "Dusclops",
     "image": "cPK_10_011860_00_SAMAYOURU_U.webp",
     "packs": [
       "Mega Blaziken"
@@ -1079,7 +1079,7 @@
     "set": "B1",
     "number": 105,
     "rarity": "R",
-    "name": "Noctunoir",
+    "name": "Dusknoir",
     "image": "cPK_10_011870_00_YONOIR_R.webp",
     "packs": [
       "Mega Blaziken"
@@ -1099,7 +1099,7 @@
     "set": "B1",
     "number": 107,
     "rarity": "C",
-    "name": "Baudrive",
+    "name": "Drifloon",
     "image": "cPK_10_011890_00_FUWANTE_C.webp",
     "packs": [
       "Mega Altaria"
@@ -1109,7 +1109,7 @@
     "set": "B1",
     "number": 108,
     "rarity": "U",
-    "name": "Grodrive",
+    "name": "Drifblim",
     "image": "cPK_10_011900_00_FUWARIDE_U.webp",
     "packs": [
       "Mega Altaria"
@@ -1119,7 +1119,7 @@
     "set": "B1",
     "number": 109,
     "rarity": "R",
-    "name": "Korillon",
+    "name": "Chingling",
     "image": "cPK_10_011910_00_LISYAN_R.webp",
     "packs": [
       "Mega Altaria",
@@ -1131,7 +1131,7 @@
     "set": "B1",
     "number": 110,
     "rarity": "C",
-    "name": "Tutafeh",
+    "name": "Yamask",
     "image": "cPK_10_011920_00_DESUMASU_C.webp",
     "packs": [
       "Mega Gyarados"
@@ -1141,7 +1141,7 @@
     "set": "B1",
     "number": 111,
     "rarity": "R",
-    "name": "Tutankafer",
+    "name": "Cofagrigus",
     "image": "cPK_10_011930_00_DESUKARN_R.webp",
     "packs": [
       "Mega Gyarados"
@@ -1151,7 +1151,7 @@
     "set": "B1",
     "number": 112,
     "rarity": "C",
-    "name": "Scrutella",
+    "name": "Gothita",
     "image": "cPK_10_011940_00_GOTHIMU_C.webp",
     "packs": [
       "Mega Altaria"
@@ -1161,7 +1161,7 @@
     "set": "B1",
     "number": 113,
     "rarity": "U",
-    "name": "Mesmérella",
+    "name": "Gothorita",
     "image": "cPK_10_011950_00_GOTHIMIRU_U.webp",
     "packs": [
       "Mega Altaria"
@@ -1171,7 +1171,7 @@
     "set": "B1",
     "number": 114,
     "rarity": "R",
-    "name": "Sidérella",
+    "name": "Gothitelle",
     "image": "cPK_10_011960_00_GOTHIRUSELLE_R.webp",
     "packs": [
       "Mega Altaria"
@@ -1181,7 +1181,7 @@
     "set": "B1",
     "number": 115,
     "rarity": "C",
-    "name": "Fluvetin",
+    "name": "Spritzee",
     "image": "cPK_10_011970_00_SHUSHUPU_C.webp",
     "packs": [
       "Mega Altaria",
@@ -1193,7 +1193,7 @@
     "set": "B1",
     "number": 116,
     "rarity": "U",
-    "name": "Cocotine",
+    "name": "Aromatisse",
     "image": "cPK_10_011980_00_FREFUWAN_U.webp",
     "packs": [
       "Mega Altaria",
@@ -1205,7 +1205,7 @@
     "set": "B1",
     "number": 117,
     "rarity": "C",
-    "name": "Sucroquin",
+    "name": "Swirlix",
     "image": "cPK_10_011990_00_PEROPPAFU_C.webp",
     "packs": [
       "Mega Altaria"
@@ -1215,7 +1215,7 @@
     "set": "B1",
     "number": 118,
     "rarity": "U",
-    "name": "Cupcanaille",
+    "name": "Slurpuff",
     "image": "cPK_10_012000_00_PEROREAM_U.webp",
     "packs": [
       "Mega Altaria"
@@ -1225,7 +1225,7 @@
     "set": "B1",
     "number": 119,
     "rarity": "C",
-    "name": "Strassie",
+    "name": "Carbink",
     "image": "cPK_10_012010_00_MELECIE_C.webp",
     "packs": [
       "Mega Altaria"
@@ -1235,7 +1235,7 @@
     "set": "B1",
     "number": 120,
     "rarity": "R",
-    "name": "Trousselin",
+    "name": "Klefki",
     "image": "cPK_10_012020_00_CLEFFY_R.webp",
     "packs": [
       "Mega Gyarados"
@@ -1245,7 +1245,7 @@
     "set": "B1",
     "number": 121,
     "rarity": "RR",
-    "name": "Wimessir-ex",
+    "name": "Indeedee ex",
     "image": "cPK_10_012030_00_YESSANMESUNOSUGATA_RR.webp",
     "packs": [
       "Mega Altaria"
@@ -1255,7 +1255,7 @@
     "set": "B1",
     "number": 122,
     "rarity": "C",
-    "name": "Sabelette",
+    "name": "Sandshrew",
     "image": "cPK_10_012040_00_SAND_C.webp",
     "packs": [
       "Mega Altaria",
@@ -1267,7 +1267,7 @@
     "set": "B1",
     "number": 123,
     "rarity": "U",
-    "name": "Sablaireau",
+    "name": "Sandslash",
     "image": "cPK_10_012050_00_SANDPAN_U.webp",
     "packs": [
       "Mega Altaria",
@@ -1279,7 +1279,7 @@
     "set": "B1",
     "number": 124,
     "rarity": "RR",
-    "name": "Tygnon-ex",
+    "name": "Hitmonchan ex",
     "image": "cPK_10_012060_00_EBIWALARex_RR.webp",
     "packs": [
       "Mega Blaziken"
@@ -1289,7 +1289,7 @@
     "set": "B1",
     "number": 125,
     "rarity": "C",
-    "name": "Simularbre",
+    "name": "Sudowoodo",
     "image": "cPK_10_012070_00_USOKKIE_C.webp",
     "packs": [
       "Mega Altaria",
@@ -1331,7 +1331,7 @@
     "set": "B1",
     "number": 129,
     "rarity": "U",
-    "name": "Hippodocus",
+    "name": "Hippowdon",
     "image": "cPK_10_012110_00_KABALDON_U.webp",
     "packs": [
       "Mega Gyarados"
@@ -1341,7 +1341,7 @@
     "set": "B1",
     "number": 130,
     "rarity": "C",
-    "name": "Mascaïman",
+    "name": "Sandile",
     "image": "cPK_10_012120_00_MEGUROCO_C.webp",
     "packs": [
       "Mega Gyarados"
@@ -1351,7 +1351,7 @@
     "set": "B1",
     "number": 131,
     "rarity": "U",
-    "name": "Escroco",
+    "name": "Krokorok",
     "image": "cPK_10_012130_00_WARUVILE_U.webp",
     "packs": [
       "Mega Gyarados"
@@ -1361,7 +1361,7 @@
     "set": "B1",
     "number": 132,
     "rarity": "R",
-    "name": "Crocorible",
+    "name": "Krookodile",
     "image": "cPK_10_012140_00_WARUVIAL_R.webp",
     "packs": [
       "Mega Gyarados"
@@ -1371,7 +1371,7 @@
     "set": "B1",
     "number": 133,
     "rarity": "U",
-    "name": "Arkéapti",
+    "name": "Archen",
     "image": "cPK_10_012150_00_ARCHEN_U.webp",
     "packs": [
       "Mega Blaziken"
@@ -1381,7 +1381,7 @@
     "set": "B1",
     "number": 134,
     "rarity": "R",
-    "name": "Aéroptéryx",
+    "name": "Archeops",
     "image": "cPK_10_012160_00_ARCHEOS_R.webp",
     "packs": [
       "Mega Blaziken"
@@ -1391,7 +1391,7 @@
     "set": "B1",
     "number": 135,
     "rarity": "C",
-    "name": "Gringolem",
+    "name": "Golett",
     "image": "cPK_10_012170_00_GOBIT_C.webp",
     "packs": [
       "Mega Blaziken"
@@ -1401,7 +1401,7 @@
     "set": "B1",
     "number": 136,
     "rarity": "R",
-    "name": "Golemastoc",
+    "name": "Golurk",
     "image": "cPK_10_012180_00_GOLOOG_R.webp",
     "packs": [
       "Mega Blaziken"
@@ -1411,7 +1411,7 @@
     "set": "B1",
     "number": 137,
     "rarity": "R",
-    "name": "Terrakium",
+    "name": "Terrakion",
     "image": "cPK_10_012190_00_TERRAKION_R.webp",
     "packs": [
       "Mega Gyarados"
@@ -1421,7 +1421,7 @@
     "set": "B1",
     "number": 138,
     "rarity": "C",
-    "name": "Pandespiègle",
+    "name": "Pancham",
     "image": "cPK_10_012200_00_YANCHAM_C.webp",
     "packs": [
       "Mega Gyarados"
@@ -1431,7 +1431,7 @@
     "set": "B1",
     "number": 139,
     "rarity": "C",
-    "name": "Crabagarre",
+    "name": "Crabrawler",
     "image": "cPK_10_012210_00_MAKENKANI_C.webp",
     "packs": [
       "Mega Blaziken"
@@ -1451,7 +1451,7 @@
     "set": "B1",
     "number": 141,
     "rarity": "C",
-    "name": "Nounourson",
+    "name": "Stufful",
     "image": "cPK_10_012230_00_NUIKOGUMA_C.webp",
     "packs": [
       "Mega Blaziken"
@@ -1461,7 +1461,7 @@
     "set": "B1",
     "number": 142,
     "rarity": "U",
-    "name": "Chelours",
+    "name": "Bewear",
     "image": "cPK_10_012240_00_KITERUGUMA_U.webp",
     "packs": [
       "Mega Blaziken"
@@ -1471,7 +1471,7 @@
     "set": "B1",
     "number": 143,
     "rarity": "C",
-    "name": "Bacabouh",
+    "name": "Sandygast",
     "image": "cPK_10_012250_00_SUNABA_C.webp",
     "packs": [
       "Mega Altaria",
@@ -1483,7 +1483,7 @@
     "set": "B1",
     "number": 144,
     "rarity": "U",
-    "name": "Trépassable",
+    "name": "Palossand",
     "image": "cPK_10_012260_00_SIRODETHNA_U.webp",
     "packs": [
       "Mega Altaria",
@@ -1495,7 +1495,7 @@
     "set": "B1",
     "number": 145,
     "rarity": "C",
-    "name": "Charbi",
+    "name": "Rolycoly",
     "image": "cPK_10_012270_00_TANDON_C.webp",
     "packs": [
       "Mega Gyarados"
@@ -1505,7 +1505,7 @@
     "set": "B1",
     "number": 146,
     "rarity": "U",
-    "name": "Wagomine",
+    "name": "Carkol",
     "image": "cPK_10_012280_00_TOROGGON_U.webp",
     "packs": [
       "Mega Gyarados"
@@ -1515,7 +1515,7 @@
     "set": "B1",
     "number": 147,
     "rarity": "R",
-    "name": "Monthracite",
+    "name": "Coalossal",
     "image": "cPK_10_012290_00_SEKITANZAN_R.webp",
     "packs": [
       "Mega Gyarados"
@@ -1525,7 +1525,7 @@
     "set": "B1",
     "number": 148,
     "rarity": "C",
-    "name": "Cornèbre",
+    "name": "Murkrow",
     "image": "cPK_10_012300_00_YAMIKARASU_C.webp",
     "packs": [
       "Mega Gyarados"
@@ -1535,7 +1535,7 @@
     "set": "B1",
     "number": 149,
     "rarity": "R",
-    "name": "Corboss",
+    "name": "Honchkrow",
     "image": "cPK_10_012310_00_DONGKARASU_R.webp",
     "packs": [
       "Mega Gyarados"
@@ -1555,7 +1555,7 @@
     "set": "B1",
     "number": 151,
     "rarity": "RR",
-    "name": "Méga-Absol-ex",
+    "name": "Mega Absol ex",
     "image": "cPK_10_012330_00_MEGAABSOLex_RR.webp",
     "packs": [
       "Mega Gyarados"
@@ -1565,7 +1565,7 @@
     "set": "B1",
     "number": 152,
     "rarity": "C",
-    "name": "Rapion",
+    "name": "Skorupi",
     "image": "cPK_10_012340_00_SCORUPI_C.webp",
     "packs": [
       "Mega Gyarados"
@@ -1575,7 +1575,7 @@
     "set": "B1",
     "number": 153,
     "rarity": "U",
-    "name": "Drascore",
+    "name": "Drapion",
     "image": "cPK_10_012350_00_DORAPION_U.webp",
     "packs": [
       "Mega Gyarados"
@@ -1595,7 +1595,7 @@
     "set": "B1",
     "number": 155,
     "rarity": "C",
-    "name": "Solochi",
+    "name": "Deino",
     "image": "cPK_10_012370_00_MONOZU_C.webp",
     "packs": [
       "Mega Gyarados"
@@ -1605,7 +1605,7 @@
     "set": "B1",
     "number": 156,
     "rarity": "U",
-    "name": "Diamat",
+    "name": "Zweilous",
     "image": "cPK_10_012380_00_DIHEAD_U.webp",
     "packs": [
       "Mega Gyarados"
@@ -1615,7 +1615,7 @@
     "set": "B1",
     "number": 157,
     "rarity": "R",
-    "name": "Trioxhydre",
+    "name": "Hydreigon",
     "image": "cPK_10_012390_00_SAZANDORA_R.webp",
     "packs": [
       "Mega Gyarados"
@@ -1625,7 +1625,7 @@
     "set": "B1",
     "number": 158,
     "rarity": "R",
-    "name": "Pandarbare",
+    "name": "Pangoro",
     "image": "cPK_10_012400_00_GORONDA_R.webp",
     "packs": [
       "Mega Gyarados"
@@ -1635,7 +1635,7 @@
     "set": "B1",
     "number": 159,
     "rarity": "C",
-    "name": "Venalgue",
+    "name": "Skrelp",
     "image": "cPK_10_012410_00_KUZUMO_C.webp",
     "packs": [
       "Mega Blaziken"
@@ -1645,7 +1645,7 @@
     "set": "B1",
     "number": 160,
     "rarity": "RR",
-    "name": "Kravarech-ex",
+    "name": "Dragalge ex",
     "image": "cPK_10_012420_00_DRAMIDOROex_RR.webp",
     "packs": [
       "Mega Blaziken"
@@ -1655,7 +1655,7 @@
     "set": "B1",
     "number": 161,
     "rarity": "C",
-    "name": "Vorastérie",
+    "name": "Mareanie",
     "image": "cPK_10_012430_00_HIDOIDE_C.webp",
     "packs": [
       "Mega Altaria",
@@ -1667,7 +1667,7 @@
     "set": "B1",
     "number": 162,
     "rarity": "U",
-    "name": "Prédastérie",
+    "name": "Toxapex",
     "image": "cPK_10_012440_00_DOHIDOIDE_U.webp",
     "packs": [
       "Mega Altaria",
@@ -1679,7 +1679,7 @@
     "set": "B1",
     "number": 163,
     "rarity": "C",
-    "name": "Grimalin",
+    "name": "Impidimp",
     "image": "cPK_10_012450_00_BEROBA_C.webp",
     "packs": [
       "Mega Altaria"
@@ -1689,7 +1689,7 @@
     "set": "B1",
     "number": 164,
     "rarity": "U",
-    "name": "Fourbelin",
+    "name": "Morgrem",
     "image": "cPK_10_012460_00_GIMOH_U.webp",
     "packs": [
       "Mega Altaria"
@@ -1699,7 +1699,7 @@
     "set": "B1",
     "number": 165,
     "rarity": "R",
-    "name": "Angoliath",
+    "name": "Grimmsnarl",
     "image": "cPK_10_012470_00_OHLONGE_R.webp",
     "packs": [
       "Mega Altaria"
@@ -1709,7 +1709,7 @@
     "set": "B1",
     "number": 166,
     "rarity": "C",
-    "name": "Grindur",
+    "name": "Ferroseed",
     "image": "cPK_10_012480_00_TESSEED_C.webp",
     "packs": [
       "Mega Altaria",
@@ -1721,7 +1721,7 @@
     "set": "B1",
     "number": 167,
     "rarity": "U",
-    "name": "Noacier",
+    "name": "Ferrothorn",
     "image": "cPK_10_012490_00_NUTREY_U.webp",
     "packs": [
       "Mega Altaria",
@@ -1733,7 +1733,7 @@
     "set": "B1",
     "number": 168,
     "rarity": "C",
-    "name": "Fermite",
+    "name": "Durant",
     "image": "cPK_10_012500_00_AIANT_C.webp",
     "packs": [
       "Mega Altaria",
@@ -1745,7 +1745,7 @@
     "set": "B1",
     "number": 169,
     "rarity": "R",
-    "name": "Cobaltium",
+    "name": "Cobalion",
     "image": "cPK_10_012510_00_COBALON_R.webp",
     "packs": [
       "Mega Blaziken"
@@ -1755,7 +1755,7 @@
     "set": "B1",
     "number": 170,
     "rarity": "C",
-    "name": "Monorpale",
+    "name": "Honedge",
     "image": "cPK_10_012520_00_HITOTSUKI_C.webp",
     "packs": [
       "Mega Blaziken"
@@ -1765,7 +1765,7 @@
     "set": "B1",
     "number": 171,
     "rarity": "U",
-    "name": "Dimoclès",
+    "name": "Doublade",
     "image": "cPK_10_012530_00_NIDANGILL_U.webp",
     "packs": [
       "Mega Blaziken"
@@ -1775,7 +1775,7 @@
     "set": "B1",
     "number": 172,
     "rarity": "R",
-    "name": "Exagide",
+    "name": "Aegislash",
     "image": "cPK_10_012540_00_GILLGARDBLADEFORME_R.webp",
     "packs": [
       "Mega Blaziken"
@@ -1795,7 +1795,7 @@
     "set": "B1",
     "number": 174,
     "rarity": "RR",
-    "name": "Melmetal-ex",
+    "name": "Melmetal ex",
     "image": "cPK_10_012560_00_MELMETALex_RR.webp",
     "packs": [
       "Mega Gyarados"
@@ -1805,7 +1805,7 @@
     "set": "B1",
     "number": 175,
     "rarity": "R",
-    "name": "Corvaillus",
+    "name": "Corviknight",
     "image": "cPK_10_012570_00_ARMORGA_R.webp",
     "packs": [
       "Mega Blaziken"
@@ -1815,7 +1815,7 @@
     "set": "B1",
     "number": 176,
     "rarity": "C",
-    "name": "Drakkarmin",
+    "name": "Druddigon",
     "image": "cPK_10_012580_00_CRIMGAN_C.webp",
     "packs": [
       "Mega Gyarados"
@@ -1825,7 +1825,7 @@
     "set": "B1",
     "number": 177,
     "rarity": "C",
-    "name": "Mucuscule",
+    "name": "Goomy",
     "image": "cPK_10_012590_00_NUMERA_C.webp",
     "packs": [
       "Mega Altaria"
@@ -1835,7 +1835,7 @@
     "set": "B1",
     "number": 178,
     "rarity": "U",
-    "name": "Colimucus",
+    "name": "Sliggoo",
     "image": "cPK_10_012600_00_NUMEIL_U.webp",
     "packs": [
       "Mega Altaria"
@@ -1845,7 +1845,7 @@
     "set": "B1",
     "number": 179,
     "rarity": "R",
-    "name": "Muplodocus",
+    "name": "Goodra",
     "image": "cPK_10_012610_00_NUMELGON_R.webp",
     "packs": [
       "Mega Altaria"
@@ -1855,7 +1855,7 @@
     "set": "B1",
     "number": 180,
     "rarity": "C",
-    "name": "Roucool",
+    "name": "Pidgey",
     "image": "cPK_10_012620_00_POPPO_C.webp",
     "packs": [
       "Mega Altaria",
@@ -1867,7 +1867,7 @@
     "set": "B1",
     "number": 181,
     "rarity": "C",
-    "name": "Roucoups",
+    "name": "Pidgeotto",
     "image": "cPK_10_012630_00_PIGEON_C.webp",
     "packs": [
       "Mega Altaria",
@@ -1879,7 +1879,7 @@
     "set": "B1",
     "number": 182,
     "rarity": "U",
-    "name": "Roucarnage",
+    "name": "Pidgeot",
     "image": "cPK_10_012640_00_PIGEOT_U.webp",
     "packs": [
       "Mega Altaria",
@@ -1891,7 +1891,7 @@
     "set": "B1",
     "number": 183,
     "rarity": "RR",
-    "name": "Tauros-ex",
+    "name": "Tauros ex",
     "image": "cPK_10_012650_00_KENTAUROSex_RR.webp",
     "packs": [
       "Mega Altaria"
@@ -1901,7 +1901,7 @@
     "set": "B1",
     "number": 184,
     "rarity": "C",
-    "name": "Évoli",
+    "name": "Eevee",
     "image": "cPK_10_012660_00_EIEVUI_C.webp",
     "packs": [
       "Mega Gyarados"
@@ -1911,7 +1911,7 @@
     "set": "B1",
     "number": 185,
     "rarity": "C",
-    "name": "Capumain",
+    "name": "Aipom",
     "image": "cPK_10_012670_00_EIPAM_C.webp",
     "packs": [
       "Mega Altaria"
@@ -1921,7 +1921,7 @@
     "set": "B1",
     "number": 186,
     "rarity": "U",
-    "name": "Capidextre",
+    "name": "Ambipom",
     "image": "cPK_10_012680_00_ETEBOTH_U.webp",
     "packs": [
       "Mega Altaria"
@@ -1931,7 +1931,7 @@
     "set": "B1",
     "number": 187,
     "rarity": "C",
-    "name": "Écrémeuh",
+    "name": "Miltank",
     "image": "cPK_10_012690_00_MILTANK_C.webp",
     "packs": [
       "Mega Altaria",
@@ -1943,7 +1943,7 @@
     "set": "B1",
     "number": 188,
     "rarity": "C",
-    "name": "Zigzaton",
+    "name": "Zigzagoon",
     "image": "cPK_10_012700_00_JIGUZAGUMA_C.webp",
     "packs": [
       "Mega Altaria",
@@ -1955,7 +1955,7 @@
     "set": "B1",
     "number": 189,
     "rarity": "U",
-    "name": "Linéon",
+    "name": "Linoone",
     "image": "cPK_10_012710_00_MASSUGUMA_U.webp",
     "packs": [
       "Mega Altaria",
@@ -1967,7 +1967,7 @@
     "set": "B1",
     "number": 190,
     "rarity": "C",
-    "name": "Chuchmur",
+    "name": "Whismur",
     "image": "cPK_10_012720_00_GONYONYO_C.webp",
     "packs": [
       "Mega Gyarados"
@@ -1977,7 +1977,7 @@
     "set": "B1",
     "number": 191,
     "rarity": "C",
-    "name": "Ramboum",
+    "name": "Loudred",
     "image": "cPK_10_012730_00_DOGOHMB_C.webp",
     "packs": [
       "Mega Gyarados"
@@ -1987,7 +1987,7 @@
     "set": "B1",
     "number": 192,
     "rarity": "R",
-    "name": "Brouhabam",
+    "name": "Exploud",
     "image": "cPK_10_012740_00_BAKUONG_R.webp",
     "packs": [
       "Mega Gyarados"
@@ -2027,7 +2027,7 @@
     "set": "B1",
     "number": 196,
     "rarity": "C",
-    "name": "Tylton",
+    "name": "Swablu",
     "image": "cPK_10_012780_00_TYLTTO_C.webp",
     "packs": [
       "Mega Altaria"
@@ -2047,7 +2047,7 @@
     "set": "B1",
     "number": 198,
     "rarity": "C",
-    "name": "Pijako",
+    "name": "Chatot",
     "image": "cPK_10_012800_00_PERAP_C.webp",
     "packs": [
       "Mega Altaria",
@@ -2059,7 +2059,7 @@
     "set": "B1",
     "number": 199,
     "rarity": "C",
-    "name": "Ratentif",
+    "name": "Patrat",
     "image": "cPK_10_012810_00_MINEZUMI_C.webp",
     "packs": [
       "Mega Altaria",
@@ -2071,7 +2071,7 @@
     "set": "B1",
     "number": 200,
     "rarity": "U",
-    "name": "Miradar",
+    "name": "Watchog",
     "image": "cPK_10_012820_00_MIRUHOG_U.webp",
     "packs": [
       "Mega Altaria",
@@ -2083,7 +2083,7 @@
     "set": "B1",
     "number": 201,
     "rarity": "C",
-    "name": "Ponchiot",
+    "name": "Lillipup",
     "image": "cPK_10_012830_00_YORTERRIE_C.webp",
     "packs": [
       "Mega Altaria"
@@ -2093,7 +2093,7 @@
     "set": "B1",
     "number": 202,
     "rarity": "U",
-    "name": "Ponchien",
+    "name": "Herdier",
     "image": "cPK_10_012840_00_HERDERRIE_U.webp",
     "packs": [
       "Mega Altaria"
@@ -2103,7 +2103,7 @@
     "set": "B1",
     "number": 203,
     "rarity": "R",
-    "name": "Mastouffe",
+    "name": "Stoutland",
     "image": "cPK_10_012850_00_MOOLAND_R.webp",
     "packs": [
       "Mega Altaria"
@@ -2113,7 +2113,7 @@
     "set": "B1",
     "number": 204,
     "rarity": "C",
-    "name": "Furaiglon",
+    "name": "Rufflet",
     "image": "cPK_10_012860_00_WASHIBON_C.webp",
     "packs": [
       "Mega Blaziken"
@@ -2123,7 +2123,7 @@
     "set": "B1",
     "number": 205,
     "rarity": "U",
-    "name": "Gueriaigle",
+    "name": "Braviary",
     "image": "cPK_10_012870_00_WARRGLE_U.webp",
     "packs": [
       "Mega Blaziken"
@@ -2133,7 +2133,7 @@
     "set": "B1",
     "number": 206,
     "rarity": "U",
-    "name": "Couafarel",
+    "name": "Furfrou",
     "image": "cPK_10_012880_00_TRIMMIENYASEINOSUGATA_U.webp",
     "packs": [
       "Mega Blaziken"
@@ -2143,7 +2143,7 @@
     "set": "B1",
     "number": 207,
     "rarity": "U",
-    "name": "Couafarel",
+    "name": "Furfrou",
     "image": "cPK_10_012880_01_TRIMMIENHEARTCUT_U.webp",
     "packs": [
       "Mega Altaria"
@@ -2153,7 +2153,7 @@
     "set": "B1",
     "number": 208,
     "rarity": "U",
-    "name": "Couafarel",
+    "name": "Furfrou",
     "image": "cPK_10_012880_02_TRIMMIENKINGDOMCUT_U.webp",
     "packs": [
       "Mega Gyarados"
@@ -2163,7 +2163,7 @@
     "set": "B1",
     "number": 209,
     "rarity": "C",
-    "name": "Minisange",
+    "name": "Rookidee",
     "image": "cPK_10_012890_00_KOKOGARA_C.webp",
     "packs": [
       "Mega Blaziken"
@@ -2173,7 +2173,7 @@
     "set": "B1",
     "number": 210,
     "rarity": "U",
-    "name": "Bleuseille",
+    "name": "Corvisquire",
     "image": "cPK_10_012900_00_AOGARASU_U.webp",
     "packs": [
       "Mega Blaziken"
@@ -2183,7 +2183,7 @@
     "set": "B1",
     "number": 211,
     "rarity": "C",
-    "name": "Moumouton",
+    "name": "Wooloo",
     "image": "cPK_10_012910_00_WOOLUU_C.webp",
     "packs": [
       "Mega Altaria"
@@ -2193,7 +2193,7 @@
     "set": "B1",
     "number": 212,
     "rarity": "U",
-    "name": "Moumouflon",
+    "name": "Dubwool",
     "image": "cPK_10_012920_00_BAIWOOLUU_U.webp",
     "packs": [
       "Mega Altaria"
@@ -2203,7 +2203,7 @@
     "set": "B1",
     "number": 213,
     "rarity": "U",
-    "name": "Roue Farceuse",
+    "name": "Prank Spinner",
     "image": "cTR_10_000870_00_ITAZURAROULETTE_U.webp",
     "packs": [
       "Mega Blaziken"
@@ -2213,7 +2213,7 @@
     "set": "B1",
     "number": 214,
     "rarity": "C",
-    "name": "Fossile Plume",
+    "name": "Plume Fossil",
     "image": "cTR_10_000880_00_HANENOKASEKI_C.webp",
     "packs": [
       "Mega Blaziken"
@@ -2223,7 +2223,7 @@
     "set": "B1",
     "number": 215,
     "rarity": "U",
-    "name": "Maillet Cognant",
+    "name": "Hitting Hammer",
     "image": "cTR_10_000890_00_HITHAMMER_U.webp",
     "packs": [
       "Mega Gyarados"
@@ -2233,7 +2233,7 @@
     "set": "B1",
     "number": 216,
     "rarity": "C",
-    "name": "Fossile Plaque",
+    "name": "Cover Fossil",
     "image": "cTR_10_000900_00_FUTANOKASEKI_C.webp",
     "packs": [
       "Mega Gyarados"
@@ -2243,7 +2243,7 @@
     "set": "B1",
     "number": 217,
     "rarity": "U",
-    "name": "Fortifiant Flamboyant",
+    "name": "Flame Patch",
     "image": "cTR_10_000910_00_FUREIMUPACCHI_U.webp",
     "packs": [
       "Mega Blaziken"
@@ -2253,7 +2253,7 @@
     "set": "B1",
     "number": 218,
     "rarity": "U",
-    "name": "Baie Sitrus",
+    "name": "Sitrus Berry",
     "image": "cTR_10_000920_00_OBONNOMI_U.webp",
     "packs": [
       "Mega Altaria"
@@ -2263,7 +2263,7 @@
     "set": "B1",
     "number": 219,
     "rarity": "U",
-    "name": "Casque Lourd",
+    "name": "Heavy Helmet",
     "image": "cTR_10_000930_00_BABYMET_U.webp",
     "packs": [
       "Mega Gyarados"
@@ -2273,7 +2273,7 @@
     "set": "B1",
     "number": 220,
     "rarity": "U",
-    "name": "Moufles Chance",
+    "name": "Lucky Mittens",
     "image": "cTR_10_000940_00_LUCKYMITTENS_U.webp",
     "packs": [
       "Mega Altaria"
@@ -2283,7 +2283,7 @@
     "set": "B1",
     "number": 221,
     "rarity": "U",
-    "name": "Amana",
+    "name": "Marlon",
     "image": "cTR_10_000950_00_SHIZUI_U.webp",
     "packs": [
       "Mega Gyarados"
@@ -2293,7 +2293,7 @@
     "set": "B1",
     "number": 222,
     "rarity": "U",
-    "name": "Pectorius",
+    "name": "Hala",
     "image": "cTR_10_000960_00_HALA_U.webp",
     "packs": [
       "Mega Blaziken"
@@ -2303,7 +2303,7 @@
     "set": "B1",
     "number": 223,
     "rarity": "U",
-    "name": "Flora",
+    "name": "May",
     "image": "cTR_10_000970_00_HARUKA_U.webp",
     "packs": [
       "Mega Blaziken"
@@ -2313,7 +2313,7 @@
     "set": "B1",
     "number": 224,
     "rarity": "U",
-    "name": "Kiméra",
+    "name": "Fantina",
     "image": "cTR_10_000980_00_MELISSA_U.webp",
     "packs": [
       "Mega Altaria"
@@ -2323,7 +2323,7 @@
     "set": "B1",
     "number": 225,
     "rarity": "U",
-    "name": "Copieuse",
+    "name": "Copycat",
     "image": "cTR_10_000990_00_MONOMANEMUSUME_U.webp",
     "packs": [
       "Mega Gyarados"
@@ -2333,7 +2333,7 @@
     "set": "B1",
     "number": 226,
     "rarity": "U",
-    "name": "Atalante",
+    "name": "Lisia",
     "image": "cTR_10_001000_00_RUCHIA_U.webp",
     "packs": [
       "Mega Altaria"
@@ -2343,7 +2343,7 @@
     "set": "B1",
     "number": 227,
     "rarity": "AR",
-    "name": "Charmillon",
+    "name": "Beautifly",
     "image": "cPK_20_010870_00_AGEHUNT_AR.webp",
     "packs": [
       "Mega Blaziken"
@@ -2353,7 +2353,7 @@
     "set": "B1",
     "number": 228,
     "rarity": "AR",
-    "name": "Cabriolaine",
+    "name": "Skiddo",
     "image": "cPK_20_011030_00_MEECLE_AR.webp",
     "packs": [
       "Mega Altaria"
@@ -2363,7 +2363,7 @@
     "set": "B1",
     "number": 229,
     "rarity": "AR",
-    "name": "Gorythmic",
+    "name": "Rillaboom",
     "image": "cPK_20_011090_00_GORIRANDER_AR.webp",
     "packs": [
       "Mega Altaria"
@@ -2373,7 +2373,7 @@
     "set": "B1",
     "number": 230,
     "rarity": "AR",
-    "name": "Caninos",
+    "name": "Growlithe",
     "image": "cPK_20_011100_00_GARDIE_AR.webp",
     "packs": [
       "Mega Blaziken"
@@ -2383,7 +2383,7 @@
     "set": "B1",
     "number": 231,
     "rarity": "AR",
-    "name": "Lugulabre",
+    "name": "Chandelure",
     "image": "cPK_20_011250_00_CHANDELA_AR.webp",
     "packs": [
       "Mega Altaria"
@@ -2393,7 +2393,7 @@
     "set": "B1",
     "number": 232,
     "rarity": "AR",
-    "name": "Magicarpe",
+    "name": "Magikarp",
     "image": "cPK_20_011320_00_KOIKING_AR.webp",
     "packs": [
       "Mega Gyarados"
@@ -2413,7 +2413,7 @@
     "set": "B1",
     "number": 234,
     "rarity": "AR",
-    "name": "Moyade",
+    "name": "Jellicent",
     "image": "cPK_20_011510_00_BURUNGEL_AR.webp",
     "packs": [
       "Mega Gyarados"
@@ -2433,7 +2433,7 @@
     "set": "B1",
     "number": 236,
     "rarity": "AR",
-    "name": "Bekaglaçon",
+    "name": "Eiscue",
     "image": "cPK_20_011620_00_KORIPPO_AR.webp",
     "packs": [
       "Mega Altaria"
@@ -2453,7 +2453,7 @@
     "set": "B1",
     "number": 238,
     "rarity": "AR",
-    "name": "Tutankafer",
+    "name": "Cofagrigus",
     "image": "cPK_20_011930_00_DESUKARN_AR.webp",
     "packs": [
       "Mega Gyarados"
@@ -2463,7 +2463,7 @@
     "set": "B1",
     "number": 239,
     "rarity": "AR",
-    "name": "Scrutella",
+    "name": "Gothita",
     "image": "cPK_20_011940_00_GOTHIMU_AR.webp",
     "packs": [
       "Mega Altaria"
@@ -2483,7 +2483,7 @@
     "set": "B1",
     "number": 241,
     "rarity": "AR",
-    "name": "Hippodocus",
+    "name": "Hippowdon",
     "image": "cPK_20_012110_00_KABALDON_AR.webp",
     "packs": [
       "Mega Gyarados"
@@ -2493,7 +2493,7 @@
     "set": "B1",
     "number": 242,
     "rarity": "AR",
-    "name": "Aéroptéryx",
+    "name": "Archeops",
     "image": "cPK_20_012160_00_ARCHEOS_AR.webp",
     "packs": [
       "Mega Blaziken"
@@ -2503,7 +2503,7 @@
     "set": "B1",
     "number": 243,
     "rarity": "AR",
-    "name": "Pandespiègle",
+    "name": "Pancham",
     "image": "cPK_20_012200_00_YANCHAM_AR.webp",
     "packs": [
       "Mega Gyarados"
@@ -2513,7 +2513,7 @@
     "set": "B1",
     "number": 244,
     "rarity": "AR",
-    "name": "Corboss",
+    "name": "Honchkrow",
     "image": "cPK_20_012310_00_DONGKARASU_AR.webp",
     "packs": [
       "Mega Gyarados"
@@ -2523,7 +2523,7 @@
     "set": "B1",
     "number": 245,
     "rarity": "AR",
-    "name": "Trioxhydre",
+    "name": "Hydreigon",
     "image": "cPK_20_012390_00_SAZANDORA_AR.webp",
     "packs": [
       "Mega Gyarados"
@@ -2533,7 +2533,7 @@
     "set": "B1",
     "number": 246,
     "rarity": "AR",
-    "name": "Corvaillus",
+    "name": "Corviknight",
     "image": "cPK_20_012570_00_ARMORGA_AR.webp",
     "packs": [
       "Mega Blaziken"
@@ -2543,7 +2543,7 @@
     "set": "B1",
     "number": 247,
     "rarity": "AR",
-    "name": "Mucuscule",
+    "name": "Goomy",
     "image": "cPK_20_012590_00_NUMERA_AR.webp",
     "packs": [
       "Mega Altaria"
@@ -2563,7 +2563,7 @@
     "set": "B1",
     "number": 249,
     "rarity": "AR",
-    "name": "Mastouffe",
+    "name": "Stoutland",
     "image": "cPK_20_012850_00_MOOLAND_AR.webp",
     "packs": [
       "Mega Altaria"
@@ -2573,7 +2573,7 @@
     "set": "B1",
     "number": 250,
     "rarity": "AR",
-    "name": "Furaiglon",
+    "name": "Rufflet",
     "image": "cPK_20_012860_00_WASHIBON_AR.webp",
     "packs": [
       "Mega Blaziken"
@@ -2583,7 +2583,7 @@
     "set": "B1",
     "number": 251,
     "rarity": "SR",
-    "name": "Méga-Scarabrute-ex",
+    "name": "Mega Pinsir ex",
     "image": "cPK_20_010840_00_MEGAKAILIOSex_SR.webp",
     "packs": [
       "Mega Blaziken"
@@ -2593,7 +2593,7 @@
     "set": "B1",
     "number": 252,
     "rarity": "SR",
-    "name": "Farfaduvet-ex",
+    "name": "Whimsicott ex",
     "image": "cPK_20_010980_00_ELFUUNex_SR.webp",
     "packs": [
       "Mega Altaria"
@@ -2603,7 +2603,7 @@
     "set": "B1",
     "number": 253,
     "rarity": "SR",
-    "name": "Galopa-ex",
+    "name": "Rapidash ex",
     "image": "cPK_20_011130_00_GALLOPex_SR.webp",
     "packs": [
       "Mega Blaziken"
@@ -2613,7 +2613,7 @@
     "set": "B1",
     "number": 254,
     "rarity": "SR",
-    "name": "Méga-Braségali-ex",
+    "name": "Mega Blaziken ex",
     "image": "cPK_20_011180_00_MEGABURSYAMOex_SR.webp",
     "packs": [
       "Mega Blaziken"
@@ -2623,7 +2623,7 @@
     "set": "B1",
     "number": 255,
     "rarity": "SR",
-    "name": "Méga-Léviator-ex",
+    "name": "Mega Gyarados ex",
     "image": "cPK_20_011340_00_MEGAGYARADOSex_SR.webp",
     "packs": [
       "Mega Gyarados"
@@ -2633,7 +2633,7 @@
     "set": "B1",
     "number": 256,
     "rarity": "SR",
-    "name": "Amphinobi-ex",
+    "name": "Greninja ex",
     "image": "cPK_20_011550_00_GEKKOUGAex_SR.webp",
     "packs": [
       "Mega Gyarados"
@@ -2643,7 +2643,7 @@
     "set": "B1",
     "number": 257,
     "rarity": "SR",
-    "name": "Voltali-ex",
+    "name": "Jolteon ex",
     "image": "cPK_20_011630_00_THUNDERSex_SR.webp",
     "packs": [
       "Mega Gyarados"
@@ -2653,7 +2653,7 @@
     "set": "B1",
     "number": 258,
     "rarity": "SR",
-    "name": "Méga-Pharamp-ex",
+    "name": "Mega Ampharos ex",
     "image": "cPK_20_011670_00_MEGADENRYUex_SR.webp",
     "packs": [
       "Mega Altaria"
@@ -2663,7 +2663,7 @@
     "set": "B1",
     "number": 259,
     "rarity": "SR",
-    "name": "Méga-Altaria-ex",
+    "name": "Mega Altaria ex",
     "image": "cPK_20_011840_00_MEGATYLTALISex_SR.webp",
     "packs": [
       "Mega Altaria"
@@ -2673,7 +2673,7 @@
     "set": "B1",
     "number": 260,
     "rarity": "SR",
-    "name": "Wimessir-ex",
+    "name": "Indeedee ex",
     "image": "cPK_20_012030_00_YESSANMESUNOSUGATA_SR.webp",
     "packs": [
       "Mega Altaria"
@@ -2683,7 +2683,7 @@
     "set": "B1",
     "number": 261,
     "rarity": "SR",
-    "name": "Tygnon-ex",
+    "name": "Hitmonchan ex",
     "image": "cPK_20_012060_00_EBIWALARex_SR.webp",
     "packs": [
       "Mega Blaziken"
@@ -2693,7 +2693,7 @@
     "set": "B1",
     "number": 262,
     "rarity": "SR",
-    "name": "Méga-Absol-ex",
+    "name": "Mega Absol ex",
     "image": "cPK_20_012330_00_MEGAABSOLex_SR.webp",
     "packs": [
       "Mega Gyarados"
@@ -2703,7 +2703,7 @@
     "set": "B1",
     "number": 263,
     "rarity": "SR",
-    "name": "Kravarech-ex",
+    "name": "Dragalge ex",
     "image": "cPK_20_012420_00_DRAMIDOROex_SR.webp",
     "packs": [
       "Mega Blaziken"
@@ -2713,7 +2713,7 @@
     "set": "B1",
     "number": 264,
     "rarity": "SR",
-    "name": "Melmetal-ex",
+    "name": "Melmetal ex",
     "image": "cPK_20_012560_00_MELMETALex_SR.webp",
     "packs": [
       "Mega Gyarados"
@@ -2723,7 +2723,7 @@
     "set": "B1",
     "number": 265,
     "rarity": "SR",
-    "name": "Tauros-ex",
+    "name": "Tauros ex",
     "image": "cPK_20_012650_00_KENTAUROSex_SR.webp",
     "packs": [
       "Mega Altaria"
@@ -2733,7 +2733,7 @@
     "set": "B1",
     "number": 266,
     "rarity": "SR",
-    "name": "Amana",
+    "name": "Marlon",
     "image": "cTR_20_000950_00_SHIZUI_SR.webp",
     "packs": [
       "Mega Gyarados"
@@ -2743,7 +2743,7 @@
     "set": "B1",
     "number": 267,
     "rarity": "SR",
-    "name": "Pectorius",
+    "name": "Hala",
     "image": "cTR_20_000960_00_HALA_SR.webp",
     "packs": [
       "Mega Blaziken"
@@ -2753,7 +2753,7 @@
     "set": "B1",
     "number": 268,
     "rarity": "SR",
-    "name": "Flora",
+    "name": "May",
     "image": "cTR_20_000970_00_HARUKA_SR.webp",
     "packs": [
       "Mega Blaziken"
@@ -2763,7 +2763,7 @@
     "set": "B1",
     "number": 269,
     "rarity": "SR",
-    "name": "Kiméra",
+    "name": "Fantina",
     "image": "cTR_20_000980_00_MELISSA_SR.webp",
     "packs": [
       "Mega Altaria"
@@ -2773,7 +2773,7 @@
     "set": "B1",
     "number": 270,
     "rarity": "SR",
-    "name": "Copieuse",
+    "name": "Copycat",
     "image": "cTR_20_000990_00_MONOMANEMUSUME_SR.webp",
     "packs": [
       "Mega Gyarados"
@@ -2783,7 +2783,7 @@
     "set": "B1",
     "number": 271,
     "rarity": "SR",
-    "name": "Atalante",
+    "name": "Lisia",
     "image": "cTR_20_001000_00_RUCHIA_SR.webp",
     "packs": [
       "Mega Altaria"
@@ -2793,7 +2793,7 @@
     "set": "B1",
     "number": 272,
     "rarity": "SAR",
-    "name": "Méga-Scarabrute-ex",
+    "name": "Mega Pinsir ex",
     "image": "cPK_20_010840_01_MEGAKAILIOSex_SAR.webp",
     "packs": [
       "Mega Blaziken"
@@ -2803,7 +2803,7 @@
     "set": "B1",
     "number": 273,
     "rarity": "SAR",
-    "name": "Farfaduvet-ex",
+    "name": "Whimsicott ex",
     "image": "cPK_20_010980_01_ELFUUNex_SAR.webp",
     "packs": [
       "Mega Altaria"
@@ -2813,7 +2813,7 @@
     "set": "B1",
     "number": 274,
     "rarity": "SAR",
-    "name": "Galopa-ex",
+    "name": "Rapidash ex",
     "image": "cPK_20_011130_01_GALLOPex_SAR.webp",
     "packs": [
       "Mega Blaziken"
@@ -2823,7 +2823,7 @@
     "set": "B1",
     "number": 275,
     "rarity": "SAR",
-    "name": "Amphinobi-ex",
+    "name": "Greninja ex",
     "image": "cPK_20_011550_01_GEKKOUGAex_SAR.webp",
     "packs": [
       "Mega Gyarados"
@@ -2833,7 +2833,7 @@
     "set": "B1",
     "number": 276,
     "rarity": "SAR",
-    "name": "Voltali-ex",
+    "name": "Jolteon ex",
     "image": "cPK_20_011630_01_THUNDERSex_SAR.webp",
     "packs": [
       "Mega Gyarados"
@@ -2843,7 +2843,7 @@
     "set": "B1",
     "number": 277,
     "rarity": "SAR",
-    "name": "Méga-Pharamp-ex",
+    "name": "Mega Ampharos ex",
     "image": "cPK_20_011670_01_MEGADENRYUex_SAR.webp",
     "packs": [
       "Mega Altaria"
@@ -2853,7 +2853,7 @@
     "set": "B1",
     "number": 278,
     "rarity": "SAR",
-    "name": "Wimessir-ex",
+    "name": "Indeedee ex",
     "image": "cPK_20_012030_01_YESSANMESUNOSUGATA_SAR.webp",
     "packs": [
       "Mega Altaria"
@@ -2863,7 +2863,7 @@
     "set": "B1",
     "number": 279,
     "rarity": "SAR",
-    "name": "Tygnon-ex",
+    "name": "Hitmonchan ex",
     "image": "cPK_20_012060_01_EBIWALARex_SAR.webp",
     "packs": [
       "Mega Blaziken"
@@ -2873,7 +2873,7 @@
     "set": "B1",
     "number": 280,
     "rarity": "SAR",
-    "name": "Méga-Absol-ex",
+    "name": "Mega Absol ex",
     "image": "cPK_20_012330_01_MEGAABSOLex_SAR.webp",
     "packs": [
       "Mega Gyarados"
@@ -2883,7 +2883,7 @@
     "set": "B1",
     "number": 281,
     "rarity": "SAR",
-    "name": "Kravarech-ex",
+    "name": "Dragalge ex",
     "image": "cPK_20_012420_01_DRAMIDOROex_SAR.webp",
     "packs": [
       "Mega Blaziken"
@@ -2893,7 +2893,7 @@
     "set": "B1",
     "number": 282,
     "rarity": "SAR",
-    "name": "Melmetal-ex",
+    "name": "Melmetal ex",
     "image": "cPK_20_012560_01_MELMETALex_SAR.webp",
     "packs": [
       "Mega Gyarados"
@@ -2903,7 +2903,7 @@
     "set": "B1",
     "number": 283,
     "rarity": "SAR",
-    "name": "Tauros-ex",
+    "name": "Tauros ex",
     "image": "cPK_20_012650_01_KENTAUROSex_SAR.webp",
     "packs": [
       "Mega Altaria"
@@ -2913,7 +2913,7 @@
     "set": "B1",
     "number": 284,
     "rarity": "IM",
-    "name": "Méga-Braségali-ex",
+    "name": "Mega Blaziken ex",
     "image": "cPK_20_011180_01_MEGABURSYAMOex_IM.webp",
     "packs": [
       "Mega Blaziken"
@@ -2923,7 +2923,7 @@
     "set": "B1",
     "number": 285,
     "rarity": "IM",
-    "name": "Méga-Léviator-ex",
+    "name": "Mega Gyarados ex",
     "image": "cPK_20_011340_01_MEGAGYARADOSex_IM.webp",
     "packs": [
       "Mega Gyarados"
@@ -2933,7 +2933,7 @@
     "set": "B1",
     "number": 286,
     "rarity": "IM",
-    "name": "Méga-Altaria-ex",
+    "name": "Mega Altaria ex",
     "image": "cPK_20_011840_01_MEGATYLTALISex_IM.webp",
     "packs": [
       "Mega Altaria"
@@ -2943,7 +2943,7 @@
     "set": "B1",
     "number": 287,
     "rarity": "S",
-    "name": "Chétiflor",
+    "name": "Bellsprout",
     "image": "cPK_20_000180_00_MADATSUBOMI_S.webp",
     "packs": [
       "Mega Altaria"
@@ -2953,7 +2953,7 @@
     "set": "B1",
     "number": 288,
     "rarity": "S",
-    "name": "Boustiflor",
+    "name": "Weepinbell",
     "image": "cPK_20_000190_00_UTSUDON_S.webp",
     "packs": [
       "Mega Altaria"
@@ -2963,7 +2963,7 @@
     "set": "B1",
     "number": 289,
     "rarity": "S",
-    "name": "Empiflor",
+    "name": "Victreebel",
     "image": "cPK_20_000200_00_UTSUBOT_S.webp",
     "packs": [
       "Mega Altaria"
@@ -2973,7 +2973,7 @@
     "set": "B1",
     "number": 290,
     "rarity": "S",
-    "name": "Brindibou",
+    "name": "Rowlet",
     "image": "cPK_20_005910_00_MOKUROH_S.webp",
     "packs": [
       "Mega Blaziken"
@@ -2983,7 +2983,7 @@
     "set": "B1",
     "number": 291,
     "rarity": "S",
-    "name": "Efflèche",
+    "name": "Dartrix",
     "image": "cPK_20_007460_00_FUKUTHROW_S.webp",
     "packs": [
       "Mega Blaziken"
@@ -2993,7 +2993,7 @@
     "set": "B1",
     "number": 292,
     "rarity": "S",
-    "name": "Sulfura",
+    "name": "Moltres",
     "image": "cPK_20_000460_00_FIRE_S.webp",
     "packs": [
       "Mega Blaziken"
@@ -3003,7 +3003,7 @@
     "set": "B1",
     "number": 293,
     "rarity": "S",
-    "name": "Flamiaou",
+    "name": "Litten",
     "image": "cPK_20_006110_00_NYABBY_S.webp",
     "packs": [
       "Mega Gyarados"
@@ -3013,7 +3013,7 @@
     "set": "B1",
     "number": 294,
     "rarity": "S",
-    "name": "Matoufeu",
+    "name": "Torracat",
     "image": "cPK_20_006130_00_NYAHEAT_S.webp",
     "packs": [
       "Mega Gyarados"
@@ -3023,7 +3023,7 @@
     "set": "B1",
     "number": 295,
     "rarity": "S",
-    "name": "Ptitard",
+    "name": "Poliwag",
     "image": "cPK_20_010330_00_NYOROMO_S.webp",
     "packs": [
       "Mega Gyarados"
@@ -3033,7 +3033,7 @@
     "set": "B1",
     "number": 296,
     "rarity": "S",
-    "name": "Têtarte",
+    "name": "Poliwhirl",
     "image": "cPK_20_000600_00_NYOROZO_S.webp",
     "packs": [
       "Mega Gyarados"
@@ -3043,7 +3043,7 @@
     "set": "B1",
     "number": 297,
     "rarity": "S",
-    "name": "Tartard",
+    "name": "Poliwrath",
     "image": "cPK_20_000610_00_NYOROBON_S.webp",
     "packs": [
       "Mega Gyarados"
@@ -3053,7 +3053,7 @@
     "set": "B1",
     "number": 298,
     "rarity": "S",
-    "name": "Artikodin",
+    "name": "Articuno",
     "image": "cPK_20_000830_00_FREEZER_S.webp",
     "packs": [
       "Mega Altaria"
@@ -3073,7 +3073,7 @@
     "set": "B1",
     "number": 300,
     "rarity": "S",
-    "name": "Otaquin",
+    "name": "Popplio",
     "image": "cPK_20_006260_00_ASHIMARI_S.webp",
     "packs": [
       "Mega Altaria"
@@ -3083,7 +3083,7 @@
     "set": "B1",
     "number": 301,
     "rarity": "S",
-    "name": "Otarlette",
+    "name": "Brionne",
     "image": "cPK_20_008180_00_OSYAMARI_S.webp",
     "packs": [
       "Mega Altaria"
@@ -3093,7 +3093,7 @@
     "set": "B1",
     "number": 302,
     "rarity": "S",
-    "name": "Électhor",
+    "name": "Zapdos",
     "image": "cPK_20_001030_00_THUNDER_S.webp",
     "packs": [
       "Mega Gyarados"
@@ -3103,7 +3103,7 @@
     "set": "B1",
     "number": 303,
     "rarity": "S",
-    "name": "Plumeline",
+    "name": "Oricorio",
     "image": "cPK_20_006470_01_ODORIDORIPACHIPACHISTYLE_S.webp",
     "packs": [
       "Mega Gyarados"
@@ -3123,7 +3123,7 @@
     "set": "B1",
     "number": 305,
     "rarity": "S",
-    "name": "Soporifik",
+    "name": "Drowzee",
     "image": "cPK_20_001240_00_SLEEPE_S.webp",
     "packs": [
       "Mega Gyarados"
@@ -3133,7 +3133,7 @@
     "set": "B1",
     "number": 306,
     "rarity": "S",
-    "name": "Hypnomade",
+    "name": "Hypno",
     "image": "cPK_20_001250_00_SLEEPER_S.webp",
     "packs": [
       "Mega Gyarados"
@@ -3143,7 +3143,7 @@
     "set": "B1",
     "number": 307,
     "rarity": "S",
-    "name": "Racaillou",
+    "name": "Geodude",
     "image": "cPK_20_001470_00_ISITSUBUTE_S.webp",
     "packs": [
       "Mega Blaziken"
@@ -3153,7 +3153,7 @@
     "set": "B1",
     "number": 308,
     "rarity": "S",
-    "name": "Gravalanch",
+    "name": "Graveler",
     "image": "cPK_20_002570_00_GOLONE_S.webp",
     "packs": [
       "Mega Blaziken"
@@ -3163,7 +3163,7 @@
     "set": "B1",
     "number": 309,
     "rarity": "S",
-    "name": "Grolem",
+    "name": "Golem",
     "image": "cPK_20_002580_00_GOLONYA_S.webp",
     "packs": [
       "Mega Blaziken"
@@ -3173,7 +3173,7 @@
     "set": "B1",
     "number": 310,
     "rarity": "S",
-    "name": "Rocabot",
+    "name": "Rockruff",
     "image": "cPK_20_006790_01_IWANKO_S.webp",
     "packs": [
       "Mega Gyarados"
@@ -3183,7 +3183,7 @@
     "set": "B1",
     "number": 311,
     "rarity": "S",
-    "name": "Taupiqueur d'Alola",
+    "name": "Alolan Diglett",
     "image": "cPK_20_006980_00_ALOLADIGDA_S.webp",
     "packs": [
       "Mega Blaziken"
@@ -3193,7 +3193,7 @@
     "set": "B1",
     "number": 312,
     "rarity": "S",
-    "name": "Miaouss",
+    "name": "Meowth",
     "image": "cPK_20_001960_01_NYARTH_S.webp",
     "packs": [
       "Mega Altaria"
@@ -3233,7 +3233,7 @@
     "set": "B1",
     "number": 316,
     "rarity": "S",
-    "name": "Keunotor",
+    "name": "Bidoof",
     "image": "cPK_20_004160_01_BIPPA_S.webp",
     "packs": [
       "Mega Altaria"
@@ -3243,7 +3243,7 @@
     "set": "B1",
     "number": 317,
     "rarity": "SSR",
-    "name": "Archéduc-ex",
+    "name": "Decidueye ex",
     "image": "cPK_20_005930_02_JUNAIPERex_SSR.webp",
     "packs": [
       "Mega Blaziken"
@@ -3253,7 +3253,7 @@
     "set": "B1",
     "number": 318,
     "rarity": "SSR",
-    "name": "Félinferno-ex",
+    "name": "Incineroar ex",
     "image": "cPK_20_006140_02_GAOGAENex_SSR.webp",
     "packs": [
       "Mega Gyarados"
@@ -3263,7 +3263,7 @@
     "set": "B1",
     "number": 319,
     "rarity": "SSR",
-    "name": "Palkia-ex",
+    "name": "Palkia ex",
     "image": "cPK_20_003300_04_PALKIAex_SSR.webp",
     "packs": [
       "Mega Blaziken"
@@ -3273,7 +3273,7 @@
     "set": "B1",
     "number": 320,
     "rarity": "SSR",
-    "name": "Oratoria-ex",
+    "name": "Primarina ex",
     "image": "cPK_20_008190_02_ASHIRENEex_SSR.webp",
     "packs": [
       "Mega Altaria"
@@ -3283,7 +3283,7 @@
     "set": "B1",
     "number": 321,
     "rarity": "SSR",
-    "name": "Pikachu-ex",
+    "name": "Pikachu ex",
     "image": "cPK_20_005410_02_PIKACHUex_SSR.webp",
     "packs": [
       "Mega Gyarados"
@@ -3293,7 +3293,7 @@
     "set": "B1",
     "number": 322,
     "rarity": "SSR",
-    "name": "Tokorico-ex",
+    "name": "Tapu Koko ex",
     "image": "cPK_20_007420_02_KAPU-KOKEKOex_SSR.webp",
     "packs": [
       "Mega Blaziken"
@@ -3303,7 +3303,7 @@
     "set": "B1",
     "number": 323,
     "rarity": "SSR",
-    "name": "Lougaroc-ex",
+    "name": "Lycanroc ex",
     "image": "cPK_20_007700_02_LUGARUGANex_SSR.webp",
     "packs": [
       "Mega Gyarados"
@@ -3313,7 +3313,7 @@
     "set": "B1",
     "number": 324,
     "rarity": "SSR",
-    "name": "Quartermac-ex",
+    "name": "Passimian ex",
     "image": "cPK_20_006850_02_NAGETUKESARUex_SSR.webp",
     "packs": [
       "Mega Altaria"
@@ -3323,7 +3323,7 @@
     "set": "B1",
     "number": 325,
     "rarity": "SSR",
-    "name": "Triopikeur d'Alola-ex",
+    "name": "Alolan Dugtrio ex",
     "image": "cPK_20_007830_02_ALOLADUGTRIOex_SSR.webp",
     "packs": [
       "Mega Blaziken"
@@ -3333,7 +3333,7 @@
     "set": "B1",
     "number": 326,
     "rarity": "SSR",
-    "name": "Dialga-ex",
+    "name": "Dialga ex",
     "image": "cPK_20_004000_04_DIALGAex_SSR.webp",
     "packs": [
       "Mega Altaria"
@@ -3343,7 +3343,7 @@
     "set": "B1",
     "number": 327,
     "rarity": "SSR",
-    "name": "Castorno-ex",
+    "name": "Bibarel ex",
     "image": "cPK_20_005790_02_BEADARUex_SSR.webp",
     "packs": [
       "Mega Altaria"
@@ -3353,7 +3353,7 @@
     "set": "B1",
     "number": 328,
     "rarity": "SSR",
-    "name": "Arceus-ex",
+    "name": "Arceus ex",
     "image": "cPK_20_004950_04_ARCEUSex_SSR.webp",
     "packs": [
       "Mega Gyarados"
@@ -3363,7 +3363,7 @@
     "set": "B1",
     "number": 329,
     "rarity": "UR",
-    "name": "Fragilady",
+    "name": "Lilligant",
     "image": "cPK_20_011000_00_DREDEAR_UR.webp",
     "packs": [
       "Mega Altaria",
@@ -3375,7 +3375,7 @@
     "set": "B1",
     "number": 330,
     "rarity": "UR",
-    "name": "Trousselin",
+    "name": "Klefki",
     "image": "cPK_20_012020_00_CLEFFY_UR.webp",
     "packs": [
       "Mega Altaria",
@@ -3387,7 +3387,7 @@
     "set": "B1",
     "number": 331,
     "rarity": "UR",
-    "name": "Fortifiant Flamboyant",
+    "name": "Flame Patch",
     "image": "cTR_20_000910_00_FUREIMUPACCHI_UR.webp",
     "packs": [
       "Mega Altaria",

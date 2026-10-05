@@ -3,7 +3,7 @@
     "set": "A4a",
     "number": 1,
     "rarity": "C",
-    "name": "Granivol",
+    "name": "Hoppip",
     "image": "cPK_10_010220_00_HANECCO_C.webp",
     "packs": [
       "Secluded"
@@ -13,7 +13,7 @@
     "set": "A4a",
     "number": 2,
     "rarity": "U",
-    "name": "Floravol",
+    "name": "Skiploom",
     "image": "cPK_10_010230_00_POPOCCO_U.webp",
     "packs": [
       "Secluded"
@@ -23,7 +23,7 @@
     "set": "A4a",
     "number": 3,
     "rarity": "RR",
-    "name": "Cotovol-ex",
+    "name": "Jumpluff ex",
     "image": "cPK_10_010240_00_WATACCOex_RR.webp",
     "packs": [
       "Secluded"
@@ -33,7 +33,7 @@
     "set": "A4a",
     "number": 4,
     "rarity": "C",
-    "name": "Tournegrin",
+    "name": "Sunkern",
     "image": "cPK_10_010250_00_HIMANUTS_C.webp",
     "packs": [
       "Secluded"
@@ -43,7 +43,7 @@
     "set": "A4a",
     "number": 5,
     "rarity": "U",
-    "name": "Héliatronc",
+    "name": "Sunflora",
     "image": "cPK_10_010260_00_KIMAWARI_U.webp",
     "packs": [
       "Secluded"
@@ -63,7 +63,7 @@
     "set": "A4a",
     "number": 7,
     "rarity": "C",
-    "name": "Fermite",
+    "name": "Durant",
     "image": "cPK_10_010280_00_AIANT_C.webp",
     "packs": [
       "Secluded"
@@ -73,7 +73,7 @@
     "set": "A4a",
     "number": 8,
     "rarity": "C",
-    "name": "Limagma",
+    "name": "Slugma",
     "image": "cPK_10_010290_00_MAGMAG_C.webp",
     "packs": [
       "Secluded"
@@ -83,7 +83,7 @@
     "set": "A4a",
     "number": 9,
     "rarity": "U",
-    "name": "Volcaropod",
+    "name": "Magcargo",
     "image": "cPK_10_010300_00_MAGCARGOT_U.webp",
     "packs": [
       "Secluded"
@@ -93,7 +93,7 @@
     "set": "A4a",
     "number": 10,
     "rarity": "RR",
-    "name": "Entei-ex",
+    "name": "Entei ex",
     "image": "cPK_10_010210_00_ENTEIex_RR.webp",
     "packs": [
       "Secluded"
@@ -103,7 +103,7 @@
     "set": "A4a",
     "number": 11,
     "rarity": "C",
-    "name": "Braisillon",
+    "name": "Fletchinder",
     "image": "cPK_10_010310_00_HINOYAKOMA_C.webp",
     "packs": [
       "Secluded"
@@ -113,7 +113,7 @@
     "set": "A4a",
     "number": 12,
     "rarity": "U",
-    "name": "Flambusard",
+    "name": "Talonflame",
     "image": "cPK_10_010320_00_FIARROW_U.webp",
     "packs": [
       "Secluded"
@@ -123,7 +123,7 @@
     "set": "A4a",
     "number": 13,
     "rarity": "C",
-    "name": "Ptitard",
+    "name": "Poliwag",
     "image": "cPK_10_010330_00_NYOROMO_C.webp",
     "packs": [
       "Secluded"
@@ -133,7 +133,7 @@
     "set": "A4a",
     "number": 14,
     "rarity": "U",
-    "name": "Têtarte",
+    "name": "Poliwhirl",
     "image": "cPK_10_010340_00_NYOROZO_U.webp",
     "packs": [
       "Secluded"
@@ -163,7 +163,7 @@
     "set": "A4a",
     "number": 17,
     "rarity": "C",
-    "name": "Ramoloss",
+    "name": "Slowpoke",
     "image": "cPK_10_010370_00_YADON_C.webp",
     "packs": [
       "Secluded"
@@ -173,7 +173,7 @@
     "set": "A4a",
     "number": 18,
     "rarity": "U",
-    "name": "Roigada",
+    "name": "Slowking",
     "image": "cPK_10_010380_00_YADOKING_U.webp",
     "packs": [
       "Secluded"
@@ -183,7 +183,7 @@
     "set": "A4a",
     "number": 19,
     "rarity": "C",
-    "name": "Lippoutou",
+    "name": "Jynx",
     "image": "cPK_10_010390_00_ROUGELA_C.webp",
     "packs": [
       "Secluded"
@@ -193,7 +193,7 @@
     "set": "A4a",
     "number": 20,
     "rarity": "RR",
-    "name": "Suicune-ex",
+    "name": "Suicune ex",
     "image": "cPK_10_010400_00_SUICUNEex_RR.webp",
     "packs": [
       "Secluded"
@@ -203,7 +203,7 @@
     "set": "A4a",
     "number": 21,
     "rarity": "C",
-    "name": "Barpau",
+    "name": "Feebas",
     "image": "cPK_10_010410_00_HINBASS_C.webp",
     "packs": [
       "Secluded"
@@ -213,7 +213,7 @@
     "set": "A4a",
     "number": 22,
     "rarity": "R",
-    "name": "Milobellus",
+    "name": "Milotic",
     "image": "cPK_10_010120_00_MILOKAROSS_R.webp",
     "packs": [
       "Secluded"
@@ -223,7 +223,7 @@
     "set": "A4a",
     "number": 23,
     "rarity": "R",
-    "name": "Babimanta",
+    "name": "Mantyke",
     "image": "cPK_10_010420_00_TAMANTA_R.webp",
     "packs": [
       "Secluded"
@@ -233,7 +233,7 @@
     "set": "A4a",
     "number": 24,
     "rarity": "C",
-    "name": "Hexagel",
+    "name": "Cryogonal",
     "image": "cPK_10_010430_00_FREEGEO_C.webp",
     "packs": [
       "Secluded"
@@ -243,7 +243,7 @@
     "set": "A4a",
     "number": 25,
     "rarity": "RR",
-    "name": "Raikou-ex",
+    "name": "Raikou ex",
     "image": "cPK_10_010440_00_RAIKOUex_RR.webp",
     "packs": [
       "Secluded"
@@ -253,7 +253,7 @@
     "set": "A4a",
     "number": 26,
     "rarity": "C",
-    "name": "Anchwatt",
+    "name": "Tynamo",
     "image": "cPK_10_010450_00_SHIBISHIRASU_C.webp",
     "packs": [
       "Secluded"
@@ -263,7 +263,7 @@
     "set": "A4a",
     "number": 27,
     "rarity": "C",
-    "name": "Lampéroie",
+    "name": "Eelektrik",
     "image": "cPK_10_010460_00_SHIBIBEEL_C.webp",
     "packs": [
       "Secluded"
@@ -273,7 +273,7 @@
     "set": "A4a",
     "number": 28,
     "rarity": "U",
-    "name": "Ohmassacre",
+    "name": "Eelektross",
     "image": "cPK_10_010470_00_SHIBIRUDON_U.webp",
     "packs": [
       "Secluded"
@@ -283,7 +283,7 @@
     "set": "A4a",
     "number": 29,
     "rarity": "C",
-    "name": "Limonde",
+    "name": "Stunfisk",
     "image": "cPK_10_010480_00_MAGGYO_C.webp",
     "packs": [
       "Secluded"
@@ -293,7 +293,7 @@
     "set": "A4a",
     "number": 30,
     "rarity": "C",
-    "name": "Voltoutou",
+    "name": "Yamper",
     "image": "cPK_10_010490_00_WANPACHI_C.webp",
     "packs": [
       "Secluded"
@@ -303,7 +303,7 @@
     "set": "A4a",
     "number": 31,
     "rarity": "R",
-    "name": "Fulgudog",
+    "name": "Boltund",
     "image": "cPK_10_010500_00_PULSEWAN_R.webp",
     "packs": [
       "Secluded"
@@ -313,7 +313,7 @@
     "set": "A4a",
     "number": 32,
     "rarity": "C",
-    "name": "Feuforêve",
+    "name": "Misdreavus",
     "image": "cPK_10_010510_00_MUMA_C.webp",
     "packs": [
       "Secluded"
@@ -323,7 +323,7 @@
     "set": "A4a",
     "number": 33,
     "rarity": "U",
-    "name": "Magirêve",
+    "name": "Mismagius",
     "image": "cPK_10_010520_00_MUMARGI_U.webp",
     "packs": [
       "Secluded"
@@ -333,7 +333,7 @@
     "set": "A4a",
     "number": 34,
     "rarity": "C",
-    "name": "Corayon de Galar",
+    "name": "Galarian Corsola",
     "image": "cPK_10_010530_00_GALARSUNNYGO_C.webp",
     "packs": [
       "Secluded"
@@ -343,7 +343,7 @@
     "set": "A4a",
     "number": 35,
     "rarity": "R",
-    "name": "Corayôme de Galar",
+    "name": "Galarian Cursola",
     "image": "cPK_10_010540_00_GALARSUNIGOON_R.webp",
     "packs": [
       "Secluded"
@@ -373,7 +373,7 @@
     "set": "A4a",
     "number": 38,
     "rarity": "C",
-    "name": "Viskuse",
+    "name": "Frillish",
     "image": "cPK_10_010560_00_PURURILL_C.webp",
     "packs": [
       "Secluded"
@@ -383,7 +383,7 @@
     "set": "A4a",
     "number": 39,
     "rarity": "U",
-    "name": "Moyade",
+    "name": "Jellicent",
     "image": "cPK_10_010570_00_BURUNGEL_U.webp",
     "packs": [
       "Secluded"
@@ -393,7 +393,7 @@
     "set": "A4a",
     "number": 40,
     "rarity": "C",
-    "name": "Taupiqueur",
+    "name": "Diglett",
     "image": "cPK_10_010580_00_DIGDA_C.webp",
     "packs": [
       "Secluded"
@@ -403,7 +403,7 @@
     "set": "A4a",
     "number": 41,
     "rarity": "U",
-    "name": "Triopikeur",
+    "name": "Dugtrio",
     "image": "cPK_10_010590_00_DUGTRIO_U.webp",
     "packs": [
       "Secluded"
@@ -413,7 +413,7 @@
     "set": "A4a",
     "number": 42,
     "rarity": "RR",
-    "name": "Tartard-ex",
+    "name": "Poliwrath ex",
     "image": "cPK_10_010600_00_NYOROBONex_RR.webp",
     "packs": [
       "Secluded"
@@ -453,7 +453,7 @@
     "set": "A4a",
     "number": 46,
     "rarity": "C",
-    "name": "Crabicoque",
+    "name": "Dwebble",
     "image": "cPK_10_010630_00_ISHIZUMAI_C.webp",
     "packs": [
       "Secluded"
@@ -463,7 +463,7 @@
     "set": "A4a",
     "number": 47,
     "rarity": "U",
-    "name": "Crabaraque",
+    "name": "Crustle",
     "image": "cPK_10_010640_00_IWAPALACE_U.webp",
     "packs": [
       "Secluded"
@@ -473,7 +473,7 @@
     "set": "A4a",
     "number": 48,
     "rarity": "C",
-    "name": "Séviper",
+    "name": "Seviper",
     "image": "cPK_10_010650_00_HABUNAKE_C.webp",
     "packs": [
       "Secluded"
@@ -503,7 +503,7 @@
     "set": "A4a",
     "number": 51,
     "rarity": "C",
-    "name": "Sepiatop",
+    "name": "Inkay",
     "image": "cPK_10_010660_00_MAAIIKA_C.webp",
     "packs": [
       "Secluded"
@@ -513,7 +513,7 @@
     "set": "A4a",
     "number": 52,
     "rarity": "U",
-    "name": "Sepiatroce",
+    "name": "Malamar",
     "image": "cPK_10_010670_00_CALAMANERO_U.webp",
     "packs": [
       "Secluded"
@@ -523,7 +523,7 @@
     "set": "A4a",
     "number": 53,
     "rarity": "C",
-    "name": "Venalgue",
+    "name": "Skrelp",
     "image": "cPK_10_010680_00_KUZUMO_C.webp",
     "packs": [
       "Secluded"
@@ -533,7 +533,7 @@
     "set": "A4a",
     "number": 54,
     "rarity": "C",
-    "name": "Kravarech",
+    "name": "Dragalge",
     "image": "cPK_10_010690_00_DRAMIDORO_C.webp",
     "packs": [
       "Secluded"
@@ -553,7 +553,7 @@
     "set": "A4a",
     "number": 56,
     "rarity": "C",
-    "name": "Canarticho",
+    "name": "Farfetch’d",
     "image": "cPK_10_010710_00_KAMONEGI_C.webp",
     "packs": [
       "Secluded"
@@ -563,7 +563,7 @@
     "set": "A4a",
     "number": 57,
     "rarity": "C",
-    "name": "Excelangue",
+    "name": "Lickitung",
     "image": "cPK_10_010720_00_BERORINGA_C.webp",
     "packs": [
       "Secluded"
@@ -573,7 +573,7 @@
     "set": "A4a",
     "number": 58,
     "rarity": "U",
-    "name": "Coudlangue",
+    "name": "Lickilicky",
     "image": "cPK_10_010730_00_BEROBELT_U.webp",
     "packs": [
       "Secluded"
@@ -583,7 +583,7 @@
     "set": "A4a",
     "number": 59,
     "rarity": "R",
-    "name": "Toudoudou",
+    "name": "Igglybuff",
     "image": "cPK_10_010740_00_PUPURIN_R.webp",
     "packs": [
       "Secluded"
@@ -613,7 +613,7 @@
     "set": "A4a",
     "number": 62,
     "rarity": "U",
-    "name": "Écrémeuh",
+    "name": "Miltank",
     "image": "cPK_10_010180_00_MILTANK_U.webp",
     "packs": [
       "Secluded"
@@ -633,7 +633,7 @@
     "set": "A4a",
     "number": 64,
     "rarity": "C",
-    "name": "Tylton",
+    "name": "Swablu",
     "image": "cPK_10_010780_00_TYLTTO_C.webp",
     "packs": [
       "Secluded"
@@ -643,7 +643,7 @@
     "set": "A4a",
     "number": 65,
     "rarity": "U",
-    "name": "Mangriff",
+    "name": "Zangoose",
     "image": "cPK_10_010790_00_ZANGOOSE_U.webp",
     "packs": [
       "Secluded"
@@ -653,7 +653,7 @@
     "set": "A4a",
     "number": 66,
     "rarity": "C",
-    "name": "Passerouge",
+    "name": "Fletchling",
     "image": "cPK_10_010800_00_YAYAKOMA_C.webp",
     "packs": [
       "Secluded"
@@ -663,7 +663,7 @@
     "set": "A4a",
     "number": 67,
     "rarity": "U",
-    "name": "Canot Gonflable",
+    "name": "Inflatable Boat",
     "image": "cTR_10_000820_00_WHOTABOTO_U.webp",
     "packs": [
       "Secluded"
@@ -673,7 +673,7 @@
     "set": "A4a",
     "number": 68,
     "rarity": "U",
-    "name": "Lumière Mémoire",
+    "name": "Memory Light",
     "image": "cTR_10_000830_00_MEMORYLIGHT_U.webp",
     "packs": [
       "Secluded"
@@ -683,7 +683,7 @@
     "set": "A4a",
     "number": 69,
     "rarity": "U",
-    "name": "Blanche",
+    "name": "Whitney",
     "image": "cTR_10_000840_00_AKANE_U.webp",
     "packs": [
       "Secluded"
@@ -693,7 +693,7 @@
     "set": "A4a",
     "number": 70,
     "rarity": "U",
-    "name": "Marchande Ambulante",
+    "name": "Traveling Merchant",
     "image": "cTR_10_000850_00_TABINOGYOUSHOUNIN_U.webp",
     "packs": [
       "Secluded"
@@ -703,7 +703,7 @@
     "set": "A4a",
     "number": 71,
     "rarity": "U",
-    "name": "Mortimer",
+    "name": "Morty",
     "image": "cTR_10_000860_00_MATSUBA_U.webp",
     "packs": [
       "Secluded"
@@ -713,7 +713,7 @@
     "set": "A4a",
     "number": 72,
     "rarity": "AR",
-    "name": "Milobellus",
+    "name": "Milotic",
     "image": "cPK_20_010120_00_MILOKAROSS_AR.webp",
     "packs": [
       "Secluded"
@@ -723,7 +723,7 @@
     "set": "A4a",
     "number": 73,
     "rarity": "AR",
-    "name": "Limonde",
+    "name": "Stunfisk",
     "image": "cPK_20_010480_00_MAGGYO_AR.webp",
     "packs": [
       "Secluded"
@@ -733,7 +733,7 @@
     "set": "A4a",
     "number": 74,
     "rarity": "AR",
-    "name": "Voltoutou",
+    "name": "Yamper",
     "image": "cPK_20_010490_00_WANPACHI_AR.webp",
     "packs": [
       "Secluded"
@@ -773,7 +773,7 @@
     "set": "A4a",
     "number": 78,
     "rarity": "SR",
-    "name": "Cotovol-ex",
+    "name": "Jumpluff ex",
     "image": "cPK_20_010240_00_WATACCOex_SR.webp",
     "packs": [
       "Secluded"
@@ -783,7 +783,7 @@
     "set": "A4a",
     "number": 79,
     "rarity": "SR",
-    "name": "Entei-ex",
+    "name": "Entei ex",
     "image": "cPK_20_010210_00_ENTEIex_SR.webp",
     "packs": [
       "Secluded"
@@ -793,7 +793,7 @@
     "set": "A4a",
     "number": 80,
     "rarity": "SR",
-    "name": "Suicune-ex",
+    "name": "Suicune ex",
     "image": "cPK_20_010400_00_SUICUNEex_SR.webp",
     "packs": [
       "Secluded"
@@ -803,7 +803,7 @@
     "set": "A4a",
     "number": 81,
     "rarity": "SR",
-    "name": "Raikou-ex",
+    "name": "Raikou ex",
     "image": "cPK_20_010440_00_RAIKOUex_SR.webp",
     "packs": [
       "Secluded"
@@ -813,7 +813,7 @@
     "set": "A4a",
     "number": 82,
     "rarity": "SR",
-    "name": "Tartard-ex",
+    "name": "Poliwrath ex",
     "image": "cPK_20_010600_00_NYOROBONex_SR.webp",
     "packs": [
       "Secluded"
@@ -823,7 +823,7 @@
     "set": "A4a",
     "number": 83,
     "rarity": "SR",
-    "name": "Blanche",
+    "name": "Whitney",
     "image": "cTR_20_000840_00_AKANE_SR.webp",
     "packs": [
       "Secluded"
@@ -833,7 +833,7 @@
     "set": "A4a",
     "number": 84,
     "rarity": "SR",
-    "name": "Marchande Ambulante",
+    "name": "Traveling Merchant",
     "image": "cTR_20_000850_00_TABINOGYOUSHOUNIN_SR.webp",
     "packs": [
       "Secluded"
@@ -843,7 +843,7 @@
     "set": "A4a",
     "number": 85,
     "rarity": "SR",
-    "name": "Mortimer",
+    "name": "Morty",
     "image": "cTR_20_000860_00_MATSUBA_SR.webp",
     "packs": [
       "Secluded"
@@ -853,7 +853,7 @@
     "set": "A4a",
     "number": 86,
     "rarity": "SAR",
-    "name": "Cotovol-ex",
+    "name": "Jumpluff ex",
     "image": "cPK_20_010240_01_WATACCOex_SAR.webp",
     "packs": [
       "Secluded"
@@ -863,7 +863,7 @@
     "set": "A4a",
     "number": 87,
     "rarity": "SAR",
-    "name": "Entei-ex",
+    "name": "Entei ex",
     "image": "cPK_20_010210_01_ENTEIex_SAR.webp",
     "packs": [
       "Secluded"
@@ -873,7 +873,7 @@
     "set": "A4a",
     "number": 88,
     "rarity": "SAR",
-    "name": "Raikou-ex",
+    "name": "Raikou ex",
     "image": "cPK_20_010440_01_RAIKOUex_SAR.webp",
     "packs": [
       "Secluded"
@@ -883,7 +883,7 @@
     "set": "A4a",
     "number": 89,
     "rarity": "SAR",
-    "name": "Tartard-ex",
+    "name": "Poliwrath ex",
     "image": "cPK_20_010600_01_NYOROBONex_SAR.webp",
     "packs": [
       "Secluded"
@@ -893,7 +893,7 @@
     "set": "A4a",
     "number": 90,
     "rarity": "IM",
-    "name": "Suicune-ex",
+    "name": "Suicune ex",
     "image": "cPK_20_010400_01_SUICUNEex_IM.webp",
     "packs": [
       "Secluded"
@@ -903,7 +903,7 @@
     "set": "A4a",
     "number": 91,
     "rarity": "S",
-    "name": "Ouisticram",
+    "name": "Chimchar",
     "image": "cPK_20_003080_00_HIKOZARU_S.webp",
     "packs": [
       "Secluded"
@@ -913,7 +913,7 @@
     "set": "A4a",
     "number": 92,
     "rarity": "S",
-    "name": "Chimpenfeu",
+    "name": "Monferno",
     "image": "cPK_20_003090_00_MOUKAZARU_S.webp",
     "packs": [
       "Secluded"
@@ -923,7 +923,7 @@
     "set": "A4a",
     "number": 93,
     "rarity": "S",
-    "name": "Psykokwak",
+    "name": "Psyduck",
     "image": "cPK_20_000570_00_KODUCK_S.webp",
     "packs": [
       "Secluded"
@@ -933,7 +933,7 @@
     "set": "A4a",
     "number": 94,
     "rarity": "S",
-    "name": "Akwakwak",
+    "name": "Golduck",
     "image": "cPK_20_000580_00_GOLDUCK_S.webp",
     "packs": [
       "Secluded"
@@ -953,7 +953,7 @@
     "set": "A4a",
     "number": 96,
     "rarity": "S",
-    "name": "Krabboss",
+    "name": "Kingler",
     "image": "cPK_20_000690_00_KINGLER_S.webp",
     "packs": [
       "Secluded"
@@ -963,7 +963,7 @@
     "set": "A4a",
     "number": 97,
     "rarity": "S",
-    "name": "Concombaffe",
+    "name": "Pyukumuku",
     "image": "cPK_20_006350_01_NAMAKOBUSHI_S.webp",
     "packs": [
       "Secluded"
@@ -973,7 +973,7 @@
     "set": "A4a",
     "number": 98,
     "rarity": "S",
-    "name": "Griknot",
+    "name": "Gible",
     "image": "cPK_20_004690_00_FUKAMARU_S.webp",
     "packs": [
       "Secluded"
@@ -983,7 +983,7 @@
     "set": "A4a",
     "number": 99,
     "rarity": "S",
-    "name": "Carmache",
+    "name": "Gabite",
     "image": "cPK_20_004700_00_GABITE_S.webp",
     "packs": [
       "Secluded"
@@ -993,7 +993,7 @@
     "set": "A4a",
     "number": 100,
     "rarity": "S",
-    "name": "Axoloto de Paldea",
+    "name": "Paldean Wooper",
     "image": "cPK_20_005620_00_PALDEAUPAH_S.webp",
     "packs": [
       "Secluded"
@@ -1003,7 +1003,7 @@
     "set": "A4a",
     "number": 101,
     "rarity": "SSR",
-    "name": "Simiabraz-ex",
+    "name": "Infernape ex",
     "image": "cPK_20_003100_02_GOUKAZARUex_SSR.webp",
     "packs": [
       "Secluded"
@@ -1013,7 +1013,7 @@
     "set": "A4a",
     "number": 102,
     "rarity": "SSR",
-    "name": "Mew-ex",
+    "name": "Mew ex",
     "image": "cPK_20_002450_03_MEWex_SSR.webp",
     "packs": [
       "Secluded"
@@ -1023,7 +1023,7 @@
     "set": "A4a",
     "number": 103,
     "rarity": "SSR",
-    "name": "Carchacrok-ex",
+    "name": "Garchomp ex",
     "image": "cPK_20_004710_02_GABURIASex_SSR.webp",
     "packs": [
       "Secluded"
@@ -1033,7 +1033,7 @@
     "set": "A4a",
     "number": 104,
     "rarity": "SSR",
-    "name": "Terraiste de Paldea-ex",
+    "name": "Paldean Clodsire ex",
     "image": "cPK_20_005630_02_PALDEADOOHex_SSR.webp",
     "packs": [
       "Secluded"
@@ -1043,7 +1043,7 @@
     "set": "A4a",
     "number": 105,
     "rarity": "UR",
-    "name": "Babimanta",
+    "name": "Mantyke",
     "image": "cPK_20_010420_00_TAMANTA_UR.webp",
     "packs": [
       "Secluded"

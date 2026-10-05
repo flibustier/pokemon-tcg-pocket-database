@@ -3,7 +3,7 @@
     "set": "A1",
     "number": 1,
     "rarity": "C",
-    "name": "Bulbizarre",
+    "name": "Bulbasaur",
     "image": "cPK_10_000010_00_FUSHIGIDANE_C.webp",
     "packs": [
       "Mewtwo"
@@ -13,7 +13,7 @@
     "set": "A1",
     "number": 2,
     "rarity": "U",
-    "name": "Herbizarre",
+    "name": "Ivysaur",
     "image": "cPK_10_000020_00_FUSHIGISOU_U.webp",
     "packs": [
       "Mewtwo"
@@ -23,7 +23,7 @@
     "set": "A1",
     "number": 3,
     "rarity": "R",
-    "name": "Florizarre",
+    "name": "Venusaur",
     "image": "cPK_10_000030_00_FUSHIGIBANA_R.webp",
     "packs": [
       "Mewtwo"
@@ -33,7 +33,7 @@
     "set": "A1",
     "number": 4,
     "rarity": "RR",
-    "name": "Florizarre-ex",
+    "name": "Venusaur ex",
     "image": "cPK_10_000040_00_FUSHIGIBANAex_RR.webp",
     "packs": [
       "Mewtwo"
@@ -43,7 +43,7 @@
     "set": "A1",
     "number": 5,
     "rarity": "C",
-    "name": "Chenipan",
+    "name": "Caterpie",
     "image": "cPK_10_000050_00_CATERPIE_C.webp",
     "packs": [
       "Pikachu"
@@ -53,7 +53,7 @@
     "set": "A1",
     "number": 6,
     "rarity": "C",
-    "name": "Chrysacier",
+    "name": "Metapod",
     "image": "cPK_10_000060_00_TRANSEL_C.webp",
     "packs": [
       "Pikachu"
@@ -63,7 +63,7 @@
     "set": "A1",
     "number": 7,
     "rarity": "R",
-    "name": "Papilusion",
+    "name": "Butterfree",
     "image": "cPK_10_000070_00_BUTTERFREE_R.webp",
     "packs": [
       "Pikachu"
@@ -73,7 +73,7 @@
     "set": "A1",
     "number": 8,
     "rarity": "C",
-    "name": "Aspicot",
+    "name": "Weedle",
     "image": "cPK_10_000080_00_BEEDLE_C.webp",
     "packs": [
       "Mewtwo"
@@ -83,7 +83,7 @@
     "set": "A1",
     "number": 9,
     "rarity": "C",
-    "name": "Coconfort",
+    "name": "Kakuna",
     "image": "cPK_10_000090_00_COCOON_C.webp",
     "packs": [
       "Mewtwo"
@@ -93,7 +93,7 @@
     "set": "A1",
     "number": 10,
     "rarity": "R",
-    "name": "Dardargnan",
+    "name": "Beedrill",
     "image": "cPK_10_000100_00_SPEAR_R.webp",
     "packs": [
       "Mewtwo"
@@ -103,7 +103,7 @@
     "set": "A1",
     "number": 11,
     "rarity": "C",
-    "name": "Mystherbe",
+    "name": "Oddish",
     "image": "cPK_10_000110_00_NAZONOKUSA_C.webp",
     "packs": [
       "Charizard"
@@ -113,7 +113,7 @@
     "set": "A1",
     "number": 12,
     "rarity": "U",
-    "name": "Ortide",
+    "name": "Gloom",
     "image": "cPK_10_000120_00_KUSAIHANA_U.webp",
     "packs": [
       "Charizard"
@@ -123,7 +123,7 @@
     "set": "A1",
     "number": 13,
     "rarity": "R",
-    "name": "Rafflesia",
+    "name": "Vileplume",
     "image": "cPK_10_000130_00_RUFFRESIA_R.webp",
     "packs": [
       "Charizard"
@@ -153,7 +153,7 @@
     "set": "A1",
     "number": 16,
     "rarity": "C",
-    "name": "Mimitoss",
+    "name": "Venonat",
     "image": "cPK_10_000160_00_KONGPANG_C.webp",
     "packs": [
       "Mewtwo"
@@ -163,7 +163,7 @@
     "set": "A1",
     "number": 17,
     "rarity": "U",
-    "name": "Aéromite",
+    "name": "Venomoth",
     "image": "cPK_10_000170_00_MORPHON_U.webp",
     "packs": [
       "Mewtwo"
@@ -173,7 +173,7 @@
     "set": "A1",
     "number": 18,
     "rarity": "C",
-    "name": "Chétiflor",
+    "name": "Bellsprout",
     "image": "cPK_10_000180_00_MADATSUBOMI_C.webp",
     "packs": [
       "Charizard"
@@ -183,7 +183,7 @@
     "set": "A1",
     "number": 19,
     "rarity": "U",
-    "name": "Boustiflor",
+    "name": "Weepinbell",
     "image": "cPK_10_000190_00_UTSUDON_U.webp",
     "packs": [
       "Charizard"
@@ -193,7 +193,7 @@
     "set": "A1",
     "number": 20,
     "rarity": "R",
-    "name": "Empiflor",
+    "name": "Victreebel",
     "image": "cPK_10_000200_00_UTSUBOT_R.webp",
     "packs": [
       "Charizard"
@@ -203,7 +203,7 @@
     "set": "A1",
     "number": 21,
     "rarity": "C",
-    "name": "Noeunoeuf",
+    "name": "Exeggcute",
     "image": "cPK_10_000210_00_TAMATAMA_C.webp",
     "packs": [
       "Charizard"
@@ -213,7 +213,7 @@
     "set": "A1",
     "number": 22,
     "rarity": "R",
-    "name": "Noadkoko",
+    "name": "Exeggutor",
     "image": "cPK_10_000220_00_NASSY_R.webp",
     "packs": [
       "Charizard"
@@ -223,7 +223,7 @@
     "set": "A1",
     "number": 23,
     "rarity": "RR",
-    "name": "Noadkoko-ex",
+    "name": "Exeggutor ex",
     "image": "cPK_10_000230_00_NASSYex_RR.webp",
     "packs": [
       "Charizard"
@@ -233,7 +233,7 @@
     "set": "A1",
     "number": 24,
     "rarity": "C",
-    "name": "Saquedeneu",
+    "name": "Tangela",
     "image": "cPK_10_000240_00_MONJARA_C.webp",
     "packs": [
       "Charizard"
@@ -243,7 +243,7 @@
     "set": "A1",
     "number": 25,
     "rarity": "C",
-    "name": "Insécateur",
+    "name": "Scyther",
     "image": "cPK_10_000250_00_STRIKE_C.webp",
     "packs": [
       "Mewtwo"
@@ -253,7 +253,7 @@
     "set": "A1",
     "number": 26,
     "rarity": "U",
-    "name": "Scarabrute",
+    "name": "Pinsir",
     "image": "cPK_10_000260_00_KAILIOS_U.webp",
     "packs": [
       "Charizard",
@@ -265,7 +265,7 @@
     "set": "A1",
     "number": 27,
     "rarity": "C",
-    "name": "Doudouvet",
+    "name": "Cottonee",
     "image": "cPK_10_000270_00_MONMEN_C.webp",
     "packs": [
       "Charizard",
@@ -277,7 +277,7 @@
     "set": "A1",
     "number": 28,
     "rarity": "U",
-    "name": "Farfaduvet",
+    "name": "Whimsicott",
     "image": "cPK_10_000280_00_ELFUUN_U.webp",
     "packs": [
       "Charizard",
@@ -289,7 +289,7 @@
     "set": "A1",
     "number": 29,
     "rarity": "C",
-    "name": "Chlorobule",
+    "name": "Petilil",
     "image": "cPK_10_000290_00_CHURINE_C.webp",
     "packs": [
       "Charizard",
@@ -301,7 +301,7 @@
     "set": "A1",
     "number": 30,
     "rarity": "U",
-    "name": "Fragilady",
+    "name": "Lilligant",
     "image": "cPK_10_000300_00_DREDEAR_U.webp",
     "packs": [
       "Charizard",
@@ -313,7 +313,7 @@
     "set": "A1",
     "number": 31,
     "rarity": "C",
-    "name": "Cabriolaine",
+    "name": "Skiddo",
     "image": "cPK_10_000310_00_MEECLE_C.webp",
     "packs": [
       "Charizard"
@@ -323,7 +323,7 @@
     "set": "A1",
     "number": 32,
     "rarity": "C",
-    "name": "Chevroum",
+    "name": "Gogoat",
     "image": "cPK_10_000320_00_GOGOAT_C.webp",
     "packs": [
       "Charizard"
@@ -333,7 +333,7 @@
     "set": "A1",
     "number": 33,
     "rarity": "C",
-    "name": "Salamèche",
+    "name": "Charmander",
     "image": "cPK_10_000330_00_HITOKAGE_C.webp",
     "packs": [
       "Charizard"
@@ -343,7 +343,7 @@
     "set": "A1",
     "number": 34,
     "rarity": "U",
-    "name": "Reptincel",
+    "name": "Charmeleon",
     "image": "cPK_10_000340_00_LIZARDO_U.webp",
     "packs": [
       "Charizard"
@@ -353,7 +353,7 @@
     "set": "A1",
     "number": 35,
     "rarity": "R",
-    "name": "Dracaufeu",
+    "name": "Charizard",
     "image": "cPK_10_000350_00_LIZARDON_R.webp",
     "packs": [
       "Charizard"
@@ -363,7 +363,7 @@
     "set": "A1",
     "number": 36,
     "rarity": "RR",
-    "name": "Dracaufeu-ex",
+    "name": "Charizard ex",
     "image": "cPK_10_000360_00_LIZARDONex_RR.webp",
     "packs": [
       "Charizard"
@@ -373,7 +373,7 @@
     "set": "A1",
     "number": 37,
     "rarity": "C",
-    "name": "Goupix",
+    "name": "Vulpix",
     "image": "cPK_10_000370_00_ROKON_C.webp",
     "packs": [
       "Charizard"
@@ -383,7 +383,7 @@
     "set": "A1",
     "number": 38,
     "rarity": "U",
-    "name": "Feunard",
+    "name": "Ninetales",
     "image": "cPK_10_000380_00_KYUKON_U.webp",
     "packs": [
       "Charizard"
@@ -393,7 +393,7 @@
     "set": "A1",
     "number": 39,
     "rarity": "C",
-    "name": "Caninos",
+    "name": "Growlithe",
     "image": "cPK_10_000390_00_GARDIE_C.webp",
     "packs": [
       "Pikachu"
@@ -403,7 +403,7 @@
     "set": "A1",
     "number": 40,
     "rarity": "R",
-    "name": "Arcanin",
+    "name": "Arcanine",
     "image": "cPK_10_000400_00_WINDIE_R.webp",
     "packs": [
       "Pikachu"
@@ -413,7 +413,7 @@
     "set": "A1",
     "number": 41,
     "rarity": "RR",
-    "name": "Arcanin-ex",
+    "name": "Arcanine ex",
     "image": "cPK_10_000410_00_WINDIEex_RR.webp",
     "packs": [
       "Pikachu"
@@ -435,7 +435,7 @@
     "set": "A1",
     "number": 43,
     "rarity": "U",
-    "name": "Galopa",
+    "name": "Rapidash",
     "image": "cPK_10_000430_00_GALLOP_U.webp",
     "packs": [
       "Charizard",
@@ -457,7 +457,7 @@
     "set": "A1",
     "number": 45,
     "rarity": "R",
-    "name": "Pyroli",
+    "name": "Flareon",
     "image": "cPK_10_000450_00_BOOSTER_R.webp",
     "packs": [
       "Charizard"
@@ -467,7 +467,7 @@
     "set": "A1",
     "number": 46,
     "rarity": "R",
-    "name": "Sulfura",
+    "name": "Moltres",
     "image": "cPK_10_000460_00_FIRE_R.webp",
     "packs": [
       "Charizard"
@@ -477,7 +477,7 @@
     "set": "A1",
     "number": 47,
     "rarity": "RR",
-    "name": "Sulfura-ex",
+    "name": "Moltres ex",
     "image": "cPK_10_000470_00_FIREex_RR.webp",
     "packs": [
       "Charizard"
@@ -487,7 +487,7 @@
     "set": "A1",
     "number": 48,
     "rarity": "C",
-    "name": "Aflamanoir",
+    "name": "Heatmor",
     "image": "cPK_10_000480_00_KUITARAN_C.webp",
     "packs": [
       "Charizard",
@@ -499,7 +499,7 @@
     "set": "A1",
     "number": 49,
     "rarity": "C",
-    "name": "Tritox",
+    "name": "Salandit",
     "image": "cPK_10_000490_00_YATOUMORI_C.webp",
     "packs": [
       "Mewtwo"
@@ -509,7 +509,7 @@
     "set": "A1",
     "number": 50,
     "rarity": "C",
-    "name": "Malamandre",
+    "name": "Salazzle",
     "image": "cPK_10_000500_00_ENNEWT_C.webp",
     "packs": [
       "Mewtwo"
@@ -519,7 +519,7 @@
     "set": "A1",
     "number": 51,
     "rarity": "C",
-    "name": "Grillepattes",
+    "name": "Sizzlipede",
     "image": "cPK_10_000510_00_YAKUDE_C.webp",
     "packs": [
       "Charizard",
@@ -531,7 +531,7 @@
     "set": "A1",
     "number": 52,
     "rarity": "U",
-    "name": "Scolocendre",
+    "name": "Centiskorch",
     "image": "cPK_10_000520_00_MARUYAKUDE_U.webp",
     "packs": [
       "Charizard",
@@ -543,7 +543,7 @@
     "set": "A1",
     "number": 53,
     "rarity": "C",
-    "name": "Carapuce",
+    "name": "Squirtle",
     "image": "cPK_10_000530_00_ZENIGAME_C.webp",
     "packs": [
       "Pikachu"
@@ -553,7 +553,7 @@
     "set": "A1",
     "number": 54,
     "rarity": "U",
-    "name": "Carabaffe",
+    "name": "Wartortle",
     "image": "cPK_10_000540_00_KAMEIL_U.webp",
     "packs": [
       "Pikachu"
@@ -563,7 +563,7 @@
     "set": "A1",
     "number": 55,
     "rarity": "R",
-    "name": "Tortank",
+    "name": "Blastoise",
     "image": "cPK_10_000550_00_KAMEX_R.webp",
     "packs": [
       "Pikachu"
@@ -573,7 +573,7 @@
     "set": "A1",
     "number": 56,
     "rarity": "RR",
-    "name": "Tortank-ex",
+    "name": "Blastoise ex",
     "image": "cPK_10_000560_00_KAMEXex_RR.webp",
     "packs": [
       "Pikachu"
@@ -583,7 +583,7 @@
     "set": "A1",
     "number": 57,
     "rarity": "C",
-    "name": "Psykokwak",
+    "name": "Psyduck",
     "image": "cPK_10_000570_00_KODUCK_C.webp",
     "packs": [
       "Charizard",
@@ -595,7 +595,7 @@
     "set": "A1",
     "number": 58,
     "rarity": "U",
-    "name": "Akwakwak",
+    "name": "Golduck",
     "image": "cPK_10_000580_00_GOLDUCK_U.webp",
     "packs": [
       "Charizard",
@@ -607,7 +607,7 @@
     "set": "A1",
     "number": 59,
     "rarity": "C",
-    "name": "Ptitard",
+    "name": "Poliwag",
     "image": "cPK_10_000590_00_NYOROMO_C.webp",
     "packs": [
       "Charizard"
@@ -617,7 +617,7 @@
     "set": "A1",
     "number": 60,
     "rarity": "U",
-    "name": "Têtarte",
+    "name": "Poliwhirl",
     "image": "cPK_10_000600_00_NYOROZO_U.webp",
     "packs": [
       "Charizard"
@@ -627,7 +627,7 @@
     "set": "A1",
     "number": 61,
     "rarity": "R",
-    "name": "Tartard",
+    "name": "Poliwrath",
     "image": "cPK_10_000610_00_NYOROBON_R.webp",
     "packs": [
       "Charizard"
@@ -657,7 +657,7 @@
     "set": "A1",
     "number": 64,
     "rarity": "C",
-    "name": "Otaria",
+    "name": "Seel",
     "image": "cPK_10_000640_00_PAWOU_C.webp",
     "packs": [
       "Pikachu"
@@ -667,7 +667,7 @@
     "set": "A1",
     "number": 65,
     "rarity": "U",
-    "name": "Lamantine",
+    "name": "Dewgong",
     "image": "cPK_10_000650_00_JUGON_U.webp",
     "packs": [
       "Pikachu"
@@ -677,7 +677,7 @@
     "set": "A1",
     "number": 66,
     "rarity": "C",
-    "name": "Kokiyas",
+    "name": "Shellder",
     "image": "cPK_10_000660_00_SHELLDER_C.webp",
     "packs": [
       "Mewtwo"
@@ -687,7 +687,7 @@
     "set": "A1",
     "number": 67,
     "rarity": "U",
-    "name": "Crustabri",
+    "name": "Cloyster",
     "image": "cPK_10_000670_00_PARSHEN_U.webp",
     "packs": [
       "Mewtwo"
@@ -707,7 +707,7 @@
     "set": "A1",
     "number": 69,
     "rarity": "U",
-    "name": "Krabboss",
+    "name": "Kingler",
     "image": "cPK_10_000690_00_KINGLER_U.webp",
     "packs": [
       "Mewtwo"
@@ -717,7 +717,7 @@
     "set": "A1",
     "number": 70,
     "rarity": "C",
-    "name": "Hypotrempe",
+    "name": "Horsea",
     "image": "cPK_10_000700_00_TATTU_C.webp",
     "packs": [
       "Pikachu"
@@ -727,7 +727,7 @@
     "set": "A1",
     "number": 71,
     "rarity": "U",
-    "name": "Hypotrempe",
+    "name": "Seadra",
     "image": "cPK_10_000710_00_SEADRA_U.webp",
     "packs": [
       "Pikachu"
@@ -737,7 +737,7 @@
     "set": "A1",
     "number": 72,
     "rarity": "C",
-    "name": "Poissirène",
+    "name": "Goldeen",
     "image": "cPK_10_000720_00_TOSAKINTO_C.webp",
     "packs": [
       "Pikachu"
@@ -747,7 +747,7 @@
     "set": "A1",
     "number": 73,
     "rarity": "C",
-    "name": "Poissoroy",
+    "name": "Seaking",
     "image": "cPK_10_000730_00_AZUMAO_C.webp",
     "packs": [
       "Pikachu"
@@ -757,7 +757,7 @@
     "set": "A1",
     "number": 74,
     "rarity": "C",
-    "name": "Stari",
+    "name": "Staryu",
     "image": "cPK_10_000740_00_HITODEMAN_C.webp",
     "packs": [
       "Charizard"
@@ -767,7 +767,7 @@
     "set": "A1",
     "number": 75,
     "rarity": "U",
-    "name": "Staross",
+    "name": "Starmie",
     "image": "cPK_10_000750_00_STARMIE_U.webp",
     "packs": [
       "Charizard"
@@ -777,7 +777,7 @@
     "set": "A1",
     "number": 76,
     "rarity": "RR",
-    "name": "Staross-ex",
+    "name": "Starmie ex",
     "image": "cPK_10_000760_00_STARMIEex_RR.webp",
     "packs": [
       "Charizard"
@@ -787,7 +787,7 @@
     "set": "A1",
     "number": 77,
     "rarity": "C",
-    "name": "Magicarpe",
+    "name": "Magikarp",
     "image": "cPK_10_000770_00_KOIKING_C.webp",
     "packs": [
       "Pikachu"
@@ -797,7 +797,7 @@
     "set": "A1",
     "number": 78,
     "rarity": "R",
-    "name": "Léviator",
+    "name": "Gyarados",
     "image": "cPK_10_000780_00_GYARADOS_R.webp",
     "packs": [
       "Pikachu"
@@ -807,7 +807,7 @@
     "set": "A1",
     "number": 79,
     "rarity": "R",
-    "name": "Lokhlass",
+    "name": "Lapras",
     "image": "cPK_10_000790_00_LAPLACE_R.webp",
     "packs": [
       "Charizard"
@@ -817,7 +817,7 @@
     "set": "A1",
     "number": 80,
     "rarity": "R",
-    "name": "Aquali",
+    "name": "Vaporeon",
     "image": "cPK_10_000800_00_SHOWERS_R.webp",
     "packs": [
       "Mewtwo"
@@ -827,7 +827,7 @@
     "set": "A1",
     "number": 81,
     "rarity": "U",
-    "name": "Amonita",
+    "name": "Omanyte",
     "image": "cPK_10_000810_00_OMNITE_U.webp",
     "packs": [
       "Pikachu"
@@ -837,7 +837,7 @@
     "set": "A1",
     "number": 82,
     "rarity": "R",
-    "name": "Amonistar",
+    "name": "Omastar",
     "image": "cPK_10_000820_00_OMSTAR_R.webp",
     "packs": [
       "Pikachu"
@@ -847,7 +847,7 @@
     "set": "A1",
     "number": 83,
     "rarity": "R",
-    "name": "Artikodin",
+    "name": "Articuno",
     "image": "cPK_10_000830_00_FREEZER_R.webp",
     "packs": [
       "Mewtwo"
@@ -857,7 +857,7 @@
     "set": "A1",
     "number": 84,
     "rarity": "RR",
-    "name": "Artikodin-ex",
+    "name": "Articuno ex",
     "image": "cPK_10_000840_00_FREEZERex_RR.webp",
     "packs": [
       "Mewtwo"
@@ -867,7 +867,7 @@
     "set": "A1",
     "number": 85,
     "rarity": "C",
-    "name": "Couaneton",
+    "name": "Ducklett",
     "image": "cPK_10_000850_00_KOARUHIE_C.webp",
     "packs": [
       "Charizard"
@@ -877,7 +877,7 @@
     "set": "A1",
     "number": 86,
     "rarity": "U",
-    "name": "Lakmécygne",
+    "name": "Swanna",
     "image": "cPK_10_000860_00_SWANNA_U.webp",
     "packs": [
       "Charizard"
@@ -887,7 +887,7 @@
     "set": "A1",
     "number": 87,
     "rarity": "C",
-    "name": "Grenousse",
+    "name": "Froakie",
     "image": "cPK_10_000870_00_KEROMATSU_C.webp",
     "packs": [
       "Charizard"
@@ -897,7 +897,7 @@
     "set": "A1",
     "number": 88,
     "rarity": "U",
-    "name": "Croâporal",
+    "name": "Frogadier",
     "image": "cPK_10_000880_00_GEKOGASHIRA_U.webp",
     "packs": [
       "Charizard"
@@ -907,7 +907,7 @@
     "set": "A1",
     "number": 89,
     "rarity": "R",
-    "name": "Amphinobi",
+    "name": "Greninja",
     "image": "cPK_10_000890_00_GEKKOUGA_R.webp",
     "packs": [
       "Charizard"
@@ -917,7 +917,7 @@
     "set": "A1",
     "number": 90,
     "rarity": "C",
-    "name": "Concombaffe",
+    "name": "Pyukumuku",
     "image": "cPK_10_000900_00_NAMAKOBUSHI_C.webp",
     "packs": [
       "Charizard"
@@ -927,7 +927,7 @@
     "set": "A1",
     "number": 91,
     "rarity": "U",
-    "name": "Denticrisse",
+    "name": "Bruxish",
     "image": "cPK_10_000910_00_HAGIGISHIRI_U.webp",
     "packs": [
       "Charizard",
@@ -939,7 +939,7 @@
     "set": "A1",
     "number": 92,
     "rarity": "C",
-    "name": "Frissonille",
+    "name": "Snom",
     "image": "cPK_10_000920_00_YUKIHAMI_C.webp",
     "packs": [
       "Charizard",
@@ -951,7 +951,7 @@
     "set": "A1",
     "number": 93,
     "rarity": "U",
-    "name": "Beldeneige",
+    "name": "Frosmoth",
     "image": "cPK_10_000930_00_MOTHNOW_U.webp",
     "packs": [
       "Charizard",
@@ -983,7 +983,7 @@
     "set": "A1",
     "number": 96,
     "rarity": "RR",
-    "name": "Pikachu-ex",
+    "name": "Pikachu ex",
     "image": "cPK_10_000960_00_PIKACHUex_RR.webp",
     "packs": [
       "Pikachu"
@@ -993,7 +993,7 @@
     "set": "A1",
     "number": 97,
     "rarity": "C",
-    "name": "Magnéti",
+    "name": "Magnemite",
     "image": "cPK_10_000970_00_COIL_C.webp",
     "packs": [
       "Pikachu"
@@ -1003,7 +1003,7 @@
     "set": "A1",
     "number": 98,
     "rarity": "R",
-    "name": "Magnéton",
+    "name": "Magneton",
     "image": "cPK_10_000980_00_RARECOIL_R.webp",
     "packs": [
       "Pikachu"
@@ -1013,7 +1013,7 @@
     "set": "A1",
     "number": 99,
     "rarity": "C",
-    "name": "Voltorbe",
+    "name": "Voltorb",
     "image": "cPK_10_000990_00_BIRIRIDAMA_C.webp",
     "packs": [
       "Pikachu"
@@ -1023,7 +1023,7 @@
     "set": "A1",
     "number": 100,
     "rarity": "U",
-    "name": "Électrode",
+    "name": "Electrode",
     "image": "cPK_10_001000_00_MARUMINE_U.webp",
     "packs": [
       "Pikachu"
@@ -1033,7 +1033,7 @@
     "set": "A1",
     "number": 101,
     "rarity": "C",
-    "name": "Élektek",
+    "name": "Electabuzz",
     "image": "cPK_10_001010_00_ELEBOO_C.webp",
     "packs": [
       "Pikachu"
@@ -1043,7 +1043,7 @@
     "set": "A1",
     "number": 102,
     "rarity": "R",
-    "name": "Voltali",
+    "name": "Jolteon",
     "image": "cPK_10_001020_00_THUNDERS_R.webp",
     "packs": [
       "Pikachu"
@@ -1053,7 +1053,7 @@
     "set": "A1",
     "number": 103,
     "rarity": "R",
-    "name": "Électhor",
+    "name": "Zapdos",
     "image": "cPK_10_001030_00_THUNDER_R.webp",
     "packs": [
       "Pikachu"
@@ -1063,7 +1063,7 @@
     "set": "A1",
     "number": 104,
     "rarity": "RR",
-    "name": "Électhor-ex",
+    "name": "Zapdos ex",
     "image": "cPK_10_001040_00_THUNDERex_RR.webp",
     "packs": [
       "Pikachu"
@@ -1073,7 +1073,7 @@
     "set": "A1",
     "number": 105,
     "rarity": "C",
-    "name": "Zébibron",
+    "name": "Blitzle",
     "image": "cPK_10_001050_00_SHIMAMA_C.webp",
     "packs": [
       "Charizard",
@@ -1085,7 +1085,7 @@
     "set": "A1",
     "number": 106,
     "rarity": "U",
-    "name": "Zéblitz",
+    "name": "Zebstrika",
     "image": "cPK_10_001060_00_ZEBRAIKA_U.webp",
     "packs": [
       "Charizard",
@@ -1097,7 +1097,7 @@
     "set": "A1",
     "number": 107,
     "rarity": "C",
-    "name": "Anchwatt",
+    "name": "Tynamo",
     "image": "cPK_10_001070_00_SHIBISHIRASU_C.webp",
     "packs": [
       "Mewtwo"
@@ -1107,7 +1107,7 @@
     "set": "A1",
     "number": 108,
     "rarity": "U",
-    "name": "Lampéroie",
+    "name": "Eelektrik",
     "image": "cPK_10_001080_00_SHIBIBEEL_U.webp",
     "packs": [
       "Mewtwo"
@@ -1117,7 +1117,7 @@
     "set": "A1",
     "number": 109,
     "rarity": "R",
-    "name": "Ohmassacre",
+    "name": "Eelektross",
     "image": "cPK_10_001090_00_SHIBIRUDON_R.webp",
     "packs": [
       "Mewtwo"
@@ -1127,7 +1127,7 @@
     "set": "A1",
     "number": 110,
     "rarity": "C",
-    "name": "Galvaran",
+    "name": "Helioptile",
     "image": "cPK_10_001100_00_ERIKITERU_C.webp",
     "packs": [
       "Charizard",
@@ -1139,7 +1139,7 @@
     "set": "A1",
     "number": 111,
     "rarity": "C",
-    "name": "Iguolta",
+    "name": "Heliolisk",
     "image": "cPK_10_001110_00_ELEZARD_C.webp",
     "packs": [
       "Charizard",
@@ -1151,7 +1151,7 @@
     "set": "A1",
     "number": 112,
     "rarity": "U",
-    "name": "Wattapik",
+    "name": "Pincurchin",
     "image": "cPK_10_001120_00_BACHINUNI_U.webp",
     "packs": [
       "Charizard",
@@ -1163,7 +1163,7 @@
     "set": "A1",
     "number": 113,
     "rarity": "C",
-    "name": "Mélofée",
+    "name": "Clefairy",
     "image": "cPK_10_001130_00_PIPPI_C.webp",
     "packs": [
       "Pikachu"
@@ -1173,7 +1173,7 @@
     "set": "A1",
     "number": 114,
     "rarity": "U",
-    "name": "Mélodelfe",
+    "name": "Clefable",
     "image": "cPK_10_001140_00_PIXY_U.webp",
     "packs": [
       "Pikachu"
@@ -1213,7 +1213,7 @@
     "set": "A1",
     "number": 118,
     "rarity": "C",
-    "name": "Ramoloss",
+    "name": "Slowpoke",
     "image": "cPK_10_001180_00_YADON_C.webp",
     "packs": [
       "Charizard",
@@ -1225,7 +1225,7 @@
     "set": "A1",
     "number": 119,
     "rarity": "U",
-    "name": "Flagadoss",
+    "name": "Slowbro",
     "image": "cPK_10_001190_00_YADORAN_U.webp",
     "packs": [
       "Charizard",
@@ -1237,7 +1237,7 @@
     "set": "A1",
     "number": 120,
     "rarity": "C",
-    "name": "Fantominus",
+    "name": "Gastly",
     "image": "cPK_10_001200_00_GHOS_C.webp",
     "packs": [
       "Mewtwo"
@@ -1247,7 +1247,7 @@
     "set": "A1",
     "number": 121,
     "rarity": "U",
-    "name": "Spectrum",
+    "name": "Haunter",
     "image": "cPK_10_001210_00_GHOST_U.webp",
     "packs": [
       "Mewtwo"
@@ -1257,7 +1257,7 @@
     "set": "A1",
     "number": 122,
     "rarity": "R",
-    "name": "Ectoplasma",
+    "name": "Gengar",
     "image": "cPK_10_001220_00_GANGAR_R.webp",
     "packs": [
       "Mewtwo"
@@ -1267,7 +1267,7 @@
     "set": "A1",
     "number": 123,
     "rarity": "RR",
-    "name": "Ectoplasma-ex",
+    "name": "Gengar ex",
     "image": "cPK_10_001230_00_GANGARex_RR.webp",
     "packs": [
       "Mewtwo"
@@ -1277,7 +1277,7 @@
     "set": "A1",
     "number": 124,
     "rarity": "C",
-    "name": "Soporifik",
+    "name": "Drowzee",
     "image": "cPK_10_001240_00_SLEEPE_C.webp",
     "packs": [
       "Pikachu"
@@ -1287,7 +1287,7 @@
     "set": "A1",
     "number": 125,
     "rarity": "R",
-    "name": "Hypnomade",
+    "name": "Hypno",
     "image": "cPK_10_001250_00_SLEEPER_R.webp",
     "packs": [
       "Pikachu"
@@ -1297,7 +1297,7 @@
     "set": "A1",
     "number": 126,
     "rarity": "U",
-    "name": "M. Mime",
+    "name": "Mr. Mime",
     "image": "cPK_10_001260_00_BARRIERD_U.webp",
     "packs": [
       "Mewtwo"
@@ -1307,7 +1307,7 @@
     "set": "A1",
     "number": 127,
     "rarity": "C",
-    "name": "Lippoutou",
+    "name": "Jynx",
     "image": "cPK_10_001270_00_ROUGELA_C.webp",
     "packs": [
       "Mewtwo"
@@ -1327,7 +1327,7 @@
     "set": "A1",
     "number": 129,
     "rarity": "RR",
-    "name": "Mewtwo-ex",
+    "name": "Mewtwo ex",
     "image": "cPK_10_001290_00_MEWTWOex_RR.webp",
     "packs": [
       "Mewtwo"
@@ -1337,7 +1337,7 @@
     "set": "A1",
     "number": 130,
     "rarity": "C",
-    "name": "Tarsal",
+    "name": "Ralts",
     "image": "cPK_10_001300_00_RALTS_C.webp",
     "packs": [
       "Mewtwo"
@@ -1367,7 +1367,7 @@
     "set": "A1",
     "number": 133,
     "rarity": "C",
-    "name": "Chovsourir",
+    "name": "Woobat",
     "image": "cPK_10_001330_00_KOROMORI_C.webp",
     "packs": [
       "Charizard",
@@ -1379,7 +1379,7 @@
     "set": "A1",
     "number": 134,
     "rarity": "C",
-    "name": "Rhinolove",
+    "name": "Swoobat",
     "image": "cPK_10_001340_00_KOKOROMORI_C.webp",
     "packs": [
       "Charizard",
@@ -1391,7 +1391,7 @@
     "set": "A1",
     "number": 135,
     "rarity": "C",
-    "name": "Gringolem",
+    "name": "Golett",
     "image": "cPK_10_001350_00_GOBIT_C.webp",
     "packs": [
       "Charizard",
@@ -1403,7 +1403,7 @@
     "set": "A1",
     "number": 136,
     "rarity": "U",
-    "name": "Golemastoc",
+    "name": "Golurk",
     "image": "cPK_10_001360_00_GOLOOG_U.webp",
     "packs": [
       "Charizard",
@@ -1415,7 +1415,7 @@
     "set": "A1",
     "number": 137,
     "rarity": "C",
-    "name": "Sabelette",
+    "name": "Sandshrew",
     "image": "cPK_10_001370_00_SAND_C.webp",
     "packs": [
       "Charizard",
@@ -1427,7 +1427,7 @@
     "set": "A1",
     "number": 138,
     "rarity": "U",
-    "name": "Sablaireau",
+    "name": "Sandslash",
     "image": "cPK_10_001380_00_SANDPAN_U.webp",
     "packs": [
       "Charizard",
@@ -1439,7 +1439,7 @@
     "set": "A1",
     "number": 139,
     "rarity": "C",
-    "name": "Taupiqueur",
+    "name": "Diglett",
     "image": "cPK_10_001390_00_DIGDA_C.webp",
     "packs": [
       "Pikachu"
@@ -1449,7 +1449,7 @@
     "set": "A1",
     "number": 140,
     "rarity": "U",
-    "name": "Triopikeur",
+    "name": "Dugtrio",
     "image": "cPK_10_001400_00_DUGTRIO_U.webp",
     "packs": [
       "Pikachu"
@@ -1459,7 +1459,7 @@
     "set": "A1",
     "number": 141,
     "rarity": "C",
-    "name": "Férosinge",
+    "name": "Mankey",
     "image": "cPK_10_001410_00_MANKEY_C.webp",
     "packs": [
       "Charizard"
@@ -1469,7 +1469,7 @@
     "set": "A1",
     "number": 142,
     "rarity": "U",
-    "name": "Colossinge",
+    "name": "Primeape",
     "image": "cPK_10_001420_00_OKORIZARU_U.webp",
     "packs": [
       "Charizard"
@@ -1479,7 +1479,7 @@
     "set": "A1",
     "number": 143,
     "rarity": "C",
-    "name": "Machoc",
+    "name": "Machop",
     "image": "cPK_10_001430_00_WANRIKY_C.webp",
     "packs": [
       "Charizard"
@@ -1489,7 +1489,7 @@
     "set": "A1",
     "number": 144,
     "rarity": "U",
-    "name": "Machopeur",
+    "name": "Machoke",
     "image": "cPK_10_001440_00_GORIKY_U.webp",
     "packs": [
       "Charizard"
@@ -1499,7 +1499,7 @@
     "set": "A1",
     "number": 145,
     "rarity": "R",
-    "name": "Machoc",
+    "name": "Machamp",
     "image": "cPK_10_001450_00_KAIRIKY_R.webp",
     "packs": [
       "Charizard"
@@ -1509,7 +1509,7 @@
     "set": "A1",
     "number": 146,
     "rarity": "RR",
-    "name": "Mackogneur-ex",
+    "name": "Machamp ex",
     "image": "cPK_10_001460_00_KAIRIKYex_RR.webp",
     "packs": [
       "Charizard"
@@ -1519,7 +1519,7 @@
     "set": "A1",
     "number": 147,
     "rarity": "C",
-    "name": "Racaillou",
+    "name": "Geodude",
     "image": "cPK_10_001470_00_ISITSUBUTE_C.webp",
     "packs": [
       "Pikachu"
@@ -1529,7 +1529,7 @@
     "set": "A1",
     "number": 148,
     "rarity": "U",
-    "name": "Gravalanch",
+    "name": "Graveler",
     "image": "cPK_10_001480_00_GOLONE_U.webp",
     "packs": [
       "Pikachu"
@@ -1539,7 +1539,7 @@
     "set": "A1",
     "number": 149,
     "rarity": "R",
-    "name": "Grolem",
+    "name": "Golem",
     "image": "cPK_10_001490_00_GOLONYA_R.webp",
     "packs": [
       "Pikachu"
@@ -1559,7 +1559,7 @@
     "set": "A1",
     "number": 151,
     "rarity": "C",
-    "name": "Osselait",
+    "name": "Cubone",
     "image": "cPK_10_001510_00_KARAKARA_C.webp",
     "packs": [
       "Mewtwo"
@@ -1569,7 +1569,7 @@
     "set": "A1",
     "number": 152,
     "rarity": "U",
-    "name": "Ossatueur",
+    "name": "Marowak",
     "image": "cPK_10_001520_00_GARAGARA_U.webp",
     "packs": [
       "Mewtwo"
@@ -1579,7 +1579,7 @@
     "set": "A1",
     "number": 153,
     "rarity": "RR",
-    "name": "Ossatueur-ex",
+    "name": "Marowak ex",
     "image": "cPK_10_001530_00_GARAGARAex_RR.webp",
     "packs": [
       "Mewtwo"
@@ -1589,7 +1589,7 @@
     "set": "A1",
     "number": 154,
     "rarity": "C",
-    "name": "Kicklee",
+    "name": "Hitmonlee",
     "image": "cPK_10_001540_00_SAWAMULAR_C.webp",
     "packs": [
       "Mewtwo"
@@ -1599,7 +1599,7 @@
     "set": "A1",
     "number": 155,
     "rarity": "C",
-    "name": "Tygnon",
+    "name": "Hitmonchan",
     "image": "cPK_10_001550_00_EBIWALAR_C.webp",
     "packs": [
       "Charizard"
@@ -1609,7 +1609,7 @@
     "set": "A1",
     "number": 156,
     "rarity": "C",
-    "name": "Rhinocorne",
+    "name": "Rhyhorn",
     "image": "cPK_10_001560_00_SIHORN_C.webp",
     "packs": [
       "Mewtwo"
@@ -1619,7 +1619,7 @@
     "set": "A1",
     "number": 157,
     "rarity": "U",
-    "name": "Rhinoféros",
+    "name": "Rhydon",
     "image": "cPK_10_001570_00_SIDON_U.webp",
     "packs": [
       "Mewtwo"
@@ -1649,7 +1649,7 @@
     "set": "A1",
     "number": 160,
     "rarity": "C",
-    "name": "Kungfouine",
+    "name": "Mienfoo",
     "image": "cPK_10_001600_00_KOJOFU_C.webp",
     "packs": [
       "Pikachu"
@@ -1659,7 +1659,7 @@
     "set": "A1",
     "number": 161,
     "rarity": "U",
-    "name": "Shaofouine",
+    "name": "Mienshao",
     "image": "cPK_10_001610_00_KOJONDO_U.webp",
     "packs": [
       "Pikachu"
@@ -1669,7 +1669,7 @@
     "set": "A1",
     "number": 162,
     "rarity": "C",
-    "name": "Poulpaf",
+    "name": "Clobbopus",
     "image": "cPK_10_001620_00_TATAKKO_C.webp",
     "packs": [
       "Charizard",
@@ -1681,7 +1681,7 @@
     "set": "A1",
     "number": 163,
     "rarity": "U",
-    "name": "Krakos",
+    "name": "Grapploct",
     "image": "cPK_10_001630_00_OTOSUPUS_U.webp",
     "packs": [
       "Charizard",
@@ -1693,7 +1693,7 @@
     "set": "A1",
     "number": 164,
     "rarity": "C",
-    "name": "Abo",
+    "name": "Ekans",
     "image": "cPK_10_001640_00_ARBO_C.webp",
     "packs": [
       "Charizard",
@@ -1717,7 +1717,7 @@
     "set": "A1",
     "number": 166,
     "rarity": "C",
-    "name": "Nidoran♂",
+    "name": "Nidoran♀",
     "image": "cPK_10_001660_00_NIDORAN♀_C.webp",
     "packs": [
       "Pikachu"
@@ -1777,7 +1777,7 @@
     "set": "A1",
     "number": 172,
     "rarity": "C",
-    "name": "Nosferapti",
+    "name": "Zubat",
     "image": "cPK_10_001720_00_ZUBAT_C.webp",
     "packs": [
       "Mewtwo"
@@ -1787,7 +1787,7 @@
     "set": "A1",
     "number": 173,
     "rarity": "U",
-    "name": "Nosferalto",
+    "name": "Golbat",
     "image": "cPK_10_001730_00_GOLBAT_U.webp",
     "packs": [
       "Mewtwo"
@@ -1797,7 +1797,7 @@
     "set": "A1",
     "number": 174,
     "rarity": "C",
-    "name": "Tadmorv",
+    "name": "Grimer",
     "image": "cPK_10_001740_00_BETBETER_C.webp",
     "packs": [
       "Mewtwo"
@@ -1807,7 +1807,7 @@
     "set": "A1",
     "number": 175,
     "rarity": "R",
-    "name": "Grotadmorv",
+    "name": "Muk",
     "image": "cPK_10_001750_00_BETBETON_R.webp",
     "packs": [
       "Mewtwo"
@@ -1817,7 +1817,7 @@
     "set": "A1",
     "number": 176,
     "rarity": "C",
-    "name": "Smogo",
+    "name": "Koffing",
     "image": "cPK_10_001760_00_DOGARS_C.webp",
     "packs": [
       "Mewtwo"
@@ -1827,7 +1827,7 @@
     "set": "A1",
     "number": 177,
     "rarity": "R",
-    "name": "Smogogo",
+    "name": "Weezing",
     "image": "cPK_10_001770_00_MATADOGAS_R.webp",
     "packs": [
       "Mewtwo"
@@ -1837,7 +1837,7 @@
     "set": "A1",
     "number": 178,
     "rarity": "C",
-    "name": "Mysdibule",
+    "name": "Mawile",
     "image": "cPK_10_001780_00_KUCHEAT_C.webp",
     "packs": [
       "Charizard"
@@ -1847,7 +1847,7 @@
     "set": "A1",
     "number": 179,
     "rarity": "C",
-    "name": "Scalpion",
+    "name": "Pawniard",
     "image": "cPK_10_001790_00_KOMATANA_C.webp",
     "packs": [
       "Charizard",
@@ -1859,7 +1859,7 @@
     "set": "A1",
     "number": 180,
     "rarity": "U",
-    "name": "Scalproie",
+    "name": "Bisharp",
     "image": "cPK_10_001800_00_KIRIKIZAN_U.webp",
     "packs": [
       "Charizard",
@@ -1891,7 +1891,7 @@
     "set": "A1",
     "number": 183,
     "rarity": "C",
-    "name": "Minidraco",
+    "name": "Dratini",
     "image": "cPK_10_001830_00_MINIRYU_C.webp",
     "packs": [
       "Mewtwo"
@@ -1901,7 +1901,7 @@
     "set": "A1",
     "number": 184,
     "rarity": "U",
-    "name": "Draco",
+    "name": "Dragonair",
     "image": "cPK_10_001840_00_HAKURYU_U.webp",
     "packs": [
       "Mewtwo"
@@ -1911,7 +1911,7 @@
     "set": "A1",
     "number": 185,
     "rarity": "R",
-    "name": "Dracolosse",
+    "name": "Dragonite",
     "image": "cPK_10_001850_00_KAIRYU_R.webp",
     "packs": [
       "Mewtwo"
@@ -1921,7 +1921,7 @@
     "set": "A1",
     "number": 186,
     "rarity": "C",
-    "name": "Roucool",
+    "name": "Pidgey",
     "image": "cPK_10_001860_00_POPPO_C.webp",
     "packs": [
       "Mewtwo"
@@ -1931,7 +1931,7 @@
     "set": "A1",
     "number": 187,
     "rarity": "C",
-    "name": "Roucoups",
+    "name": "Pidgeotto",
     "image": "cPK_10_001870_00_PIGEON_C.webp",
     "packs": [
       "Mewtwo"
@@ -1941,7 +1941,7 @@
     "set": "A1",
     "number": 188,
     "rarity": "R",
-    "name": "Roucarnage",
+    "name": "Pidgeot",
     "image": "cPK_10_001880_00_PIGEOT_R.webp",
     "packs": [
       "Mewtwo"
@@ -1963,7 +1963,7 @@
     "set": "A1",
     "number": 190,
     "rarity": "C",
-    "name": "Rattatac",
+    "name": "Raticate",
     "image": "cPK_10_001900_00_RATTA_C.webp",
     "packs": [
       "Charizard",
@@ -1975,7 +1975,7 @@
     "set": "A1",
     "number": 191,
     "rarity": "C",
-    "name": "Piafabec",
+    "name": "Spearow",
     "image": "cPK_10_001910_00_ONISUZUME_C.webp",
     "packs": [
       "Charizard"
@@ -1985,7 +1985,7 @@
     "set": "A1",
     "number": 192,
     "rarity": "C",
-    "name": "Rapasdepic",
+    "name": "Fearow",
     "image": "cPK_10_001920_00_ONIDRILL_C.webp",
     "packs": [
       "Charizard"
@@ -1995,7 +1995,7 @@
     "set": "A1",
     "number": 193,
     "rarity": "C",
-    "name": "Rondoudou",
+    "name": "Jigglypuff",
     "image": "cPK_10_001930_00_PURIN_C.webp",
     "packs": [
       "Pikachu"
@@ -2005,7 +2005,7 @@
     "set": "A1",
     "number": 194,
     "rarity": "C",
-    "name": "Grodoudou",
+    "name": "Wigglytuff",
     "image": "cPK_10_001940_00_PUKURIN_C.webp",
     "packs": [
       "Pikachu"
@@ -2015,7 +2015,7 @@
     "set": "A1",
     "number": 195,
     "rarity": "RR",
-    "name": "Grodoudou-ex",
+    "name": "Wigglytuff ex",
     "image": "cPK_10_001950_00_PUKURINex_RR.webp",
     "packs": [
       "Pikachu"
@@ -2025,7 +2025,7 @@
     "set": "A1",
     "number": 196,
     "rarity": "C",
-    "name": "Miaouss",
+    "name": "Meowth",
     "image": "cPK_10_001960_00_NYARTH_C.webp",
     "packs": [
       "Charizard"
@@ -2045,7 +2045,7 @@
     "set": "A1",
     "number": 198,
     "rarity": "C",
-    "name": "Canarticho",
+    "name": "Farfetch’d",
     "image": "cPK_10_001980_00_KAMONEGI_C.webp",
     "packs": [
       "Charizard",
@@ -2081,7 +2081,7 @@
     "set": "A1",
     "number": 201,
     "rarity": "U",
-    "name": "Excelangue",
+    "name": "Lickitung",
     "image": "cPK_10_002010_00_BERORINGA_U.webp",
     "packs": [
       "Mewtwo"
@@ -2091,7 +2091,7 @@
     "set": "A1",
     "number": 202,
     "rarity": "U",
-    "name": "Leveinard",
+    "name": "Chansey",
     "image": "cPK_10_002020_00_LUCKY_U.webp",
     "packs": [
       "Pikachu"
@@ -2101,7 +2101,7 @@
     "set": "A1",
     "number": 203,
     "rarity": "R",
-    "name": "Kangourex",
+    "name": "Kangaskhan",
     "image": "cPK_10_002030_00_GARURA_R.webp",
     "packs": [
       "Charizard"
@@ -2121,7 +2121,7 @@
     "set": "A1",
     "number": 205,
     "rarity": "R",
-    "name": "Métamorph",
+    "name": "Ditto",
     "image": "cPK_10_002050_00_METAMON_R.webp",
     "packs": [
       "Mewtwo"
@@ -2131,7 +2131,7 @@
     "set": "A1",
     "number": 206,
     "rarity": "C",
-    "name": "Évoli",
+    "name": "Eevee",
     "image": "cPK_10_002060_00_EIEVUI_C.webp",
     "packs": [
       "Charizard"
@@ -2141,7 +2141,7 @@
     "set": "A1",
     "number": 207,
     "rarity": "C",
-    "name": "Évoli",
+    "name": "Eevee",
     "image": "cPK_10_002060_01_EIEVUI_C.webp",
     "packs": [
       "Mewtwo"
@@ -2151,7 +2151,7 @@
     "set": "A1",
     "number": 208,
     "rarity": "C",
-    "name": "Évoli",
+    "name": "Eevee",
     "image": "cPK_10_002060_02_EIEVUI_C.webp",
     "packs": [
       "Pikachu"
@@ -2171,7 +2171,7 @@
     "set": "A1",
     "number": 210,
     "rarity": "R",
-    "name": "Ptéra",
+    "name": "Aerodactyl",
     "image": "cPK_10_002080_00_PTERA_R.webp",
     "packs": [
       "Mewtwo"
@@ -2181,7 +2181,7 @@
     "set": "A1",
     "number": 211,
     "rarity": "R",
-    "name": "Ronflex",
+    "name": "Snorlax",
     "image": "cPK_10_002090_00_KABIGON_R.webp",
     "packs": [
       "Pikachu"
@@ -2191,7 +2191,7 @@
     "set": "A1",
     "number": 212,
     "rarity": "C",
-    "name": "Chinchidou",
+    "name": "Minccino",
     "image": "cPK_10_002100_00_CHILLARMY_C.webp",
     "packs": [
       "Charizard",
@@ -2203,7 +2203,7 @@
     "set": "A1",
     "number": 213,
     "rarity": "U",
-    "name": "Pashmilla",
+    "name": "Cinccino",
     "image": "cPK_10_002110_00_CHILLACCINO_U.webp",
     "packs": [
       "Charizard",
@@ -2215,7 +2215,7 @@
     "set": "A1",
     "number": 214,
     "rarity": "C",
-    "name": "Moumouton",
+    "name": "Wooloo",
     "image": "cPK_10_002120_00_WOOLUU_C.webp",
     "packs": [
       "Charizard",
@@ -2227,7 +2227,7 @@
     "set": "A1",
     "number": 215,
     "rarity": "C",
-    "name": "Moumouflon",
+    "name": "Dubwool",
     "image": "cPK_10_002130_00_BAIWOOLUU_C.webp",
     "packs": [
       "Charizard",
@@ -2239,7 +2239,7 @@
     "set": "A1",
     "number": 216,
     "rarity": "C",
-    "name": "Fossile Nautile",
+    "name": "Helix Fossil",
     "image": "cTR_10_000080_00_KAINOKASEKI_C.webp",
     "packs": [
       "Pikachu"
@@ -2249,7 +2249,7 @@
     "set": "A1",
     "number": 217,
     "rarity": "C",
-    "name": "Fossile Dôme",
+    "name": "Dome Fossil",
     "image": "cTR_10_000090_00_KOURANOKASEKI_C.webp",
     "packs": [
       "Charizard"
@@ -2259,7 +2259,7 @@
     "set": "A1",
     "number": 218,
     "rarity": "C",
-    "name": "Vieil Ambre",
+    "name": "Old Amber",
     "image": "cTR_10_000100_00_HIMITSUNOKOHAKU_C.webp",
     "packs": [
       "Mewtwo"
@@ -2279,7 +2279,7 @@
     "set": "A1",
     "number": 220,
     "rarity": "U",
-    "name": "Ondine",
+    "name": "Misty",
     "image": "cTR_10_000120_00_KASUMI_U.webp",
     "packs": [
       "Pikachu"
@@ -2289,7 +2289,7 @@
     "set": "A1",
     "number": 221,
     "rarity": "U",
-    "name": "Auguste",
+    "name": "Blaine",
     "image": "cTR_10_000130_00_KATSURA_U.webp",
     "packs": [
       "Charizard"
@@ -2319,7 +2319,7 @@
     "set": "A1",
     "number": 224,
     "rarity": "U",
-    "name": "Pierre",
+    "name": "Brock",
     "image": "cTR_10_000160_00_TAKESHI_U.webp",
     "packs": [
       "Pikachu"
@@ -2329,7 +2329,7 @@
     "set": "A1",
     "number": 225,
     "rarity": "U",
-    "name": "Morgane",
+    "name": "Sabrina",
     "image": "cTR_10_000170_00_NATSUME_U.webp",
     "packs": [
       "Charizard"
@@ -2339,7 +2339,7 @@
     "set": "A1",
     "number": 226,
     "rarity": "U",
-    "name": "Major Bob",
+    "name": "Lt. Surge",
     "image": "cTR_10_000180_00_MATISSE_U.webp",
     "packs": [
       "Pikachu"
@@ -2349,7 +2349,7 @@
     "set": "A1",
     "number": 227,
     "rarity": "AR",
-    "name": "Bulbizarre",
+    "name": "Bulbasaur",
     "image": "cPK_20_000010_00_FUSHIGIDANE_AR.webp",
     "packs": [
       "Mewtwo"
@@ -2359,7 +2359,7 @@
     "set": "A1",
     "number": 228,
     "rarity": "AR",
-    "name": "Ortide",
+    "name": "Gloom",
     "image": "cPK_20_000120_00_KUSAIHANA_AR.webp",
     "packs": [
       "Charizard"
@@ -2369,7 +2369,7 @@
     "set": "A1",
     "number": 229,
     "rarity": "AR",
-    "name": "Scarabrute",
+    "name": "Pinsir",
     "image": "cPK_20_000260_00_KAILIOS_AR.webp",
     "packs": [
       "Charizard"
@@ -2379,7 +2379,7 @@
     "set": "A1",
     "number": 230,
     "rarity": "AR",
-    "name": "Salamèche",
+    "name": "Charmander",
     "image": "cPK_20_000330_00_HITOKAGE_AR.webp",
     "packs": [
       "Charizard"
@@ -2389,7 +2389,7 @@
     "set": "A1",
     "number": 231,
     "rarity": "AR",
-    "name": "Galopa",
+    "name": "Rapidash",
     "image": "cPK_20_000430_00_GALLOP_AR.webp",
     "packs": [
       "Charizard"
@@ -2399,7 +2399,7 @@
     "set": "A1",
     "number": 232,
     "rarity": "AR",
-    "name": "Carapuce",
+    "name": "Squirtle",
     "image": "cPK_20_000530_00_ZENIGAME_AR.webp",
     "packs": [
       "Pikachu"
@@ -2409,7 +2409,7 @@
     "set": "A1",
     "number": 233,
     "rarity": "AR",
-    "name": "Léviator",
+    "name": "Gyarados",
     "image": "cPK_20_000780_00_GYARADOS_AR.webp",
     "packs": [
       "Pikachu"
@@ -2419,7 +2419,7 @@
     "set": "A1",
     "number": 234,
     "rarity": "AR",
-    "name": "Lokhlass",
+    "name": "Lapras",
     "image": "cPK_20_000790_00_LAPLACE_AR.webp",
     "packs": [
       "Charizard"
@@ -2429,7 +2429,7 @@
     "set": "A1",
     "number": 235,
     "rarity": "AR",
-    "name": "Électrode",
+    "name": "Electrode",
     "image": "cPK_20_001000_00_MARUMINE_AR.webp",
     "packs": [
       "Pikachu"
@@ -2449,7 +2449,7 @@
     "set": "A1",
     "number": 237,
     "rarity": "AR",
-    "name": "Ramoloss",
+    "name": "Slowpoke",
     "image": "cPK_20_001180_00_YADON_AR.webp",
     "packs": [
       "Charizard"
@@ -2459,7 +2459,7 @@
     "set": "A1",
     "number": 238,
     "rarity": "AR",
-    "name": "Taupiqueur",
+    "name": "Diglett",
     "image": "cPK_20_001390_00_DIGDA_AR.webp",
     "packs": [
       "Pikachu"
@@ -2469,7 +2469,7 @@
     "set": "A1",
     "number": 239,
     "rarity": "AR",
-    "name": "Osselait",
+    "name": "Cubone",
     "image": "cPK_20_001510_00_KARAKARA_AR.webp",
     "packs": [
       "Mewtwo"
@@ -2499,7 +2499,7 @@
     "set": "A1",
     "number": 242,
     "rarity": "AR",
-    "name": "Nosferalto",
+    "name": "Golbat",
     "image": "cPK_20_001730_00_GOLBAT_AR.webp",
     "packs": [
       "Mewtwo"
@@ -2509,7 +2509,7 @@
     "set": "A1",
     "number": 243,
     "rarity": "AR",
-    "name": "Smogogo",
+    "name": "Weezing",
     "image": "cPK_20_001770_00_MATADOGAS_AR.webp",
     "packs": [
       "Mewtwo"
@@ -2519,7 +2519,7 @@
     "set": "A1",
     "number": 244,
     "rarity": "AR",
-    "name": "Dracolosse",
+    "name": "Dragonite",
     "image": "cPK_20_001850_00_KAIRYU_AR.webp",
     "packs": [
       "Mewtwo"
@@ -2529,7 +2529,7 @@
     "set": "A1",
     "number": 245,
     "rarity": "AR",
-    "name": "Roucarnage",
+    "name": "Pidgeot",
     "image": "cPK_20_001880_00_PIGEOT_AR.webp",
     "packs": [
       "Mewtwo"
@@ -2539,7 +2539,7 @@
     "set": "A1",
     "number": 246,
     "rarity": "AR",
-    "name": "Miaouss",
+    "name": "Meowth",
     "image": "cPK_20_001960_00_NYARTH_AR.webp",
     "packs": [
       "Charizard"
@@ -2549,7 +2549,7 @@
     "set": "A1",
     "number": 247,
     "rarity": "AR",
-    "name": "Métamorph",
+    "name": "Ditto",
     "image": "cPK_20_002050_00_METAMON_AR.webp",
     "packs": [
       "Mewtwo"
@@ -2559,7 +2559,7 @@
     "set": "A1",
     "number": 248,
     "rarity": "AR",
-    "name": "Évoli",
+    "name": "Eevee",
     "image": "cPK_20_002060_00_EIEVUI_AR.webp",
     "packs": [
       "Pikachu"
@@ -2579,7 +2579,7 @@
     "set": "A1",
     "number": 250,
     "rarity": "AR",
-    "name": "Ronflex",
+    "name": "Snorlax",
     "image": "cPK_20_002090_00_KABIGON_AR.webp",
     "packs": [
       "Pikachu"
@@ -2589,7 +2589,7 @@
     "set": "A1",
     "number": 251,
     "rarity": "SR",
-    "name": "Florizarre-ex",
+    "name": "Venusaur ex",
     "image": "cPK_20_000040_00_FUSHIGIBANAex_SR.webp",
     "packs": [
       "Mewtwo"
@@ -2599,7 +2599,7 @@
     "set": "A1",
     "number": 252,
     "rarity": "SR",
-    "name": "Noadkoko-ex",
+    "name": "Exeggutor ex",
     "image": "cPK_20_000230_00_NASSYex_SR.webp",
     "packs": [
       "Charizard"
@@ -2609,7 +2609,7 @@
     "set": "A1",
     "number": 253,
     "rarity": "SR",
-    "name": "Dracaufeu-ex",
+    "name": "Charizard ex",
     "image": "cPK_20_000360_00_LIZARDONex_SR.webp",
     "packs": [
       "Charizard"
@@ -2619,7 +2619,7 @@
     "set": "A1",
     "number": 254,
     "rarity": "SR",
-    "name": "Arcanin-ex",
+    "name": "Arcanine ex",
     "image": "cPK_20_000410_00_WINDIEex_SR.webp",
     "packs": [
       "Pikachu"
@@ -2629,7 +2629,7 @@
     "set": "A1",
     "number": 255,
     "rarity": "SR",
-    "name": "Sulfura-ex",
+    "name": "Moltres ex",
     "image": "cPK_20_000470_00_FIREex_SR.webp",
     "packs": [
       "Charizard"
@@ -2639,7 +2639,7 @@
     "set": "A1",
     "number": 256,
     "rarity": "SR",
-    "name": "Tortank-ex",
+    "name": "Blastoise ex",
     "image": "cPK_20_000560_00_KAMEXex_SR.webp",
     "packs": [
       "Pikachu"
@@ -2649,7 +2649,7 @@
     "set": "A1",
     "number": 257,
     "rarity": "SR",
-    "name": "Staross-ex",
+    "name": "Starmie ex",
     "image": "cPK_20_000760_00_STARMIEex_SR.webp",
     "packs": [
       "Charizard"
@@ -2659,7 +2659,7 @@
     "set": "A1",
     "number": 258,
     "rarity": "SR",
-    "name": "Artikodin-ex",
+    "name": "Articuno ex",
     "image": "cPK_20_000840_00_FREEZERex_SR.webp",
     "packs": [
       "Mewtwo"
@@ -2669,7 +2669,7 @@
     "set": "A1",
     "number": 259,
     "rarity": "SR",
-    "name": "Pikachu-ex",
+    "name": "Pikachu ex",
     "image": "cPK_20_000960_00_PIKACHUex_SR.webp",
     "packs": [
       "Pikachu"
@@ -2679,7 +2679,7 @@
     "set": "A1",
     "number": 260,
     "rarity": "SR",
-    "name": "Électhor-ex",
+    "name": "Zapdos ex",
     "image": "cPK_20_001040_00_THUNDERex_SR.webp",
     "packs": [
       "Pikachu"
@@ -2689,7 +2689,7 @@
     "set": "A1",
     "number": 261,
     "rarity": "SR",
-    "name": "Ectoplasma-ex",
+    "name": "Gengar ex",
     "image": "cPK_20_001230_00_GANGARex_SR.webp",
     "packs": [
       "Mewtwo"
@@ -2699,7 +2699,7 @@
     "set": "A1",
     "number": 262,
     "rarity": "SR",
-    "name": "Mewtwo-ex",
+    "name": "Mewtwo ex",
     "image": "cPK_20_001290_00_MEWTWOex_SR.webp",
     "packs": [
       "Mewtwo"
@@ -2709,7 +2709,7 @@
     "set": "A1",
     "number": 263,
     "rarity": "SR",
-    "name": "Mackogneur-ex",
+    "name": "Machamp ex",
     "image": "cPK_20_001460_00_KAIRIKYex_SR.webp",
     "packs": [
       "Charizard"
@@ -2719,7 +2719,7 @@
     "set": "A1",
     "number": 264,
     "rarity": "SR",
-    "name": "Ossatueur-ex",
+    "name": "Marowak ex",
     "image": "cPK_20_001530_00_GARAGARAex_SR.webp",
     "packs": [
       "Mewtwo"
@@ -2729,7 +2729,7 @@
     "set": "A1",
     "number": 265,
     "rarity": "SR",
-    "name": "Grodoudou-ex",
+    "name": "Wigglytuff ex",
     "image": "cPK_20_001950_00_PUKURINex_SR.webp",
     "packs": [
       "Pikachu"
@@ -2749,7 +2749,7 @@
     "set": "A1",
     "number": 267,
     "rarity": "SR",
-    "name": "Ondine",
+    "name": "Misty",
     "image": "cTR_20_000120_00_KASUMI_SR.webp",
     "packs": [
       "Pikachu"
@@ -2759,7 +2759,7 @@
     "set": "A1",
     "number": 268,
     "rarity": "SR",
-    "name": "Auguste",
+    "name": "Blaine",
     "image": "cTR_20_000130_00_KATSURA_SR.webp",
     "packs": [
       "Charizard"
@@ -2789,7 +2789,7 @@
     "set": "A1",
     "number": 271,
     "rarity": "SR",
-    "name": "Pierre",
+    "name": "Brock",
     "image": "cTR_20_000160_00_TAKESHI_SR.webp",
     "packs": [
       "Pikachu"
@@ -2799,7 +2799,7 @@
     "set": "A1",
     "number": 272,
     "rarity": "SR",
-    "name": "Morgane",
+    "name": "Sabrina",
     "image": "cTR_20_000170_00_NATSUME_SR.webp",
     "packs": [
       "Charizard"
@@ -2809,7 +2809,7 @@
     "set": "A1",
     "number": 273,
     "rarity": "SR",
-    "name": "Major Bob",
+    "name": "Lt. Surge",
     "image": "cTR_20_000180_00_MATISSE_SR.webp",
     "packs": [
       "Pikachu"
@@ -2819,7 +2819,7 @@
     "set": "A1",
     "number": 274,
     "rarity": "SAR",
-    "name": "Sulfura-ex",
+    "name": "Moltres ex",
     "image": "cPK_20_000470_01_FIREex_SAR.webp",
     "packs": [
       "Charizard"
@@ -2829,7 +2829,7 @@
     "set": "A1",
     "number": 275,
     "rarity": "SAR",
-    "name": "Artikodin-ex",
+    "name": "Articuno ex",
     "image": "cPK_20_000840_01_FREEZERex_SAR.webp",
     "packs": [
       "Mewtwo"
@@ -2839,7 +2839,7 @@
     "set": "A1",
     "number": 276,
     "rarity": "SAR",
-    "name": "Électhor-ex",
+    "name": "Zapdos ex",
     "image": "cPK_20_001040_01_THUNDERex_SAR.webp",
     "packs": [
       "Pikachu"
@@ -2849,7 +2849,7 @@
     "set": "A1",
     "number": 277,
     "rarity": "SAR",
-    "name": "Ectoplasma-ex",
+    "name": "Gengar ex",
     "image": "cPK_20_001230_01_GANGARex_SAR.webp",
     "packs": [
       "Mewtwo"
@@ -2859,7 +2859,7 @@
     "set": "A1",
     "number": 278,
     "rarity": "SAR",
-    "name": "Mackogneur-ex",
+    "name": "Machamp ex",
     "image": "cPK_20_001460_01_KAIRIKYex_SAR.webp",
     "packs": [
       "Charizard"
@@ -2869,7 +2869,7 @@
     "set": "A1",
     "number": 279,
     "rarity": "SAR",
-    "name": "Grodoudou-ex",
+    "name": "Wigglytuff ex",
     "image": "cPK_20_001950_01_PUKURINex_SAR.webp",
     "packs": [
       "Pikachu"
@@ -2879,7 +2879,7 @@
     "set": "A1",
     "number": 280,
     "rarity": "IM",
-    "name": "Dracaufeu-ex",
+    "name": "Charizard ex",
     "image": "cPK_20_000360_01_LIZARDONex_IM.webp",
     "packs": [
       "Charizard"
@@ -2889,7 +2889,7 @@
     "set": "A1",
     "number": 281,
     "rarity": "IM",
-    "name": "Pikachu-ex",
+    "name": "Pikachu ex",
     "image": "cPK_20_000960_01_PIKACHUex_IM.webp",
     "packs": [
       "Pikachu"
@@ -2899,7 +2899,7 @@
     "set": "A1",
     "number": 282,
     "rarity": "IM",
-    "name": "Mewtwo-ex",
+    "name": "Mewtwo ex",
     "image": "cPK_20_001290_01_MEWTWOex_IM.webp",
     "packs": [
       "Mewtwo"
@@ -2916,7 +2916,7 @@
     "set": "A1",
     "number": 284,
     "rarity": "UR",
-    "name": "Dracaufeu-ex",
+    "name": "Charizard ex",
     "image": "cPK_20_000360_02_LIZARDONex_UR.webp",
     "packs": [
       "Charizard",
@@ -2928,7 +2928,7 @@
     "set": "A1",
     "number": 285,
     "rarity": "UR",
-    "name": "Pikachu-ex",
+    "name": "Pikachu ex",
     "image": "cPK_20_000960_02_PIKACHUex_UR.webp",
     "packs": [
       "Charizard",
@@ -2940,7 +2940,7 @@
     "set": "A1",
     "number": 286,
     "rarity": "UR",
-    "name": "Mewtwo-ex",
+    "name": "Mewtwo ex",
     "image": "cPK_20_001290_02_MEWTWOex_UR.webp",
     "packs": [
       "Charizard",

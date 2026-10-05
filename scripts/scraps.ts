@@ -38,7 +38,11 @@ if (process.argv.length > 2) {
     const $card = $(element);
     const href = $card.find("a").attr("href") || "";
     const hrefParts = href.split("/").filter(Boolean);
-    const imgSrc = $card.find("img").attr("src") || $card.find("img").attr("data-src") || "";
+    const imgSrc =
+      $card.find("img").attr("src") ||
+      $card.find("img").attr("data-src") ||
+      $card.find("img").attr("data-original") ||
+      "";
     const figcaption = $card.find("figcaption").text().trim();
 
     if (!imgSrc || hrefParts.length < 3) {
@@ -76,23 +80,39 @@ if (process.argv.length > 2) {
       (card) => card.number === cardData.number && card.set === cardData.set,
     );
     if (!existingCard) {
-      const lastSameSetIndex = cards.findLastIndex(
-        (card) => card.set === cardData.set,
+      const nextCardIndex = cards.findIndex(
+        (card) => card.set === cardData.set && card.number > cardData.number,
       );
-      if (lastSameSetIndex === -1) {
-        cards.push(cardData);
+      if (nextCardIndex !== -1) {
+        cards.splice(nextCardIndex, 0, cardData);
       } else {
-        cards.splice(lastSameSetIndex + 1, 0, cardData);
+        const lastSameSetIndex = cards.findLastIndex(
+          (card) => card.set === cardData.set,
+        );
+        if (lastSameSetIndex === -1) {
+          cards.push(cardData);
+        } else {
+          cards.splice(lastSameSetIndex + 1, 0, cardData);
+        }
       }
-    } else if (
-      packName &&
-      existingCard.packs &&
-      !existingCard.packs.includes(packName)
-    ) {
-      existingCard.packs.unshift(packName);
+    } else if (packName) {
+      if (!existingCard.packs) {
+        existingCard.packs = [packName];
+      } else if (!existingCard.packs.includes(packName)) {
+        existingCard.packs.unshift(packName);
+      }
     }
   });
 }
+
+const setOrder = [...new Set(cards.map(({ set }) => set))];
+const setIndexMap = new Map(setOrder.map((s, i) => [s, i]));
+
+cards.sort((a, b) => {
+  const setDiff = (setIndexMap.get(a.set) ?? 0) - (setIndexMap.get(b.set) ?? 0);
+  if (setDiff !== 0) return setDiff;
+  return a.number - b.number;
+});
 
 const cardsWithoutImage = cards.map(({ image, ...rest }) => rest);
 

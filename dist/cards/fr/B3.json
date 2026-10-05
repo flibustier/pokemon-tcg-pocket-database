@@ -4,7 +4,7 @@
     "number": 1,
     "rarity": "C",
     "image": "cPK_10_016660_00_MONJARA_C.webp",
-    "name": "Saquedeneu",
+    "name": "Tangela",
     "packs": [
       "Pulsing Aura"
     ]
@@ -14,7 +14,7 @@
     "number": 2,
     "rarity": "U",
     "image": "cPK_10_016670_00_MOJUMBO_U.webp",
-    "name": "Bouldeneu",
+    "name": "Tangrowth",
     "packs": [
       "Pulsing Aura"
     ]
@@ -24,7 +24,7 @@
     "number": 3,
     "rarity": "U",
     "image": "cPK_10_016680_00_HERACROS_U.webp",
-    "name": "Scarhino",
+    "name": "Heracross",
     "packs": [
       "Pulsing Aura"
     ]
@@ -44,7 +44,7 @@
     "number": 5,
     "rarity": "C",
     "image": "cPK_10_016700_00_KIMORI_C.webp",
-    "name": "Arcko",
+    "name": "Treecko",
     "packs": [
       "Pulsing Aura"
     ]
@@ -54,7 +54,7 @@
     "number": 6,
     "rarity": "U",
     "image": "cPK_10_016710_00_JUPTILE_U.webp",
-    "name": "Massko",
+    "name": "Grovyle",
     "packs": [
       "Pulsing Aura"
     ]
@@ -64,7 +64,7 @@
     "number": 7,
     "rarity": "R",
     "image": "cPK_10_016720_00_JUKAIN_R.webp",
-    "name": "Jungko",
+    "name": "Sceptile",
     "packs": [
       "Pulsing Aura"
     ]
@@ -74,7 +74,7 @@
     "number": 8,
     "rarity": "RR",
     "image": "cPK_10_016730_00_MEGAJUKAINex_RR.webp",
-    "name": "Méga-Jungko-ex",
+    "name": "Mega Sceptile ex",
     "packs": [
       "Pulsing Aura"
     ]
@@ -84,7 +84,7 @@
     "number": 9,
     "rarity": "C",
     "image": "cPK_10_016740_00_AMETAMA_C.webp",
-    "name": "Arakdo",
+    "name": "Surskit",
     "packs": [
       "Pulsing Aura"
     ]
@@ -94,7 +94,7 @@
     "number": 10,
     "rarity": "C",
     "image": "cPK_10_016750_00_AMEMOTH_C.webp",
-    "name": "Maskadra",
+    "name": "Masquerain",
     "packs": [
       "Pulsing Aura"
     ]
@@ -104,7 +104,7 @@
     "number": 11,
     "rarity": "C",
     "image": "cPK_10_016760_00_KINOCOCO_C.webp",
-    "name": "Balignon",
+    "name": "Shroomish",
     "packs": [
       "Pulsing Aura"
     ]
@@ -114,7 +114,7 @@
     "number": 12,
     "rarity": "U",
     "image": "cPK_10_016770_00_KINOGASSA_U.webp",
-    "name": "Chapignon",
+    "name": "Breloom",
     "packs": [
       "Pulsing Aura"
     ]
@@ -124,7 +124,7 @@
     "number": 13,
     "rarity": "R",
     "image": "cPK_10_016780_00_SUBOMIE_R.webp",
-    "name": "Rozbouton",
+    "name": "Budew",
     "packs": [
       "Pulsing Aura"
     ]
@@ -134,7 +134,7 @@
     "number": 14,
     "rarity": "C",
     "image": "cPK_10_016790_00_MUSKIPPA_C.webp",
-    "name": "Vortente",
+    "name": "Carnivine",
     "packs": [
       "Pulsing Aura"
     ]
@@ -144,7 +144,7 @@
     "number": 15,
     "rarity": "C",
     "image": "cPK_10_016800_00_KURUMIRU_C.webp",
-    "name": "Larveyette",
+    "name": "Sewaddle",
     "packs": [
       "Pulsing Aura"
     ]
@@ -154,7 +154,7 @@
     "number": 16,
     "rarity": "C",
     "image": "cPK_10_016810_00_KURUMAYU_C.webp",
-    "name": "Couverdure",
+    "name": "Swadloon",
     "packs": [
       "Pulsing Aura"
     ]
@@ -164,7 +164,7 @@
     "number": 17,
     "rarity": "U",
     "image": "cPK_10_016820_00_HAHAKOMORI_U.webp",
-    "name": "Manternel",
+    "name": "Leavanny",
     "packs": [
       "Pulsing Aura"
     ]
@@ -174,7 +174,7 @@
     "number": 18,
     "rarity": "C",
     "image": "cPK_10_016830_00_AIANT_C.webp",
-    "name": "Fermite",
+    "name": "Durant",
     "packs": [
       "Pulsing Aura"
     ]
@@ -184,7 +184,7 @@
     "number": 19,
     "rarity": "C",
     "image": "cPK_10_016840_00_KAJICCHU_C.webp",
-    "name": "Verpom",
+    "name": "Applin",
     "packs": [
       "Pulsing Aura"
     ]
@@ -194,7 +194,7 @@
     "number": 20,
     "rarity": "R",
     "image": "cPK_10_016850_00_APPRYU_R.webp",
-    "name": "Pomdrapi",
+    "name": "Flapple",
     "packs": [
       "Pulsing Aura"
     ]
@@ -204,7 +204,7 @@
     "number": 21,
     "rarity": "C",
     "image": "cPK_10_016860_00_DONMEL_C.webp",
-    "name": "Chamallot",
+    "name": "Numel",
     "packs": [
       "Pulsing Aura"
     ]
@@ -214,7 +214,7 @@
     "number": 22,
     "rarity": "U",
     "image": "cPK_10_016870_00_BAKUUDA_U.webp",
-    "name": "Camérupt",
+    "name": "Camerupt",
     "packs": [
       "Pulsing Aura"
     ]
@@ -224,7 +224,7 @@
     "number": 23,
     "rarity": "RR",
     "image": "cPK_10_016880_00_MEGABAKUUDAex_RR.webp",
-    "name": "Méga-Camérupt-ex",
+    "name": "Mega Camerupt ex",
     "packs": [
       "Pulsing Aura"
     ]
@@ -234,7 +234,7 @@
     "number": 24,
     "rarity": "C",
     "image": "cPK_10_016890_00_POWALENTAIYOUNOSUGATA_C.webp",
-    "name": "Morphéo Forme Solaire",
+    "name": "Castform Sunny Form",
     "packs": [
       "Pulsing Aura"
     ]
@@ -254,7 +254,7 @@
     "number": 26,
     "rarity": "C",
     "image": "cPK_10_016910_00_POKABU_C.webp",
-    "name": "Gruikui",
+    "name": "Tepig",
     "packs": [
       "Pulsing Aura"
     ]
@@ -264,7 +264,7 @@
     "number": 27,
     "rarity": "U",
     "image": "cPK_10_016920_00_CHAOBOO_U.webp",
-    "name": "Grotichon",
+    "name": "Pignite",
     "packs": [
       "Pulsing Aura"
     ]
@@ -274,7 +274,7 @@
     "number": 28,
     "rarity": "R",
     "image": "cPK_10_016930_00_ENBUOH_R.webp",
-    "name": "Roitiflam",
+    "name": "Emboar",
     "packs": [
       "Pulsing Aura"
     ]
@@ -284,7 +284,7 @@
     "number": 29,
     "rarity": "C",
     "image": "cPK_10_016940_00_DARUMAKKA_C.webp",
-    "name": "Darumarond",
+    "name": "Darumaka",
     "packs": [
       "Pulsing Aura"
     ]
@@ -294,7 +294,7 @@
     "number": 30,
     "rarity": "U",
     "image": "cPK_10_016950_00_HIHIDARUMA_U.webp",
-    "name": "Darumacho",
+    "name": "Darmanitan",
     "packs": [
       "Pulsing Aura"
     ]
@@ -304,7 +304,7 @@
     "number": 31,
     "rarity": "C",
     "image": "cPK_10_016960_00_MERLARVA_C.webp",
-    "name": "Pyronille",
+    "name": "Larvesta",
     "packs": [
       "Pulsing Aura"
     ]
@@ -314,7 +314,7 @@
     "number": 32,
     "rarity": "U",
     "image": "cPK_10_016970_00_ULGAMOTH_U.webp",
-    "name": "Pyrax",
+    "name": "Volcarona",
     "packs": [
       "Pulsing Aura"
     ]
@@ -324,7 +324,7 @@
     "number": 33,
     "rarity": "C",
     "image": "cPK_10_016980_00_NYOROMO_C.webp",
-    "name": "Ptitard",
+    "name": "Poliwag",
     "packs": [
       "Pulsing Aura"
     ]
@@ -334,7 +334,7 @@
     "number": 34,
     "rarity": "U",
     "image": "cPK_10_016990_00_NYOROZO_U.webp",
-    "name": "Têtarte",
+    "name": "Poliwhirl",
     "packs": [
       "Pulsing Aura"
     ]
@@ -344,7 +344,7 @@
     "number": 35,
     "rarity": "R",
     "image": "cPK_10_017000_00_NYOROTONO_R.webp",
-    "name": "Tarpaud",
+    "name": "Politoed",
     "packs": [
       "Pulsing Aura"
     ]
@@ -354,7 +354,7 @@
     "number": 36,
     "rarity": "U",
     "image": "cPK_10_017010_00_PALDEAKENTAUROS_U.webp",
-    "name": "Tauros de Paldea",
+    "name": "Paldean Tauros",
     "packs": [
       "Pulsing Aura"
     ]
@@ -364,7 +364,7 @@
     "number": 37,
     "rarity": "RR",
     "image": "cPK_10_017020_00_SHOWERSex_RR.webp",
-    "name": "Aquali-ex",
+    "name": "Vaporeon ex",
     "packs": [
       "Pulsing Aura"
     ]
@@ -374,7 +374,7 @@
     "number": 38,
     "rarity": "C",
     "image": "cPK_10_017030_00_UPAH_C.webp",
-    "name": "Axoloto",
+    "name": "Wooper",
     "packs": [
       "Pulsing Aura"
     ]
@@ -384,7 +384,7 @@
     "number": 39,
     "rarity": "U",
     "image": "cPK_10_017040_00_NUOH_U.webp",
-    "name": "Maraiste",
+    "name": "Quagsire",
     "packs": [
       "Pulsing Aura"
     ]
@@ -394,7 +394,7 @@
     "number": 40,
     "rarity": "C",
     "image": "cPK_10_017050_00_POWALENAMAMIZUNOSUGATA_C.webp",
-    "name": "Morphéo Forme Eau de Pluie",
+    "name": "Castform Rainy Form",
     "packs": [
       "Pulsing Aura"
     ]
@@ -404,7 +404,7 @@
     "number": 41,
     "rarity": "C",
     "image": "cPK_10_017060_00_POWALENYUKIGUMONOSUGATA_C.webp",
-    "name": "Morphéo Forme Blizzard",
+    "name": "Castform Snowy Form",
     "packs": [
       "Pulsing Aura"
     ]
@@ -414,7 +414,7 @@
     "number": 42,
     "rarity": "C",
     "image": "cPK_10_017070_00_PEARLULU_C.webp",
-    "name": "Coquiperl",
+    "name": "Clamperl",
     "packs": [
       "Pulsing Aura"
     ]
@@ -424,7 +424,7 @@
     "number": 43,
     "rarity": "U",
     "image": "cPK_10_017080_00_HUNTAIL_U.webp",
-    "name": "Serpang",
+    "name": "Huntail",
     "packs": [
       "Pulsing Aura"
     ]
@@ -434,7 +434,7 @@
     "number": 44,
     "rarity": "U",
     "image": "cPK_10_017090_00_SAKURABYSS_U.webp",
-    "name": "Rosabyss",
+    "name": "Gorebyss",
     "packs": [
       "Pulsing Aura"
     ]
@@ -454,7 +454,7 @@
     "number": 46,
     "rarity": "C",
     "image": "cPK_10_017110_00_KUMASYUN_C.webp",
-    "name": "Polarhume",
+    "name": "Cubchoo",
     "packs": [
       "Pulsing Aura"
     ]
@@ -464,7 +464,7 @@
     "number": 47,
     "rarity": "U",
     "image": "cPK_10_017120_00_TUNBEAR_U.webp",
-    "name": "Polagriffe",
+    "name": "Beartic",
     "packs": [
       "Pulsing Aura"
     ]
@@ -474,7 +474,7 @@
     "number": 48,
     "rarity": "C",
     "image": "cPK_10_017130_00_MESSON_C.webp",
-    "name": "Larméléon",
+    "name": "Sobble",
     "packs": [
       "Pulsing Aura"
     ]
@@ -484,7 +484,7 @@
     "number": 49,
     "rarity": "U",
     "image": "cPK_10_017140_00_JIMEREON_U.webp",
-    "name": "Arrozard",
+    "name": "Drizzile",
     "packs": [
       "Pulsing Aura"
     ]
@@ -494,7 +494,7 @@
     "number": 50,
     "rarity": "R",
     "image": "cPK_10_017150_00_INTEREON_R.webp",
-    "name": "Lézargus",
+    "name": "Inteleon",
     "packs": [
       "Pulsing Aura"
     ]
@@ -504,7 +504,7 @@
     "number": 51,
     "rarity": "R",
     "image": "cPK_10_017160_00_WULAOSURENGEKINOKATA_R.webp",
-    "name": "Shifours Mille Poings",
+    "name": "Rapid Strike Urshifu",
     "packs": [
       "Pulsing Aura"
     ]
@@ -514,7 +514,7 @@
     "number": 52,
     "rarity": "C",
     "image": "cPK_10_017170_00_COIL_C.webp",
-    "name": "Magnéti",
+    "name": "Magnemite",
     "packs": [
       "Pulsing Aura"
     ]
@@ -524,7 +524,7 @@
     "number": 53,
     "rarity": "U",
     "image": "cPK_10_017180_00_RARECOIL_U.webp",
-    "name": "Magnéton",
+    "name": "Magneton",
     "packs": [
       "Pulsing Aura"
     ]
@@ -534,7 +534,7 @@
     "number": 54,
     "rarity": "RR",
     "image": "cPK_10_017190_00_JIBACOILex_RR.webp",
-    "name": "Magnézone-ex",
+    "name": "Magnezone ex",
     "packs": [
       "Pulsing Aura"
     ]
@@ -544,7 +544,7 @@
     "number": 55,
     "rarity": "C",
     "image": "cPK_10_017200_00_BIRIRIDAMA_C.webp",
-    "name": "Voltorbe",
+    "name": "Voltorb",
     "packs": [
       "Pulsing Aura"
     ]
@@ -554,7 +554,7 @@
     "number": 56,
     "rarity": "C",
     "image": "cPK_10_017210_00_MARUMINE_C.webp",
-    "name": "Électrode",
+    "name": "Electrode",
     "packs": [
       "Pulsing Aura"
     ]
@@ -564,7 +564,7 @@
     "number": 57,
     "rarity": "C",
     "image": "cPK_10_017220_00_CHONCHIE_C.webp",
-    "name": "Loupio",
+    "name": "Chinchou",
     "packs": [
       "Pulsing Aura"
     ]
@@ -594,7 +594,7 @@
     "number": 60,
     "rarity": "C",
     "image": "cPK_10_017250_00_ELESON_C.webp",
-    "name": "Toxizap",
+    "name": "Toxel",
     "packs": [
       "Pulsing Aura"
     ]
@@ -604,7 +604,7 @@
     "number": 61,
     "rarity": "R",
     "image": "cPK_10_017260_00_STRINDER_R.webp",
-    "name": "Salarsen",
+    "name": "Toxtricity",
     "packs": [
       "Pulsing Aura"
     ]
@@ -624,7 +624,7 @@
     "number": 63,
     "rarity": "C",
     "image": "cPK_10_017280_00_RALTS_C.webp",
-    "name": "Tarsal",
+    "name": "Ralts",
     "packs": [
       "Pulsing Aura"
     ]
@@ -644,7 +644,7 @@
     "number": 65,
     "rarity": "C",
     "image": "cPK_10_017300_00_NYASPER_C.webp",
-    "name": "Psystigri",
+    "name": "Espurr",
     "packs": [
       "Pulsing Aura"
     ]
@@ -654,7 +654,7 @@
     "number": 66,
     "rarity": "R",
     "image": "cPK_10_017310_00_NYAONIX_R.webp",
-    "name": "Mistigrix",
+    "name": "Meowstic",
     "packs": [
       "Pulsing Aura"
     ]
@@ -674,7 +674,7 @@
     "number": 68,
     "rarity": "C",
     "image": "cPK_10_017330_00_ODORIDORI_C.webp",
-    "name": "Plumeline",
+    "name": "Oricorio",
     "packs": [
       "Pulsing Aura"
     ]
@@ -684,7 +684,7 @@
     "number": 69,
     "rarity": "C",
     "image": "cPK_10_017340_00_MIBRIM_C.webp",
-    "name": "Bibichut",
+    "name": "Hatenna",
     "packs": [
       "Pulsing Aura"
     ]
@@ -694,7 +694,7 @@
     "number": 70,
     "rarity": "U",
     "image": "cPK_10_017350_00_TEBRIM_U.webp",
-    "name": "Chapotus",
+    "name": "Hattrem",
     "packs": [
       "Pulsing Aura"
     ]
@@ -704,7 +704,7 @@
     "number": 71,
     "rarity": "R",
     "image": "cPK_10_017360_00_BRIMUON_R.webp",
-    "name": "Sorcilence",
+    "name": "Hatterene",
     "packs": [
       "Pulsing Aura"
     ]
@@ -714,7 +714,7 @@
     "number": 72,
     "rarity": "C",
     "image": "cPK_10_017370_00_ANOKUSA_C.webp",
-    "name": "Virovent",
+    "name": "Bramblin",
     "packs": [
       "Pulsing Aura"
     ]
@@ -724,7 +724,7 @@
     "number": 73,
     "rarity": "R",
     "image": "cPK_10_017380_00_ANOHORAGUSA_R.webp",
-    "name": "Virevorreur",
+    "name": "Brambleghast",
     "packs": [
       "Pulsing Aura"
     ]
@@ -734,7 +734,7 @@
     "number": 74,
     "rarity": "C",
     "image": "cPK_10_017390_00_GLIGER_C.webp",
-    "name": "Scorplane",
+    "name": "Gligar",
     "packs": [
       "Pulsing Aura"
     ]
@@ -744,7 +744,7 @@
     "number": 75,
     "rarity": "U",
     "image": "cPK_10_017400_00_GLION_U.webp",
-    "name": "Scorvol",
+    "name": "Gliscor",
     "packs": [
       "Pulsing Aura"
     ]
@@ -754,7 +754,7 @@
     "number": 76,
     "rarity": "C",
     "image": "cPK_10_017410_00_NUCKRAR_C.webp",
-    "name": "Kraknoix",
+    "name": "Trapinch",
     "packs": [
       "Pulsing Aura"
     ]
@@ -774,7 +774,7 @@
     "number": 78,
     "rarity": "R",
     "image": "cPK_10_017430_00_USOHACHI_R.webp",
-    "name": "Manzaï",
+    "name": "Bonsly",
     "packs": [
       "Pulsing Aura"
     ]
@@ -804,7 +804,7 @@
     "number": 81,
     "rarity": "RR",
     "image": "cPK_10_017460_00_MEGALUCARIOex_RR.webp",
-    "name": "Méga-Lucario-ex",
+    "name": "Mega Lucario ex",
     "packs": [
       "Pulsing Aura"
     ]
@@ -814,7 +814,7 @@
     "number": 82,
     "rarity": "C",
     "image": "cPK_10_017470_00_GUREGGRU_C.webp",
-    "name": "Cradopaud",
+    "name": "Croagunk",
     "packs": [
       "Pulsing Aura"
     ]
@@ -824,7 +824,7 @@
     "number": 83,
     "rarity": "U",
     "image": "cPK_10_017480_00_DOKUROG_U.webp",
-    "name": "Coatox",
+    "name": "Toxicroak",
     "packs": [
       "Pulsing Aura"
     ]
@@ -834,7 +834,7 @@
     "number": 84,
     "rarity": "R",
     "image": "cPK_10_017490_00_ERUREIDO_R.webp",
-    "name": "Gallame",
+    "name": "Gallade",
     "packs": [
       "Pulsing Aura"
     ]
@@ -844,7 +844,7 @@
     "number": 85,
     "rarity": "C",
     "image": "cPK_10_017500_00_NAGEKI_C.webp",
-    "name": "Judokrak",
+    "name": "Throh",
     "packs": [
       "Pulsing Aura"
     ]
@@ -854,7 +854,7 @@
     "number": 86,
     "rarity": "C",
     "image": "cPK_10_017510_00_DAGEKI_C.webp",
-    "name": "Karaclée",
+    "name": "Sawk",
     "packs": [
       "Pulsing Aura"
     ]
@@ -864,7 +864,7 @@
     "number": 87,
     "rarity": "C",
     "image": "cPK_10_017520_00_ISHIZUMAI_C.webp",
-    "name": "Crabicoque",
+    "name": "Dwebble",
     "packs": [
       "Pulsing Aura"
     ]
@@ -874,7 +874,7 @@
     "number": 88,
     "rarity": "RR",
     "image": "cPK_10_017530_00_IWAPALACEex_RR.webp",
-    "name": "Crabaraque-ex",
+    "name": "Crustle ex",
     "packs": [
       "Pulsing Aura"
     ]
@@ -894,7 +894,7 @@
     "number": 90,
     "rarity": "C",
     "image": "cPK_10_017550_00_NUIKOGUMA_C.webp",
-    "name": "Nounourson",
+    "name": "Stufful",
     "packs": [
       "Pulsing Aura"
     ]
@@ -904,7 +904,7 @@
     "number": 91,
     "rarity": "U",
     "image": "cPK_10_017560_00_KITERUGUMA_U.webp",
-    "name": "Chelours",
+    "name": "Bewear",
     "packs": [
       "Pulsing Aura"
     ]
@@ -914,7 +914,7 @@
     "number": 92,
     "rarity": "C",
     "image": "cPK_10_017570_00_TANDON_C.webp",
-    "name": "Charbi",
+    "name": "Rolycoly",
     "packs": [
       "Pulsing Aura"
     ]
@@ -924,7 +924,7 @@
     "number": 93,
     "rarity": "U",
     "image": "cPK_10_017580_00_TOROGGON_U.webp",
-    "name": "Wagomine",
+    "name": "Carkol",
     "packs": [
       "Pulsing Aura"
     ]
@@ -934,7 +934,7 @@
     "number": 94,
     "rarity": "R",
     "image": "cPK_10_017590_00_SEKITANZAN_R.webp",
-    "name": "Monthracite",
+    "name": "Coalossal",
     "packs": [
       "Pulsing Aura"
     ]
@@ -944,7 +944,7 @@
     "number": 95,
     "rarity": "C",
     "image": "cPK_10_017600_00_SUNAHEBI_C.webp",
-    "name": "Dunaja",
+    "name": "Silicobra",
     "packs": [
       "Pulsing Aura"
     ]
@@ -954,7 +954,7 @@
     "number": 96,
     "rarity": "U",
     "image": "cPK_10_017610_00_SADAIJA_U.webp",
-    "name": "Dunaconda",
+    "name": "Sandaconda",
     "packs": [
       "Pulsing Aura"
     ]
@@ -964,7 +964,7 @@
     "number": 97,
     "rarity": "C",
     "image": "cPK_10_017620_00_DAKUMA_C.webp",
-    "name": "Wushours",
+    "name": "Kubfu",
     "packs": [
       "Pulsing Aura"
     ]
@@ -974,7 +974,7 @@
     "number": 98,
     "rarity": "C",
     "image": "cPK_10_017630_00_ZUBAT_C.webp",
-    "name": "Nosferapti",
+    "name": "Zubat",
     "packs": [
       "Pulsing Aura"
     ]
@@ -984,7 +984,7 @@
     "number": 99,
     "rarity": "U",
     "image": "cPK_10_017640_00_GOLBAT_U.webp",
-    "name": "Nosferalto",
+    "name": "Golbat",
     "packs": [
       "Pulsing Aura"
     ]
@@ -994,7 +994,7 @@
     "number": 100,
     "rarity": "R",
     "image": "cPK_10_017650_00_CROBAT_R.webp",
-    "name": "Nostenfer",
+    "name": "Crobat",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1004,7 +1004,7 @@
     "number": 101,
     "rarity": "C",
     "image": "cPK_10_017660_00_DOGARS_C.webp",
-    "name": "Smogo",
+    "name": "Koffing",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1014,7 +1014,7 @@
     "number": 102,
     "rarity": "U",
     "image": "cPK_10_017670_00_MATADOGAS_U.webp",
-    "name": "Smogogo",
+    "name": "Weezing",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1034,7 +1034,7 @@
     "number": 104,
     "rarity": "C",
     "image": "cPK_10_017690_00_HABUNAKE_C.webp",
-    "name": "Séviper",
+    "name": "Seviper",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1054,7 +1054,7 @@
     "number": 106,
     "rarity": "RR",
     "image": "cPK_10_017710_00_ZOROARKex_RR.webp",
-    "name": "Zoroark-ex",
+    "name": "Zoroark ex",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1064,7 +1064,7 @@
     "number": 107,
     "rarity": "C",
     "image": "cPK_10_017720_00_TAMAGETAKE_C.webp",
-    "name": "Trompignon",
+    "name": "Foongus",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1074,7 +1074,7 @@
     "number": 108,
     "rarity": "U",
     "image": "cPK_10_017730_00_MOROBARERU_U.webp",
-    "name": "Gaulet",
+    "name": "Amoonguss",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1084,7 +1084,7 @@
     "number": 109,
     "rarity": "C",
     "image": "cPK_10_017740_00_VALCHAI_C.webp",
-    "name": "Vostourno",
+    "name": "Vullaby",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1094,7 +1094,7 @@
     "number": 110,
     "rarity": "U",
     "image": "cPK_10_017750_00_VULGINA_U.webp",
-    "name": "Vaututrice",
+    "name": "Mandibuzz",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1104,7 +1104,7 @@
     "number": 111,
     "rarity": "C",
     "image": "cPK_10_017760_00_MAAIIKA_C.webp",
-    "name": "Sepiatop",
+    "name": "Inkay",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1114,7 +1114,7 @@
     "number": 112,
     "rarity": "U",
     "image": "cPK_10_017770_00_CALAMANERO_U.webp",
-    "name": "Sepiatroce",
+    "name": "Malamar",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1124,7 +1124,7 @@
     "number": 113,
     "rarity": "R",
     "image": "cPK_10_017780_00_WULAOSUICHIGEKINOKATA_R.webp",
-    "name": "Shifours Poing Final",
+    "name": "Single Strike Urshifu",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1144,7 +1144,7 @@
     "number": 115,
     "rarity": "R",
     "image": "cPK_10_017800_00_OTOSHIDORI_R.webp",
-    "name": "Lestombaile",
+    "name": "Bombirdier",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1164,7 +1164,7 @@
     "number": 117,
     "rarity": "C",
     "image": "cPK_10_017820_00_DOHMIRROR_C.webp",
-    "name": "Archéomire",
+    "name": "Bronzor",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1174,7 +1174,7 @@
     "number": 118,
     "rarity": "U",
     "image": "cPK_10_017830_00_DOHTAKUN_U.webp",
-    "name": "Archéodong",
+    "name": "Bronzong",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1184,7 +1184,7 @@
     "number": 119,
     "rarity": "C",
     "image": "cPK_10_017840_00_KOMATANA_C.webp",
-    "name": "Scalpion",
+    "name": "Pawniard",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1194,7 +1194,7 @@
     "number": 120,
     "rarity": "U",
     "image": "cPK_10_017850_00_KIRIKIZAN_U.webp",
-    "name": "Scalproie",
+    "name": "Bisharp",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1234,7 +1234,7 @@
     "number": 124,
     "rarity": "RR",
     "image": "cPK_10_017890_00_ARMORGAex_RR.webp",
-    "name": "Corvaillus-ex",
+    "name": "Corviknight ex",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1244,7 +1244,7 @@
     "number": 125,
     "rarity": "U",
     "image": "cPK_10_017900_00_VIBRAVA_U.webp",
-    "name": "Vibraninf",
+    "name": "Vibrava",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1254,7 +1254,7 @@
     "number": 126,
     "rarity": "RR",
     "image": "cPK_10_017910_00_FLYGONex_RR.webp",
-    "name": "Libégon-ex",
+    "name": "Flygon ex",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1264,7 +1264,7 @@
     "number": 127,
     "rarity": "C",
     "image": "cPK_10_017920_00_LUCKY_C.webp",
-    "name": "Leveinard",
+    "name": "Chansey",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1274,7 +1274,7 @@
     "number": 128,
     "rarity": "R",
     "image": "cPK_10_017930_00_HAPPINAS_R.webp",
-    "name": "Leuphorie",
+    "name": "Blissey",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1284,7 +1284,7 @@
     "number": 129,
     "rarity": "C",
     "image": "cPK_10_017940_00_EIEVUI_C.webp",
-    "name": "Évoli",
+    "name": "Eevee",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1294,7 +1294,7 @@
     "number": 130,
     "rarity": "R",
     "image": "cPK_10_017950_00_NOKOCCHI_R.webp",
-    "name": "Insolourdo",
+    "name": "Dunsparce",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1324,7 +1324,7 @@
     "number": 133,
     "rarity": "C",
     "image": "cPK_10_017980_00_POWALEN_C.webp",
-    "name": "Morphéo",
+    "name": "Castform",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1344,7 +1344,7 @@
     "number": 135,
     "rarity": "C",
     "image": "cPK_10_018000_00_MINEZUMI_C.webp",
-    "name": "Ratentif",
+    "name": "Patrat",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1354,7 +1354,7 @@
     "number": 136,
     "rarity": "C",
     "image": "cPK_10_018010_00_MIRUHOG_C.webp",
-    "name": "Miradar",
+    "name": "Watchog",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1364,7 +1364,7 @@
     "number": 137,
     "rarity": "C",
     "image": "cPK_10_018020_00_YORTERRIE_C.webp",
-    "name": "Ponchiot",
+    "name": "Lillipup",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1374,7 +1374,7 @@
     "number": 138,
     "rarity": "U",
     "image": "cPK_10_018030_00_HERDERRIE_U.webp",
-    "name": "Ponchien",
+    "name": "Herdier",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1384,7 +1384,7 @@
     "number": 139,
     "rarity": "R",
     "image": "cPK_10_018040_00_MOOLAND_R.webp",
-    "name": "Mastouffe",
+    "name": "Stoutland",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1394,7 +1394,7 @@
     "number": 140,
     "rarity": "U",
     "image": "cPK_10_018050_00_TABUNNE_U.webp",
-    "name": "Nanméouïe",
+    "name": "Audino",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1404,7 +1404,7 @@
     "number": 141,
     "rarity": "RR",
     "image": "cPK_10_018060_00_MEGATABUNNEex_RR.webp",
-    "name": "Méga-Nanméouïe-ex",
+    "name": "Mega Audino ex",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1414,7 +1414,7 @@
     "number": 142,
     "rarity": "C",
     "image": "cPK_10_018070_00_CHILLARMY_C.webp",
-    "name": "Chinchidou",
+    "name": "Minccino",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1424,7 +1424,7 @@
     "number": 143,
     "rarity": "C",
     "image": "cPK_10_018080_00_CHILLACCINO_C.webp",
-    "name": "Pashmilla",
+    "name": "Cinccino",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1434,7 +1434,7 @@
     "number": 144,
     "rarity": "U",
     "image": "cPK_10_018090_00_TRIMMIEN_U.webp",
-    "name": "Couafarel",
+    "name": "Furfrou",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1444,7 +1444,7 @@
     "number": 145,
     "rarity": "C",
     "image": "cPK_10_018100_00_KOKOGARA_C.webp",
-    "name": "Minisange",
+    "name": "Rookidee",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1454,7 +1454,7 @@
     "number": 146,
     "rarity": "U",
     "image": "cPK_10_018110_00_AOGARASU_U.webp",
-    "name": "Bleuseille",
+    "name": "Corvisquire",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1464,7 +1464,7 @@
     "number": 147,
     "rarity": "U",
     "image": "cTR_10_001280_00_FIELDBLOWER_U.webp",
-    "name": "Nettoyage de Terrain",
+    "name": "Field Blower",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1474,7 +1474,7 @@
     "number": 148,
     "rarity": "U",
     "image": "cTR_10_001290_00_HAPPINESSEGG_U.webp",
-    "name": "Œuf Chance",
+    "name": "Lucky Egg",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1484,7 +1484,7 @@
     "number": 149,
     "rarity": "U",
     "image": "cTR_10_001300_00_CORNI_U.webp",
-    "name": "Cornélia",
+    "name": "Korrina",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1494,7 +1494,7 @@
     "number": 150,
     "rarity": "U",
     "image": "cTR_10_001310_00_TAXIDRIVER_U.webp",
-    "name": "Chauffeur de Taxi",
+    "name": "Cabbie",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1504,7 +1504,7 @@
     "number": 151,
     "rarity": "U",
     "image": "cTR_10_001320_00_CHEREN_U.webp",
-    "name": "Tcheren",
+    "name": "Cheren",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1514,7 +1514,7 @@
     "number": 152,
     "rarity": "U",
     "image": "cTR_10_001330_00_PARASOLGIRL_U.webp",
-    "name": "Fille au Parapluie",
+    "name": "Parasol Lady",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1524,7 +1524,7 @@
     "number": 153,
     "rarity": "U",
     "image": "cTR_10_001340_00_AMAKUKAORUMORI_U.webp",
-    "name": "Forêt Parfumée",
+    "name": "Fragrant Forest",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1534,7 +1534,7 @@
     "number": 154,
     "rarity": "U",
     "image": "cTR_10_001350_00_INISHIENOTOUGIJYOU_U.webp",
-    "name": "Colisée Antique",
+    "name": "Arena of Antiquity",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1544,7 +1544,7 @@
     "number": 155,
     "rarity": "U",
     "image": "cTR_10_001360_00_KEKKAINOFIELD_U.webp",
-    "name": "Champ Barrière",
+    "name": "Bounded Field",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1554,7 +1554,7 @@
     "number": 156,
     "rarity": "AR",
     "image": "cPK_20_016700_00_KIMORI_AR.webp",
-    "name": "Arcko",
+    "name": "Treecko",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1564,7 +1564,7 @@
     "number": 157,
     "rarity": "AR",
     "image": "cPK_20_016710_00_JUPTILE_AR.webp",
-    "name": "Massko",
+    "name": "Grovyle",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1574,7 +1574,7 @@
     "number": 158,
     "rarity": "AR",
     "image": "cPK_20_016760_00_KINOCOCO_AR.webp",
-    "name": "Balignon",
+    "name": "Shroomish",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1584,7 +1584,7 @@
     "number": 159,
     "rarity": "AR",
     "image": "cPK_20_016780_00_SUBOMIE_AR.webp",
-    "name": "Rozbouton",
+    "name": "Budew",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1594,7 +1594,7 @@
     "number": 160,
     "rarity": "AR",
     "image": "cPK_20_016850_00_APPRYU_AR.webp",
-    "name": "Pomdrapi",
+    "name": "Flapple",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1604,7 +1604,7 @@
     "number": 161,
     "rarity": "AR",
     "image": "cPK_20_016910_00_POKABU_AR.webp",
-    "name": "Gruikui",
+    "name": "Tepig",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1614,7 +1614,7 @@
     "number": 162,
     "rarity": "AR",
     "image": "cPK_20_017040_00_NUOH_AR.webp",
-    "name": "Maraiste",
+    "name": "Quagsire",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1644,7 +1644,7 @@
     "number": 165,
     "rarity": "AR",
     "image": "cPK_20_017310_00_NYAONIX_AR.webp",
-    "name": "Mistigrix",
+    "name": "Meowstic",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1654,7 +1654,7 @@
     "number": 166,
     "rarity": "AR",
     "image": "cPK_20_017330_00_ODORIDORI_AR.webp",
-    "name": "Plumeline",
+    "name": "Oricorio",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1664,7 +1664,7 @@
     "number": 167,
     "rarity": "AR",
     "image": "cPK_20_017380_00_ANOHORAGUSA_AR.webp",
-    "name": "Virevorreur",
+    "name": "Brambleghast",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1674,7 +1674,7 @@
     "number": 168,
     "rarity": "AR",
     "image": "cPK_20_017430_00_USOHACHI_AR.webp",
-    "name": "Manzaï",
+    "name": "Bonsly",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1704,7 +1704,7 @@
     "number": 171,
     "rarity": "AR",
     "image": "cPK_20_017580_00_TOROGGON_AR.webp",
-    "name": "Wagomine",
+    "name": "Carkol",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1714,7 +1714,7 @@
     "number": 172,
     "rarity": "AR",
     "image": "cPK_20_017620_00_DAKUMA_AR.webp",
-    "name": "Wushours",
+    "name": "Kubfu",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1724,7 +1724,7 @@
     "number": 173,
     "rarity": "AR",
     "image": "cPK_20_017690_00_HABUNAKE_AR.webp",
-    "name": "Séviper",
+    "name": "Seviper",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1744,7 +1744,7 @@
     "number": 175,
     "rarity": "AR",
     "image": "cPK_20_017770_00_CALAMANERO_AR.webp",
-    "name": "Sepiatroce",
+    "name": "Malamar",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1754,7 +1754,7 @@
     "number": 176,
     "rarity": "AR",
     "image": "cPK_20_017850_00_KIRIKIZAN_AR.webp",
-    "name": "Scalproie",
+    "name": "Bisharp",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1774,7 +1774,7 @@
     "number": 178,
     "rarity": "AR",
     "image": "cPK_20_017980_00_POWALEN_AR.webp",
-    "name": "Morphéo",
+    "name": "Castform",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1784,7 +1784,7 @@
     "number": 179,
     "rarity": "AR",
     "image": "cPK_20_018080_00_CHILLACCINO_AR.webp",
-    "name": "Pashmilla",
+    "name": "Cinccino",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1794,7 +1794,7 @@
     "number": 180,
     "rarity": "SR",
     "image": "cPK_20_016730_00_MEGAJUKAINex_SR.webp",
-    "name": "Méga-Jungko-ex",
+    "name": "Mega Sceptile ex",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1804,7 +1804,7 @@
     "number": 181,
     "rarity": "SR",
     "image": "cPK_20_016880_00_MEGABAKUUDAex_SR.webp",
-    "name": "Méga-Camérupt-ex",
+    "name": "Mega Camerupt ex",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1814,7 +1814,7 @@
     "number": 182,
     "rarity": "SR",
     "image": "cPK_20_017020_00_SHOWERSex_SR.webp",
-    "name": "Aquali-ex",
+    "name": "Vaporeon ex",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1824,7 +1824,7 @@
     "number": 183,
     "rarity": "SR",
     "image": "cPK_20_017190_00_JIBACOILex_SR.webp",
-    "name": "Magnézone-ex",
+    "name": "Magnezone ex",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1834,7 +1834,7 @@
     "number": 184,
     "rarity": "SR",
     "image": "cPK_20_017460_00_MEGALUCARIOex_SR.webp",
-    "name": "Méga-Lucario-ex",
+    "name": "Mega Lucario ex",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1844,7 +1844,7 @@
     "number": 185,
     "rarity": "SR",
     "image": "cPK_20_017530_00_IWAPALACEex_SR.webp",
-    "name": "Crabaraque-ex",
+    "name": "Crustle ex",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1854,7 +1854,7 @@
     "number": 186,
     "rarity": "SR",
     "image": "cPK_20_017710_00_ZOROARKex_SR.webp",
-    "name": "Zoroark-ex",
+    "name": "Zoroark ex",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1864,7 +1864,7 @@
     "number": 187,
     "rarity": "SR",
     "image": "cPK_20_017890_00_ARMORGAex_SR.webp",
-    "name": "Corvaillus-ex",
+    "name": "Corviknight ex",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1874,7 +1874,7 @@
     "number": 188,
     "rarity": "SR",
     "image": "cPK_20_017910_00_FLYGONex_SR.webp",
-    "name": "Libégon-ex",
+    "name": "Flygon ex",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1884,7 +1884,7 @@
     "number": 189,
     "rarity": "SR",
     "image": "cPK_20_018060_00_MEGATABUNNEex_SR.webp",
-    "name": "Méga-Nanméouïe-ex",
+    "name": "Mega Audino ex",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1894,7 +1894,7 @@
     "number": 190,
     "rarity": "SR",
     "image": "cTR_20_001300_00_CORNI_SR.webp",
-    "name": "Cornélia",
+    "name": "Korrina",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1904,7 +1904,7 @@
     "number": 191,
     "rarity": "SR",
     "image": "cTR_20_001310_00_TAXIDRIVER_SR.webp",
-    "name": "Chauffeur de Taxi",
+    "name": "Cabbie",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1914,7 +1914,7 @@
     "number": 192,
     "rarity": "SR",
     "image": "cTR_20_001320_00_CHEREN_SR.webp",
-    "name": "Tcheren",
+    "name": "Cheren",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1924,7 +1924,7 @@
     "number": 193,
     "rarity": "SR",
     "image": "cTR_20_001330_00_PARASOLGIRL_SR.webp",
-    "name": "Fille au Parapluie",
+    "name": "Parasol Lady",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1934,7 +1934,7 @@
     "number": 194,
     "rarity": "SAR",
     "image": "cPK_20_016730_01_MEGAJUKAINex_SAR.webp",
-    "name": "Méga-Jungko-ex",
+    "name": "Mega Sceptile ex",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1944,7 +1944,7 @@
     "number": 195,
     "rarity": "SAR",
     "image": "cPK_20_016880_01_MEGABAKUUDAex_SAR.webp",
-    "name": "Méga-Camérupt-ex",
+    "name": "Mega Camerupt ex",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1954,7 +1954,7 @@
     "number": 196,
     "rarity": "SAR",
     "image": "cPK_20_017020_01_SHOWERSex_SAR.webp",
-    "name": "Aquali-ex",
+    "name": "Vaporeon ex",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1964,7 +1964,7 @@
     "number": 197,
     "rarity": "SAR",
     "image": "cPK_20_017190_01_JIBACOILex_SAR.webp",
-    "name": "Magnézone-ex",
+    "name": "Magnezone ex",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1974,7 +1974,7 @@
     "number": 198,
     "rarity": "SAR",
     "image": "cPK_20_017530_01_IWAPALACEex_SAR.webp",
-    "name": "Crabaraque-ex",
+    "name": "Crustle ex",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1984,7 +1984,7 @@
     "number": 199,
     "rarity": "SAR",
     "image": "cPK_20_017710_01_ZOROARKex_SAR.webp",
-    "name": "Zoroark-ex",
+    "name": "Zoroark ex",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1994,7 +1994,7 @@
     "number": 200,
     "rarity": "SAR",
     "image": "cPK_20_017890_01_ARMORGAex_SAR.webp",
-    "name": "Corvaillus-ex",
+    "name": "Corviknight ex",
     "packs": [
       "Pulsing Aura"
     ]
@@ -2004,7 +2004,7 @@
     "number": 201,
     "rarity": "SAR",
     "image": "cPK_20_017910_01_FLYGONex_SAR.webp",
-    "name": "Libégon-ex",
+    "name": "Flygon ex",
     "packs": [
       "Pulsing Aura"
     ]
@@ -2014,7 +2014,7 @@
     "number": 202,
     "rarity": "SAR",
     "image": "cPK_20_018060_01_MEGATABUNNEex_SAR.webp",
-    "name": "Méga-Nanméouïe-ex",
+    "name": "Mega Audino ex",
     "packs": [
       "Pulsing Aura"
     ]
@@ -2024,7 +2024,7 @@
     "number": 203,
     "rarity": "IM",
     "image": "cPK_20_017130_00_MESSON_IM.webp",
-    "name": "Larméléon",
+    "name": "Sobble",
     "packs": [
       "Pulsing Aura"
     ]
@@ -2034,7 +2034,7 @@
     "number": 204,
     "rarity": "IM",
     "image": "cPK_20_017460_01_MEGALUCARIOex_IM.webp",
-    "name": "Méga-Lucario-ex",
+    "name": "Mega Lucario ex",
     "packs": [
       "Pulsing Aura"
     ]
@@ -2044,7 +2044,7 @@
     "number": 205,
     "rarity": "S",
     "image": "cPK_20_010970_00_MONMEN_S.webp",
-    "name": "Doudouvet",
+    "name": "Cottonee",
     "packs": [
       "Pulsing Aura"
     ]
@@ -2054,7 +2054,7 @@
     "number": 206,
     "rarity": "S",
     "image": "cPK_20_011150_00_ACHAMO_S.webp",
-    "name": "Poussifeu",
+    "name": "Torchic",
     "packs": [
       "Pulsing Aura"
     ]
@@ -2064,7 +2064,7 @@
     "number": 207,
     "rarity": "S",
     "image": "cPK_20_011160_00_WAKASYAMO_S.webp",
-    "name": "Galifeu",
+    "name": "Combusken",
     "packs": [
       "Pulsing Aura"
     ]
@@ -2074,7 +2074,7 @@
     "number": 208,
     "rarity": "S",
     "image": "cPK_20_011170_00_BURSYAMO_S.webp",
-    "name": "Braségali",
+    "name": "Blaziken",
     "packs": [
       "Pulsing Aura"
     ]
@@ -2084,7 +2084,7 @@
     "number": 209,
     "rarity": "S",
     "image": "cPK_20_011500_00_PURURILL_S.webp",
-    "name": "Viskuse",
+    "name": "Frillish",
     "packs": [
       "Pulsing Aura"
     ]
@@ -2094,7 +2094,7 @@
     "number": 210,
     "rarity": "S",
     "image": "cPK_20_011510_01_BURUNGEL_S.webp",
-    "name": "Moyade",
+    "name": "Jellicent",
     "packs": [
       "Pulsing Aura"
     ]
@@ -2114,7 +2114,7 @@
     "number": 212,
     "rarity": "S",
     "image": "cPK_20_017630_00_ZUBAT_S.webp",
-    "name": "Nosferapti",
+    "name": "Zubat",
     "packs": [
       "Pulsing Aura"
     ]
@@ -2124,7 +2124,7 @@
     "number": 213,
     "rarity": "S",
     "image": "cPK_20_017640_00_GOLBAT_S.webp",
-    "name": "Nosferalto",
+    "name": "Golbat",
     "packs": [
       "Pulsing Aura"
     ]
@@ -2134,7 +2134,7 @@
     "number": 214,
     "rarity": "S",
     "image": "cPK_20_017650_00_CROBAT_S.webp",
-    "name": "Nostenfer",
+    "name": "Crobat",
     "packs": [
       "Pulsing Aura"
     ]
@@ -2144,7 +2144,7 @@
     "number": 215,
     "rarity": "S",
     "image": "cPK_20_013490_00_BETBETER_S.webp",
-    "name": "Tadmorv",
+    "name": "Grimer",
     "packs": [
       "Pulsing Aura"
     ]
@@ -2154,7 +2154,7 @@
     "number": 216,
     "rarity": "S",
     "image": "cPK_20_013500_00_BETBETON_S.webp",
-    "name": "Grotadmorv",
+    "name": "Muk",
     "packs": [
       "Pulsing Aura"
     ]
@@ -2174,7 +2174,7 @@
     "number": 218,
     "rarity": "S",
     "image": "cPK_20_012410_00_KUZUMO_S.webp",
-    "name": "Venalgue",
+    "name": "Skrelp",
     "packs": [
       "Pulsing Aura"
     ]
@@ -2194,7 +2194,7 @@
     "number": 220,
     "rarity": "S",
     "image": "cPK_20_017920_00_LUCKY_S.webp",
-    "name": "Leveinard",
+    "name": "Chansey",
     "packs": [
       "Pulsing Aura"
     ]
@@ -2204,7 +2204,7 @@
     "number": 221,
     "rarity": "S",
     "image": "cPK_20_017930_00_HAPPINAS_S.webp",
-    "name": "Leuphorie",
+    "name": "Blissey",
     "packs": [
       "Pulsing Aura"
     ]
@@ -2244,7 +2244,7 @@
     "number": 225,
     "rarity": "SSR",
     "image": "cPK_20_010980_02_ELFUUNex_SSR.webp",
-    "name": "Farfaduvet-ex",
+    "name": "Whimsicott ex",
     "packs": [
       "Pulsing Aura"
     ]
@@ -2254,7 +2254,7 @@
     "number": 226,
     "rarity": "SSR",
     "image": "cPK_20_011180_02_MEGABURSYAMOex_SSR.webp",
-    "name": "Méga-Braségali-ex",
+    "name": "Mega Blaziken ex",
     "packs": [
       "Pulsing Aura"
     ]
@@ -2264,7 +2264,7 @@
     "number": 227,
     "rarity": "SSR",
     "image": "cPK_20_011550_02_GEKKOUGAex_SSR.webp",
-    "name": "Amphinobi-ex",
+    "name": "Greninja ex",
     "packs": [
       "Pulsing Aura"
     ]
@@ -2274,7 +2274,7 @@
     "number": 228,
     "rarity": "SSR",
     "image": "cPK_20_011630_02_THUNDERSex_SSR.webp",
-    "name": "Voltali-ex",
+    "name": "Jolteon ex",
     "packs": [
       "Pulsing Aura"
     ]
@@ -2284,7 +2284,7 @@
     "number": 229,
     "rarity": "SSR",
     "image": "cPK_20_012060_02_EBIWALARex_SSR.webp",
-    "name": "Tygnon-ex",
+    "name": "Hitmonchan ex",
     "packs": [
       "Pulsing Aura"
     ]
@@ -2294,7 +2294,7 @@
     "number": 230,
     "rarity": "SSR",
     "image": "cPK_20_012330_02_MEGAABSOLex_SSR.webp",
-    "name": "Méga-Absol-ex",
+    "name": "Mega Absol ex",
     "packs": [
       "Pulsing Aura"
     ]
@@ -2304,7 +2304,7 @@
     "number": 231,
     "rarity": "SSR",
     "image": "cPK_20_012420_02_DRAMIDOROex_SSR.webp",
-    "name": "Kravarech-ex",
+    "name": "Dragalge ex",
     "packs": [
       "Pulsing Aura"
     ]
@@ -2314,7 +2314,7 @@
     "number": 232,
     "rarity": "SSR",
     "image": "cPK_20_013560_02_MEGAHAGANEILex_SSR.webp",
-    "name": "Méga-Steelix-ex",
+    "name": "Mega Steelix ex",
     "packs": [
       "Pulsing Aura"
     ]
@@ -2334,7 +2334,7 @@
     "number": 234,
     "rarity": "UR",
     "image": "cPK_20_017800_00_OTOSHIDORI_UR.webp",
-    "name": "Lestombaile",
+    "name": "Bombirdier",
     "packs": [
       "Pulsing Aura"
     ]

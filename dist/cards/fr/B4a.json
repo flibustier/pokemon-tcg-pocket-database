@@ -1,0 +1,1102 @@
+[
+  {
+    "set": "B4a",
+    "number": 1,
+    "rarity": "C",
+    "image": "cPK_10_021190_00_BARUBEAT_C.webp",
+    "name": "Volbeat",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 2,
+    "rarity": "C",
+    "image": "cPK_10_021200_00_ILLUMISE_C.webp",
+    "name": "Illumise",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 3,
+    "rarity": "C",
+    "image": "cPK_10_021210_00_TSUTARJA_C.webp",
+    "name": "Snivy",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 4,
+    "rarity": "U",
+    "image": "cPK_10_021220_00_JANOVY_U.webp",
+    "name": "Servine",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 5,
+    "rarity": "R",
+    "image": "cPK_10_021230_00_JALORDA_R.webp",
+    "name": "Serperior",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 6,
+    "rarity": "C",
+    "image": "cPK_10_021240_00_ROCKETDANNOBOOBER_C.webp",
+    "name": "Team Rocket’s Magmar",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 7,
+    "rarity": "RR",
+    "image": "cPK_10_021250_00_ROCKETDANNOFIREex_RR.webp",
+    "name": "Team Rocket’s Moltres ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 8,
+    "rarity": "C",
+    "image": "cPK_10_021260_00_ROCKETDANNODELVIL_C.webp",
+    "name": "Team Rocket’s Houndour",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 9,
+    "rarity": "C",
+    "image": "cPK_10_021270_00_ROCKETDANNOHELLGAR_C.webp",
+    "name": "Team Rocket’s Houndoom",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 10,
+    "rarity": "C",
+    "image": "cPK_10_021170_00_FOKKO_C.webp",
+    "name": "Fennekin",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 11,
+    "rarity": "U",
+    "image": "cPK_10_021280_00_TAIRENAR_U.webp",
+    "name": "Braixen",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 12,
+    "rarity": "R",
+    "image": "cPK_10_021290_00_MAHOXY_R.webp",
+    "name": "Delphox",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 13,
+    "rarity": "U",
+    "image": "cPK_10_021100_00_ROCKETDANNOLAPLACE_U.webp",
+    "name": "Team Rocket’s Lapras",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 14,
+    "rarity": "RR",
+    "image": "cPK_10_021300_00_ROCKETDANNOFREEZERex_RR.webp",
+    "name": "Team Rocket’s Articuno ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 15,
+    "rarity": "C",
+    "image": "cPK_10_021110_00_CAMOME_C.webp",
+    "name": "Wingull",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 16,
+    "rarity": "U",
+    "image": "cPK_10_021310_00_PELIPPER_U.webp",
+    "name": "Pelipper",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 17,
+    "rarity": "C",
+    "image": "cPK_10_021320_00_HISUIBASSRAO_C.webp",
+    "name": "Hisuian Basculin",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 18,
+    "rarity": "U",
+    "image": "cPK_10_021330_00_HISUIIDAITOU_U.webp",
+    "name": "Hisuian Basculegion",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 19,
+    "rarity": "C",
+    "image": "cPK_10_021340_00_ROCKETDANNOBIRIRIDAMA_C.webp",
+    "name": "Team Rocket’s Voltorb",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 20,
+    "rarity": "U",
+    "image": "cPK_10_021350_00_ROCKETDANNOMARUMINE_U.webp",
+    "name": "Team Rocket’s Electrode",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 21,
+    "rarity": "RR",
+    "image": "cPK_10_021360_00_ROCKETDANNOTHUNDERex_RR.webp",
+    "name": "Team Rocket’s Zapdos ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 22,
+    "rarity": "C",
+    "image": "cPK_10_021370_00_SHIMAMA_C.webp",
+    "name": "Blitzle",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 23,
+    "rarity": "U",
+    "image": "cPK_10_021380_00_ZEBRAIKA_U.webp",
+    "name": "Zebstrika",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 24,
+    "rarity": "C",
+    "image": "cPK_10_021390_00_ROCKETDANNOBACHINUNI_C.webp",
+    "name": "Team Rocket’s Pincurchin",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 25,
+    "rarity": "C",
+    "image": "cPK_10_021400_00_ROCKETDANNOYADON_C.webp",
+    "name": "Team Rocket’s Slowpoke",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 26,
+    "rarity": "RR",
+    "image": "cPK_10_021410_00_ROCKETDANNOYADOKINGex_RR.webp",
+    "name": "Team Rocket’s Slowking ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 27,
+    "rarity": "C",
+    "image": "cPK_10_021420_00_ROCKETDANNOSLEEPE_C.webp",
+    "name": "Team Rocket’s Drowzee",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 28,
+    "rarity": "U",
+    "image": "cPK_10_021430_00_ROCKETDANNOSLEEPER_U.webp",
+    "name": "Team Rocket’s Hypno",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 29,
+    "rarity": "C",
+    "image": "cPK_10_021440_00_ROCKETDANNOBARRIERD_C.webp",
+    "name": "Team Rocket’s Mr. Mime",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 30,
+    "rarity": "R",
+    "image": "cPK_10_021450_00_ROCKETDANNOMEWTWO_R.webp",
+    "name": "Team Rocket’s Mewtwo",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 31,
+    "rarity": "C",
+    "image": "cPK_10_021460_00_NYASPER_C.webp",
+    "name": "Espurr",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 32,
+    "rarity": "U",
+    "image": "cPK_10_021180_00_NYAONIX_U.webp",
+    "name": "Meowstic",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 33,
+    "rarity": "U",
+    "image": "cPK_10_021470_00_YAREYUUTAN_U.webp",
+    "name": "Oranguru",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 34,
+    "rarity": "C",
+    "image": "cPK_10_021480_00_COLLECUREI_C.webp",
+    "name": "Gimmighoul",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 35,
+    "rarity": "C",
+    "image": "cPK_10_021490_00_KARAKARA_C.webp",
+    "name": "Cubone",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 36,
+    "rarity": "U",
+    "image": "cPK_10_021130_00_GARAGARA_U.webp",
+    "name": "Marowak",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 37,
+    "rarity": "R",
+    "image": "cPK_10_021500_00_LANDLOS_R.webp",
+    "name": "Landorus",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 38,
+    "rarity": "C",
+    "image": "cPK_10_021510_00_ROCKETDANNOARBO_C.webp",
+    "name": "Team Rocket’s Ekans",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 39,
+    "rarity": "U",
+    "image": "cPK_10_021520_00_ROCKETDANNOARBOK_U.webp",
+    "name": "Team Rocket’s Arbok",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 40,
+    "rarity": "C",
+    "image": "cPK_10_021530_00_ROCKETDANNOBETBETER_C.webp",
+    "name": "Team Rocket’s Grimer",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 41,
+    "rarity": "U",
+    "image": "cPK_10_021540_00_ROCKETDANNOBETBETON_U.webp",
+    "name": "Team Rocket’s Muk",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 42,
+    "rarity": "C",
+    "image": "cPK_10_021550_00_ROCKETDANNODOGARS_C.webp",
+    "name": "Team Rocket’s Koffing",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 43,
+    "rarity": "RR",
+    "image": "cPK_10_021560_00_ROCKETDANNOMATADOGASex_RR.webp",
+    "name": "Team Rocket’s Weezing ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 44,
+    "rarity": "C",
+    "image": "cPK_10_021570_00_ROCKETDANNONYULA_C.webp",
+    "name": "Team Rocket’s Sneasel",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 45,
+    "rarity": "C",
+    "image": "cPK_10_021580_00_TOGEDEMARU_C.webp",
+    "name": "Togedemaru",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 46,
+    "rarity": "C",
+    "image": "cPK_10_021590_00_ZOUDOU_C.webp",
+    "name": "Cufant",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 47,
+    "rarity": "U",
+    "image": "cPK_10_021600_00_DAIOUDOU_U.webp",
+    "name": "Copperajah",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 48,
+    "rarity": "C",
+    "image": "cPK_10_021610_00_ROCKETDANNOKANUCHAN_C.webp",
+    "name": "Team Rocket’s Tinkatink",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 49,
+    "rarity": "U",
+    "image": "cPK_10_021620_00_ROCKETDANNONAKANUCHAN_U.webp",
+    "name": "Team Rocket’s Tinkatuff",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 50,
+    "rarity": "R",
+    "image": "cPK_10_021630_00_ROCKETDANNODEKANUCHAN_R.webp",
+    "name": "Team Rocket’s Tinkaton",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 51,
+    "rarity": "U",
+    "image": "cPK_10_021640_00_SURFUGO_U.webp",
+    "name": "Gholdengo",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 52,
+    "rarity": "C",
+    "image": "cPK_10_021140_00_FUKAMARU_C.webp",
+    "name": "Gible",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 53,
+    "rarity": "U",
+    "image": "cPK_10_021150_00_GABITE_U.webp",
+    "name": "Gabite",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 54,
+    "rarity": "R",
+    "image": "cPK_10_021650_00_GABURIAS_R.webp",
+    "name": "Garchomp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 55,
+    "rarity": "U",
+    "image": "cPK_10_021660_00_DURALUDON_U.webp",
+    "name": "Duraludon",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 56,
+    "rarity": "R",
+    "image": "cPK_10_021670_00_BRIDURAS_R.webp",
+    "name": "Archaludon",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 57,
+    "rarity": "U",
+    "image": "cPK_10_021680_00_REGIDORAGO_U.webp",
+    "name": "Regidrago",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 58,
+    "rarity": "C",
+    "image": "cPK_10_021690_00_ROCKETDANNOKORATTA_C.webp",
+    "name": "Team Rocket’s Rattata",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 59,
+    "rarity": "RR",
+    "image": "cPK_10_021700_00_ROCKETDANNORATTAex_RR.webp",
+    "name": "Team Rocket’s Raticate ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 60,
+    "rarity": "C",
+    "image": "cPK_10_021710_00_ROCKETDANNONYARTH_C.webp",
+    "name": "Team Rocket’s Meowth",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 61,
+    "rarity": "U",
+    "image": "cPK_10_021720_00_ROCKETDANNOPERSIAN_U.webp",
+    "name": "Team Rocket’s Persian",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 62,
+    "rarity": "C",
+    "image": "cPK_10_021730_00_ROCKETDANNOKAKUREON_C.webp",
+    "name": "Team Rocket’s Kecleon",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 63,
+    "rarity": "R",
+    "image": "cPK_10_021740_00_PINPUKU_R.webp",
+    "name": "Happiny",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 64,
+    "rarity": "C",
+    "image": "cPK_10_021750_00_TRIMMIEN_C.webp",
+    "name": "Furfrou",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 65,
+    "rarity": "C",
+    "image": "cPK_10_021760_00_GOURTON_C.webp",
+    "name": "Lechonk",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 66,
+    "rarity": "C",
+    "image": "cPK_10_021770_00_PERFUTON_C.webp",
+    "name": "Oinkologne",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 67,
+    "rarity": "U",
+    "image": "cTR_10_001600_00_ROCKETDANNODOROBOUMASHIN_U.webp",
+    "name": "Team Rocket’s Thieving Machine",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 68,
+    "rarity": "U",
+    "image": "cTR_10_001610_00_ROCKETDANNOBETOBETOBAZOOKA_U.webp",
+    "name": "Team Rocket’s Goo-zooka",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 69,
+    "rarity": "U",
+    "image": "cTR_10_001620_00_ROCKETDANNOKENKYUUIN_U.webp",
+    "name": "Team Rocket’s Researcher",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 70,
+    "rarity": "U",
+    "image": "cTR_10_001630_00_ROCKETDANNODAISAKUSEN_U.webp",
+    "name": "Team Rocket’s Master Plan",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 71,
+    "rarity": "U",
+    "image": "cTR_10_001640_00_ROCKETDANNOBOSS_U.webp",
+    "name": "Team Rocket’s Boss",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 72,
+    "rarity": "U",
+    "image": "cTR_10_001650_00_GAMECENTER_U.webp",
+    "name": "Arcade",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 73,
+    "rarity": "AR",
+    "image": "cPK_20_021290_00_MAHOXY_AR.webp",
+    "name": "Delphox",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 74,
+    "rarity": "AR",
+    "image": "cPK_20_021430_00_ROCKETDANNOSLEEPER_AR.webp",
+    "name": "Team Rocket’s Hypno",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 75,
+    "rarity": "AR",
+    "image": "cPK_20_021630_00_ROCKETDANNODEKANUCHAN_AR.webp",
+    "name": "Team Rocket’s Tinkaton",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 76,
+    "rarity": "AR",
+    "image": "cPK_20_021730_00_ROCKETDANNOKAKUREON_AR.webp",
+    "name": "Team Rocket’s Kecleon",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 77,
+    "rarity": "AR",
+    "image": "cPK_20_021740_00_PINPUKU_AR.webp",
+    "name": "Happiny",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 78,
+    "rarity": "AR",
+    "image": "cPK_20_021760_00_GOURTON_AR.webp",
+    "name": "Lechonk",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 79,
+    "rarity": "SR",
+    "image": "cPK_20_021250_00_ROCKETDANNOFIREex_SR.webp",
+    "name": "Team Rocket’s Moltres ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 80,
+    "rarity": "SR",
+    "image": "cPK_20_021300_00_ROCKETDANNOFREEZERex_SR.webp",
+    "name": "Team Rocket’s Articuno ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 81,
+    "rarity": "SR",
+    "image": "cPK_20_021360_00_ROCKETDANNOTHUNDERex_SR.webp",
+    "name": "Team Rocket’s Zapdos ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 82,
+    "rarity": "SR",
+    "image": "cPK_20_021410_00_ROCKETDANNOYADOKINGex_SR.webp",
+    "name": "Team Rocket’s Slowking ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 83,
+    "rarity": "SR",
+    "image": "cPK_20_021560_00_ROCKETDANNOMATADOGASex_SR.webp",
+    "name": "Team Rocket’s Weezing ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 84,
+    "rarity": "SR",
+    "image": "cPK_20_021700_00_ROCKETDANNORATTAex_SR.webp",
+    "name": "Team Rocket’s Raticate ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 85,
+    "rarity": "SR",
+    "image": "cTR_20_001620_00_ROCKETDANNOKENKYUUIN_SR.webp",
+    "name": "Team Rocket’s Researcher",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 86,
+    "rarity": "SR",
+    "image": "cTR_20_001630_00_ROCKETDANNODAISAKUSEN_SR.webp",
+    "name": "Team Rocket’s Master Plan",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 87,
+    "rarity": "SR",
+    "image": "cTR_20_001640_00_ROCKETDANNOBOSS_SR.webp",
+    "name": "Team Rocket’s Boss",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 88,
+    "rarity": "SAR",
+    "image": "cPK_20_021250_01_ROCKETDANNOFIREex_SAR.webp",
+    "name": "Team Rocket’s Moltres ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 89,
+    "rarity": "SAR",
+    "image": "cPK_20_021300_01_ROCKETDANNOFREEZERex_SAR.webp",
+    "name": "Team Rocket’s Articuno ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 90,
+    "rarity": "SAR",
+    "image": "cPK_20_021360_01_ROCKETDANNOTHUNDERex_SAR.webp",
+    "name": "Team Rocket’s Zapdos ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 91,
+    "rarity": "SAR",
+    "image": "cPK_20_021410_01_ROCKETDANNOYADOKINGex_SAR.webp",
+    "name": "Team Rocket’s Slowking ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 92,
+    "rarity": "SAR",
+    "image": "cPK_20_021560_01_ROCKETDANNOMATADOGASex_SAR.webp",
+    "name": "Team Rocket’s Weezing ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 93,
+    "rarity": "SAR",
+    "image": "cPK_20_021700_01_ROCKETDANNORATTAex_SAR.webp",
+    "name": "Team Rocket’s Raticate ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 94,
+    "rarity": "IM",
+    "image": "cTR_20_001630_01_ROCKETDANNODAISAKUSEN_IM.webp",
+    "name": "Team Rocket’s Master Plan",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 95,
+    "rarity": "S",
+    "image": "cPK_20_019110_01_ROKON_S.webp",
+    "name": "Vulpix",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 96,
+    "rarity": "S",
+    "image": "cPK_20_019120_00_KYUKON_S.webp",
+    "name": "Ninetales",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 97,
+    "rarity": "S",
+    "image": "cPK_20_019130_00_TOSAKINTO_S.webp",
+    "name": "Goldeen",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 98,
+    "rarity": "S",
+    "image": "cPK_20_019140_00_AZUMAO_S.webp",
+    "name": "Seaking",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 99,
+    "rarity": "S",
+    "image": "cPK_20_014200_01_ELESON_S.webp",
+    "name": "Toxel",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 100,
+    "rarity": "S",
+    "image": "cPK_20_014400_00_YABACHA_S.webp",
+    "name": "Sinistea",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 101,
+    "rarity": "S",
+    "image": "cPK_20_014410_00_POTDEATH_S.webp",
+    "name": "Polteageist",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 102,
+    "rarity": "S",
+    "image": "cPK_20_014780_00_KUCHEAT_S.webp",
+    "name": "Mawile",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 103,
+    "rarity": "S",
+    "image": "cPK_20_014980_00_SUBAME_S.webp",
+    "name": "Taillow",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 104,
+    "rarity": "S",
+    "image": "cPK_20_014990_00_OHSUBAME_S.webp",
+    "name": "Swellow",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 105,
+    "rarity": "SSR",
+    "image": "cPK_20_013190_02_MEGALIZARDONYex_SSR.webp",
+    "name": "Mega Charizard Y ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 106,
+    "rarity": "SSR",
+    "image": "cPK_20_014210_02_STRINDERex_SSR.webp",
+    "name": "Toxtricity ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 107,
+    "rarity": "SSR",
+    "image": "cPK_20_014390_02_MIMIKKYUex_SSR.webp",
+    "name": "Mimikyu ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 108,
+    "rarity": "SSR",
+    "image": "cPK_20_014790_02_MEGAKUCHEATex_SSR.webp",
+    "name": "Mega Mawile ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 109,
+    "rarity": "UR",
+    "image": "cPK_20_021640_00_SURFUGO_UR.webp",
+    "name": "Gholdengo",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 110,
+    "rarity": "UR",
+    "image": "cTR_20_001610_00_ROCKETDANNOBETOBETOBAZOOKA_UR.webp",
+    "name": "Team Rocket’s Goo-zooka",
+    "packs": [
+      "Team Rocket"
+    ]
+  }
+]
