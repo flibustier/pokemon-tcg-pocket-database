@@ -1,6 +1,7 @@
 import fs from "node:fs";
 import prettier from "prettier";
 import mainCards from "../dist/cards.json";
+import deCards from "../dist/cards.de.json";
 import frCards from "../dist/cards.fr.json";
 
 type Card = (typeof mainCards)[number];
@@ -73,6 +74,7 @@ async function generateAllCardsVariation(
 }
 
 await generateAllCardsVariation(mainCards);
+await generateAllCardsVariation(deCards, "de");
 await generateAllCardsVariation(frCards, "fr");
 
 console.log("Done! ✅");
