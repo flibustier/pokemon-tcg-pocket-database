@@ -259,7 +259,7 @@ If you want to add a new language, just create a `cards.[Language Code (two lett
 ## Roadmap
 
 - [x] Add French language (fr_FR) thanks to @adriendeval
-- [ ] Add German language (de_DE)
+- [x] Add German language (de_DE) thanks to @Xernisfy
 - [ ] Add Spanish language (es_ES)
 - [ ] Add Italian language (it_IT)
 - [ ] Add Japanese language (ja_JP)
