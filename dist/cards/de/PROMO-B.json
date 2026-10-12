@@ -1,0 +1,915 @@
+[
+  {
+    "set": "PROMO-B",
+    "number": 1,
+    "rarity": "AR",
+    "name": "Pikachu",
+    "image": "cPK_90_004490_00_PIKACHU_AR.webp"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 2,
+    "rarity": "C",
+    "name": "Lilminip",
+    "image": "cPK_90_012930_00_CHURINE_C.webp",
+    "packs": [
+      "B Series Vol. 1"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 3,
+    "rarity": "C",
+    "name": "Froxy",
+    "image": "cPK_90_012940_00_KEROMATSU_C.webp",
+    "packs": [
+      "B Series Vol. 1"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 4,
+    "rarity": "R",
+    "name": "Luxtra",
+    "image": "cPK_90_011700_00_RENTORAR_R.webp",
+    "packs": [
+      "B Series Vol. 1"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 5,
+    "rarity": "C",
+    "name": "Taubsi",
+    "image": "cPK_90_012620_00_POPPO_C.webp",
+    "packs": [
+      "B Series Vol. 1"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 6,
+    "rarity": "RR",
+    "name": "Mega Tauboss ex",
+    "image": "cPK_90_012950_00_MEGAPIGEOTex_RR.webp",
+    "packs": [
+      "B Series Vol. 1"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 7,
+    "rarity": "R",
+    "name": "Flemmli",
+    "image": "cPK_90_011150_00_ACHAMO_R.webp"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 8,
+    "rarity": "R",
+    "name": "Enton",
+    "image": "cPK_90_011300_00_KODUCK_R.webp"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 9,
+    "rarity": "RR",
+    "name": "Mega Absol ex",
+    "image": "cPK_90_012330_00_MEGAABSOLex_RR.webp"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 10,
+    "rarity": "R",
+    "name": "Drifzepeli",
+    "image": "cPK_90_011900_00_FUWARIDE_R.webp"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 11,
+    "rarity": "R",
+    "name": "Evoli",
+    "image": "cPK_90_012660_00_EIEVUI_R.webp"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 12,
+    "rarity": "AR",
+    "image": "cPK_90_013060_00_METAMON_AR.webp",
+    "name": "Ditto"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 13,
+    "rarity": "C",
+    "image": "cPK_90_011110_00_WINDIE_C.webp",
+    "name": "Arkani",
+    "packs": [
+      "B Series Vol. 2"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 14,
+    "rarity": "C",
+    "image": "cPK_90_012960_00_KOIKING_C.webp",
+    "name": "Karpador",
+    "packs": [
+      "B Series Vol. 2"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 15,
+    "rarity": "AR",
+    "image": "cPK_90_011640_00_MERRIEP_AR.webp",
+    "name": "Voltilamm",
+    "packs": [
+      "B Series Vol. 2"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 16,
+    "rarity": "R",
+    "image": "cPK_90_012140_00_WARUVIAL_R.webp",
+    "name": "Rabigator",
+    "packs": [
+      "B Series Vol. 2"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 17,
+    "rarity": "C",
+    "image": "cPK_90_012970_00_TYLTTO_C.webp",
+    "name": "Wablu",
+    "packs": [
+      "B Series Vol. 2"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 18,
+    "rarity": "R",
+    "image": "cPK_90_013030_00_ELEZARD_R.webp",
+    "name": "Elezard"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 19,
+    "rarity": "R",
+    "image": "cPK_90_013040_00_MIMIROL_R.webp",
+    "name": "Haspiror"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 20,
+    "rarity": "C",
+    "image": "cPK_90_012980_00_LIZARDO_C.webp",
+    "name": "Glutexo",
+    "packs": [
+      "B Series Vol. 3"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 21,
+    "rarity": "C",
+    "image": "cPK_90_012990_00_IWARK_C.webp",
+    "name": "Onix",
+    "packs": [
+      "B Series Vol. 3"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 22,
+    "rarity": "C",
+    "image": "cPK_90_013000_00_LUCHABULL_C.webp",
+    "name": "Resladero",
+    "packs": [
+      "B Series Vol. 3"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 23,
+    "rarity": "R",
+    "image": "cPK_90_013010_00_GENESECT_R.webp",
+    "name": "Genesect",
+    "packs": [
+      "B Series Vol. 3"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 24,
+    "rarity": "RR",
+    "image": "cPK_90_013020_00_MEGALATIOSex_RR.webp",
+    "name": "Mega Latios ex",
+    "packs": [
+      "B Series Vol. 3"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 25,
+    "rarity": "AR",
+    "image": "cPK_90_011880_00_JIRACHI_AR.webp",
+    "name": "Jirachi"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 26,
+    "rarity": "C",
+    "image": "cPK_90_015950_00_MIZUGOROU_C.webp",
+    "name": "Hydropi",
+    "packs": [
+      "B Series Vol. 4"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 27,
+    "rarity": "C",
+    "image": "cPK_90_014180_00_PRASLE_C.webp",
+    "name": "Plusle",
+    "packs": [
+      "B Series Vol. 4"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 28,
+    "rarity": "C",
+    "image": "cPK_90_015960_00_RALTS_C.webp",
+    "name": "Trasla",
+    "packs": [
+      "B Series Vol. 4"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 29,
+    "rarity": "RR",
+    "image": "cPK_90_015970_00_MEGACHAREMex_RR.webp",
+    "name": "Mega Meditalis ex",
+    "packs": [
+      "B Series Vol. 4"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 30,
+    "rarity": "R",
+    "image": "cPK_90_015040_00_TORNELOS_R.webp",
+    "name": "Boreos",
+    "packs": [
+      "B Series Vol. 4"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 31,
+    "rarity": "R",
+    "image": "cPK_90_013920_00_ACEBURN_R.webp",
+    "name": "Liberlo"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 32,
+    "rarity": "R",
+    "image": "cPK_90_013940_00_ALOLAROKON_R.webp",
+    "name": "Alola-Vulpix"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 33,
+    "rarity": "AR",
+    "image": "cPK_90_015310_00_KUWASSU_AR.webp",
+    "name": "Kwaks"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 34,
+    "rarity": "C",
+    "image": "cPK_90_015980_00_MINIVE_C.webp",
+    "name": "Olini",
+    "packs": [
+      "B Series Vol. 5"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 35,
+    "rarity": "AR",
+    "image": "cPK_90_015280_00_CARBOU_AR.webp",
+    "name": "Knarbon",
+    "packs": [
+      "B Series Vol. 5"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 36,
+    "rarity": "C",
+    "image": "cPK_90_015420_00_SYARITATSU_C.webp",
+    "name": "Nigiragi",
+    "packs": [
+      "B Series Vol. 5"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 37,
+    "rarity": "C",
+    "image": "cPK_90_015990_00_SEBIE_C.webp",
+    "name": "Frospino",
+    "packs": [
+      "B Series Vol. 5"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 38,
+    "rarity": "R",
+    "image": "cPK_90_015830_00_DEKANUCHAN_R.webp",
+    "name": "Granforgita",
+    "packs": [
+      "B Series Vol. 5"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 39,
+    "rarity": "R",
+    "image": "cPK_90_015470_00_PAMO_R.webp",
+    "name": "Pamo"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 40,
+    "rarity": "R",
+    "image": "cPK_90_015740_00_PALDEADOOH_R.webp",
+    "name": "Paldea-Suelord"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 41,
+    "rarity": "RR",
+    "image": "cPK_90_015460_00_PAOJIANex_RR.webp",
+    "name": "Baojian ex"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 42,
+    "rarity": "AR",
+    "image": "cPK_90_016000_00_YADON_AR.webp",
+    "name": "Flegmon",
+    "packs": [
+      "B Series Vol. 6"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 43,
+    "rarity": "C",
+    "image": "cPK_90_016010_00_RAKURAI_C.webp",
+    "name": "Frizelbliz",
+    "packs": [
+      "B Series Vol. 6"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 44,
+    "rarity": "C",
+    "image": "cPK_90_016020_00_BURORON_C.webp",
+    "name": "Knattox",
+    "packs": [
+      "B Series Vol. 6"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 45,
+    "rarity": "R",
+    "image": "cPK_90_016030_00_ONONOKUS_R.webp",
+    "name": "Maxax",
+    "packs": [
+      "B Series Vol. 6"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 46,
+    "rarity": "C",
+    "image": "cPK_90_016040_00_PERAP_C.webp",
+    "name": "Plaudagei",
+    "packs": [
+      "B Series Vol. 6"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 47,
+    "rarity": "R",
+    "image": "cPK_90_016050_00_GHOS_R.webp",
+    "name": "Nebulak"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 48,
+    "rarity": "R",
+    "image": "cPK_90_016060_00_PUKURIN_R.webp",
+    "name": "Knuddeluff"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 49,
+    "rarity": "AR",
+    "image": "cPK_90_016900_00_VICTINI_AR.webp",
+    "name": "Victini"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 50,
+    "rarity": "U",
+    "image": "cPK_90_014360_00_MELOETTA_U.webp",
+    "name": "Meloetta",
+    "packs": [
+      "B Series Vol. 7"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 51,
+    "rarity": "C",
+    "image": "cPK_90_018860_00_ZYGARDE10%EF%BC%85FORME_C.webp",
+    "name": "Zygarde",
+    "packs": [
+      "B Series Vol. 7"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 52,
+    "rarity": "R",
+    "image": "cPK_90_018870_00_ZYGARDE50%EF%BC%85FORME_R.webp",
+    "name": "Zygarde",
+    "packs": [
+      "B Series Vol. 7"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 53,
+    "rarity": "RR",
+    "image": "cPK_90_018880_00_ZYGARDEPERFECTFORMEex_RR.webp",
+    "name": "Zygarde ex",
+    "packs": [
+      "B Series Vol. 7"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 54,
+    "rarity": "C",
+    "image": "cPK_90_012660_01_EIEVUI_C.webp",
+    "name": "Evoli",
+    "packs": [
+      "B Series Vol. 7"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 55,
+    "rarity": "SR",
+    "image": "cPK_90_018880_01_ZYGARDEPERFECTFORMEex_SR.webp",
+    "name": "Zygarde ex"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 56,
+    "rarity": "RR",
+    "image": "cPK_90_018900_00_MEGAHERACROSex_RR.webp",
+    "name": "Mega Skaraborn ex",
+    "packs": [
+      "B Series Vol. 8"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 57,
+    "rarity": "C",
+    "image": "cPK_90_016890_00_POWALENTAIYOUNOSUGATA_C.webp",
+    "name": "Formeo Sonnenform",
+    "packs": [
+      "B Series Vol. 8"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 58,
+    "rarity": "C",
+    "image": "cPK_90_018910_00_POKABU_C.webp",
+    "name": "Floink",
+    "packs": [
+      "B Series Vol. 8"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 59,
+    "rarity": "C",
+    "image": "cPK_90_018920_00_ISHIZUMAI_C.webp",
+    "name": "Lithomith",
+    "packs": [
+      "B Series Vol. 8"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 60,
+    "rarity": "R",
+    "image": "cPK_90_017790_00_ZARUDE_R.webp",
+    "name": "Zarude",
+    "packs": [
+      "B Series Vol. 8"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 61,
+    "rarity": "R",
+    "image": "cPK_90_016700_00_KIMORI_R.webp",
+    "name": "Geckarbor"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 62,
+    "rarity": "R",
+    "image": "cPK_90_017490_00_ERUREIDO_R.webp",
+    "name": "Galagladi"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 63,
+    "rarity": "RR",
+    "image": "cPK_90_015120_00_MASQUERNYAex_RR.webp",
+    "name": "Maskagato ex"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 64,
+    "rarity": "C",
+    "image": "cPK_90_018930_00_CARBOU_C.webp",
+    "name": "Knarbon",
+    "packs": [
+      "B Series Vol. 9"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 65,
+    "rarity": "C",
+    "image": "cPK_90_018230_00_SHOWERS_C.webp",
+    "name": "Aquana",
+    "packs": [
+      "B Series Vol. 9"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 66,
+    "rarity": "RR",
+    "image": "cPK_90_018940_00_SOUBLADESex_RR.webp",
+    "name": "Azugladis ex",
+    "packs": [
+      "B Series Vol. 9"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 67,
+    "rarity": "C",
+    "image": "cPK_90_018950_00_KOMATANA_C.webp",
+    "name": "Gladiantri",
+    "packs": [
+      "B Series Vol. 9"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 68,
+    "rarity": "R",
+    "image": "cPK_90_018750_00_NOKOKOCCHI_R.webp",
+    "name": "Dummimisel",
+    "packs": [
+      "B Series Vol. 9"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 69,
+    "rarity": "R",
+    "image": "cPK_90_015110_00_NYAROTE_R.webp",
+    "name": "Feliospa"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 70,
+    "rarity": "R",
+    "image": "cPK_90_018550_00_YAMIRAMI_R.webp",
+    "name": "Zobiris"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 71,
+    "rarity": "AR",
+    "image": "cPK_90_019030_00_KODUCK_AR.webp",
+    "name": "Enton"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 72,
+    "rarity": "C",
+    "image": "cPK_90_018960_00_HINBASS_C.webp",
+    "name": "Barschwa",
+    "packs": [
+      "B Series Vol. 10"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 73,
+    "rarity": "R",
+    "image": "cPK_90_018970_00_YUKIMENOKO_R.webp",
+    "name": "Frosdedje",
+    "packs": [
+      "B Series Vol. 10"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 74,
+    "rarity": "U",
+    "image": "cPK_90_018980_00_RAICHU_U.webp",
+    "name": "Raichu",
+    "packs": [
+      "B Series Vol. 10"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 75,
+    "rarity": "C",
+    "image": "cPK_90_018990_00_NUOH_C.webp",
+    "name": "Morlord",
+    "packs": [
+      "B Series Vol. 10"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 76,
+    "rarity": "AR",
+    "image": "cPK_90_019000_00_HISUIZORUA_AR.webp",
+    "name": "Hisui-Zorua",
+    "packs": [
+      "B Series Vol. 10"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 77,
+    "rarity": "R",
+    "image": "cPK_90_019010_00_GARDIE_R.webp",
+    "name": "Fukano"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 78,
+    "rarity": "R",
+    "image": "cPK_90_019020_00_EMOLGA_R.webp",
+    "name": "Emolga"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 79,
+    "rarity": "AR",
+    "image": "cPK_90_016690_00_CELEBI_AR.webp",
+    "name": "Celebi"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 80,
+    "rarity": "RR",
+    "image": "cPK_90_021060_00_MEGAHELLGARex_RR.webp",
+    "name": "Mega Hundemon ex",
+    "packs": [
+      "B Series Vol. 11"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 81,
+    "rarity": "C",
+    "image": "cPK_90_021070_00_KIBANHA_C.webp",
+    "name": "Kanivanha",
+    "packs": [
+      "B Series Vol. 11"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 82,
+    "rarity": "C",
+    "image": "cPK_90_020100_00_PIKACHU_C.webp",
+    "name": "Pikachu",
+    "packs": [
+      "B Series Vol. 11"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 83,
+    "rarity": "R",
+    "image": "cPK_90_020830_00_ONVERN_R.webp",
+    "name": "UHaFnir",
+    "packs": [
+      "B Series Vol. 11"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 84,
+    "rarity": "C",
+    "image": "cPK_90_021080_00_ENECO_C.webp",
+    "name": "Eneco",
+    "packs": [
+      "B Series Vol. 11"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 85,
+    "rarity": "R",
+    "image": "cPK_90_020150_00_PACHIRISU_R.webp",
+    "name": "Pachirisu"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 86,
+    "rarity": "R",
+    "image": "cPK_90_020670_00_DUMBBER_R.webp",
+    "name": "Tanhel"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 87,
+    "rarity": "RR",
+    "image": "cPK_90_016730_00_MEGAJUKAINex_RR.webp",
+    "name": "Mega Gewaldro ex"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 88,
+    "rarity": "C",
+    "image": "cPK_90_021090_00_ROCKETDANNOSTRIKE_C.webp",
+    "name": "Team Rockets Sichlor",
+    "packs": [
+      "B Series Vol. 12"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 89,
+    "rarity": "AR",
+    "image": "cPK_90_021100_00_ROCKETDANNOLAPLACE_AR.webp",
+    "name": "Team Rockets Lapras",
+    "packs": [
+      "B Series Vol. 12"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 90,
+    "rarity": "C",
+    "image": "cPK_90_021110_00_CAMOME_C.webp",
+    "name": "Wingull",
+    "packs": [
+      "B Series Vol. 12"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 91,
+    "rarity": "R",
+    "image": "cPK_90_021120_00_ROCKETDANNOSONANS_R.webp",
+    "name": "Team Rockets Woingenau",
+    "packs": [
+      "B Series Vol. 12"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 92,
+    "rarity": "U",
+    "image": "cPK_90_021130_00_GARAGARA_U.webp",
+    "name": "Knogga",
+    "packs": [
+      "B Series Vol. 12"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 93,
+    "rarity": "R",
+    "image": "cPK_90_021170_00_FOKKO_R.webp",
+    "name": "Fynx"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 94,
+    "rarity": "R",
+    "image": "cPK_90_021180_00_NYAONIX_R.webp",
+    "name": "Psiaugon"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 95,
+    "rarity": "AR",
+    "image": "cPK_90_016440_00_DARKRAI_AR.webp",
+    "name": "Darkrai"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 96,
+    "rarity": "U",
+    "image": "cPK_90_014580_00_TAIRETSU_U.webp",
+    "name": "Legios",
+    "packs": [
+      "B Series Vol. 13"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 97,
+    "rarity": "C",
+    "image": "cPK_90_021140_00_FUKAMARU_C.webp",
+    "name": "Kaumalat",
+    "packs": [
+      "B Series Vol. 13"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 98,
+    "rarity": "U",
+    "image": "cPK_90_021150_00_GABITE_U.webp",
+    "name": "Knarksel",
+    "packs": [
+      "B Series Vol. 13"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 99,
+    "rarity": "RR",
+    "image": "cPK_90_021160_00_MEGAGABURIASex_RR.webp",
+    "name": "Mega Knakrack ex",
+    "packs": [
+      "B Series Vol. 13"
+    ]
+  },
+  {
+    "set": "PROMO-B",
+    "number": 100,
+    "rarity": "U",
+    "image": "cPK_90_020960_00_ENEKORORO_U.webp",
+    "name": "Enekoro"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 101,
+    "rarity": "R",
+    "image": "cPK_90_016130_00_HITOKAGE_R.webp",
+    "name": "Glumanda"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 102,
+    "rarity": "R",
+    "image": "cPK_90_020850_00_JIJILONG_R.webp",
+    "name": "Sen-Long"
+  },
+  {
+    "set": "PROMO-B",
+    "number": 103,
+    "rarity": "IM",
+    "image": "cPK_90_005410_00_PIKACHUex_IM.webp",
+    "name": "Pikachu ex"
+  }
+]
