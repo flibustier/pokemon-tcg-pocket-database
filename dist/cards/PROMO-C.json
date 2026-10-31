@@ -1,0 +1,117 @@
+[
+  {
+    "set": "PROMO-C",
+    "number": 1,
+    "rarity": "AR",
+    "image": "cPK_90_014150_00_PIKACHU_AR.webp",
+    "name": "Pikachu"
+  },
+  {
+    "set": "PROMO-C",
+    "number": 2,
+    "rarity": "RR",
+    "image": "cPK_90_022970_00_MEGAMEWTWOYex_RR.webp",
+    "name": "Mega Mewtwo Y ex",
+    "packs": [
+      "C Series Vol. 1"
+    ]
+  },
+  {
+    "set": "PROMO-C",
+    "number": 3,
+    "rarity": "R",
+    "image": "cPK_90_022390_00_DEOXYS_R.webp",
+    "name": "Deoxys",
+    "packs": [
+      "C Series Vol. 1"
+    ]
+  },
+  {
+    "set": "PROMO-C",
+    "number": 4,
+    "rarity": "C",
+    "image": "cPK_90_022980_00_MAAIIKA_C.webp",
+    "name": "Inkay",
+    "packs": [
+      "C Series Vol. 1"
+    ]
+  },
+  {
+    "set": "PROMO-C",
+    "number": 5,
+    "rarity": "U",
+    "image": "cPK_90_022990_00_CALAMANERO_U.webp",
+    "name": "Malamar",
+    "packs": [
+      "C Series Vol. 1"
+    ]
+  },
+  {
+    "set": "PROMO-C",
+    "number": 6,
+    "rarity": "C",
+    "image": "cPK_90_022410_00_COSMOG_C.webp",
+    "name": "Cosmog",
+    "packs": [
+      "C Series Vol. 1"
+    ]
+  },
+  {
+    "set": "PROMO-C",
+    "number": 7,
+    "rarity": "U",
+    "image": "cPK_90_022420_00_COSMOVUM_U.webp",
+    "name": "Cosmoem",
+    "packs": [
+      "C Series Vol. 1"
+    ]
+  },
+  {
+    "set": "PROMO-C",
+    "number": 8,
+    "rarity": "R",
+    "image": "cPK_90_022430_00_LUNALA_R.webp",
+    "name": "Lunala",
+    "packs": [
+      "C Series Vol. 1"
+    ]
+  },
+  {
+    "set": "PROMO-C",
+    "number": 9,
+    "rarity": "U",
+    "image": "cTR_90_001790_00_GENOMECONVERTERY_U.webp",
+    "name": "Genome Converter Y",
+    "packs": [
+      "C Series Vol. 1"
+    ]
+  },
+  {
+    "set": "PROMO-C",
+    "number": 10,
+    "rarity": "AR",
+    "image": "cPK_90_010030_00_ODOSHISHI_AR.webp",
+    "name": "Stantler"
+  },
+  {
+    "set": "PROMO-C",
+    "number": 11,
+    "rarity": "AR",
+    "image": "cPK_90_007340_01_MAWHIP_AR.webp",
+    "name": "Alcremie"
+  },
+  {
+    "set": "PROMO-C",
+    "number": 12,
+    "rarity": "AR",
+    "image": "cPK_90_013980_00_DELIBIRD_AR.webp",
+    "name": "Delibird"
+  },
+  {
+    "set": "PROMO-C",
+    "number": 13,
+    "rarity": "RR",
+    "image": "cPK_90_022770_00_MEGAKAIRYUex_RR.webp",
+    "name": "Mega Dragonite ex"
+  }
+]
