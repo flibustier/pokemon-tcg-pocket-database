@@ -34444,5 +34444,245 @@
     "image": "cPK_20_018510_02_KORAIDONex_UR.webp",
     "name": "Koraidon ex",
     "packs": ["Deluxe Pack Mega"]
+  },
+  {
+    "set": "SP1",
+    "number": -3,
+    "rarity": "AN",
+    "image": "cPK_20_024100_02_MEW_AN.webp",
+    "name": "Mew",
+    "packs": ["First Partners"]
+  },
+  {
+    "set": "SP1",
+    "number": -2,
+    "rarity": "AN",
+    "image": "cPK_20_024100_00_MEW_AN.webp",
+    "name": "Mew",
+    "packs": ["First Partners"]
+  },
+  {
+    "set": "SP1",
+    "number": -1,
+    "rarity": "AN",
+    "image": "cPK_20_024100_01_MEW_AN.webp",
+    "name": "Mew",
+    "packs": ["First Partners"]
+  },
+  {
+    "set": "SP1",
+    "number": 1,
+    "rarity": "AR",
+    "image": "cPK_20_021780_00_FUSHIGIDANE_AR.webp",
+    "name": "Bulbasaur",
+    "packs": ["First Partners"]
+  },
+  {
+    "set": "SP1",
+    "number": 2,
+    "rarity": "AR",
+    "image": "cPK_20_021930_00_HITOKAGE_AR.webp",
+    "name": "Charmander",
+    "packs": ["First Partners"]
+  },
+  {
+    "set": "SP1",
+    "number": 3,
+    "rarity": "AR",
+    "image": "cPK_20_022060_00_ZENIGAME_AR.webp",
+    "name": "Squirtle",
+    "packs": ["First Partners"]
+  },
+  {
+    "set": "SP1",
+    "number": 4,
+    "rarity": "AR",
+    "image": "cPK_20_023880_00_CHICORITA_AR.webp",
+    "name": "Chikorita",
+    "packs": ["First Partners"]
+  },
+  {
+    "set": "SP1",
+    "number": 5,
+    "rarity": "AR",
+    "image": "cPK_20_023890_00_HINOARASHI_AR.webp",
+    "name": "Cyndaquil",
+    "packs": ["First Partners"]
+  },
+  {
+    "set": "SP1",
+    "number": 6,
+    "rarity": "AR",
+    "image": "cPK_20_023900_00_WANINOKO_AR.webp",
+    "name": "Totodile",
+    "packs": ["First Partners"]
+  },
+  {
+    "set": "SP1",
+    "number": 7,
+    "rarity": "AR",
+    "image": "cPK_20_023910_00_KIMORI_AR.webp",
+    "name": "Treecko",
+    "packs": ["First Partners"]
+  },
+  {
+    "set": "SP1",
+    "number": 8,
+    "rarity": "AR",
+    "image": "cPK_20_023920_00_ACHAMO_AR.webp",
+    "name": "Torchic",
+    "packs": ["First Partners"]
+  },
+  {
+    "set": "SP1",
+    "number": 9,
+    "rarity": "AR",
+    "image": "cPK_20_023930_00_MIZUGOROU_AR.webp",
+    "name": "Mudkip",
+    "packs": ["First Partners"]
+  },
+  {
+    "set": "SP1",
+    "number": 10,
+    "rarity": "AR",
+    "image": "cPK_20_023940_00_NAETLE_AR.webp",
+    "name": "Turtwig",
+    "packs": ["First Partners"]
+  },
+  {
+    "set": "SP1",
+    "number": 11,
+    "rarity": "AR",
+    "image": "cPK_20_023950_00_HIKOZARU_AR.webp",
+    "name": "Chimchar",
+    "packs": ["First Partners"]
+  },
+  {
+    "set": "SP1",
+    "number": 12,
+    "rarity": "AR",
+    "image": "cPK_20_023960_00_POCHAMA_AR.webp",
+    "name": "Piplup",
+    "packs": ["First Partners"]
+  },
+  {
+    "set": "SP1",
+    "number": 13,
+    "rarity": "AR",
+    "image": "cPK_20_023970_00_TSUTARJA_AR.webp",
+    "name": "Snivy",
+    "packs": ["First Partners"]
+  },
+  {
+    "set": "SP1",
+    "number": 14,
+    "rarity": "AR",
+    "image": "cPK_20_023980_00_POKABU_AR.webp",
+    "name": "Tepig",
+    "packs": ["First Partners"]
+  },
+  {
+    "set": "SP1",
+    "number": 15,
+    "rarity": "AR",
+    "image": "cPK_20_023990_00_MIJUMARU_AR.webp",
+    "name": "Oshawott",
+    "packs": ["First Partners"]
+  },
+  {
+    "set": "SP1",
+    "number": 16,
+    "rarity": "AR",
+    "image": "cPK_20_024000_00_HARIMARON_AR.webp",
+    "name": "Chespin",
+    "packs": ["First Partners"]
+  },
+  {
+    "set": "SP1",
+    "number": 17,
+    "rarity": "AR",
+    "image": "cPK_20_023060_01_FOKKO_AR.webp",
+    "name": "Fennekin",
+    "packs": ["First Partners"]
+  },
+  {
+    "set": "SP1",
+    "number": 18,
+    "rarity": "AR",
+    "image": "cPK_20_022170_00_KEROMATSU_AR.webp",
+    "name": "Froakie",
+    "packs": ["First Partners"]
+  },
+  {
+    "set": "SP1",
+    "number": 19,
+    "rarity": "AR",
+    "image": "cPK_20_024010_00_MOKUROH_AR.webp",
+    "name": "Rowlet",
+    "packs": ["First Partners"]
+  },
+  {
+    "set": "SP1",
+    "number": 20,
+    "rarity": "AR",
+    "image": "cPK_20_024020_00_NYABBY_AR.webp",
+    "name": "Litten",
+    "packs": ["First Partners"]
+  },
+  {
+    "set": "SP1",
+    "number": 21,
+    "rarity": "AR",
+    "image": "cPK_20_024030_00_ASHIMARI_AR.webp",
+    "name": "Popplio",
+    "packs": ["First Partners"]
+  },
+  {
+    "set": "SP1",
+    "number": 22,
+    "rarity": "AR",
+    "image": "cPK_20_024040_00_SARUNORI_AR.webp",
+    "name": "Grookey",
+    "packs": ["First Partners"]
+  },
+  {
+    "set": "SP1",
+    "number": 23,
+    "rarity": "AR",
+    "image": "cPK_20_024050_00_HIBANNY_AR.webp",
+    "name": "Scorbunny",
+    "packs": ["First Partners"]
+  },
+  {
+    "set": "SP1",
+    "number": 24,
+    "rarity": "AR",
+    "image": "cPK_20_024060_00_MESSON_AR.webp",
+    "name": "Sobble",
+    "packs": ["First Partners"]
+  },
+  {
+    "set": "SP1",
+    "number": 25,
+    "rarity": "AR",
+    "image": "cPK_20_024070_00_NYAHOJA_AR.webp",
+    "name": "Sprigatito",
+    "packs": ["First Partners"]
+  },
+  {
+    "set": "SP1",
+    "number": 26,
+    "rarity": "AR",
+    "image": "cPK_20_024080_00_HOGATOR_AR.webp",
+    "name": "Fuecoco",
+    "packs": ["First Partners"]
+  },
+  {
+    "set": "SP1",
+    "number": 27,
+    "rarity": "AR",
+    "image": "cPK_20_024090_00_KUWASSU_AR.webp",
+    "name": "Quaxly",
+    "packs": ["First Partners"]
   }
 ]

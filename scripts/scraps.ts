@@ -60,7 +60,7 @@ if (process.argv.length > 2) {
     const rarityCode = baseName.split("_").pop() || "";
 
     let set = hrefParts[1];
-    if (set.toUpperCase().startsWith("PROMO")) {
+    if (set.toUpperCase().startsWith("PROMO") || set.toUpperCase().startsWith("SP")) {
       set = set.toUpperCase();
     } else {
       const [firstLetter, ...rest] = set.split("");
