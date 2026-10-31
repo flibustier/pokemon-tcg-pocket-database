@@ -97,5 +97,11 @@
     "tradeable": true,
     "tradePrice": 30000,
     "points": 1350
+  },
+  "AN": {
+    "label": "Anomaly",
+    "group": "Anomaly",
+    "tradeable": false,
+    "tradePrice": null
   }
 }
