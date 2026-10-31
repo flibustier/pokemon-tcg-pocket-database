@@ -306,5 +306,41 @@
         "B Series Vol. 13"
       ]
     }
+  ],
+  "C": [
+    {
+      "code": "C1",
+      "releaseDate": "2026-10-29",
+      "count": 217,
+      "name": {
+        "en": "Dual Fusion",
+        "fr": "Fusion Double",
+        "de": "Doppelte Fusion"
+      },
+      "packs": ["Dual Fusion: Mega Mewtwo X", "Dual Fusion: Pikachu"]
+    },
+    {
+      "code": "PROMO-C",
+      "releaseDate": "2026-10-29",
+      "name": {
+        "en": "Promo C",
+        "fr": "Promo-C",
+        "de": "PROMO-C"
+      },
+      "packs": ["C Series Vol. 1"]
+    }
+  ],
+  "Special": [
+    {
+      "code": "SP1",
+      "releaseDate": "2026-10-29",
+      "count": 30,
+      "name": {
+        "en": "Special Pack: First Partners",
+        "fr": "Premiers Partenaires",
+        "de": "Erste Partner"
+      },
+      "packs": ["Special Pack: First Partners"]
+    }
   ]
 }
