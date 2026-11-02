@@ -10,7 +10,8 @@
   "scripts": {
     "scraping": "bun ./scripts/scraps.ts",
     "download": "bun ./scripts/download-images.ts",
-    "build": "bun ./scripts/build.ts"
+    "build": "bun ./scripts/build.ts",
+    "extra": "bun ./scripts/extra-from-dotgg.ts"
   },
   "keywords": [
     "pokemon",
