@@ -8516,7 +8516,7 @@
   {
     "set": "A2a",
     "number": 23,
-    "name": "Palkia",
+    "name": "Origin Forme Palkia",
     "rarity": "R",
     "image": "cPK_10_004470_00_ORIGINPALKIA_R.webp",
     "packs": ["Arceus"],
@@ -9052,7 +9052,7 @@
   {
     "set": "A2a",
     "number": 60,
-    "name": "Dialga",
+    "name": "Origin Forme Dialga",
     "rarity": "R",
     "image": "cPK_10_004840_00_ORIGINDIALGA_R.webp",
     "packs": ["Arceus"],
@@ -50103,7 +50103,7 @@
   {
     "set": "B4",
     "number": 19,
-    "name": "Teal MaskOgerpon",
+    "name": "Teal Mask Ogerpon",
     "rarity": "R",
     "image": "cPK_10_019800_00_OGERPONMIDORINOMEN_R.webp",
     "packs": ["Ruler of the Skies"],
@@ -51199,7 +51199,7 @@
   {
     "set": "B4",
     "number": 95,
-    "name": "GalarianZigzagoon",
+    "name": "Galarian Zigzagoon",
     "rarity": "C",
     "image": "cPK_10_020560_00_GALARJIGUZAGUMA_C.webp",
     "packs": ["Ruler of the Skies"],
@@ -51213,7 +51213,7 @@
   {
     "set": "B4",
     "number": 96,
-    "name": "GalarianLinoone",
+    "name": "Galarian Linoone",
     "rarity": "U",
     "image": "cPK_10_020570_00_GALARMASSUGUMA_U.webp",
     "packs": ["Ruler of the Skies"],
@@ -51228,7 +51228,7 @@
   {
     "set": "B4",
     "number": 97,
-    "name": "GalarianObstagoon",
+    "name": "Galarian Obstagoon",
     "rarity": "R",
     "image": "cPK_10_020580_00_GALARTACHIFUSAGUMA_R.webp",
     "packs": ["Ruler of the Skies"],
@@ -52677,7 +52677,7 @@
   {
     "set": "B4",
     "number": 204,
-    "name": "AlolanVulpix",
+    "name": "Alolan Vulpix",
     "rarity": "S",
     "image": "cPK_20_013940_00_ALOLAROKON_S.webp",
     "packs": ["Ruler of the Skies"],
@@ -52877,7 +52877,7 @@
   {
     "set": "B4",
     "number": 218,
-    "name": "GalarianMeowth",
+    "name": "Galarian Meowth",
     "rarity": "S",
     "image": "cPK_20_014760_00_GALARNYARTH_S.webp",
     "packs": ["Ruler of the Skies"],
@@ -52891,7 +52891,7 @@
   {
     "set": "B4",
     "number": 219,
-    "name": "GalarianPerrserker",
+    "name": "Galarian Perrserker",
     "rarity": "S",
     "image": "cPK_20_014770_01_GALARNYAIKING_S.webp",
     "packs": ["Ruler of the Skies"],
@@ -52977,7 +52977,7 @@
   {
     "set": "B4",
     "number": 225,
-    "name": "AlolanNinetales ex",
+    "name": "Alolan Ninetales ex",
     "rarity": "SSR",
     "image": "cPK_20_013950_02_ALOLAKYUKONex_SSR.webp",
     "packs": ["Ruler of the Skies"],
@@ -53234,7 +53234,7 @@
     "health": 90,
     "retreatCost": 1,
     "weakness": "water",
-    "evolvesFrom": "Team Rocket's Houndour"
+    "evolvesFrom": "Team Rocket’s Houndour"
   },
   {
     "set": "B4a",
@@ -53393,7 +53393,7 @@
     "health": 70,
     "retreatCost": 1,
     "weakness": "fighting",
-    "evolvesFrom": "Team Rocket's Voltorb"
+    "evolvesFrom": "Team Rocket’s Voltorb"
   },
   {
     "set": "B4a",
@@ -53479,7 +53479,7 @@
     "health": 130,
     "retreatCost": 3,
     "weakness": "darkness",
-    "evolvesFrom": "Team Rocket's Slowpoke"
+    "evolvesFrom": "Team Rocket’s Slowpoke"
   },
   {
     "set": "B4a",
@@ -53508,7 +53508,7 @@
     "health": 90,
     "retreatCost": 2,
     "weakness": "darkness",
-    "evolvesFrom": "Team Rocket's Drowzee"
+    "evolvesFrom": "Team Rocket’s Drowzee"
   },
   {
     "set": "B4a",
@@ -53665,7 +53665,7 @@
     "health": 100,
     "retreatCost": 2,
     "weakness": "fighting",
-    "evolvesFrom": "Team Rocket's Ekans"
+    "evolvesFrom": "Team Rocket’s Ekans"
   },
   {
     "set": "B4a",
@@ -53694,7 +53694,7 @@
     "health": 120,
     "retreatCost": 3,
     "weakness": "fighting",
-    "evolvesFrom": "Team Rocket's Grimer"
+    "evolvesFrom": "Team Rocket’s Grimer"
   },
   {
     "set": "B4a",
@@ -53723,7 +53723,7 @@
     "health": 140,
     "retreatCost": 2,
     "weakness": "fighting",
-    "evolvesFrom": "Team Rocket's Koffing"
+    "evolvesFrom": "Team Rocket’s Koffing"
   },
   {
     "set": "B4a",
@@ -53809,7 +53809,7 @@
     "health": 80,
     "retreatCost": 2,
     "weakness": "fire",
-    "evolvesFrom": "Team Rocket's Tinkatink"
+    "evolvesFrom": "Team Rocket’s Tinkatink"
   },
   {
     "set": "B4a",
@@ -53824,7 +53824,7 @@
     "health": 140,
     "retreatCost": 2,
     "weakness": "fire",
-    "evolvesFrom": "Team Rocket's Tinkatuff"
+    "evolvesFrom": "Team Rocket’s Tinkatuff"
   },
   {
     "set": "B4a",
@@ -53949,7 +53949,7 @@
     "health": 120,
     "retreatCost": 0,
     "weakness": "fighting",
-    "evolvesFrom": "Team Rocket's Rattata"
+    "evolvesFrom": "Team Rocket’s Rattata"
   },
   {
     "set": "B4a",
@@ -53978,7 +53978,7 @@
     "health": 100,
     "retreatCost": 1,
     "weakness": "fighting",
-    "evolvesFrom": "Team Rocket's Meowth"
+    "evolvesFrom": "Team Rocket’s Meowth"
   },
   {
     "set": "B4a",
@@ -54132,7 +54132,7 @@
     "health": 90,
     "retreatCost": 2,
     "weakness": "darkness",
-    "evolvesFrom": "Team Rocket's Drowzee"
+    "evolvesFrom": "Team Rocket’s Drowzee"
   },
   {
     "set": "B4a",
@@ -54147,7 +54147,7 @@
     "health": 140,
     "retreatCost": 2,
     "weakness": "fire",
-    "evolvesFrom": "Team Rocket's Tinkatuff"
+    "evolvesFrom": "Team Rocket’s Tinkatuff"
   },
   {
     "set": "B4a",
@@ -54245,7 +54245,7 @@
     "health": 130,
     "retreatCost": 3,
     "weakness": "darkness",
-    "evolvesFrom": "Team Rocket's Slowpoke"
+    "evolvesFrom": "Team Rocket’s Slowpoke"
   },
   {
     "set": "B4a",
@@ -54260,7 +54260,7 @@
     "health": 140,
     "retreatCost": 2,
     "weakness": "fighting",
-    "evolvesFrom": "Team Rocket's Koffing"
+    "evolvesFrom": "Team Rocket’s Koffing"
   },
   {
     "set": "B4a",
@@ -54275,7 +54275,7 @@
     "health": 120,
     "retreatCost": 0,
     "weakness": "fighting",
-    "evolvesFrom": "Team Rocket's Rattata"
+    "evolvesFrom": "Team Rocket’s Rattata"
   },
   {
     "set": "B4a",
@@ -54359,7 +54359,7 @@
     "health": 130,
     "retreatCost": 3,
     "weakness": "darkness",
-    "evolvesFrom": "Team Rocket's Slowpoke"
+    "evolvesFrom": "Team Rocket’s Slowpoke"
   },
   {
     "set": "B4a",
@@ -54374,7 +54374,7 @@
     "health": 140,
     "retreatCost": 2,
     "weakness": "fighting",
-    "evolvesFrom": "Team Rocket's Koffing"
+    "evolvesFrom": "Team Rocket’s Koffing"
   },
   {
     "set": "B4a",
@@ -54389,7 +54389,7 @@
     "health": 120,
     "retreatCost": 0,
     "weakness": "fighting",
-    "evolvesFrom": "Team Rocket's Rattata"
+    "evolvesFrom": "Team Rocket’s Rattata"
   },
   {
     "set": "B4a",
