@@ -54057,7 +54057,7 @@
     "rarity": "U",
     "image": "cTR_10_001600_00_ROCKETDANNODOROBOUMASHIN_U.webp",
     "packs": ["Team Rocket"],
-    "type": "trainer"
+    "type": "item"
   },
   {
     "set": "B4a",
@@ -54066,7 +54066,7 @@
     "rarity": "U",
     "image": "cTR_10_001610_00_ROCKETDANNOBETOBETOBAZOOKA_U.webp",
     "packs": ["Team Rocket"],
-    "type": "trainer"
+    "type": "item"
   },
   {
     "set": "B4a",
@@ -54084,7 +54084,7 @@
     "rarity": "U",
     "image": "cTR_10_001630_00_ROCKETDANNODAISAKUSEN_U.webp",
     "packs": ["Team Rocket"],
-    "type": "trainer"
+    "type": "supporter"
   },
   {
     "set": "B4a",
@@ -54293,7 +54293,7 @@
     "rarity": "SR",
     "image": "cTR_20_001630_00_ROCKETDANNODAISAKUSEN_SR.webp",
     "packs": ["Team Rocket"],
-    "type": "trainer"
+    "type": "supporter"
   },
   {
     "set": "B4a",
@@ -54398,7 +54398,7 @@
     "rarity": "IM",
     "image": "cTR_20_001630_01_ROCKETDANNODAISAKUSEN_IM.webp",
     "packs": ["Team Rocket"],
-    "type": "trainer"
+    "type": "supporter"
   },
   {
     "set": "B4a",
@@ -54624,7 +54624,7 @@
     "rarity": "UR",
     "image": "cTR_20_001610_00_ROCKETDANNOBETOBETOBAZOOKA_UR.webp",
     "packs": ["Team Rocket"],
-    "type": "trainer"
+    "type": "item"
   },
   {
     "set": "B4b",
@@ -62533,7 +62533,7 @@
     "rarity": "U",
     "image": "cTR_10_001730_00_GREENNOCHOUHATSU_U.webp",
     "packs": ["Dual Fusion Mega Mewtwo X"],
-    "type": "trainer"
+    "type": "supporter"
   },
   {
     "set": "C1",
@@ -62542,7 +62542,7 @@
     "rarity": "U",
     "image": "cTR_10_001740_00_SERENANOSENTAKU_U.webp",
     "packs": ["Dual Fusion Pikachu"],
-    "type": "trainer"
+    "type": "supporter"
   },
   {
     "set": "C1",
@@ -62569,7 +62569,7 @@
     "rarity": "U",
     "image": "cTR_10_001770_00_HOPETRAINER_U.webp",
     "packs": ["Dual Fusion Mega Mewtwo X"],
-    "type": "trainer"
+    "type": "supporter"
   },
   {
     "set": "C1",
@@ -63069,7 +63069,7 @@
     "rarity": "SR",
     "image": "cTR_20_001730_00_GREENNOCHOUHATSU_SR.webp",
     "packs": ["Dual Fusion Mega Mewtwo X"],
-    "type": "trainer"
+    "type": "supporter"
   },
   {
     "set": "C1",
@@ -63078,7 +63078,7 @@
     "rarity": "SR",
     "image": "cTR_20_001740_00_SERENANOSENTAKU_SR.webp",
     "packs": ["Dual Fusion Pikachu"],
-    "type": "trainer"
+    "type": "supporter"
   },
   {
     "set": "C1",
@@ -63105,7 +63105,7 @@
     "rarity": "SR",
     "image": "cTR_20_001770_00_HOPETRAINER_SR.webp",
     "packs": ["Dual Fusion Mega Mewtwo X"],
-    "type": "trainer"
+    "type": "supporter"
   },
   {
     "set": "C1",
