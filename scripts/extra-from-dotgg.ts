@@ -60,7 +60,9 @@ const dotggById = new Map(
   dotggCards.map((card) => [`${card.game_kind}${Number(card.game_id)}`, card]),
 );
 
-const trainerKey = (name: string) => name.replaceAll("’", "'");
+const nameKey = (name: string) => name.replaceAll("’", "'");
+// dotgg writes "Team Rocket's …" where cards.json has "Team Rocket’s …"
+const cardNames = new Map(mainCards.map(({ name }) => [nameKey(name), name]));
 
 const hugoTrainerTypes = new Map<string, string>();
 const hugoSets = (await (await fetch(HUGO_SETS_URL)).json()) as {
@@ -75,7 +77,7 @@ for (const set of hugoSets.filter(({ name }) => name.endsWith(".json"))) {
   }[];
   for (const card of cards) {
     if (card.type === "Trainer" && card.subtype)
-      hugoTrainerTypes.set(trainerKey(card.name), card.subtype.toLowerCase());
+      hugoTrainerTypes.set(nameKey(card.name), card.subtype.toLowerCase());
   }
 }
 
@@ -83,7 +85,7 @@ const trainerTypes = new Map<string, string>(Object.entries(TRAINER_TYPES));
 for (const [name, type] of hugoTrainerTypes) trainerTypes.set(name, type);
 for (const card of currentExtra as { name: string; type: string }[]) {
   if (card.type !== "pokemon" && card.type !== "trainer")
-    trainerTypes.set(trainerKey(card.name), card.type);
+    trainerTypes.set(nameKey(card.name), card.type);
 }
 const current = new Map(
   (
@@ -118,7 +120,7 @@ const extra = mainCards.flatMap((card) => {
     packs: card.packs?.length ? card.packs : undefined,
   };
   if (dotgg.type === "Trainer") {
-    const type = trainerTypes.get(trainerKey(card.name));
+    const type = trainerTypes.get(nameKey(card.name));
     if (!type)
       missing.push(
         `${card.set}-${card.number} ${card.name} (trainer type unknown)`,
@@ -135,7 +137,10 @@ const extra = mainCards.flatMap((card) => {
       health: number(dotgg.hp),
       retreatCost: number(dotgg.retreat),
       weakness: lower(dotgg.weakness),
-      evolvesFrom: dotgg.prew_stage_name ?? undefined,
+      evolvesFrom: dotgg.prew_stage_name
+        ? (cardNames.get(nameKey(dotgg.prew_stage_name)) ??
+          dotgg.prew_stage_name)
+        : undefined,
       goodWith: current.get(`${card.set}-${card.number}`)?.goodWith,
     },
   ];
