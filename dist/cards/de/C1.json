@@ -1,0 +1,2175 @@
+[
+  {
+    "set": "C1",
+    "number": 1,
+    "rarity": "C",
+    "image": "cPK_10_021780_00_FUSHIGIDANE_C.webp",
+    "name": "Bisasam",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 2,
+    "rarity": "C",
+    "image": "cPK_10_021790_00_FUSHIGISOU_C.webp",
+    "name": "Bisaknosp",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 3,
+    "rarity": "R",
+    "image": "cPK_10_021800_00_FUSHIGIBANA_R.webp",
+    "name": "Bisaflor",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 4,
+    "rarity": "C",
+    "image": "cPK_10_021810_00_TAMATAMA_C.webp",
+    "name": "Owei",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 5,
+    "rarity": "RR",
+    "image": "cPK_10_021820_00_ALOLANASSYex_RR.webp",
+    "name": "Alola-Kokowei ex",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 6,
+    "rarity": "C",
+    "image": "cPK_10_021830_00_KAILIOS_C.webp",
+    "name": "Pinsir",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 7,
+    "rarity": "C",
+    "image": "cPK_10_021840_00_MITSUHONEY_C.webp",
+    "name": "Wadribie",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 8,
+    "rarity": "U",
+    "image": "cPK_10_021850_00_BEEQUEN_U.webp",
+    "name": "Honweisel",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 9,
+    "rarity": "C",
+    "image": "cPK_10_021860_00_SHIKIJIKA_C.webp",
+    "name": "Sesokitz",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 10,
+    "rarity": "U",
+    "image": "cPK_10_021870_00_MEBUKIJIKA_U.webp",
+    "name": "Kronjuwild",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 11,
+    "rarity": "C",
+    "image": "cPK_10_021880_00_TAMAGETAKE_C.webp",
+    "name": "Tarnpignon",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 12,
+    "rarity": "U",
+    "image": "cPK_10_021890_00_MOROBARERU_U.webp",
+    "name": "Hutsassa",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 13,
+    "rarity": "U",
+    "image": "cPK_10_021900_00_GENESECT_U.webp",
+    "name": "Genesect",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 14,
+    "rarity": "C",
+    "image": "cPK_10_021910_00_ABULY_C.webp",
+    "name": "Wommel",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 15,
+    "rarity": "R",
+    "image": "cPK_10_021920_00_ABURIBBON_R.webp",
+    "name": "Bandelby",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 16,
+    "rarity": "C",
+    "image": "cPK_10_021930_00_HITOKAGE_C.webp",
+    "name": "Glumanda",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 17,
+    "rarity": "C",
+    "image": "cPK_10_021940_00_LIZARDO_C.webp",
+    "name": "Glutexo",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 18,
+    "rarity": "R",
+    "image": "cPK_10_021950_00_LIZARDON_R.webp",
+    "name": "Glurak",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 19,
+    "rarity": "R",
+    "image": "cPK_10_021960_00_VOLCANION_R.webp",
+    "name": "Volcanion",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 20,
+    "rarity": "C",
+    "image": "cPK_10_021970_00_YATOUMORI_C.webp",
+    "name": "Molunk",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 21,
+    "rarity": "U",
+    "image": "cPK_10_021980_00_ENNEWT_U.webp",
+    "name": "Amfira",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 22,
+    "rarity": "C",
+    "image": "cPK_10_021990_00_HIBANNY_C.webp",
+    "name": "Hopplo",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 23,
+    "rarity": "U",
+    "image": "cPK_10_022000_00_RABBIFUTO_U.webp",
+    "name": "Kickerlo",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 24,
+    "rarity": "R",
+    "image": "cPK_10_022010_00_ACEBURN_R.webp",
+    "name": "Liberlo",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 25,
+    "rarity": "RR",
+    "image": "cPK_10_022020_00_HOGATORex_RR.webp",
+    "name": "Krokel ex",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 26,
+    "rarity": "C",
+    "image": "cPK_10_022030_00_CARBOU_C.webp",
+    "name": "Knarbon",
+    "packs": [
+      "Dual Fusion Pikachu",
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 27,
+    "rarity": "U",
+    "image": "cPK_10_022040_00_GURENARMA_U.webp",
+    "name": "Crimanzo",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 28,
+    "rarity": "U",
+    "image": "cPK_10_022050_00_SOUBLADES_U.webp",
+    "name": "Azugladis",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 29,
+    "rarity": "C",
+    "image": "cPK_10_022060_00_ZENIGAME_C.webp",
+    "name": "Schiggy",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 30,
+    "rarity": "C",
+    "image": "cPK_10_022070_00_KAMEIL_C.webp",
+    "name": "Schillok",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 31,
+    "rarity": "R",
+    "image": "cPK_10_022080_00_KAMEX_R.webp",
+    "name": "Turtok",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 32,
+    "rarity": "C",
+    "image": "cPK_10_022090_00_PAWOU_C.webp",
+    "name": "Jurob",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 33,
+    "rarity": "U",
+    "image": "cPK_10_022100_00_JUGON_U.webp",
+    "name": "Jugong",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 34,
+    "rarity": "C",
+    "image": "cPK_10_022110_00_SHELLDER_C.webp",
+    "name": "Muschas",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 35,
+    "rarity": "U",
+    "image": "cPK_10_022120_00_PARSHEN_U.webp",
+    "name": "Austos",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 36,
+    "rarity": "C",
+    "image": "cPK_10_022130_00_ROUGELA_C.webp",
+    "name": "Rossana",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 37,
+    "rarity": "U",
+    "image": "cPK_10_022140_00_LAPLACE_U.webp",
+    "name": "Lapras",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 38,
+    "rarity": "R",
+    "image": "cPK_10_022150_00_PALKIA_R.webp",
+    "name": "Palkia",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 39,
+    "rarity": "C",
+    "image": "cPK_10_022160_00_BASSRAO_C.webp",
+    "name": "Barschuft",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 40,
+    "rarity": "C",
+    "image": "cPK_10_022170_00_KEROMATSU_C.webp",
+    "name": "Froxy",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 41,
+    "rarity": "U",
+    "image": "cPK_10_022180_00_GEKOGASHIRA_U.webp",
+    "name": "Amphizel",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 42,
+    "rarity": "RR",
+    "image": "cPK_10_022190_00_MEGAGEKKOUGAex_RR.webp",
+    "name": "Mega Quajutsu ex",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 43,
+    "rarity": "RR",
+    "image": "cPK_10_022200_00_PIKACHUex_RR.webp",
+    "name": "Pikachu ex",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 44,
+    "rarity": "C",
+    "image": "cPK_10_022210_00_BIRIRIDAMA_C.webp",
+    "name": "Voltobal",
+    "packs": [
+      "Dual Fusion Pikachu",
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 45,
+    "rarity": "U",
+    "image": "cPK_10_022220_00_MARUMINE_U.webp",
+    "name": "Lektrobal",
+    "packs": [
+      "Dual Fusion Pikachu",
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 46,
+    "rarity": "C",
+    "image": "cPK_10_022230_00_MAGGYO_C.webp",
+    "name": "Flunschlik",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 47,
+    "rarity": "R",
+    "image": "cPK_10_022240_00_ZERAORA_R.webp",
+    "name": "Zeraora",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 48,
+    "rarity": "C",
+    "image": "cPK_10_022250_00_PAMO_C.webp",
+    "name": "Pamo",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 49,
+    "rarity": "C",
+    "image": "cPK_10_022260_00_PAMOT_C.webp",
+    "name": "Pamamo",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 50,
+    "rarity": "R",
+    "image": "cPK_10_022270_00_PARMOT_R.webp",
+    "name": "Pamomamo",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 51,
+    "rarity": "C",
+    "image": "cPK_10_022280_00_PURIN_C.webp",
+    "name": "Pummeluff",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 52,
+    "rarity": "U",
+    "image": "cPK_10_022290_00_PUKURIN_U.webp",
+    "name": "Knuddeluff",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 53,
+    "rarity": "C",
+    "image": "cPK_10_022300_00_CASEY_C.webp",
+    "name": "Abra",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 54,
+    "rarity": "C",
+    "image": "cPK_10_022310_00_YUNGERER_C.webp",
+    "name": "Kadabra",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 55,
+    "rarity": "U",
+    "image": "cPK_10_022320_00_FOODIN_U.webp",
+    "name": "Simsala",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 56,
+    "rarity": "RR",
+    "image": "cPK_10_022330_00_MEGAMEWTWOXex_RR.webp",
+    "name": "Mega Mewtu X ex",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 57,
+    "rarity": "RR",
+    "image": "cPK_10_022340_00_MEWex_RR.webp",
+    "name": "Mew ex",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 58,
+    "rarity": "C",
+    "image": "cPK_10_022350_00_MARIL_C.webp",
+    "name": "Marill",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 59,
+    "rarity": "U",
+    "image": "cPK_10_022360_00_MARILLI_U.webp",
+    "name": "Azumarill",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 60,
+    "rarity": "U",
+    "image": "cPK_10_022370_00_EIFIE_U.webp",
+    "name": "Psiana",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 61,
+    "rarity": "C",
+    "image": "cPK_10_022380_00_SONANS_C.webp",
+    "name": "Woingenau",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 62,
+    "rarity": "R",
+    "image": "cPK_10_022390_00_DEOXYS_R.webp",
+    "name": "Deoxys",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 63,
+    "rarity": "C",
+    "image": "cPK_10_022400_00_MIMIKKYU_C.webp",
+    "name": "Mimigma",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 64,
+    "rarity": "C",
+    "image": "cPK_10_022410_00_COSMOG_C.webp",
+    "name": "Cosmog",
+    "packs": [
+      "Dual Fusion Pikachu",
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 65,
+    "rarity": "U",
+    "image": "cPK_10_022420_00_COSMOVUM_U.webp",
+    "name": "Cosmovum",
+    "packs": [
+      "Dual Fusion Pikachu",
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 66,
+    "rarity": "R",
+    "image": "cPK_10_022430_00_LUNALA_R.webp",
+    "name": "Lunala",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 67,
+    "rarity": "C",
+    "image": "cPK_10_022440_00_DIGDA_C.webp",
+    "name": "Digda",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 68,
+    "rarity": "U",
+    "image": "cPK_10_022450_00_DUGTRIO_U.webp",
+    "name": "Digdri",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 69,
+    "rarity": "C",
+    "image": "cPK_10_022460_00_SIHORN_C.webp",
+    "name": "Rihorn",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 70,
+    "rarity": "C",
+    "image": "cPK_10_022470_00_SIDON_C.webp",
+    "name": "Rizeros",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 71,
+    "rarity": "R",
+    "image": "cPK_10_022480_00_DOSIDON_R.webp",
+    "name": "Rihornior",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 72,
+    "rarity": "C",
+    "image": "cPK_10_022490_00_USOKKIE_C.webp",
+    "name": "Mogelbaum",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 73,
+    "rarity": "C",
+    "image": "cPK_10_022500_00_PALDEAUPAH_C.webp",
+    "name": "Paldea-Felino",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 74,
+    "rarity": "R",
+    "image": "cPK_10_022510_00_PALDEADOOH_R.webp",
+    "name": "Paldea-Suelord",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 75,
+    "rarity": "C",
+    "image": "cPK_10_022520_00_YOGIRAS_C.webp",
+    "name": "Larvitar",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 76,
+    "rarity": "U",
+    "image": "cPK_10_022530_00_SANAGIRAS_U.webp",
+    "name": "Pupitar",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 77,
+    "rarity": "C",
+    "image": "cPK_10_022540_00_DOJOACH_C.webp",
+    "name": "Schmerbe",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 78,
+    "rarity": "U",
+    "image": "cPK_10_022550_00_NAMAZUN_U.webp",
+    "name": "Welsar",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 79,
+    "rarity": "C",
+    "image": "cPK_10_022560_00_IWANKO_C.webp",
+    "name": "Wuffels",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 80,
+    "rarity": "RR",
+    "image": "cPK_10_022570_00_LUGARUGANex_RR.webp",
+    "name": "Wolwerock ex",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 81,
+    "rarity": "C",
+    "image": "cPK_10_022580_00_GHOS_C.webp",
+    "name": "Nebulak",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 82,
+    "rarity": "C",
+    "image": "cPK_10_022590_00_GHOST_C.webp",
+    "name": "Alpollo",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 83,
+    "rarity": "R",
+    "image": "cPK_10_022600_00_GANGAR_R.webp",
+    "name": "Gengar",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 84,
+    "rarity": "U",
+    "image": "cPK_10_022610_00_BRACKY_U.webp",
+    "name": "Nachtara",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 85,
+    "rarity": "RR",
+    "image": "cPK_10_022620_00_MEGABANGIRASex_RR.webp",
+    "name": "Mega Despotar ex",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 86,
+    "rarity": "C",
+    "image": "cPK_10_022630_00_HABUNAKE_C.webp",
+    "name": "Vipitis",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 87,
+    "rarity": "C",
+    "image": "cPK_10_022640_00_ZORUA_C.webp",
+    "name": "Zorua",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 88,
+    "rarity": "R",
+    "image": "cPK_10_022650_00_ZOROARK_R.webp",
+    "name": "Zoroark",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 89,
+    "rarity": "C",
+    "image": "cPK_10_022660_00_KUSUNE_C.webp",
+    "name": "Kleptifux",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 90,
+    "rarity": "U",
+    "image": "cPK_10_022670_00_FOXLY_U.webp",
+    "name": "Gaunux",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 91,
+    "rarity": "RR",
+    "image": "cPK_10_022680_00_MEGAAIRMDex_RR.webp",
+    "name": "Mega Panzaeron ex",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 92,
+    "rarity": "R",
+    "image": "cPK_10_022690_00_DIALGA_R.webp",
+    "name": "Dialga",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 93,
+    "rarity": "C",
+    "image": "cPK_10_022700_00_TESSEED_C.webp",
+    "name": "Kastadur",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 94,
+    "rarity": "U",
+    "image": "cPK_10_022710_00_NUTREY_U.webp",
+    "name": "Tentantel",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 95,
+    "rarity": "R",
+    "image": "cPK_10_022720_00_SOLGALEO_R.webp",
+    "name": "Solgaleo",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 96,
+    "rarity": "C",
+    "image": "cPK_10_022730_00_MELTAN_C.webp",
+    "name": "Meltan",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 97,
+    "rarity": "R",
+    "image": "cPK_10_022740_00_MELMETAL_R.webp",
+    "name": "Melmetal",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 98,
+    "rarity": "C",
+    "image": "cPK_10_022750_00_MINIRYU_C.webp",
+    "name": "Dratini",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 99,
+    "rarity": "C",
+    "image": "cPK_10_022760_00_HAKURYU_C.webp",
+    "name": "Dragonir",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 100,
+    "rarity": "RR",
+    "image": "cPK_10_022770_00_MEGAKAIRYUex_RR.webp",
+    "name": "Mega Dragoran ex",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 101,
+    "rarity": "RR",
+    "image": "cPK_10_022780_00_GIRATINAex_RR.webp",
+    "name": "Giratina ex",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 102,
+    "rarity": "C",
+    "image": "cPK_10_022790_00_POPPO_C.webp",
+    "name": "Taubsi",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 103,
+    "rarity": "C",
+    "image": "cPK_10_022800_00_PIGEON_C.webp",
+    "name": "Tauboga",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 104,
+    "rarity": "R",
+    "image": "cPK_10_022810_00_PIGEOT_R.webp",
+    "name": "Tauboss",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 105,
+    "rarity": "C",
+    "image": "cPK_10_022820_00_ONISUZUME_C.webp",
+    "name": "Habitak",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 106,
+    "rarity": "U",
+    "image": "cPK_10_022830_00_ONIDRILL_U.webp",
+    "name": "Ibitak",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 107,
+    "rarity": "C",
+    "image": "cPK_10_022840_00_EIEVUI_C.webp",
+    "name": "Evoli",
+    "packs": [
+      "Dual Fusion Pikachu",
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 108,
+    "rarity": "C",
+    "image": "cPK_10_022850_00_PORYGON_C.webp",
+    "name": "Porygon",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 109,
+    "rarity": "U",
+    "image": "cPK_10_022860_00_PORYGON2_U.webp",
+    "name": "Porygon2",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 110,
+    "rarity": "R",
+    "image": "cPK_10_022870_00_PORYGON-Z_R.webp",
+    "name": "Porygon-Z",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 111,
+    "rarity": "U",
+    "image": "cPK_10_022880_00_KABIGON_U.webp",
+    "name": "Relaxo",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 112,
+    "rarity": "C",
+    "image": "cPK_10_022890_00_ZANGOOSE_C.webp",
+    "name": "Sengo",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 113,
+    "rarity": "C",
+    "image": "cPK_10_022900_00_BIPPA_C.webp",
+    "name": "Bidiza",
+    "packs": [
+      "Dual Fusion Pikachu",
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 114,
+    "rarity": "U",
+    "image": "cPK_10_022910_00_BEADARU_U.webp",
+    "name": "Bidifas",
+    "packs": [
+      "Dual Fusion Pikachu",
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 115,
+    "rarity": "C",
+    "image": "cPK_10_022920_00_MIMIROL_C.webp",
+    "name": "Haspiror",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 116,
+    "rarity": "U",
+    "image": "cPK_10_022930_00_MIMILOP_U.webp",
+    "name": "Schlapor",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 117,
+    "rarity": "C",
+    "image": "cPK_10_022940_00_NUIKOGUMA_C.webp",
+    "name": "Velursi",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 118,
+    "rarity": "RR",
+    "image": "cPK_10_022950_00_KITERUGUMAex_RR.webp",
+    "name": "Kosturso ex",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 119,
+    "rarity": "U",
+    "image": "cTR_10_001660_00_AMAIMITSU_U.webp",
+    "name": "Honig",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 120,
+    "rarity": "U",
+    "image": "cTR_10_001670_00_IIKIZUGUSURI_U.webp",
+    "name": "Supertrank",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 121,
+    "rarity": "U",
+    "image": "cTR_10_001680_00_GOLDSPRAY_U.webp",
+    "name": "Top-Schutz",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 122,
+    "rarity": "U",
+    "image": "cTR_10_001690_00_NANDEMONAOSHI_U.webp",
+    "name": "Hyperheiler",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 123,
+    "rarity": "U",
+    "image": "cTR_10_001700_00_SHINKANOKISEKI_U.webp",
+    "name": "Evolith",
+    "packs": [
+      "Dual Fusion Pikachu",
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 124,
+    "rarity": "U",
+    "image": "cTR_10_001710_00_DENKIDAMA_U.webp",
+    "name": "Kugelblitz",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 125,
+    "rarity": "U",
+    "image": "cTR_10_001720_00_KANNA_U.webp",
+    "name": "Lorelei",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 126,
+    "rarity": "U",
+    "image": "cTR_10_001730_00_GREENNOCHOUHATSU_U.webp",
+    "name": "Blaus Provokation",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 127,
+    "rarity": "U",
+    "image": "cTR_10_001740_00_SERENANOSENTAKU_U.webp",
+    "name": "Serenas Wahl",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 128,
+    "rarity": "U",
+    "image": "cTR_10_001750_00_CHILI_U.webp",
+    "name": "Cay",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 129,
+    "rarity": "U",
+    "image": "cTR_10_001760_00_FRIENDLYSHOPNOONIISAN_U.webp",
+    "name": "Pokémon-Supermarkt-Händler",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 130,
+    "rarity": "U",
+    "image": "cTR_10_001770_00_HOPETRAINER_U.webp",
+    "name": "Trainerhoffnung",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 131,
+    "rarity": "U",
+    "image": "cTR_10_001780_00_SABIRETASUTANDO_U.webp",
+    "name": "Verlassene Raststätte",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 132,
+    "rarity": "AR",
+    "image": "cPK_20_021800_00_FUSHIGIBANA_AR.webp",
+    "name": "Bisaflor",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 133,
+    "rarity": "AR",
+    "image": "cPK_20_021810_00_TAMATAMA_AR.webp",
+    "name": "Owei",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 134,
+    "rarity": "AR",
+    "image": "cPK_20_021860_00_SHIKIJIKA_AR.webp",
+    "name": "Sesokitz",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 135,
+    "rarity": "AR",
+    "image": "cPK_20_021920_00_ABURIBBON_AR.webp",
+    "name": "Bandelby",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 136,
+    "rarity": "AR",
+    "image": "cPK_20_021950_00_LIZARDON_AR.webp",
+    "name": "Glurak",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 137,
+    "rarity": "AR",
+    "image": "cPK_20_022000_00_RABBIFUTO_AR.webp",
+    "name": "Kickerlo",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 138,
+    "rarity": "AR",
+    "image": "cPK_20_022050_00_SOUBLADES_AR.webp",
+    "name": "Azugladis",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 139,
+    "rarity": "AR",
+    "image": "cPK_20_022080_00_KAMEX_AR.webp",
+    "name": "Turtok",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 140,
+    "rarity": "AR",
+    "image": "cPK_20_022150_00_PALKIA_AR.webp",
+    "name": "Palkia",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 141,
+    "rarity": "AR",
+    "image": "cPK_20_022180_00_GEKOGASHIRA_AR.webp",
+    "name": "Amphizel",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 142,
+    "rarity": "AR",
+    "image": "cPK_20_022270_00_PARMOT_AR.webp",
+    "name": "Pamomamo",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 143,
+    "rarity": "AR",
+    "image": "cPK_20_022400_00_MIMIKKYU_AR.webp",
+    "name": "Mimigma",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 144,
+    "rarity": "AR",
+    "image": "cPK_20_022420_00_COSMOVUM_AR.webp",
+    "name": "Cosmovum",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 145,
+    "rarity": "AR",
+    "image": "cPK_20_022520_00_YOGIRAS_AR.webp",
+    "name": "Larvitar",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 146,
+    "rarity": "AR",
+    "image": "cPK_20_022530_00_SANAGIRAS_AR.webp",
+    "name": "Pupitar",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 147,
+    "rarity": "AR",
+    "image": "cPK_20_022510_00_PALDEADOOH_AR.webp",
+    "name": "Paldea-Suelord",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 148,
+    "rarity": "AR",
+    "image": "cPK_20_022600_00_GANGAR_AR.webp",
+    "name": "Gengar",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 149,
+    "rarity": "AR",
+    "image": "cPK_20_022690_00_DIALGA_AR.webp",
+    "name": "Dialga",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 150,
+    "rarity": "AR",
+    "image": "cPK_20_022740_00_MELMETAL_AR.webp",
+    "name": "Melmetal",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 151,
+    "rarity": "AR",
+    "image": "cPK_20_022900_00_BIPPA_AR.webp",
+    "name": "Bidiza",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 152,
+    "rarity": "AR",
+    "image": "cTR_20_001660_00_AMAIMITSU_AR.webp",
+    "name": "Honig"
+  },
+  {
+    "set": "C1",
+    "number": 153,
+    "rarity": "SR",
+    "image": "cPK_20_021820_00_ALOLANASSYex_SR.webp",
+    "name": "Alola-Kokowei ex",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 154,
+    "rarity": "SR",
+    "image": "cPK_20_022020_00_HOGATORex_SR.webp",
+    "name": "Krokel ex",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 155,
+    "rarity": "SR",
+    "image": "cPK_20_022190_00_MEGAGEKKOUGAex_SR.webp",
+    "name": "Mega Quajutsu ex",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 156,
+    "rarity": "SR",
+    "image": "cPK_20_022200_00_PIKACHUex_SR.webp",
+    "name": "Pikachu ex",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 157,
+    "rarity": "SR",
+    "image": "cPK_20_022330_00_MEGAMEWTWOXex_SR.webp",
+    "name": "Mega Mewtu X ex",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 158,
+    "rarity": "SR",
+    "image": "cPK_20_022340_00_MEWex_SR.webp",
+    "name": "Mew ex",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 159,
+    "rarity": "SR",
+    "image": "cPK_20_022570_00_LUGARUGANex_SR.webp",
+    "name": "Wolwerock ex",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 160,
+    "rarity": "SR",
+    "image": "cPK_20_022620_00_MEGABANGIRASex_SR.webp",
+    "name": "Mega Despotar ex",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 161,
+    "rarity": "SR",
+    "image": "cPK_20_022680_00_MEGAAIRMDex_SR.webp",
+    "name": "Mega Panzaeron ex",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 162,
+    "rarity": "SR",
+    "image": "cPK_20_022770_00_MEGAKAIRYUex_SR.webp",
+    "name": "Mega Dragoran ex",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 163,
+    "rarity": "SR",
+    "image": "cPK_20_022780_00_GIRATINAex_SR.webp",
+    "name": "Giratina ex",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 164,
+    "rarity": "SR",
+    "image": "cPK_20_022950_00_KITERUGUMAex_SR.webp",
+    "name": "Kosturso ex",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 165,
+    "rarity": "SR",
+    "image": "cTR_20_001720_00_KANNA_SR.webp",
+    "name": "Lorelei",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 166,
+    "rarity": "SR",
+    "image": "cTR_20_001730_00_GREENNOCHOUHATSU_SR.webp",
+    "name": "Blaus Provokation",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 167,
+    "rarity": "SR",
+    "image": "cTR_20_001740_00_SERENANOSENTAKU_SR.webp",
+    "name": "Serenas Wahl",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 168,
+    "rarity": "SR",
+    "image": "cTR_20_001750_00_CHILI_SR.webp",
+    "name": "Cay",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 169,
+    "rarity": "SR",
+    "image": "cTR_20_001760_00_FRIENDLYSHOPNOONIISAN_SR.webp",
+    "name": "Pokémon-Supermarkt-Händler",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 170,
+    "rarity": "SR",
+    "image": "cTR_20_001770_00_HOPETRAINER_SR.webp",
+    "name": "Trainerhoffnung",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 171,
+    "rarity": "SAR",
+    "image": "cPK_20_021820_01_ALOLANASSYex_SAR.webp",
+    "name": "Alola-Kokowei ex",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 172,
+    "rarity": "SAR",
+    "image": "cPK_20_022020_01_HOGATORex_SAR.webp",
+    "name": "Krokel ex",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 173,
+    "rarity": "SAR",
+    "image": "cPK_20_022190_01_MEGAGEKKOUGAex_SAR.webp",
+    "name": "Mega Quajutsu ex",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 174,
+    "rarity": "SAR",
+    "image": "cPK_20_022200_01_PIKACHUex_SAR.webp",
+    "name": "Pikachu ex",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 175,
+    "rarity": "SAR",
+    "image": "cPK_20_022330_01_MEGAMEWTWOXex_SAR.webp",
+    "name": "Mega Mewtu X ex",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 176,
+    "rarity": "SAR",
+    "image": "cPK_20_022340_01_MEWex_SAR.webp",
+    "name": "Mew ex",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 177,
+    "rarity": "SAR",
+    "image": "cPK_20_022570_01_LUGARUGANex_SAR.webp",
+    "name": "Wolwerock ex",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 178,
+    "rarity": "SAR",
+    "image": "cPK_20_022620_01_MEGABANGIRASex_SAR.webp",
+    "name": "Mega Despotar ex",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 179,
+    "rarity": "SAR",
+    "image": "cPK_20_022680_01_MEGAAIRMDex_SAR.webp",
+    "name": "Mega Panzaeron ex",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 180,
+    "rarity": "SAR",
+    "image": "cPK_20_022770_01_MEGAKAIRYUex_SAR.webp",
+    "name": "Mega Dragoran ex",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 181,
+    "rarity": "SAR",
+    "image": "cPK_20_022780_01_GIRATINAex_SAR.webp",
+    "name": "Giratina ex",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 182,
+    "rarity": "SAR",
+    "image": "cPK_20_022950_01_KITERUGUMAex_SAR.webp",
+    "name": "Kosturso ex",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 183,
+    "rarity": "IM",
+    "image": "cPK_20_022200_02_PIKACHUex_IM.webp",
+    "name": "Pikachu ex"
+  },
+  {
+    "set": "C1",
+    "number": 184,
+    "rarity": "IM",
+    "image": "cPK_20_022280_00_PURIN_IM.webp",
+    "name": "Pummeluff",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 185,
+    "rarity": "IM",
+    "image": "cPK_20_022330_02_MEGAMEWTWOXex_IM.webp",
+    "name": "Mega Mewtu X ex"
+  },
+  {
+    "set": "C1",
+    "number": 186,
+    "rarity": "IM",
+    "image": "cPK_20_022610_00_BRACKY_IM.webp",
+    "name": "Nachtara",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 187,
+    "rarity": "S",
+    "image": "cPK_20_016690_01_CELEBI_S.webp",
+    "name": "Celebi",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 188,
+    "rarity": "S",
+    "image": "cPK_20_016700_01_KIMORI_S.webp",
+    "name": "Geckarbor",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 189,
+    "rarity": "S",
+    "image": "cPK_20_016710_01_JUPTILE_S.webp",
+    "name": "Reptain",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 190,
+    "rarity": "S",
+    "image": "cPK_20_019850_00_HINOARASHI_S.webp",
+    "name": "Feurigel",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 191,
+    "rarity": "S",
+    "image": "cPK_20_019860_01_MAGMARASHI_S.webp",
+    "name": "Igelavar",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 192,
+    "rarity": "S",
+    "image": "cPK_20_022090_00_PAWOU_S.webp",
+    "name": "Jurob",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 193,
+    "rarity": "S",
+    "image": "cPK_20_022100_00_JUGON_S.webp",
+    "name": "Jugong",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 194,
+    "rarity": "S",
+    "image": "cPK_20_020150_00_PACHIRISU_S.webp",
+    "name": "Pachirisu",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 195,
+    "rarity": "S",
+    "image": "cPK_20_022300_00_CASEY_S.webp",
+    "name": "Abra",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 196,
+    "rarity": "S",
+    "image": "cPK_20_022310_00_YUNGERER_S.webp",
+    "name": "Kadabra",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 197,
+    "rarity": "S",
+    "image": "cPK_20_022320_00_FOODIN_S.webp",
+    "name": "Simsala",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 198,
+    "rarity": "S",
+    "image": "cPK_20_022430_00_LUNALA_S.webp",
+    "name": "Lunala",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 199,
+    "rarity": "S",
+    "image": "cPK_20_022460_00_SIHORN_S.webp",
+    "name": "Rihorn",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 200,
+    "rarity": "S",
+    "image": "cPK_20_022470_00_SIDON_S.webp",
+    "name": "Rizeros",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 201,
+    "rarity": "S",
+    "image": "cPK_20_016490_01_MORPEKO_S.webp",
+    "name": "Morpeko",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 202,
+    "rarity": "S",
+    "image": "cPK_20_022720_00_SOLGALEO_S.webp",
+    "name": "Solgaleo",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 203,
+    "rarity": "S",
+    "image": "cPK_20_022820_00_ONISUZUME_S.webp",
+    "name": "Habitak",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 204,
+    "rarity": "S",
+    "image": "cPK_20_022830_00_ONIDRILL_S.webp",
+    "name": "Ibitak",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 205,
+    "rarity": "S",
+    "image": "cPK_20_019000_00_HISUIZORUA_S.webp",
+    "name": "Hisui-Zorua",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 206,
+    "rarity": "S",
+    "image": "cPK_20_022940_00_NUIKOGUMA_S.webp",
+    "name": "Velursi",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 207,
+    "rarity": "SSR",
+    "image": "cPK_20_016730_03_MEGAJUKAINex_SSR.webp",
+    "name": "Mega Gewaldro ex",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 208,
+    "rarity": "SSR",
+    "image": "cPK_20_019870_02_BAKPHOONex_SSR.webp",
+    "name": "Tornupto ex",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 209,
+    "rarity": "SSR",
+    "image": "cPK_20_020450_02_MEGAERUREIDOex_SSR.webp",
+    "name": "Mega Galagladi ex",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 210,
+    "rarity": "SSR",
+    "image": "cPK_20_022570_02_LUGARUGANex_SSR.webp",
+    "name": "Wolwerock ex",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 211,
+    "rarity": "SSR",
+    "image": "cPK_20_022770_02_MEGAKAIRYUex_SSR.webp",
+    "name": "Mega Dragoran ex",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 212,
+    "rarity": "SSR",
+    "image": "cPK_20_018060_02_MEGATABUNNEex_SSR.webp",
+    "name": "Mega Ohrdoch ex",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 213,
+    "rarity": "SSR",
+    "image": "cPK_20_019570_02_HISUIZOROARKex_SSR.webp",
+    "name": "Hisui-Zoroark ex",
+    "packs": [
+      "Dual Fusion Pikachu"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 214,
+    "rarity": "SSR",
+    "image": "cPK_20_022950_02_KITERUGUMAex_SSR.webp",
+    "name": "Kosturso ex",
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 215,
+    "rarity": "UR",
+    "image": "cPK_20_022020_02_HOGATORex_UR.webp",
+    "name": "Krokel ex",
+    "packs": [
+      "Dual Fusion Pikachu",
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 216,
+    "rarity": "UR",
+    "image": "cPK_20_022270_01_PARMOT_UR.webp",
+    "name": "Pamomamo",
+    "packs": [
+      "Dual Fusion Pikachu",
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 217,
+    "rarity": "UR",
+    "image": "cPK_20_022780_02_GIRATINAex_UR.webp",
+    "name": "Giratina ex",
+    "packs": [
+      "Dual Fusion Pikachu",
+      "Dual Fusion Mega Mewtwo X"
+    ]
+  }
+]
