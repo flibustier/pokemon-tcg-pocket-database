@@ -1,0 +1,389 @@
+---
+import ElementIcon from "../../../components/ElementIcon.vue";
+import RaritySymbol from "../../../components/RaritySymbol.vue";
+import Base from "../../../layouts/Base.astro";
+import {
+  evolutionsOf,
+  previousOf,
+  printsOf,
+  rarities,
+  rawCardsById,
+  sets,
+  translatedNames,
+  type CardSet,
+} from "../../../lib/data";
+import {
+  capitalize,
+  cardId,
+  cardUrl,
+  formatDate,
+  formatNumber,
+  imageUrl,
+  LANGUAGES,
+  logoUrl,
+  setUrl,
+  STAGES,
+  thumbnailUrl,
+  TYPES,
+  type Card,
+} from "../../../lib/shared";
+
+export const getStaticPaths = () =>
+  sets.flatMap((set) =>
+    set.cards.map((card, i) => ({
+      params: { set: set.code, number: String(card.number) },
+      props: { set, card, previous: set.cards[i - 1], next: set.cards[i + 1] },
+    })),
+  );
+
+interface Props {
+  set: CardSet;
+  card: Card;
+  previous?: Card;
+  next?: Card;
+}
+const { set, card, previous, next } = Astro.props;
+
+const id = cardId(card);
+const setName = set.name.en!;
+const raw = rawCardsById.get(id)!;
+const rarity = rarities[card.rarity]!;
+const from = previousOf(card);
+const into = evolutionsOf(card);
+const others = printsOf(card.name).filter((other) => other !== card);
+const goodWith = (raw.goodWith as string[] | undefined)?.map((element) => element.toLowerCase()) ?? [];
+const names = [
+  ["en", card.name],
+  ...Object.keys(LANGUAGES)
+    .filter((lang) => translatedNames.get(lang)?.has(id))
+    .map((lang) => [lang, translatedNames.get(lang)!.get(id)!]),
+] as [string, string][];
+const type = TYPES[card.type] ?? capitalize(card.type);
+const number = card.number > 0 ? `${card.number} / ${set.cards.length}` : String(card.number);
+---
+
+<Base
+  title={`${card.name} (${card.set} ${card.number}), Pokémon TCG Pocket Database`}
+  description={`${card.name}, ${rarity.label} ${type} card, number ${card.number} of ${setName} in Pokémon TCG Pocket.`}
+  image={thumbnailUrl(card)}
+  nav="cards"
+>
+  <nav class="around" aria-label="Cards of the set">
+    <a class="set" href={setUrl(set.code)}>
+      <img src={logoUrl(set.code)} data-set-logo={set.code} alt="" width="256" height="113" />
+      <span data-set-name={set.code}>{setName}</span>
+    </a>
+    <span class="steps">
+      {
+        previous && (
+          <a class="button" href={cardUrl(previous)} rel="prev" id="previous">
+            ← <span class="mono">{previous.number}</span>
+            <span class="visually-hidden">{previous.name}</span>
+          </a>
+        )
+      }
+      {
+        next && (
+          <a class="button" href={cardUrl(next)} rel="next" id="next">
+            <span class="mono">{next.number}</span> →<span class="visually-hidden">{next.name}</span>
+          </a>
+        )
+      }
+    </span>
+  </nav>
+
+  <article>
+    <img
+      class="card-image main"
+      data-main-card
+      src={imageUrl(card)}
+      data-fallback={thumbnailUrl(card)}
+      alt={`${card.name}, card ${card.number} of ${setName}`}
+      width="367"
+      height="512"
+      style={`background-image:url(${thumbnailUrl(card)})`}
+      onerror="this.onerror=null;this.src=this.dataset.fallback"
+    />
+
+    <div class="info">
+      <p class="mono muted">{card.set} · {number}</p>
+      <h1 data-card-name={id}>{card.name}</h1>
+
+      <dl class="facts">
+        <div>
+          <dt>Rarity</dt>
+          <dd>{rarity.image && rarity.label} <RaritySymbol rarity={rarity} /></dd>
+        </div>
+        <div>
+          <dt>Type</dt>
+          <dd>{type}{card.type === "pokemon" && card.stage && `, ${STAGES[card.stage]}`}</dd>
+        </div>
+        {
+          card.element && (
+            <div>
+              <dt>Element</dt>
+              <dd>
+                <ElementIcon element={card.element} /> {capitalize(card.element)}
+              </dd>
+            </div>
+          )
+        }
+        {card.health && <div><dt>HP</dt><dd>{card.health}</dd></div>}
+        {
+          card.element && (
+            <div>
+              <dt>Weakness</dt>
+              <dd>
+                {card.weakness ? (
+                  <>
+                    <ElementIcon element={card.weakness} /> {capitalize(card.weakness)}
+                  </>
+                ) : (
+                  "None"
+                )}
+              </dd>
+            </div>
+          )
+        }
+        {card.retreatCost !== undefined && <div><dt>Retreat cost</dt><dd>{card.retreatCost}</dd></div>}
+        {
+          from && (
+            <div>
+              <dt>Evolves from</dt>
+              <dd>
+                <a href={cardUrl(from)} data-card-name={cardId(from)}>{from.name}</a>
+              </dd>
+            </div>
+          )
+        }
+        {
+          into.length > 0 && (
+            <div>
+              <dt>Evolves into</dt>
+              <dd class="list">
+                {into.map((other) => (
+                  <a href={cardUrl(other)} data-card-name={cardId(other)}>{other.name}</a>
+                ))}
+              </dd>
+            </div>
+          )
+        }
+        {
+          goodWith.length > 0 && (
+            <div>
+              <dt>Good with</dt>
+              <dd class="list">
+                {goodWith.map((element) => (
+                  <span>
+                    <ElementIcon element={element} /> {capitalize(element)}
+                  </span>
+                ))}
+              </dd>
+            </div>
+          )
+        }
+        {card.packs.length > 0 && <div><dt>{card.packs.length === 1 ? "Pack" : "Packs"}</dt><dd>{card.packs.join(", ")}</dd></div>}
+        {rarity.points && !set.code.startsWith("PROMO") && <div><dt>Craft</dt><dd>{formatNumber(rarity.points)} pack points</dd></div>}
+        {
+          !set.code.startsWith("PROMO") && (
+            <div>
+              <dt>Trade</dt>
+              <dd>
+                {!rarity.tradeable ? "Not possible" : rarity.tradePrice ? `${formatNumber(rarity.tradePrice)} shinedust` : "Free"}
+              </dd>
+            </div>
+          )
+        }
+        <div>
+          <dt>Set released</dt>
+          <dd>{formatDate(set.releaseDate)}</dd>
+        </div>
+      </dl>
+
+      <section>
+        <h2>Names</h2>
+        <dl class="names">
+          {names.map(([lang, name]) => <div><dt class="muted">{LANGUAGES[lang]}</dt><dd lang={lang}>{name}</dd></div>)}
+        </dl>
+      </section>
+
+      <details>
+        <summary>JSON</summary>
+        <pre><code>{JSON.stringify(raw, null, 2)}</code></pre>
+      </details>
+    </div>
+  </article>
+
+  {
+    others.length > 0 && (
+      <section>
+        <h2>
+          {others.length} other {others.length === 1 ? "card" : "cards"} named{" "}
+          <span data-card-name={id}>{card.name}</span>
+        </h2>
+        <ul class="others">
+          {others.map((other) => (
+            <li>
+              <a href={cardUrl(other)} data-card-link>
+                <img
+                  class="card-image"
+                  src={thumbnailUrl(other)}
+                  alt={`${other.name} ${other.set} ${other.number}`}
+                  width="208"
+                  height="290"
+                  loading="lazy"
+                />
+                <span class="caption">
+                  <span class="mono muted">
+                    {other.set} {other.number}
+                  </span>
+                  <RaritySymbol rarity={rarities[other.rarity]!} />
+                </span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )
+  }
+</Base>
+
+<style>
+  .around {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem 1.5rem;
+    padding: 1rem 0 2rem;
+  }
+  .set {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.9rem;
+    font-weight: 600;
+  }
+  .set img {
+    width: 6rem;
+    height: auto;
+  }
+  .steps {
+    display: flex;
+    gap: 0.5rem;
+    margin-left: auto;
+  }
+  article {
+    display: grid;
+    grid-template-columns: minmax(0, 24rem) minmax(0, 1fr);
+    gap: 2rem clamp(2rem, 6vw, 6rem);
+    align-items: start;
+  }
+  .main {
+    position: sticky;
+    top: 1.5rem;
+    background-size: cover;
+    box-shadow: 0 18px 50px var(--shadow);
+    view-transition-name: card;
+  }
+  .info {
+    display: grid;
+    gap: 1rem;
+  }
+  h1 {
+    margin-top: -0.6rem;
+  }
+  dl,
+  dd {
+    margin: 0;
+  }
+  .facts {
+    margin-top: 0.5rem;
+    border-top: 1px solid var(--line);
+  }
+  .facts div {
+    display: grid;
+    grid-template-columns: 9rem 1fr;
+    gap: 1rem;
+    padding: 0.55rem 0;
+    border-bottom: 1px solid var(--line);
+  }
+  .facts dt {
+    color: var(--muted);
+  }
+  .facts dd {
+    font-weight: 500;
+  }
+  .list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem 1rem;
+  }
+  h2 {
+    font-size: 1.375rem;
+    margin-bottom: 1rem;
+  }
+  article section {
+    margin-top: 1.25rem;
+  }
+  .names {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(11rem, 1fr));
+    gap: 0.75rem 1.5rem;
+  }
+  .names dt {
+    font-size: 0.875rem;
+  }
+  pre {
+    margin: 0.75rem 0 0;
+    padding: 1rem;
+    overflow-x: auto;
+    border-radius: var(--radius);
+    background: var(--sunken);
+    line-height: 1.6;
+  }
+  main > section,
+  article + section {
+    margin-top: 4rem;
+  }
+  .others {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(7.5rem, 1fr));
+    gap: 1.25rem 1rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .others a {
+    text-decoration: none;
+  }
+  .caption {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 0.5rem;
+    font-size: 0.8125rem;
+  }
+  @media (max-width: 48rem) {
+    article {
+      grid-template-columns: 1fr;
+    }
+    .main {
+      position: static;
+      max-width: 18rem;
+      margin-inline: auto;
+    }
+    .facts div {
+      grid-template-columns: 7rem 1fr;
+    }
+  }
+</style>
+
+<script>
+  // Arrow keys go through the set
+  document.addEventListener("keydown", (event) => {
+    if (event.altKey || event.ctrlKey || event.metaKey || event.shiftKey) return;
+    if ((event.target as Element).closest?.("input, select, textarea, pre")) return;
+    const id = new Map([["ArrowLeft", "previous"], ["ArrowRight", "next"]]).get(event.key);
+    if (id) document.getElementById(id)?.click();
+  });
+</script>

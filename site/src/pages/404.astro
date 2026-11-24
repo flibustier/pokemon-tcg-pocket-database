@@ -1,0 +1,20 @@
+---
+import Base from "../layouts/Base.astro";
+import { url } from "../lib/shared";
+---
+
+<Base title="Page not found, Pokémon TCG Pocket Database" description="This page does not exist.">
+  <div class="page">
+    <h1>There is no such page</h1>
+    <p>The card or set may have another number. Look for it in the list.</p>
+    <p><a class="button solid" href={url("/cards/")}>See all cards</a></p>
+  </div>
+</Base>
+
+<style>
+  .page {
+    display: grid;
+    gap: 1.25rem;
+    padding-block: clamp(2rem, 8vw, 6rem);
+  }
+</style>

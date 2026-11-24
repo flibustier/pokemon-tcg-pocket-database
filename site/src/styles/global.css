@@ -1,0 +1,223 @@
+/* The interface is ink on paper: color is kept for the data (elements), never for decoration. */
+:root {
+  color-scheme: light dark;
+
+  --paper: light-dark(#f2f3f8, #0e101d);
+  --raised: light-dark(#ffffff, #181b2c);
+  --sunken: light-dark(#e6e8f1, #080a14);
+  --ink: light-dark(#14172b, #eceef8);
+  --muted: light-dark(#585d78, #9ba1bd);
+  --line: light-dark(#d5d8e5, #2b2f47);
+  --line-strong: light-dark(#a9aec6, #4a4f6d);
+  --shadow: light-dark(rgb(20 23 43 / 0.16), rgb(0 0 0 / 0.6));
+
+  --grass: light-dark(#3d9f54, #57b96b);
+  --fire: light-dark(#e2502f, #f26a48);
+  --water: light-dark(#2a86dc, #4da0f0);
+  --lightning: light-dark(#eab209, #f6c733);
+  --psychic: light-dark(#9a54cc, #b676e4);
+  --fighting: light-dark(#ad5c2a, #c97a45);
+  --darkness: light-dark(#2b4455, #5d8199);
+  --metal: light-dark(#84929f, #9cabb9);
+  --dragon: light-dark(#9a8420, #bfa83f);
+  --colorless: light-dark(#c9c1b3, #d9d2c6);
+  --trainer: light-dark(#e08aa6, #d67f9d);
+
+  --sans: "Gabarito Variable", "Hiragino Sans", "Noto Sans CJK JP", system-ui, sans-serif;
+  --mono: "Martian Mono Variable", ui-monospace, monospace;
+
+  --gutter: clamp(1rem, 4vw, 3rem);
+  --radius: 10px;
+}
+
+:root[data-theme="light"] {
+  color-scheme: light;
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  background: var(--paper);
+  color: var(--ink);
+  font: 400 1.0625rem/1.5 var(--sans);
+  -webkit-text-size-adjust: 100%;
+  scrollbar-gutter: stable;
+}
+
+body {
+  margin: 0;
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+  width: 100%;
+  max-width: 88rem;
+  margin-inline: auto;
+  padding-inline: var(--gutter);
+}
+
+h1,
+h2,
+h3 {
+  font-weight: 700;
+  line-height: 1.08;
+  letter-spacing: -0.02em;
+  text-wrap: balance;
+  margin: 0;
+}
+
+h1 {
+  font-size: clamp(2.25rem, 5.5vw, 4.25rem);
+  font-weight: 800;
+  letter-spacing: -0.035em;
+}
+
+h2 {
+  font-size: clamp(1.5rem, 2.6vw, 2rem);
+}
+
+p {
+  margin: 0;
+  text-wrap: pretty;
+}
+
+a {
+  color: inherit;
+  text-underline-offset: 0.2em;
+  text-decoration-thickness: 1px;
+  text-decoration-color: var(--line-strong);
+}
+a:hover {
+  text-decoration-color: currentColor;
+}
+
+img {
+  max-width: 100%;
+}
+
+:focus-visible {
+  outline: 2px solid var(--ink);
+  outline-offset: 2px;
+}
+
+button,
+input,
+select {
+  font: inherit;
+  color: inherit;
+}
+
+code,
+pre,
+.mono {
+  font-family: var(--mono);
+  font-size: 0.75rem;
+  font-variation-settings: "wdth" 87;
+  letter-spacing: -0.01em;
+}
+
+.muted {
+  color: var(--muted);
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+.field {
+  height: 2.5rem;
+  padding: 0 0.75rem;
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius);
+  background: var(--raised);
+}
+input.field::placeholder {
+  color: var(--muted);
+}
+select.field {
+  cursor: pointer;
+  max-width: 100%;
+  text-overflow: ellipsis;
+}
+
+.button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  height: 2.5rem;
+  padding: 0 1rem;
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius);
+  background: var(--raised);
+  font-weight: 500;
+  text-decoration: none;
+  white-space: nowrap;
+  cursor: pointer;
+}
+.button:hover {
+  border-color: var(--ink);
+}
+.button.solid {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: var(--paper);
+}
+
+/* Colors of the elements, as --element */
+.el-grass { --element: var(--grass); }
+.el-fire { --element: var(--fire); }
+.el-water { --element: var(--water); }
+.el-lightning { --element: var(--lightning); }
+.el-psychic { --element: var(--psychic); }
+.el-fighting { --element: var(--fighting); }
+.el-darkness { --element: var(--darkness); }
+.el-metal { --element: var(--metal); }
+.el-dragon { --element: var(--dragon); }
+.el-colorless { --element: var(--colorless); }
+.el-trainer { --element: var(--trainer); }
+
+/* A card image holds its place before it loads, and when it cannot */
+.card-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 367 / 512;
+  border-radius: 4.6% / 3.3%;
+  background: var(--sunken);
+  object-fit: cover;
+}
+
+details > summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+
+@view-transition {
+  navigation: auto;
+}
+@media (prefers-reduced-motion: reduce) {
+  @view-transition {
+    navigation: none;
+  }
+}
+::view-transition-group(*),
+::view-transition-old(*),
+::view-transition-new(*) {
+  animation-duration: 0.22s;
+}

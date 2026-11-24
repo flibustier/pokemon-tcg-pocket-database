@@ -1,0 +1,55 @@
+name: Deploy website
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "dist/**"
+      - "site/**"
+      - "package.json"
+      - ".github/workflows/pages.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+# Never cancel a deployment, only skip those that wait
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: site
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+      - uses: oven-sh/setup-bun@v2
+      - run: bun install --frozen-lockfile
+      - run: bun run check
+      - run: bun run build
+
+      - name: Commit the pages to gh-pages
+        run: |
+          git fetch --depth=1 origin gh-pages
+          git worktree add -B gh-pages ../../gh-pages FETCH_HEAD
+          rsync -a --delete --exclude=.git dist/ ../../gh-pages/
+          touch ../../gh-pages/.nojekyll
+          cd ../../gh-pages
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add --all --force
+          git diff --cached --quiet || git commit -m "Deploy $GITHUB_SHA"
+          git push origin gh-pages
+
+      # What GITHUB_TOKEN pushes may not start a build by itself
+      - name: Publish gh-pages
+        run: gh api -X POST "repos/$GITHUB_REPOSITORY/pages/builds"
+        env:
+          GH_TOKEN: ${{ github.token }}

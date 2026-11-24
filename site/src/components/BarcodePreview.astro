@@ -1,0 +1,111 @@
+---
+// The card under the pointer, for all the barcodes of the page
+---
+
+<a class="preview" id="barcode-preview" hidden tabindex="-1">
+  <img class="card-image" width="208" height="290" alt="" />
+  <span class="text"><span class="mono muted"></span><span class="name"></span></span>
+</a>
+
+<style>
+  .preview {
+    position: fixed;
+    z-index: 20;
+    top: 0;
+    left: 0;
+    width: 150px;
+    padding: 6px;
+    border-radius: 12px;
+    background: var(--raised);
+    box-shadow: 0 8px 30px var(--shadow);
+    text-decoration: none;
+    font-size: 0.9375rem;
+    line-height: 1.2;
+    pointer-events: none;
+  }
+  .preview.touched {
+    pointer-events: auto;
+  }
+  .text {
+    display: grid;
+    gap: 2px;
+    padding: 6px 4px 2px;
+  }
+  .name {
+    font-weight: 600;
+  }
+</style>
+
+<script>
+  import { onLocale, translate } from "../lib/locale";
+  import { cardId, cardUrl, thumbnailUrl, unpack, url, type Card, type PackedCard } from "../lib/shared";
+
+  const preview = document.querySelector<HTMLAnchorElement>("#barcode-preview")!;
+  const image = preview.querySelector("img")!;
+  const [code, name] = preview.querySelectorAll<HTMLElement>(".text span");
+
+  let cardsBySet: Promise<Map<string, Card[]>> | undefined;
+  const loadCards = () =>
+    (cardsBySet ??= fetch(url("/data/cards.json"))
+      .then((response) => response.json())
+      .then((packed: PackedCard[]) => Map.groupBy(packed.map(unpack), ({ set }) => set)));
+
+  let locale: Parameters<Parameters<typeof onLocale>[0]>[0];
+  onLocale((value) => (locale = value));
+
+  let shown: Card | undefined;
+  let last = 0;
+
+  const hide = () => {
+    last++;
+    shown = undefined;
+    preview.hidden = true;
+  };
+
+  const show = async (svg: SVGElement, x: number, touched: boolean) => {
+    const call = ++last;
+    const cards = (await loadCards()).get(svg.dataset.barcode!);
+    // The pointer moved or left while the cards were loading
+    if (!cards || call !== last) return;
+    const box = svg.getBoundingClientRect();
+    const index = Math.floor(((x - box.left) / box.width) * cards.length);
+    const card = cards[Math.max(0, Math.min(cards.length - 1, index))]!;
+
+    if (card !== shown) {
+      shown = card;
+      preview.href = cardUrl(card);
+      image.src = thumbnailUrl(card);
+      code!.textContent = `${card.set} ${card.number}`;
+      name!.textContent = translate(locale.names, card.name, cardId(card));
+    }
+    preview.hidden = false;
+    preview.classList.toggle("touched", touched);
+
+    const { width, height } = preview.getBoundingClientRect();
+    const left = Math.max(8, Math.min(innerWidth - width - 8, x - width / 2));
+    const below = box.bottom + 10;
+    const top = below + height < innerHeight ? below : Math.max(8, box.top - height - 10);
+    preview.style.transform = `translate(${left}px, ${top}px)`;
+  };
+
+  for (const svg of document.querySelectorAll<SVGElement>("[data-barcode]")) {
+    svg.addEventListener("pointermove", (event) =>
+      show(svg, event.clientX, event.pointerType !== "mouse"),
+    );
+    svg.addEventListener("pointerdown", (event) =>
+      show(svg, event.clientX, event.pointerType !== "mouse"),
+    );
+    svg.addEventListener("pointerleave", (event) => event.pointerType === "mouse" && hide());
+    // With a finger, the first tap shows the card and a second one on the preview opens it
+    svg.addEventListener("click", (event) => {
+      if ((event as PointerEvent).pointerType !== "mouse" || !shown) return;
+      if (event.metaKey || event.ctrlKey) window.open(preview.href);
+      else location.href = preview.href;
+    });
+  }
+  addEventListener("scroll", hide, { passive: true });
+  addEventListener("pagehide", hide);
+  document.addEventListener("pointerdown", (event) => {
+    if (!(event.target as Element).closest("[data-barcode], #barcode-preview")) hide();
+  });
+</script>

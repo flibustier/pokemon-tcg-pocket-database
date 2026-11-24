@@ -1,0 +1,52 @@
+---
+// One vertical line per card: its color is the element, its height the rarity.
+import type { Card } from "../lib/shared";
+import { RARITY_HEIGHTS } from "../lib/shared";
+
+interface Props {
+  set: string;
+  cards: Card[];
+  /** How many lines the full width stands for, to compare sets. Defaults to the set's own count. */
+  scale?: number;
+}
+const { set, cards, scale = cards.length } = Astro.props;
+
+const lines = new Map<string, string>();
+cards.forEach((card, i) => {
+  const color = card.element ?? "trainer";
+  const top = 100 - (RARITY_HEIGHTS[card.rarity] ?? 50);
+  lines.set(color, `${lines.get(color) ?? ""}M${i + 0.5} ${top}V100`);
+});
+---
+
+<svg
+  class="barcode"
+  data-barcode={set}
+  viewBox={`0 0 ${cards.length} 100`}
+  preserveAspectRatio="none"
+  style={`width:${(100 * cards.length) / scale}%`}
+  aria-hidden="true"
+>
+  {[...lines].map(([color, d]) => <path class={`el-${color}`} d={d} />)}
+</svg>
+
+<style>
+  .barcode {
+    display: block;
+    height: 100%;
+    overflow: visible;
+    cursor: crosshair;
+    touch-action: pan-y;
+  }
+  path {
+    stroke: var(--element);
+    stroke-width: 0.74;
+    fill: none;
+  }
+  /* Lines get thinner than a pixel: without a gap, they keep their color */
+  @media (max-width: 60rem) {
+    path {
+      stroke-width: 1;
+    }
+  }
+</style>

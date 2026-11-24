@@ -1,0 +1,272 @@
+---
+import "@fontsource-variable/gabarito";
+import "@fontsource-variable/martian-mono/wdth.css";
+import "../styles/global.css";
+import { languages, version } from "../lib/data";
+import { LANGUAGES, url } from "../lib/shared";
+
+interface Props {
+  title: string;
+  description: string;
+  image?: string;
+  nav?: "sets" | "cards";
+}
+const { title, description, image, nav } = Astro.props;
+const canonical = new URL(Astro.url.pathname, Astro.site);
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" href={url("/favicon.svg")} type="image/svg+xml" />
+    <link rel="sitemap" href={url("/sitemap-index.xml")} />
+    <link rel="preconnect" href="https://cdn.pokemon-tcg.exchange" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:type" content="website" />
+    {image && <meta property="og:image" content={image} />}
+    <meta name="theme-color" content="#f2f3f8" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#0e101d" media="(prefers-color-scheme: dark)" />
+    <script is:inline>
+      // Before the first paint
+      try {
+        const theme = localStorage.getItem("theme");
+        if (theme) document.documentElement.dataset.theme = theme;
+      } catch {}
+    </script>
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to content</a>
+    <header>
+      <a class="brand" href={url("/")}>
+        <svg viewBox="0 0 22 20" aria-hidden="true">
+          <path class="el-grass" d="M1.500 12v8" /><path class="el-fire" d="M5.300 8v12" /><path
+            class="el-water"
+            d="M9.100 14v6"></path><path class="el-lightning" d="M12.900 4v16" /><path
+            class="el-psychic"
+            d="M16.700 10v10"></path><path class="el-fighting" d="M20.500 0v20" />
+        </svg>
+        <span>Pocket Database</span>
+      </a>
+      <nav aria-label="Main">
+        <a href={url("/")} aria-current={nav === "sets" ? "page" : undefined}>Sets</a>
+        <a href={url("/cards/")} aria-current={nav === "cards" ? "page" : undefined}>Cards</a>
+      </nav>
+      <div class="tools">
+        <label>
+          <span class="visually-hidden">Language of card names</span>
+          <select class="field" id="language" autocomplete="off">
+            {languages.map((code) => <option value={code}>{LANGUAGES[code] ?? code}</option>)}
+          </select>
+        </label>
+        <button class="button square" id="theme" type="button" aria-label="Switch theme" title="Switch theme">
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <circle cx="12" cy="12" r="9" /><path d="M12 3a9 9 0 0 1 0 18z" />
+          </svg>
+        </button>
+        <a
+          class="button square"
+          href="https://github.com/flibustier/pokemon-tcg-pocket-database"
+          aria-label="Source on GitHub"
+          title="Source on GitHub"
+        >
+          <svg class="github" viewBox="0 0 16 16" aria-hidden="true">
+            <path
+              d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.100.16 1.920.08 2.120.51.56.82 1.270.82 2.150 0 3.070-1.870 3.750-3.650 3.950.29.25.54.73.54 1.480 0 1.070-.01 1.930-.01 2.200 0 .21.15.46.55.38A8.010 8.010 0 0 0 16 8c0-4.420-3.580-8-8-8z"
+            ></path>
+          </svg>
+        </a>
+      </div>
+    </header>
+
+    <main id="main"><slot /></main>
+
+    <footer>
+      <p>
+        Data{" "}<a href="https://www.npmjs.com/package/pokemon-tcg-pocket-database">v{version}</a>, MIT licensed.{" "}
+        <a href="https://github.com/flibustier/pokemon-tcg-pocket-database/issues">Report a mistake</a>
+      </p>
+      <p class="muted">
+        Unofficial. Pokémon and Pokémon TCG Pocket are trademarks of Nintendo, Creatures Inc., GAME FREAK inc.,
+        The Pokémon Company and DeNA Co., Ltd., who are not affiliated with this site.
+      </p>
+    </footer>
+  </body>
+</html>
+
+<style>
+  .skip {
+    position: absolute;
+    left: -100vw;
+  }
+  .skip:focus {
+    left: 1rem;
+    top: 1rem;
+    z-index: 30;
+    padding: 0.5rem 1rem;
+    background: var(--ink);
+    color: var(--paper);
+  }
+  header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.75rem 2rem;
+    width: 100%;
+    max-width: 88rem;
+    margin-inline: auto;
+    padding: 1rem var(--gutter);
+  }
+  .brand {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6rem;
+    font-weight: 800;
+    font-size: 1.1875rem;
+    letter-spacing: -0.02em;
+    text-decoration: none;
+  }
+  .brand svg {
+    width: 1.4rem;
+    height: 1.25rem;
+    overflow: visible;
+  }
+  .brand path {
+    stroke: var(--element);
+    stroke-width: 2.600;
+  }
+  nav {
+    display: flex;
+    gap: 1.25rem;
+  }
+  nav a {
+    text-decoration: none;
+    padding-block: 0.375rem;
+    border-bottom: 2px solid transparent;
+  }
+  nav a:hover {
+    border-color: var(--line-strong);
+  }
+  nav a[aria-current] {
+    border-color: var(--ink);
+    font-weight: 600;
+  }
+  .tools {
+    display: flex;
+    gap: 0.5rem;
+    margin-left: auto;
+  }
+  .square {
+    width: 2.5rem;
+    padding: 0;
+  }
+  .square svg {
+    width: 1.2rem;
+    height: 1.2rem;
+    fill: currentColor;
+  }
+  .square circle {
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 2;
+  }
+  footer {
+    display: grid;
+    gap: 0.5rem;
+    width: 100%;
+    max-width: 88rem;
+    margin: 6rem auto 0;
+    padding: 1.5rem var(--gutter) 2.5rem;
+    border-top: 1px solid var(--line);
+    font-size: 0.9375rem;
+  }
+  footer .muted {
+    max-width: 70ch;
+    font-size: 0.875rem;
+  }
+  @media (max-width: 40rem) {
+    .brand span {
+      font-size: 1.0625rem;
+    }
+    nav {
+      margin-left: auto;
+    }
+    .tools {
+      width: 100%;
+      margin: 0;
+    }
+    .tools label {
+      flex: 1;
+    }
+    .tools select {
+      width: 100%;
+    }
+  }
+</style>
+
+<script>
+  import { savedLanguage, saveLanguage, setLanguage } from "../lib/locale";
+
+  const select = document.querySelector<HTMLSelectElement>("#language")!;
+  const known = [...select.options].map(({ value }) => value);
+
+  const apply = async (lang: string) => {
+    try {
+      await setLanguage(lang);
+    } catch (error) {
+      // Offline: the names stay as they were
+      console.error(error);
+    }
+  };
+
+  const saved = savedLanguage();
+  if (saved !== "en" && known.includes(saved)) {
+    select.value = saved;
+    apply(saved);
+  }
+  select.addEventListener("change", () => {
+    saveLanguage(select.value);
+    apply(select.value);
+  });
+
+  document.querySelector("#theme")!.addEventListener("click", () => {
+    const root = document.documentElement;
+    const isDark = root.dataset.theme
+      ? root.dataset.theme === "dark"
+      : matchMedia("(prefers-color-scheme: dark)").matches;
+    root.dataset.theme = isDark ? "light" : "dark";
+    try {
+      localStorage.setItem("theme", root.dataset.theme);
+    } catch {
+      // Private browsing: the theme lasts for this page only
+    }
+  });
+
+  // The thumbnail that is clicked turns into the image of the card's page
+  let morphing: HTMLElement | undefined;
+  document.addEventListener("click", (event) => {
+    const link = (event.target as Element).closest?.("a[data-card-link]");
+    const image = link?.querySelector<HTMLElement>("img.card-image");
+    if (!image) return;
+    if (morphing) morphing.style.viewTransitionName = "";
+    const main = document.querySelector<HTMLElement>("[data-main-card]");
+    if (main) main.style.viewTransitionName = "none";
+    image.style.viewTransitionName = "card";
+    morphing = image;
+  });
+  // Back on the page: the image went back to its place, forget it once that is over
+  window.addEventListener("pageshow", ({ persisted }) => {
+    if (!persisted) return;
+    setTimeout(() => {
+      if (morphing) morphing.style.viewTransitionName = "";
+      const main = document.querySelector<HTMLElement>("[data-main-card]");
+      if (main) main.style.viewTransitionName = "";
+    }, 400);
+  });
+</script>

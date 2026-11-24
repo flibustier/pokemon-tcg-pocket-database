@@ -1,0 +1,277 @@
+---
+import Barcode from "../../components/Barcode.astro";
+import BarcodePreview from "../../components/BarcodePreview.astro";
+import CardExplorer from "../../components/CardExplorer.vue";
+import RaritySymbol from "../../components/RaritySymbol.vue";
+import Base from "../../layouts/Base.astro";
+import { packImages, pullRates, rarities, sets, type CardSet } from "../../lib/data";
+import { formatDate, LANGUAGES, logoUrl, pack, setUrl, url } from "../../lib/shared";
+
+export const getStaticPaths = () =>
+  sets.map((set, i) => ({
+    params: { code: set.code },
+    props: { set, previous: sets[i - 1], next: sets[i + 1] },
+  }));
+
+interface Props {
+  set: CardSet;
+  previous?: CardSet;
+  next?: CardSet;
+}
+const { set, previous, next } = Astro.props;
+
+const name = set.name.en!;
+const counts = Object.keys(rarities)
+  .map((code) => [code, set.cards.filter(({ rarity }) => rarity === code).length] as const)
+  .filter(([, count]) => count > 0);
+const packs = set.packs.filter((pack) => packImages.has(pack));
+const rates = Object.entries(pullRates[set.code] ?? {});
+const raritiesOf = (slots: Record<string, Record<string, number>>) =>
+  Object.keys(rarities).filter((code) => Object.values(slots).some((slot) => slot[code]));
+const json = `https://cdn.jsdelivr.net/npm/pokemon-tcg-pocket-database/dist/cards/${set.code}.json`;
+---
+
+<Base
+  title={`${name} (${set.code}): all ${set.cards.length} cards, Pokémon TCG Pocket Database`}
+  description={`The ${set.cards.length} cards of ${name} (${set.code}), released on ${formatDate(set.releaseDate)} in Pokémon TCG Pocket, with pull rates.`}
+  image={new URL(logoUrl(set.code), Astro.site).href}
+  nav="sets"
+>
+  <div class="head">
+    <div class="title">
+      <img src={logoUrl(set.code)} data-set-logo={set.code} alt="" width="256" height="113" />
+      <h1 data-set-name={set.code}>{name}</h1>
+      <p class="muted">
+        <span class="mono">{set.code}</span> · {set.cards.length} cards · Released {formatDate(set.releaseDate)} ·{" "}
+        <a href={json}>JSON</a>
+      </p>
+    </div>
+    {
+      packs.length > 0 && (
+        <ul class="packs" aria-label="Packs">
+          {packs.map((pack) => (
+            <li>
+              <img src={url(`/images/packs/${encodeURIComponent(pack)}.webp`)} alt="" width="160" height="256" />
+              <span>{pack}</span>
+            </li>
+          ))}
+        </ul>
+      )
+    }
+  </div>
+
+  <div class="code"><Barcode set={set.code} cards={set.cards} /></div>
+
+  <ul class="counts" aria-label="Cards by rarity">
+    {
+      counts.map(([code, count]) => (
+        <li>
+          <RaritySymbol rarity={rarities[code]!} />
+          <span>{rarities[code]!.image && rarities[code]!.label}</span>
+          <strong>{count}</strong>
+        </li>
+      ))
+    }
+  </ul>
+
+  <div class="more">
+    {
+      rates.length > 0 && (
+        <details>
+          <summary>Pull rates</summary>
+          {rates.map(([kind, { appearance_rate, slots }]) => (
+            <div class="rates">
+              <table>
+                <caption>
+                  {kind} <span class="muted">{appearance_rate}% of packs</span>
+                </caption>
+                <thead>
+                  <tr>
+                    <th scope="col">Card</th>
+                    {raritiesOf(slots).map((code) => (
+                      <th scope="col">
+                        <RaritySymbol rarity={rarities[code]!} />
+                      </th>
+                    ))}
+                  </tr>
+                </thead>
+                <tbody>
+                  {/* The slots of B2a and B2b are numbered from 0, the others from 1 */}
+                  {Object.values(slots).map((odds, i) => (
+                    <tr>
+                      <th scope="row">{i + 1}</th>
+                      {raritiesOf(slots).map((code) => (
+                        <td>{odds[code] ? `${odds[code]}%` : <span class="muted">–</span>}</td>
+                      ))}
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          ))}
+        </details>
+      )
+    }
+    <details>
+      <summary>Names in {Object.keys(set.name).length} languages</summary>
+      <dl>
+        {
+          Object.keys(LANGUAGES)
+            .filter((lang) => set.name[lang])
+            .map((lang) => (
+              <div>
+                <dt class="muted">{LANGUAGES[lang]}</dt>
+                <dd lang={lang}>{set.name[lang]}</dd>
+              </div>
+            ))
+        }
+      </dl>
+    </details>
+  </div>
+
+  <CardExplorer
+    client:load
+    initial={JSON.stringify(set.cards.map(pack))}
+    total={set.cards.length}
+    rarities={rarities}
+    packs={set.packs}
+  />
+
+  <nav class="around" aria-label="Other sets">
+    {previous && <a href={setUrl(previous.code)}><span class="muted">Previous set</span><span data-set-name={previous.code}>{previous.name.en}</span></a>}
+    {next && <a class="next" href={setUrl(next.code)}><span class="muted">Next set</span><span data-set-name={next.code}>{next.name.en}</span></a>}
+  </nav>
+
+  <BarcodePreview />
+</Base>
+
+<style>
+  .head {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: end;
+    gap: 2rem;
+    padding: clamp(1rem, 3vw, 2.5rem) 0 2rem;
+  }
+  .title {
+    display: grid;
+    gap: 0.75rem;
+    flex: 1 1 24rem;
+  }
+  .title img {
+    width: 12rem;
+    height: auto;
+  }
+  .packs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .packs li {
+    display: grid;
+    gap: 0.5rem;
+    width: clamp(5rem, 25vw, 6.5rem);
+    justify-items: center;
+    text-align: center;
+    font-size: 0.875rem;
+    line-height: 1.2;
+    align-content: start;
+  }
+  .packs img {
+    width: 100%;
+    height: auto;
+  }
+  .code {
+    height: clamp(5rem, 11vw, 9rem);
+  }
+  .counts {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem 1.75rem;
+    margin: 0;
+    padding: 1.25rem 0;
+    border-top: 1px solid var(--line);
+    list-style: none;
+  }
+  .counts li {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  .more {
+    display: grid;
+    margin-bottom: 2.5rem;
+    border-top: 1px solid var(--line);
+  }
+  details {
+    border-bottom: 1px solid var(--line);
+  }
+  summary {
+    padding: 0.8rem 0;
+  }
+  .rates {
+    overflow-x: auto;
+    padding-bottom: 1.5rem;
+  }
+  table {
+    border-collapse: collapse;
+    font-variant-numeric: tabular-nums;
+    font-size: 0.9375rem;
+  }
+  caption {
+    text-align: left;
+    padding-bottom: 0.25rem;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+  caption span {
+    font-weight: 400;
+  }
+  th,
+  td {
+    padding: 0.35rem 1.5rem 0.35rem 0;
+    border-bottom: 1px solid var(--line);
+    text-align: right;
+    font-weight: 400;
+    white-space: nowrap;
+  }
+  th:first-child {
+    text-align: left;
+    color: var(--muted);
+  }
+  dl {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+    gap: 0.75rem 2rem;
+    margin: 0;
+    padding-bottom: 1.25rem;
+  }
+  dd {
+    margin: 0;
+  }
+  dt {
+    font-size: 0.875rem;
+  }
+  .around {
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+    margin-top: 4rem;
+  }
+  .around a {
+    display: grid;
+    font-weight: 600;
+  }
+  .around .muted {
+    font-weight: 400;
+    font-size: 0.9375rem;
+  }
+  .around .next {
+    margin-left: auto;
+    text-align: right;
+  }
+</style>
