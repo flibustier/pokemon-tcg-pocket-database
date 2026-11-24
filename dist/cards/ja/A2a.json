@@ -1,0 +1,962 @@
+[
+  {
+    "set": "A2a",
+    "number": 1,
+    "rarity": "U",
+    "name": "ヘラクロス",
+    "image": "cPK_10_004250_00_HERACROS_U.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 2,
+    "rarity": "C",
+    "name": "ミノムッチ",
+    "image": "cPK_10_004260_00_MINOMUCCHI_C.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 3,
+    "rarity": "U",
+    "name": "ガーメイル",
+    "image": "cPK_10_004270_00_GAMALE_U.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 4,
+    "rarity": "C",
+    "name": "ミツハニー",
+    "image": "cPK_10_004280_00_MITSUHONEY_C.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 5,
+    "rarity": "U",
+    "name": "ビークイン",
+    "image": "cPK_10_004290_00_BEEQUEN_U.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 6,
+    "rarity": "C",
+    "name": "チェリンボ",
+    "image": "cPK_10_004300_00_CHERINBO_C.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 7,
+    "rarity": "U",
+    "name": "チェリム",
+    "image": "cPK_10_004310_00_CHERRIM_U.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 8,
+    "rarity": "U",
+    "name": "チェリム",
+    "image": "cPK_10_004320_00_CHERRIM_U.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 9,
+    "rarity": "R",
+    "name": "マスキッパ",
+    "image": "cPK_10_004330_00_MUSKIPPA_R.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 10,
+    "rarity": "RR",
+    "name": "リーフィアex",
+    "image": "cPK_10_004340_00_LEAFIAex_RR.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 11,
+    "rarity": "C",
+    "name": "デルビル",
+    "image": "cPK_10_004350_00_DELVIL_C.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 12,
+    "rarity": "U",
+    "name": "ヘルガー",
+    "image": "cPK_10_004360_00_HELLGAR_U.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 13,
+    "rarity": "R",
+    "name": "ヒードラン",
+    "image": "cPK_10_004370_00_HEATRAN_R.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 14,
+    "rarity": "C",
+    "name": "マリル",
+    "image": "cPK_10_004380_00_MARIL_C.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 15,
+    "rarity": "C",
+    "name": "マリルリ",
+    "image": "cPK_10_004390_00_MARILLI_C.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 16,
+    "rarity": "C",
+    "name": "ドジョッチ",
+    "image": "cPK_10_004400_00_DOJOACH_C.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 17,
+    "rarity": "U",
+    "name": "ナマズン",
+    "image": "cPK_10_004410_00_NAMAZUN_U.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 18,
+    "rarity": "C",
+    "name": "ユキワラシ",
+    "image": "cPK_10_004420_00_YUKIWARASHI_C.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 19,
+    "rarity": "U",
+    "name": "ユキメノコ",
+    "image": "cPK_10_004430_00_YUKIMENOKO_U.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 20,
+    "rarity": "C",
+    "name": "ユキカブリ",
+    "image": "cPK_10_004440_00_YUKIKABURI_C.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 21,
+    "rarity": "R",
+    "name": "ユキノオー",
+    "image": "cPK_10_004450_00_YUKINOOH_R.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 22,
+    "rarity": "RR",
+    "name": "グレイシアex",
+    "image": "cPK_10_004460_00_GLACIAex_RR.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 23,
+    "rarity": "R",
+    "name": "オリジンパルキア",
+    "image": "cPK_10_004470_00_ORIGINPALKIA_R.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 24,
+    "rarity": "U",
+    "name": "フィオネ",
+    "image": "cPK_10_004480_00_PHIONE_U.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 25,
+    "rarity": "C",
+    "name": "ピカチュウ",
+    "image": "cPK_10_004490_00_PIKACHU_C.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 26,
+    "rarity": "R",
+    "name": "ライチュウ",
+    "image": "cPK_10_004500_00_RAICHU_R.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 27,
+    "rarity": "C",
+    "name": "ラクライ",
+    "image": "cPK_10_004510_00_RAKURAI_C.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 28,
+    "rarity": "U",
+    "name": "ライボルト",
+    "image": "cPK_10_004520_00_LIVOLT_U.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 29,
+    "rarity": "C",
+    "name": "ピッピ",
+    "image": "cPK_10_004530_00_PIPPI_C.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 30,
+    "rarity": "U",
+    "name": "ピクシー",
+    "image": "cPK_10_004540_00_PIXY_U.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 31,
+    "rarity": "C",
+    "name": "ゴース",
+    "image": "cPK_10_004550_00_GHOS_C.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 32,
+    "rarity": "C",
+    "name": "ゴースト",
+    "image": "cPK_10_004560_00_GHOST_C.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 33,
+    "rarity": "U",
+    "name": "ゲンガー",
+    "image": "cPK_10_004570_00_GANGAR_U.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 34,
+    "rarity": "U",
+    "name": "アンノーン",
+    "image": "cPK_10_004580_00_UNKNOWN_U.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 35,
+    "rarity": "R",
+    "name": "ロトム",
+    "image": "cPK_10_004590_00_ROTOM_R.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 36,
+    "rarity": "U",
+    "name": "ウソッキー",
+    "image": "cPK_10_004600_00_USOKKIE_U.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 37,
+    "rarity": "C",
+    "name": "ゴマゾウ",
+    "image": "cPK_10_004610_00_GOMAZOU_C.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 38,
+    "rarity": "U",
+    "name": "ドンファン",
+    "image": "cPK_10_004620_00_DONFAN_U.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 39,
+    "rarity": "C",
+    "name": "ヨーギラス",
+    "image": "cPK_10_004630_00_YOGIRAS_C.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 40,
+    "rarity": "U",
+    "name": "サナギラス",
+    "image": "cPK_10_004640_00_SANAGIRAS_U.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 41,
+    "rarity": "R",
+    "name": "バンギラス",
+    "image": "cPK_10_004650_00_BANGIRAS_R.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 42,
+    "rarity": "C",
+    "name": "ノズパス",
+    "image": "cPK_10_004660_00_NOSEPASS_C.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 43,
+    "rarity": "C",
+    "name": "アサナン",
+    "image": "cPK_10_004670_00_ASANAN_C.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 44,
+    "rarity": "U",
+    "name": "チャーレム",
+    "image": "cPK_10_004680_00_CHAREM_U.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 45,
+    "rarity": "C",
+    "name": "フカマル",
+    "image": "cPK_10_004690_00_FUKAMARU_C.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 46,
+    "rarity": "C",
+    "name": "ガバイト",
+    "image": "cPK_10_004700_00_GABITE_C.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 47,
+    "rarity": "RR",
+    "name": "ガブリアスex",
+    "image": "cPK_10_004710_00_GABURIASex_RR.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 48,
+    "rarity": "C",
+    "name": "ズバット",
+    "image": "cPK_10_004720_00_ZUBAT_C.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 49,
+    "rarity": "C",
+    "name": "ゴルバット",
+    "image": "cPK_10_004730_00_GOLBAT_C.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 50,
+    "rarity": "R",
+    "name": "クロバット",
+    "image": "cPK_10_004740_00_CROBAT_R.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 51,
+    "rarity": "C",
+    "name": "グレッグル",
+    "image": "cPK_10_004750_00_GUREGGRU_C.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 52,
+    "rarity": "U",
+    "name": "ドクロッグ",
+    "image": "cPK_10_004760_00_DOKUROG_U.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 53,
+    "rarity": "C",
+    "name": "コイル",
+    "image": "cPK_10_004770_00_COIL_C.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 54,
+    "rarity": "C",
+    "name": "レアコイル",
+    "image": "cPK_10_004780_00_RARECOIL_C.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 55,
+    "rarity": "R",
+    "name": "ジバコイル",
+    "image": "cPK_10_004790_00_JIBACOIL_R.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 56,
+    "rarity": "C",
+    "name": "クチート",
+    "image": "cPK_10_004800_00_KUCHEAT_C.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 57,
+    "rarity": "RR",
+    "name": "ダイノーズex",
+    "image": "cPK_10_004810_00_DAINOSEex_RR.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 58,
+    "rarity": "C",
+    "name": "ドーミラー",
+    "image": "cPK_10_004820_00_DOHMIRROR_C.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 59,
+    "rarity": "U",
+    "name": "ドータクン",
+    "image": "cPK_10_004830_00_DOHTAKUN_U.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 60,
+    "rarity": "R",
+    "name": "オリジンディアルガ",
+    "image": "cPK_10_004840_00_ORIGINDIALGA_R.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 61,
+    "rarity": "R",
+    "name": "ギラティナ",
+    "image": "cPK_10_004850_00_GIRATINA_R.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 62,
+    "rarity": "C",
+    "name": "イーブイ",
+    "image": "cPK_10_004860_00_EIEVUI_C.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 63,
+    "rarity": "U",
+    "name": "カビゴン",
+    "image": "cPK_10_004870_00_KABIGON_U.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 64,
+    "rarity": "C",
+    "name": "ホーホー",
+    "image": "cPK_10_004880_00_HOHO_C.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 65,
+    "rarity": "U",
+    "name": "ヨルノズク",
+    "image": "cPK_10_004890_00_YORUNOZUKU_U.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 66,
+    "rarity": "C",
+    "name": "ムックル",
+    "image": "cPK_10_004900_00_MUKKURU_C.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 67,
+    "rarity": "C",
+    "name": "ムクバード",
+    "image": "cPK_10_004910_00_MUKUBIRD_C.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 68,
+    "rarity": "U",
+    "name": "ムクホーク",
+    "image": "cPK_10_004920_00_MUKUHAWK_U.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 69,
+    "rarity": "R",
+    "name": "シェイミ",
+    "image": "cPK_10_004930_00_SHAYMIN_R.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 70,
+    "rarity": "R",
+    "name": "アルセウス",
+    "image": "cPK_10_004940_00_ARCEUS_R.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 71,
+    "rarity": "RR",
+    "name": "アルセウスex",
+    "image": "cPK_10_004950_00_ARCEUSex_RR.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 72,
+    "rarity": "U",
+    "name": "カイ",
+    "image": "cTR_10_000380_00_KAI_U.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 73,
+    "rarity": "U",
+    "name": "カンナギタウンの長老",
+    "image": "cTR_10_000390_00_KANNAGITOWNNOTYOUROU_U.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 74,
+    "rarity": "U",
+    "name": "ジュン",
+    "image": "cTR_10_000400_00_JUN_U.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 75,
+    "rarity": "U",
+    "name": "セキ",
+    "image": "cTR_10_000410_00_SEKI_U.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 76,
+    "rarity": "AR",
+    "name": "ヘルガー",
+    "image": "cPK_20_004360_00_HELLGAR_AR.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 77,
+    "rarity": "AR",
+    "name": "マリル",
+    "image": "cPK_20_004380_00_MARIL_AR.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 78,
+    "rarity": "AR",
+    "name": "アンノーン",
+    "image": "cPK_20_004580_00_UNKNOWN_AR.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 79,
+    "rarity": "AR",
+    "name": "ウソッキー",
+    "image": "cPK_20_004600_00_USOKKIE_AR.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 80,
+    "rarity": "AR",
+    "name": "コイル",
+    "image": "cPK_20_004770_00_COIL_AR.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 81,
+    "rarity": "AR",
+    "name": "シェイミ",
+    "image": "cPK_20_004930_00_SHAYMIN_AR.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 82,
+    "rarity": "SR",
+    "name": "リーフィアex",
+    "image": "cPK_20_004340_00_LEAFIAex_SR.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 83,
+    "rarity": "SR",
+    "name": "グレイシアex",
+    "image": "cPK_20_004460_00_GLACIAex_SR.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 84,
+    "rarity": "SR",
+    "name": "ガブリアスex",
+    "image": "cPK_20_004710_00_GABURIASex_SR.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 85,
+    "rarity": "SR",
+    "name": "ダイノーズex",
+    "image": "cPK_20_004810_00_DAINOSEex_SR.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 86,
+    "rarity": "SR",
+    "name": "アルセウスex",
+    "image": "cPK_20_004950_00_ARCEUSex_SR.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 87,
+    "rarity": "SR",
+    "name": "カイ",
+    "image": "cTR_20_000380_00_KAI_SR.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 88,
+    "rarity": "SR",
+    "name": "カンナギタウンの長老",
+    "image": "cTR_20_000390_00_KANNAGITOWNNOTYOUROU_SR.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 89,
+    "rarity": "SR",
+    "name": "ジュン",
+    "image": "cTR_20_000400_00_JUN_SR.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 90,
+    "rarity": "SR",
+    "name": "セキ",
+    "image": "cTR_20_000410_00_SEKI_SR.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 91,
+    "rarity": "SAR",
+    "name": "リーフィアex",
+    "image": "cPK_20_004340_01_LEAFIAex_SAR.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 92,
+    "rarity": "SAR",
+    "name": "グレイシアex",
+    "image": "cPK_20_004460_01_GLACIAex_SAR.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 93,
+    "rarity": "SAR",
+    "name": "ガブリアスex",
+    "image": "cPK_20_004710_01_GABURIASex_SAR.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 94,
+    "rarity": "SAR",
+    "name": "ダイノーズex",
+    "image": "cPK_20_004810_01_DAINOSEex_SAR.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 95,
+    "rarity": "IM",
+    "name": "アルセウスex",
+    "image": "cPK_20_004950_01_ARCEUSex_IM.webp",
+    "packs": [
+      "Arceus"
+    ]
+  },
+  {
+    "set": "A2a",
+    "number": 96,
+    "rarity": "UR",
+    "name": "アルセウスex",
+    "image": "cPK_20_004950_02_ARCEUSex_UR.webp",
+    "packs": [
+      "Arceus"
+    ]
+  }
+]

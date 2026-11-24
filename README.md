@@ -235,7 +235,7 @@ To calculate the path, you can simply do `cards-by-set/${card.set}/${card.number
 
 ### Languages
 
-You can find a French (`fr`), German (`de`), Spanish (`es`) and Italian (`it`) variation of the files, for example in French :
+You can find a French (`fr`), German (`de`), Spanish (`es`), Italian (`it`), Japanese (`ja`), Korean (`ko`), Brazilian Portuguese (`pt`) and Traditional Chinese (`zh`) variation of the files, for example in French :
 
 - `cards.fr.json`
 - `cards.fr.min.json`
@@ -248,9 +248,9 @@ And also a language specific subdirectory :
 - `cards/fr/A1.no-image.min.json`
   … for each set
 
-They list the same cards as `cards.json`. A name we could not source yet stays in English: 149 Trainer, Item and Stadium cards in Spanish (66 names), 150 in Italian (67 names), 17 in French (9 names). `bun ./scripts/translate.ts es` lists them.
+They list the same cards as `cards.json`. A name we could not source yet stays in English: Team Rocket’s Researcher in Spanish and Rainbow Cave in Portuguese. `bun ./scripts/translate.ts es` lists them.
 
-The Spanish, Italian and French names come from [TCGdex](https://tcgdex.dev) (MIT) and [PokeAPI](https://github.com/PokeAPI/pokeapi) (BSD-3-Clause), and for French from @adriendeval's contribution.
+Except for German, the names come from [TCGdex](https://tcgdex.dev) (MIT) and [PokeAPI](https://github.com/PokeAPI/pokeapi) (BSD-3-Clause), from [Bulbapedia](https://bulbapedia.bulbagarden.net) for the Trainer cards, and for French from @adriendeval's contribution.
 
 Want an other language ? Help us build it !
 
@@ -266,7 +266,7 @@ If you want to add a new language, just create a `cards.[Language Code (two lett
 - [x] Add German language (de_DE) thanks to @Xernisfy
 - [x] Add Spanish language (es_ES)
 - [x] Add Italian language (it_IT)
-- [ ] Add Japanese language (ja_JP)
-- [ ] Add Korean language (ko_KR)
-- [ ] Add Portuguese language (pt_BR)
-- [ ] Add Chinese language (zh_TW)
+- [x] Add Japanese language (ja_JP)
+- [x] Add Korean language (ko_KR)
+- [x] Add Portuguese language (pt_BR)
+- [x] Add Chinese language (zh_TW)

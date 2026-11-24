@@ -1,0 +1,2342 @@
+[
+  {
+    "set": "B2",
+    "number": 1,
+    "rarity": "C",
+    "image": "cPK_10_013670_00_REDIBA_C.webp",
+    "name": "레디바",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 2,
+    "rarity": "C",
+    "image": "cPK_10_013680_00_REDIAN_C.webp",
+    "name": "레디안",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 3,
+    "rarity": "C",
+    "image": "cPK_10_013690_00_TSUBOTSUBO_C.webp",
+    "name": "단단지",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 4,
+    "rarity": "C",
+    "image": "cPK_10_013700_00_ROSELIA_C.webp",
+    "name": "로젤리아",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 5,
+    "rarity": "R",
+    "image": "cPK_10_013710_00_ROSERADE_R.webp",
+    "name": "로즈레이드",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 6,
+    "rarity": "C",
+    "image": "cPK_10_013720_00_SABONEA_C.webp",
+    "name": "선인왕",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 7,
+    "rarity": "U",
+    "image": "cPK_10_013730_00_NOCTUS_U.webp",
+    "name": "밤선인",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 8,
+    "rarity": "C",
+    "image": "cPK_10_013740_00_HARIMARON_C.webp",
+    "name": "도치마론",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 9,
+    "rarity": "U",
+    "image": "cPK_10_013750_00_HARIBORG_U.webp",
+    "name": "도치보구",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 10,
+    "rarity": "R",
+    "image": "cPK_10_013760_00_BRIGARRON_R.webp",
+    "name": "브리가론",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 11,
+    "rarity": "C",
+    "image": "cPK_10_013770_00_KOFUKIMUSHI_C.webp",
+    "name": "분이벌레",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 12,
+    "rarity": "C",
+    "image": "cPK_10_013780_00_KOFUURAI_C.webp",
+    "name": "분떠도리",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 13,
+    "rarity": "U",
+    "image": "cPK_10_013790_00_VIVIYON_U.webp",
+    "name": "비비용",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 14,
+    "rarity": "R",
+    "image": "cPK_10_013800_00_MASSIVOON_R.webp",
+    "name": "매시붕",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 15,
+    "rarity": "C",
+    "image": "cPK_10_013810_00_HIMENKA_C.webp",
+    "name": "꼬모카",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 16,
+    "rarity": "U",
+    "image": "cPK_10_013820_00_WATASHIRAGA_U.webp",
+    "name": "백솜모카",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 17,
+    "rarity": "RR",
+    "image": "cPK_10_013830_00_OGERPONMIDORINOMENex_RR.webp",
+    "name": "오거폰 벽록의 가면 ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 18,
+    "rarity": "U",
+    "image": "cPK_10_013840_00_ALOLAGARAGARA_U.webp",
+    "name": "알로라텅구리",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 19,
+    "rarity": "R",
+    "image": "cPK_10_013850_00_RESHIRAM_R.webp",
+    "name": "레시라무",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 20,
+    "rarity": "C",
+    "image": "cPK_10_013860_00_SHISHIKO_C.webp",
+    "name": "레오꼬",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 21,
+    "rarity": "U",
+    "image": "cPK_10_013870_00_KAENJISHI_U.webp",
+    "name": "화염레오",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 22,
+    "rarity": "U",
+    "image": "cPK_10_013880_00_ODORIDORI_U.webp",
+    "name": "춤추새",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 23,
+    "rarity": "RR",
+    "image": "cPK_10_013890_00_ZUGADOONex_RR.webp",
+    "name": "두파팡 ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 24,
+    "rarity": "C",
+    "image": "cPK_10_013900_00_HIBANNY_C.webp",
+    "name": "염버니",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 25,
+    "rarity": "U",
+    "image": "cPK_10_013910_00_RABBIFUTO_U.webp",
+    "name": "래비풋",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 26,
+    "rarity": "R",
+    "image": "cPK_10_013920_00_ACEBURN_R.webp",
+    "name": "에이스번",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 27,
+    "rarity": "R",
+    "image": "cPK_10_013930_00_OGERPONKAMADONOMEN_R.webp",
+    "name": "오거폰 화덕의 가면",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 28,
+    "rarity": "C",
+    "image": "cPK_10_013940_00_ALOLAROKON_C.webp",
+    "name": "알로라식스테일",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 29,
+    "rarity": "RR",
+    "image": "cPK_10_013950_00_ALOLAKYUKONex_RR.webp",
+    "name": "알로라나인테일 ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 30,
+    "rarity": "C",
+    "image": "cPK_10_013960_00_GALARBARRIERD_C.webp",
+    "name": "가라르마임맨",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 31,
+    "rarity": "U",
+    "image": "cPK_10_013970_00_GALARBARRIKOHRU_U.webp",
+    "name": "가라르마임꽁꽁",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 32,
+    "rarity": "U",
+    "image": "cPK_10_013980_00_DELIBIRD_U.webp",
+    "name": "딜리버드",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 33,
+    "rarity": "C",
+    "image": "cPK_10_013990_00_MIZUGOROU_C.webp",
+    "name": "물짱이",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 34,
+    "rarity": "U",
+    "image": "cPK_10_014000_00_NUMACRAW_U.webp",
+    "name": "늪짱이",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 35,
+    "rarity": "R",
+    "image": "cPK_10_014010_00_LAGLARGE_R.webp",
+    "name": "대짱이",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 36,
+    "rarity": "RR",
+    "image": "cPK_10_014020_00_MEGALAGLARGEex_RR.webp",
+    "name": "메가대짱이 ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 37,
+    "rarity": "C",
+    "image": "cPK_10_014030_00_VANIPETI_C.webp",
+    "name": "바닐프티",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 38,
+    "rarity": "C",
+    "image": "cPK_10_014040_00_VANIRICH_C.webp",
+    "name": "바닐리치",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 39,
+    "rarity": "U",
+    "image": "cPK_10_014050_00_BAIVANILLA_U.webp",
+    "name": "배바닐라",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 40,
+    "rarity": "C",
+    "image": "cPK_10_014060_00_FREEGEO_C.webp",
+    "name": "프리지오",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 41,
+    "rarity": "U",
+    "image": "cPK_10_014070_00_AMARUS_U.webp",
+    "name": "아마루스",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 42,
+    "rarity": "R",
+    "image": "cPK_10_014080_00_AMARURUGA_R.webp",
+    "name": "아마루르가",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 43,
+    "rarity": "C",
+    "image": "cPK_10_014090_00_KAMUKAME_C.webp",
+    "name": "깨물부기",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 44,
+    "rarity": "U",
+    "image": "cPK_10_014100_00_KAJIRIGAME_U.webp",
+    "name": "갈가부기",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 45,
+    "rarity": "C",
+    "image": "cPK_10_014110_00_UU_C.webp",
+    "name": "윽우지",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 46,
+    "rarity": "C",
+    "image": "cPK_10_014120_00_SASIKAMASU_C.webp",
+    "name": "찌로꼬치",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 47,
+    "rarity": "C",
+    "image": "cPK_10_014130_00_KAMASUJAW_C.webp",
+    "name": "꼬치조",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 48,
+    "rarity": "R",
+    "image": "cPK_10_014140_00_OGERPONIDONOMEN_R.webp",
+    "name": "오거폰 우물의 가면",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 49,
+    "rarity": "C",
+    "image": "cPK_10_014150_00_PIKACHU_C.webp",
+    "name": "피카츄",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 50,
+    "rarity": "R",
+    "image": "cPK_10_014160_00_ALOLARAICHU_R.webp",
+    "name": "알로라라이츄",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 51,
+    "rarity": "R",
+    "image": "cPK_10_014170_00_THUNDER_R.webp",
+    "name": "썬더",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 52,
+    "rarity": "C",
+    "image": "cPK_10_014180_00_PRASLE_C.webp",
+    "name": "플러시",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 53,
+    "rarity": "C",
+    "image": "cPK_10_014190_00_MINUN_C.webp",
+    "name": "마이농",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 54,
+    "rarity": "C",
+    "image": "cPK_10_014200_00_ELESON_C.webp",
+    "name": "일레즌",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 55,
+    "rarity": "RR",
+    "image": "cPK_10_014210_00_STRINDERex_RR.webp",
+    "name": "스트린더 ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 56,
+    "rarity": "C",
+    "image": "cPK_10_014220_00_ZUPIKA_C.webp",
+    "name": "빈나두",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 57,
+    "rarity": "U",
+    "image": "cPK_10_014230_00_HARABARIE_U.webp",
+    "name": "찌리배리",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 58,
+    "rarity": "C",
+    "image": "cPK_10_014240_00_GALARPONYTA_C.webp",
+    "name": "가라르포니타",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 59,
+    "rarity": "U",
+    "image": "cPK_10_014250_00_GALARGALLOP_U.webp",
+    "name": "가라르날쌩마",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 60,
+    "rarity": "C",
+    "image": "cPK_10_014260_00_SONANS_C.webp",
+    "name": "마자용",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 61,
+    "rarity": "C",
+    "image": "cPK_10_014270_00_BULU_C.webp",
+    "name": "블루",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 62,
+    "rarity": "U",
+    "image": "cPK_10_014280_00_GRANBULU_U.webp",
+    "name": "그랑블루",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 63,
+    "rarity": "C",
+    "image": "cPK_10_014290_00_RALTS_C.webp",
+    "name": "랄토스",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 64,
+    "rarity": "U",
+    "image": "cPK_10_014300_00_KIRLIA_U.webp",
+    "name": "킬리아",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 65,
+    "rarity": "R",
+    "image": "cPK_10_014310_00_SIRNIGHT_R.webp",
+    "name": "가디안",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 66,
+    "rarity": "RR",
+    "image": "cPK_10_014320_00_MEGASIRNIGHTex_RR.webp",
+    "name": "메가가디안 ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 67,
+    "rarity": "C",
+    "image": "cPK_10_014330_00_HITOMOSHI_C.webp",
+    "name": "불켜미",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 68,
+    "rarity": "U",
+    "image": "cPK_10_014340_00_LAMPLER_U.webp",
+    "name": "램프라",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 69,
+    "rarity": "R",
+    "image": "cPK_10_014350_00_CHANDELA_R.webp",
+    "name": "샹델라",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 70,
+    "rarity": "U",
+    "image": "cPK_10_014360_00_MELOETTA_U.webp",
+    "name": "메로엣타",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 71,
+    "rarity": "C",
+    "image": "cPK_10_014370_00_BAKECCHA_C.webp",
+    "name": "호바귀",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 72,
+    "rarity": "R",
+    "image": "cPK_10_014380_00_PUMPJIN_R.webp",
+    "name": "펌킨인",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 73,
+    "rarity": "RR",
+    "image": "cPK_10_014390_00_MIMIKKYUex_RR.webp",
+    "name": "따라큐 ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 74,
+    "rarity": "C",
+    "image": "cPK_10_014400_00_YABACHA_C.webp",
+    "name": "데인차",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 75,
+    "rarity": "U",
+    "image": "cPK_10_014410_00_POTDEATH_U.webp",
+    "name": "포트데스",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 76,
+    "rarity": "C",
+    "image": "cPK_10_014420_00_YESSAN_C.webp",
+    "name": "에써르",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 77,
+    "rarity": "C",
+    "image": "cPK_10_014430_00_SAND_C.webp",
+    "name": "모래두지",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 78,
+    "rarity": "C",
+    "image": "cPK_10_014440_00_SANDPAN_C.webp",
+    "name": "고지",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 79,
+    "rarity": "C",
+    "image": "cPK_10_014450_00_WANRIKY_C.webp",
+    "name": "알통몬",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 80,
+    "rarity": "C",
+    "image": "cPK_10_014460_00_GORIKY_C.webp",
+    "name": "근육몬",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 81,
+    "rarity": "U",
+    "image": "cPK_10_014470_00_KAIRIKY_U.webp",
+    "name": "괴력몬",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 82,
+    "rarity": "C",
+    "image": "cPK_10_014480_00_KARAKARA_C.webp",
+    "name": "탕구리",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 83,
+    "rarity": "C",
+    "image": "cPK_10_014490_00_ASANAN_C.webp",
+    "name": "요가랑",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 84,
+    "rarity": "U",
+    "image": "cPK_10_014500_00_CHAREM_U.webp",
+    "name": "요가램",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 85,
+    "rarity": "C",
+    "image": "cPK_10_014510_00_DANGORO_C.webp",
+    "name": "단굴",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 86,
+    "rarity": "U",
+    "image": "cPK_10_014520_00_GANTLE_U.webp",
+    "name": "암트르",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 87,
+    "rarity": "RR",
+    "image": "cPK_10_014530_00_GIGAIATHex_RR.webp",
+    "name": "기가이어스 ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 88,
+    "rarity": "C",
+    "image": "cPK_10_014540_00_MOGUREW_C.webp",
+    "name": "두더류",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 89,
+    "rarity": "U",
+    "image": "cPK_10_014550_00_CHIGORAS_U.webp",
+    "name": "티고라스",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 90,
+    "rarity": "R",
+    "image": "cPK_10_014560_00_GACHIGORAS_R.webp",
+    "name": "견고라스",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 91,
+    "rarity": "C",
+    "image": "cPK_10_014570_00_NAGETUKESARU_C.webp",
+    "name": "내던숭이",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 92,
+    "rarity": "U",
+    "image": "cPK_10_014580_00_TAIRETSU_U.webp",
+    "name": "대여르",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 93,
+    "rarity": "R",
+    "image": "cPK_10_014590_00_OGERPONISHIZUENOMEN_R.webp",
+    "name": "오거폰 주춧돌의 가면",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 94,
+    "rarity": "C",
+    "image": "cPK_10_014600_00_ALOLANYARTH_C.webp",
+    "name": "알로라나옹",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 95,
+    "rarity": "U",
+    "image": "cPK_10_014610_00_ALOLAPERSIAN_U.webp",
+    "name": "알로라페르시온",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 96,
+    "rarity": "C",
+    "image": "cPK_10_014620_00_ALOLABETBETER_C.webp",
+    "name": "알로라질퍽이",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 97,
+    "rarity": "R",
+    "image": "cPK_10_014630_00_ALOLABETBETON_R.webp",
+    "name": "알로라질뻐기",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 98,
+    "rarity": "C",
+    "image": "cPK_10_014640_00_GALARJIGUZAGUMA_C.webp",
+    "name": "가라르지그제구리",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 99,
+    "rarity": "U",
+    "image": "cPK_10_014650_00_GALARMASSUGUMA_U.webp",
+    "name": "가라르직구리",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 100,
+    "rarity": "R",
+    "image": "cPK_10_014660_00_GALARTACHIFUSAGUMA_R.webp",
+    "name": "가라르가로막구리",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 101,
+    "rarity": "C",
+    "image": "cPK_10_014670_00_SKUNPUU_C.webp",
+    "name": "스컹뿡",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 102,
+    "rarity": "U",
+    "image": "cPK_10_014680_00_SKUTANK_U.webp",
+    "name": "스컹탱크",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 103,
+    "rarity": "R",
+    "image": "cPK_10_014690_00_MIKARUGE_R.webp",
+    "name": "화강돌",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 104,
+    "rarity": "C",
+    "image": "cPK_10_014700_00_CHORONEKO_C.webp",
+    "name": "쌔비냥",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 105,
+    "rarity": "U",
+    "image": "cPK_10_014710_00_LEPARDAS_U.webp",
+    "name": "레파르다스",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 106,
+    "rarity": "C",
+    "image": "cPK_10_014720_00_ZURUGGU_C.webp",
+    "name": "곤율랭",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 107,
+    "rarity": "U",
+    "image": "cPK_10_014730_00_ZURUZUKIN_U.webp",
+    "name": "곤율거니",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 108,
+    "rarity": "R",
+    "image": "cPK_10_014740_00_YVELTAL_R.webp",
+    "name": "이벨타르",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 109,
+    "rarity": "R",
+    "image": "cPK_10_014750_00_AKUZIKING_R.webp",
+    "name": "악식킹",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 110,
+    "rarity": "C",
+    "image": "cPK_10_014760_00_GALARNYARTH_C.webp",
+    "name": "가라르나옹",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 111,
+    "rarity": "R",
+    "image": "cPK_10_014770_00_GALARNYAIKING_R.webp",
+    "name": "가라르나이킹",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 112,
+    "rarity": "C",
+    "image": "cPK_10_014780_00_KUCHEAT_C.webp",
+    "name": "입치트",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 113,
+    "rarity": "RR",
+    "image": "cPK_10_014790_00_MEGAKUCHEATex_RR.webp",
+    "name": "메가입치트 ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 114,
+    "rarity": "U",
+    "image": "cPK_10_014800_00_DORYUZU_U.webp",
+    "name": "몰드류",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 115,
+    "rarity": "C",
+    "image": "cPK_10_014810_00_TESSEED_C.webp",
+    "name": "철시드",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 116,
+    "rarity": "C",
+    "image": "cPK_10_014820_00_NUTREY_C.webp",
+    "name": "너트령",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 117,
+    "rarity": "U",
+    "image": "cPK_10_014830_00_GALARMAGGYO_U.webp",
+    "name": "가라르메더",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 118,
+    "rarity": "C",
+    "image": "cPK_10_014840_00_HITOTSUKI_C.webp",
+    "name": "단칼빙",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 119,
+    "rarity": "U",
+    "image": "cPK_10_014850_00_NIDANGILL_U.webp",
+    "name": "쌍검킬",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 120,
+    "rarity": "R",
+    "image": "cPK_10_014860_00_GILLGARD_R.webp",
+    "name": "킬가르도",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 121,
+    "rarity": "C",
+    "image": "cPK_10_014870_00_TATSUBAY_C.webp",
+    "name": "아공이",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 122,
+    "rarity": "U",
+    "image": "cPK_10_014880_00_KOMORUU_U.webp",
+    "name": "쉘곤",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 123,
+    "rarity": "R",
+    "image": "cPK_10_014890_00_BOHMANDER_R.webp",
+    "name": "보만다",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 124,
+    "rarity": "C",
+    "image": "cPK_10_014900_00_NYARTH_C.webp",
+    "name": "나옹",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 125,
+    "rarity": "C",
+    "image": "cPK_10_014910_00_PERSIAN_C.webp",
+    "name": "페르시온",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 126,
+    "rarity": "U",
+    "image": "cPK_10_014920_00_GARURA_U.webp",
+    "name": "캥카",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 127,
+    "rarity": "RR",
+    "image": "cPK_10_014930_00_MEGAGARURAex_RR.webp",
+    "name": "메가캥카 ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 128,
+    "rarity": "C",
+    "image": "cPK_10_014940_00_OTACHI_C.webp",
+    "name": "꼬리선",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 129,
+    "rarity": "C",
+    "image": "cPK_10_014950_00_OOTACHI_C.webp",
+    "name": "다꼬리",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 130,
+    "rarity": "U",
+    "image": "cPK_10_014960_00_DOBLE_U.webp",
+    "name": "루브도",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 131,
+    "rarity": "R",
+    "image": "cPK_10_014970_00_LUGIA_R.webp",
+    "name": "루기아",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 132,
+    "rarity": "C",
+    "image": "cPK_10_014980_00_SUBAME_C.webp",
+    "name": "테일로",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 133,
+    "rarity": "R",
+    "image": "cPK_10_014990_00_OHSUBAME_R.webp",
+    "name": "스왈로",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 134,
+    "rarity": "C",
+    "image": "cPK_10_015000_00_NAMAKERO_C.webp",
+    "name": "게을로",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 135,
+    "rarity": "U",
+    "image": "cPK_10_015010_00_YARUKIMONO_U.webp",
+    "name": "발바로",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 136,
+    "rarity": "R",
+    "image": "cPK_10_015020_00_KEKKING_R.webp",
+    "name": "게을킹",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 137,
+    "rarity": "C",
+    "image": "cPK_10_015030_00_PATCHEEL_C.webp",
+    "name": "얼루기",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 138,
+    "rarity": "R",
+    "image": "cPK_10_015040_00_TORNELOS_R.webp",
+    "name": "토네로스",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 139,
+    "rarity": "C",
+    "image": "cPK_10_015050_00_HORUBEE_C.webp",
+    "name": "파르빗",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 140,
+    "rarity": "U",
+    "image": "cPK_10_015060_00_HORUDO_U.webp",
+    "name": "파르토",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 141,
+    "rarity": "U",
+    "image": "cPK_10_015070_00_TRIMMIEN_U.webp",
+    "name": "트리미앙",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 142,
+    "rarity": "C",
+    "image": "cPK_10_015080_00_WAKKANEZUMI_C.webp",
+    "name": "두리쥐",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 143,
+    "rarity": "U",
+    "image": "cPK_10_015090_00_IKKANEZUMI_U.webp",
+    "name": "파밀리쥐",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 144,
+    "rarity": "C",
+    "image": "cTR_10_001050_00_AGONOKASEKI_C.webp",
+    "name": "턱화석",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 145,
+    "rarity": "U",
+    "image": "cTR_10_001060_00_ATARITSUKIAISU_U.webp",
+    "name": "뽑기 아이스",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 146,
+    "rarity": "C",
+    "image": "cTR_10_001070_00_HIRENOKASEKI_C.webp",
+    "name": "지느러미화석",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 147,
+    "rarity": "U",
+    "image": "cTR_10_001080_00_MAMORINOPONCHO_U.webp",
+    "name": "수호의 판초",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 148,
+    "rarity": "U",
+    "image": "cTR_10_001090_00_METARUKOABARIA_U.webp",
+    "name": "메탈코어 배리어",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 149,
+    "rarity": "U",
+    "image": "cTR_10_001100_00_CARNE_U.webp",
+    "name": "카르네",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 150,
+    "rarity": "U",
+    "image": "cTR_10_001110_00_KANKOUKYAKU_U.webp",
+    "name": "관광객",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 151,
+    "rarity": "U",
+    "image": "cTR_10_001120_00_JAGURA_U.webp",
+    "name": "저글러",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 152,
+    "rarity": "U",
+    "image": "cTR_10_001130_00_NEZU_U.webp",
+    "name": "두송",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 153,
+    "rarity": "U",
+    "image": "cTR_10_001140_00_TORENINGUERIA_U.webp",
+    "name": "트레이닝 에리어",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 154,
+    "rarity": "U",
+    "image": "cTR_10_001150_00_HAJIMARINOHEIGEN_U.webp",
+    "name": "시작의 평원",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 155,
+    "rarity": "U",
+    "image": "cTR_10_001160_00_FUSHIGINAHIROBA_U.webp",
+    "name": "이상한 광장",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 156,
+    "rarity": "AR",
+    "image": "cPK_20_013720_00_SABONEA_AR.webp",
+    "name": "선인왕",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 157,
+    "rarity": "AR",
+    "image": "cPK_20_013710_00_ROSERADE_AR.webp",
+    "name": "로즈레이드",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 158,
+    "rarity": "AR",
+    "image": "cPK_20_013790_00_VIVIYON_AR.webp",
+    "name": "비비용",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 159,
+    "rarity": "AR",
+    "image": "cPK_20_013800_00_MASSIVOON_AR.webp",
+    "name": "매시붕",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 160,
+    "rarity": "AR",
+    "image": "cPK_20_013850_00_RESHIRAM_AR.webp",
+    "name": "레시라무",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 161,
+    "rarity": "AR",
+    "image": "cPK_20_013880_00_ODORIDORI_AR.webp",
+    "name": "춤추새",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 162,
+    "rarity": "AR",
+    "image": "cPK_20_013900_00_HIBANNY_AR.webp",
+    "name": "염버니",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 163,
+    "rarity": "AR",
+    "image": "cPK_20_014080_00_AMARURUGA_AR.webp",
+    "name": "아마루르가",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 164,
+    "rarity": "AR",
+    "image": "cPK_20_014110_00_UU_AR.webp",
+    "name": "윽우지",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 165,
+    "rarity": "AR",
+    "image": "cPK_20_014190_00_MINUN_AR.webp",
+    "name": "마이농",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 166,
+    "rarity": "AR",
+    "image": "cPK_20_014200_00_ELESON_AR.webp",
+    "name": "일레즌",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 167,
+    "rarity": "AR",
+    "image": "cPK_20_014240_00_GALARPONYTA_AR.webp",
+    "name": "가라르포니타",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 168,
+    "rarity": "AR",
+    "image": "cPK_20_014270_00_BULU_AR.webp",
+    "name": "블루",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 169,
+    "rarity": "AR",
+    "image": "cPK_20_014420_00_YESSAN_AR.webp",
+    "name": "에써르",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 170,
+    "rarity": "AR",
+    "image": "cPK_20_014430_00_SAND_AR.webp",
+    "name": "모래두지",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 171,
+    "rarity": "AR",
+    "image": "cPK_20_014560_00_GACHIGORAS_AR.webp",
+    "name": "견고라스",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 172,
+    "rarity": "AR",
+    "image": "cPK_20_014580_00_TAIRETSU_AR.webp",
+    "name": "대여르",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 173,
+    "rarity": "AR",
+    "image": "cPK_20_014630_00_ALOLABETBETON_AR.webp",
+    "name": "알로라질뻐기",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 174,
+    "rarity": "AR",
+    "image": "cPK_20_014700_00_CHORONEKO_AR.webp",
+    "name": "쌔비냥",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 175,
+    "rarity": "AR",
+    "image": "cPK_20_014740_00_YVELTAL_AR.webp",
+    "name": "이벨타르",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 176,
+    "rarity": "AR",
+    "image": "cPK_20_014660_00_GALARTACHIFUSAGUMA_AR.webp",
+    "name": "가라르가로막구리",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 177,
+    "rarity": "AR",
+    "image": "cPK_20_014770_00_GALARNYAIKING_AR.webp",
+    "name": "가라르나이킹",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 178,
+    "rarity": "AR",
+    "image": "cPK_20_014890_00_BOHMANDER_AR.webp",
+    "name": "보만다",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 179,
+    "rarity": "AR",
+    "image": "cPK_20_015000_00_NAMAKERO_AR.webp",
+    "name": "게을로",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 180,
+    "rarity": "SR",
+    "image": "cPK_20_013830_00_OGERPONMIDORINOMENex_SR.webp",
+    "name": "오거폰 벽록의 가면 ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 181,
+    "rarity": "SR",
+    "image": "cPK_20_013890_00_ZUGADOONex_SR.webp",
+    "name": "두파팡 ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 182,
+    "rarity": "SR",
+    "image": "cPK_20_013950_00_ALOLAKYUKONex_SR.webp",
+    "name": "알로라나인테일 ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 183,
+    "rarity": "SR",
+    "image": "cPK_20_014020_00_MEGALAGLARGEex_SR.webp",
+    "name": "메가대짱이 ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 184,
+    "rarity": "SR",
+    "image": "cPK_20_014210_00_STRINDERex_SR.webp",
+    "name": "스트린더 ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 185,
+    "rarity": "SR",
+    "image": "cPK_20_014320_00_MEGASIRNIGHTex_SR.webp",
+    "name": "메가가디안 ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 186,
+    "rarity": "SR",
+    "image": "cPK_20_014390_00_MIMIKKYUex_SR.webp",
+    "name": "따라큐 ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 187,
+    "rarity": "SR",
+    "image": "cPK_20_014530_00_GIGAIATHex_SR.webp",
+    "name": "기가이어스 ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 188,
+    "rarity": "SR",
+    "image": "cPK_20_014790_00_MEGAKUCHEATex_SR.webp",
+    "name": "메가입치트 ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 189,
+    "rarity": "SR",
+    "image": "cPK_20_014930_00_MEGAGARURAex_SR.webp",
+    "name": "메가캥카 ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 190,
+    "rarity": "SR",
+    "image": "cTR_20_001100_00_CARNE_SR.webp",
+    "name": "카르네",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 191,
+    "rarity": "SR",
+    "image": "cTR_20_001110_00_KANKOUKYAKU_SR.webp",
+    "name": "관광객",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 192,
+    "rarity": "SR",
+    "image": "cTR_20_001120_00_JAGURA_SR.webp",
+    "name": "저글러",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 193,
+    "rarity": "SR",
+    "image": "cTR_20_001130_00_NEZU_SR.webp",
+    "name": "두송",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 194,
+    "rarity": "SAR",
+    "image": "cPK_20_013830_01_OGERPONMIDORINOMENex_SAR.webp",
+    "name": "오거폰 벽록의 가면 ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 195,
+    "rarity": "SAR",
+    "image": "cPK_20_013890_01_ZUGADOONex_SAR.webp",
+    "name": "두파팡 ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 196,
+    "rarity": "SAR",
+    "image": "cPK_20_013950_01_ALOLAKYUKONex_SAR.webp",
+    "name": "알로라나인테일 ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 197,
+    "rarity": "SAR",
+    "image": "cPK_20_014020_01_MEGALAGLARGEex_SAR.webp",
+    "name": "메가대짱이 ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 198,
+    "rarity": "SAR",
+    "image": "cPK_20_014210_01_STRINDERex_SAR.webp",
+    "name": "스트린더 ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 199,
+    "rarity": "SAR",
+    "image": "cPK_20_014390_01_MIMIKKYUex_SAR.webp",
+    "name": "따라큐 ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 200,
+    "rarity": "SAR",
+    "image": "cPK_20_014530_01_GIGAIATHex_SAR.webp",
+    "name": "기가이어스 ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 201,
+    "rarity": "SAR",
+    "image": "cPK_20_014790_01_MEGAKUCHEATex_SAR.webp",
+    "name": "메가입치트 ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 202,
+    "rarity": "SAR",
+    "image": "cPK_20_014930_01_MEGAGARURAex_SAR.webp",
+    "name": "메가캥카 ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 203,
+    "rarity": "IM",
+    "image": "cPK_20_014320_01_MEGASIRNIGHTex_IM.webp",
+    "name": "메가가디안 ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 204,
+    "rarity": "IM",
+    "image": "cPK_20_014900_00_NYARTH_IM.webp",
+    "name": "나옹",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 205,
+    "rarity": "S",
+    "image": "cPK_20_008600_00_MONJARA_S.webp",
+    "name": "덩쿠리",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 206,
+    "rarity": "S",
+    "image": "cPK_20_008880_01_BUBY_S.webp",
+    "name": "마그비",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 207,
+    "rarity": "S",
+    "image": "cPK_20_003040_00_BOOBER_S.webp",
+    "name": "마그마",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 208,
+    "rarity": "S",
+    "image": "cPK_20_008970_00_TATTU_S.webp",
+    "name": "쏘드라",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 209,
+    "rarity": "S",
+    "image": "cPK_20_008980_00_SEADRA_S.webp",
+    "name": "시드라",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 210,
+    "rarity": "S",
+    "image": "cPK_20_010420_01_TAMANTA_S.webp",
+    "name": "타만타",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 211,
+    "rarity": "S",
+    "image": "cPK_20_000810_00_OMNITE_S.webp",
+    "name": "암나이트",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 212,
+    "rarity": "S",
+    "image": "cPK_20_000820_00_OMSTAR_S.webp",
+    "name": "암스타",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 213,
+    "rarity": "S",
+    "image": "cPK_20_009220_01_PICHU_S.webp",
+    "name": "피츄",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 214,
+    "rarity": "S",
+    "image": "cPK_20_001130_00_PIPPI_S.webp",
+    "name": "삐삐",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 215,
+    "rarity": "S",
+    "image": "cPK_20_001140_00_PIXY_S.webp",
+    "name": "픽시",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 216,
+    "rarity": "S",
+    "image": "cPK_20_010200_00_LATIAS_S.webp",
+    "name": "라티아스",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 217,
+    "rarity": "S",
+    "image": "cPK_20_010550_01_LATIOS_S.webp",
+    "name": "라티오스",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 218,
+    "rarity": "S",
+    "image": "cPK_20_001540_00_SAWAMULAR_S.webp",
+    "name": "시라소몬",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 219,
+    "rarity": "S",
+    "image": "cPK_20_001550_00_EBIWALAR_S.webp",
+    "name": "홍수몬",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 220,
+    "rarity": "S",
+    "image": "cPK_20_001580_00_KABUTO_S.webp",
+    "name": "투구",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 221,
+    "rarity": "S",
+    "image": "cPK_20_001590_00_KABUTOPS_S.webp",
+    "name": "투구푸스",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 222,
+    "rarity": "S",
+    "image": "cPK_20_009550_00_GOMAZOU_S.webp",
+    "name": "코코리",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 223,
+    "rarity": "S",
+    "image": "cPK_20_009570_00_BALKIE_S.webp",
+    "name": "배루키",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 224,
+    "rarity": "S",
+    "image": "cPK_20_002730_00_KENTAUROS_S.webp",
+    "name": "켄타로스",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 225,
+    "rarity": "SSR",
+    "image": "cPK_20_008050_02_BOOSTERex_SSR.webp",
+    "name": "부스터 ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 226,
+    "rarity": "SSR",
+    "image": "cPK_20_008900_04_HOUOUex_SSR.webp",
+    "name": "칠색조 ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 227,
+    "rarity": "SSR",
+    "image": "cPK_20_008990_02_KINGDRAex_SSR.webp",
+    "name": "킹드라 ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 228,
+    "rarity": "SSR",
+    "image": "cPK_20_009390_02_EIFIEex_SSR.webp",
+    "name": "에브이 ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 229,
+    "rarity": "SSR",
+    "image": "cPK_20_008280_02_NYMPHIAex_SSR.webp",
+    "name": "님피아 ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 230,
+    "rarity": "SSR",
+    "image": "cPK_20_009560_02_DONFANex_SSR.webp",
+    "name": "코리갑 ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 231,
+    "rarity": "SSR",
+    "image": "cPK_20_009680_02_BRACKYex_SSR.webp",
+    "name": "블래키 ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 232,
+    "rarity": "SSR",
+    "image": "cPK_20_010050_04_LUGIAex_SSR.webp",
+    "name": "루기아 ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 233,
+    "rarity": "UR",
+    "image": "cPK_20_014360_00_MELOETTA_UR.webp",
+    "name": "메로엣타",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 234,
+    "rarity": "UR",
+    "image": "cTR_20_001080_00_MAMORINOPONCHO_UR.webp",
+    "name": "수호의 판초",
+    "packs": [
+      "Gardevoir"
+    ]
+  }
+]

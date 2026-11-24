@@ -5,6 +5,10 @@ import deCards from "../dist/cards.de.json";
 import esCards from "../dist/cards.es.json";
 import frCards from "../dist/cards.fr.json";
 import itCards from "../dist/cards.it.json";
+import jaCards from "../dist/cards.ja.json";
+import koCards from "../dist/cards.ko.json";
+import ptCards from "../dist/cards.pt.json";
+import zhCards from "../dist/cards.zh.json";
 
 type Card = (typeof mainCards)[number];
 
@@ -76,9 +80,15 @@ async function generateAllCardsVariation(
 }
 
 // On 2026-08-29 the French names were overwritten by the English ones, and nobody saw it for months.
-// Spanish and Italian are left out: most Pokemon keep their English name.
+// Spanish, Italian and Portuguese are left out: most Pokemon keep their English name.
 const englishNames = new Map(mainCards.map((card) => [`${card.set}-${card.number}`, card.name]));
-for (const [languageCode, cards] of Object.entries({ de: deCards, fr: frCards })) {
+for (const [languageCode, cards] of Object.entries({
+  de: deCards,
+  fr: frCards,
+  ja: jaCards,
+  ko: koCards,
+  zh: zhCards,
+})) {
   const same = cards.filter((card) => card.name === englishNames.get(`${card.set}-${card.number}`));
   if (same.length > cards.length * 0.4) {
     throw new Error(`cards.${languageCode}.json: ${same.length}/${cards.length} names are in English`);
@@ -90,5 +100,9 @@ await generateAllCardsVariation(deCards, "de");
 await generateAllCardsVariation(frCards, "fr");
 await generateAllCardsVariation(esCards, "es");
 await generateAllCardsVariation(itCards, "it");
+await generateAllCardsVariation(jaCards, "ja");
+await generateAllCardsVariation(koCards, "ko");
+await generateAllCardsVariation(ptCards, "pt");
+await generateAllCardsVariation(zhCards, "zh");
 
 console.log("Done! ✅");
