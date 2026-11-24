@@ -235,7 +235,7 @@ To calculate the path, you can simply do `cards-by-set/${card.set}/${card.number
 
 ### Languages
 
-You can find a French (`fr`), German (`de`) and Spanish (`es`) variation of the files, for example in French :
+You can find a French (`fr`), German (`de`), Spanish (`es`) and Italian (`it`) variation of the files, for example in French :
 
 - `cards.fr.json`
 - `cards.fr.min.json`
@@ -248,9 +248,9 @@ And also a language specific subdirectory :
 - `cards/fr/A1.no-image.min.json`
   … for each set
 
-They list the same cards as `cards.json`. A name we could not source yet stays in English: 149 Trainer, Item and Stadium cards in Spanish (66 names), 17 in French (9 names). `bun ./scripts/translate.ts es` lists them.
+They list the same cards as `cards.json`. A name we could not source yet stays in English: 149 Trainer, Item and Stadium cards in Spanish (66 names), 150 in Italian (67 names), 17 in French (9 names). `bun ./scripts/translate.ts es` lists them.
 
-The Spanish and French names come from [TCGdex](https://tcgdex.dev) (MIT) and [PokeAPI](https://github.com/PokeAPI/pokeapi) (BSD-3-Clause), and for French from @adriendeval's contribution.
+The Spanish, Italian and French names come from [TCGdex](https://tcgdex.dev) (MIT) and [PokeAPI](https://github.com/PokeAPI/pokeapi) (BSD-3-Clause), and for French from @adriendeval's contribution.
 
 Want an other language ? Help us build it !
 
@@ -265,7 +265,7 @@ If you want to add a new language, just create a `cards.[Language Code (two lett
 - [x] Add French language (fr_FR) thanks to @adriendeval
 - [x] Add German language (de_DE) thanks to @Xernisfy
 - [x] Add Spanish language (es_ES)
-- [ ] Add Italian language (it_IT)
+- [x] Add Italian language (it_IT)
 - [ ] Add Japanese language (ja_JP)
 - [ ] Add Korean language (ko_KR)
 - [ ] Add Portuguese language (pt_BR)

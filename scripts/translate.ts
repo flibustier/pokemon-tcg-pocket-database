@@ -1,5 +1,5 @@
 /**
- * Writes dist/cards.<lang>.json: `bun ./scripts/translate.ts es|fr`, then `bun run build`.
+ * Writes dist/cards.<lang>.json: `bun ./scripts/translate.ts es|fr|it`, then `bun run build`.
  *
  * Each name comes from, in this order:
  * - Pokemon: the species names of the video games (PokeAPI), with the regional form, Mega and ex
@@ -42,11 +42,24 @@ const LANGUAGES = {
       "Origin Forme": "* Forme Originelle",
     },
   },
+  it: {
+    pokeApi: "8",
+    ex: "-ex",
+    mega: "Mega ",
+    rocket: "* del Team Rocket",
+    regions: {
+      Alolan: "* di Alola",
+      Galarian: "* di Galar",
+      Hisuian: "* di Hisui",
+      Paldean: "* di Paldea",
+      "Origin Forme": "* Forma Originale",
+    },
+  },
 };
 
 const lang = process.argv[2] as keyof typeof LANGUAGES;
 const rules = LANGUAGES[lang];
-if (!rules) throw new Error("Usage: bun ./scripts/translate.ts es|fr");
+if (!rules) throw new Error("Usage: bun ./scripts/translate.ts es|fr|it");
 
 const TCGDEX = "https://api.tcgdex.net/v2";
 const json = async (url: string) => {
