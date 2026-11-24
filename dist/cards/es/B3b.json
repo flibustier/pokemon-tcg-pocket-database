@@ -634,7 +634,7 @@
     "number": 64,
     "rarity": "U",
     "image": "cTR_10_001430_00_CHIISANAFUUSEN_U.webp",
-    "name": "Small Balloon",
+    "name": "Globito",
     "packs": [
       "Everyday Wonders"
     ]
@@ -644,7 +644,7 @@
     "number": 65,
     "rarity": "U",
     "image": "cTR_10_001440_00_YUUGANAMANTO_U.webp",
-    "name": "Elegant Cape",
+    "name": "Capa Elegante",
     "packs": [
       "Everyday Wonders"
     ]
@@ -654,7 +654,7 @@
     "number": 66,
     "rarity": "U",
     "image": "cTR_10_001450_00_KAMITSURE_U.webp",
-    "name": "Elesa",
+    "name": "Camila",
     "packs": [
       "Everyday Wonders"
     ]
@@ -664,7 +664,7 @@
     "number": 67,
     "rarity": "U",
     "image": "cTR_10_001460_00_KOINUDAISUKIGARL_U.webp",
-    "name": "Puppy-Loving Girl",
+    "name": "Fan de los Perritos",
     "packs": [
       "Everyday Wonders"
     ]
@@ -684,7 +684,7 @@
     "number": 69,
     "rarity": "U",
     "image": "cTR_10_001480_00_KODOMOBEYA_U.webp",
-    "name": "Kid’s Room",
+    "name": "Habitación Infantil",
     "packs": [
       "Everyday Wonders"
     ]
@@ -824,7 +824,7 @@
     "number": 83,
     "rarity": "SR",
     "image": "cTR_20_001450_00_KAMITSURE_SR.webp",
-    "name": "Elesa",
+    "name": "Camila",
     "packs": [
       "Everyday Wonders"
     ]
@@ -834,7 +834,7 @@
     "number": 84,
     "rarity": "SR",
     "image": "cTR_20_001460_00_KOINUDAISUKIGARL_SR.webp",
-    "name": "Puppy-Loving Girl",
+    "name": "Fan de los Perritos",
     "packs": [
       "Everyday Wonders"
     ]
@@ -1054,7 +1054,7 @@
     "number": 106,
     "rarity": "UR",
     "image": "cTR_20_001430_00_CHIISANAFUUSEN_UR.webp",
-    "name": "Small Balloon",
+    "name": "Globito",
     "packs": [
       "Everyday Wonders"
     ]

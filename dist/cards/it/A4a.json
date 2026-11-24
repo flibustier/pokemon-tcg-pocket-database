@@ -663,7 +663,7 @@
     "set": "A4a",
     "number": 67,
     "rarity": "U",
-    "name": "Inflatable Boat",
+    "name": "Canotto Gonfiabile",
     "image": "cTR_10_000820_00_WHOTABOTO_U.webp",
     "packs": [
       "Secluded"
@@ -673,7 +673,7 @@
     "set": "A4a",
     "number": 68,
     "rarity": "U",
-    "name": "Memory Light",
+    "name": "Luce della Memoria",
     "image": "cTR_10_000830_00_MEMORYLIGHT_U.webp",
     "packs": [
       "Secluded"
@@ -693,7 +693,7 @@
     "set": "A4a",
     "number": 70,
     "rarity": "U",
-    "name": "Traveling Merchant",
+    "name": "Venditrice Itinerante",
     "image": "cTR_10_000850_00_TABINOGYOUSHOUNIN_U.webp",
     "packs": [
       "Secluded"
@@ -833,7 +833,7 @@
     "set": "A4a",
     "number": 84,
     "rarity": "SR",
-    "name": "Traveling Merchant",
+    "name": "Venditrice Itinerante",
     "image": "cTR_20_000850_00_TABINOGYOUSHOUNIN_SR.webp",
     "packs": [
       "Secluded"

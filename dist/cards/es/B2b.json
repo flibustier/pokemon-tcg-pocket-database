@@ -644,7 +644,7 @@
     "number": 65,
     "rarity": "U",
     "image": "cTR_10_001230_00_IJIWARULETTER_U.webp",
-    "name": "Nasty Notice",
+    "name": "Nota Malévola",
     "packs": [
       "Mega Shine"
     ]
@@ -674,7 +674,7 @@
     "number": 68,
     "rarity": "U",
     "image": "cTR_10_001260_00_CALME_U.webp",
-    "name": "Calem",
+    "name": "Kalm",
     "packs": [
       "Mega Shine"
     ]
@@ -684,7 +684,7 @@
     "number": 69,
     "rarity": "U",
     "image": "cTR_10_001270_00_HAIKINGUCOURSE_U.webp",
-    "name": "Hiking Trail",
+    "name": "Ruta de Senderismo",
     "packs": [
       "Mega Shine"
     ]
@@ -814,7 +814,7 @@
     "number": 82,
     "rarity": "SR",
     "image": "cTR_20_001260_00_CALME_SR.webp",
-    "name": "Calem",
+    "name": "Kalm",
     "packs": [
       "Mega Shine"
     ]

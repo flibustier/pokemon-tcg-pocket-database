@@ -1494,7 +1494,7 @@
     "number": 150,
     "rarity": "U",
     "image": "cTR_10_001310_00_TAXIDRIVER_U.webp",
-    "name": "Cabbie",
+    "name": "Tassista",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1524,7 +1524,7 @@
     "number": 153,
     "rarity": "U",
     "image": "cTR_10_001340_00_AMAKUKAORUMORI_U.webp",
-    "name": "Fragrant Forest",
+    "name": "Foresta Profumata",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1534,7 +1534,7 @@
     "number": 154,
     "rarity": "U",
     "image": "cTR_10_001350_00_INISHIENOTOUGIJYOU_U.webp",
-    "name": "Arena of Antiquity",
+    "name": "Arena Antica",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1544,7 +1544,7 @@
     "number": 155,
     "rarity": "U",
     "image": "cTR_10_001360_00_KEKKAINOFIELD_U.webp",
-    "name": "Bounded Field",
+    "name": "Campo Delimitato",
     "packs": [
       "Pulsing Aura"
     ]
@@ -1904,7 +1904,7 @@
     "number": 191,
     "rarity": "SR",
     "image": "cTR_20_001310_00_TAXIDRIVER_SR.webp",
-    "name": "Cabbie",
+    "name": "Tassista",
     "packs": [
       "Pulsing Aura"
     ]

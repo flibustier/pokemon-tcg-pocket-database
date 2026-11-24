@@ -654,7 +654,7 @@
     "number": 66,
     "rarity": "U",
     "image": "cTR_10_001010_00_CITRONNORYUKKU_U.webp",
-    "name": "Clemont’s Backpack",
+    "name": "Zaino di Lem",
     "packs": [
       "Crimson Blaze"
     ]
@@ -664,7 +664,7 @@
     "number": 67,
     "rarity": "U",
     "image": "cTR_10_001020_00_SOUJYUKUEKISU_U.webp",
-    "name": "Quick-Grow Extract",
+    "name": "Fialetta di Fertilizzante",
     "packs": [
       "Crimson Blaze"
     ]
@@ -674,7 +674,7 @@
     "number": 68,
     "rarity": "U",
     "image": "cTR_10_001030_00_CITRON_U.webp",
-    "name": "Clemont",
+    "name": "Lem",
     "packs": [
       "Crimson Blaze"
     ]
@@ -804,7 +804,7 @@
     "number": 81,
     "rarity": "SR",
     "image": "cTR_20_001030_00_CITRON_SR.webp",
-    "name": "Clemont",
+    "name": "Lem",
     "packs": [
       "Crimson Blaze"
     ]
@@ -1024,7 +1024,7 @@
     "number": 103,
     "rarity": "UR",
     "image": "cTR_20_001020_00_SOUJYUKUEKISU_UR.webp",
-    "name": "Quick-Grow Extract",
+    "name": "Fialetta di Fertilizzante",
     "packs": [
       "Crimson Blaze"
     ]

@@ -8698,7 +8698,7 @@
     "set": "A3a",
     "number": 63,
     "rarity": "U",
-    "name": "Beast Wall",
+    "name": "Ultramuro",
     "image": "cTR_10_000600_00_BISUTOWORU_U.webp",
     "packs": ["Extradimensional"]
   },
@@ -8714,7 +8714,7 @@
     "set": "A3a",
     "number": 65,
     "rarity": "U",
-    "name": "Electrical Cord",
+    "name": "Prolunga",
     "image": "cTR_10_000620_00_EREKIKORD_U.webp",
     "packs": ["Extradimensional"]
   },
@@ -9546,7 +9546,7 @@
     "set": "A3b",
     "number": 66,
     "rarity": "U",
-    "name": "Eevee Bag",
+    "name": "Borsa Eevee",
     "image": "cTR_10_000670_00_IIBUINOBAKKU_U.webp",
     "packs": ["Eevee"]
   },
@@ -9874,7 +9874,7 @@
     "set": "A3b",
     "number": 107,
     "rarity": "UR",
-    "name": "Eevee Bag",
+    "name": "Borsa Eevee",
     "image": "cTR_20_000670_00_IIBUINOBAKKU_UR.webp",
     "packs": ["Eevee"]
   },
@@ -11082,7 +11082,7 @@
     "set": "A4",
     "number": 151,
     "rarity": "U",
-    "name": "Elemental Switch",
+    "name": "Scambio Elementale",
     "image": "cTR_10_000710_00_EREMENTARUTSUKEKAE_U.webp",
     "packs": ["Lugia"]
   },
@@ -11090,7 +11090,7 @@
     "set": "A4",
     "number": 152,
     "rarity": "U",
-    "name": "Squirt Bottle",
+    "name": "Annaffiatoio",
     "image": "cTR_10_000720_00_ZEHIGAMEJOURO_U.webp",
     "packs": ["Lugia"]
   },
@@ -11098,7 +11098,7 @@
     "set": "A4",
     "number": 153,
     "rarity": "U",
-    "name": "Steel Apron",
+    "name": "Corazza Metallica",
     "image": "cTR_10_000730_00_GOUTETUNOMAEKAKE_U.webp",
     "packs": ["Ho-Oh"]
   },
@@ -11106,7 +11106,7 @@
     "set": "A4",
     "number": 154,
     "rarity": "U",
-    "name": "Dark Pendant",
+    "name": "Pendente Oscuro",
     "image": "cTR_10_000740_00_DARKPENDANTO_U.webp",
     "packs": ["Ho-Oh"]
   },
@@ -11130,7 +11130,7 @@
     "set": "A4",
     "number": 157,
     "rarity": "U",
-    "name": "Lyra",
+    "name": "Cetra",
     "image": "cTR_10_000770_00_KOTONE_U.webp",
     "packs": ["Lugia"]
   },
@@ -11138,7 +11138,7 @@
     "set": "A4",
     "number": 158,
     "rarity": "U",
-    "name": "Silver",
+    "name": "Argento",
     "image": "cTR_10_000780_00_SILVER_U.webp",
     "packs": ["Ho-Oh"]
   },
@@ -11146,7 +11146,7 @@
     "set": "A4",
     "number": 159,
     "rarity": "U",
-    "name": "Fisher",
+    "name": "Pescatore",
     "image": "cTR_10_000790_00_FISHER_U.webp",
     "packs": ["Lugia"]
   },
@@ -11450,7 +11450,7 @@
     "set": "A4",
     "number": 197,
     "rarity": "SR",
-    "name": "Lyra",
+    "name": "Cetra",
     "image": "cTR_20_000770_00_KOTONE_SR.webp",
     "packs": ["Lugia"]
   },
@@ -11458,7 +11458,7 @@
     "set": "A4",
     "number": 198,
     "rarity": "SR",
-    "name": "Silver",
+    "name": "Argento",
     "image": "cTR_20_000780_00_SILVER_SR.webp",
     "packs": ["Ho-Oh"]
   },
@@ -11466,7 +11466,7 @@
     "set": "A4",
     "number": 199,
     "rarity": "SR",
-    "name": "Fisher",
+    "name": "Pescatore",
     "image": "cTR_20_000790_00_FISHER_SR.webp",
     "packs": ["Lugia"]
   },
@@ -12338,7 +12338,7 @@
     "set": "A4a",
     "number": 67,
     "rarity": "U",
-    "name": "Inflatable Boat",
+    "name": "Canotto Gonfiabile",
     "image": "cTR_10_000820_00_WHOTABOTO_U.webp",
     "packs": ["Secluded"]
   },
@@ -12346,7 +12346,7 @@
     "set": "A4a",
     "number": 68,
     "rarity": "U",
-    "name": "Memory Light",
+    "name": "Luce della Memoria",
     "image": "cTR_10_000830_00_MEMORYLIGHT_U.webp",
     "packs": ["Secluded"]
   },
@@ -12362,7 +12362,7 @@
     "set": "A4a",
     "number": 70,
     "rarity": "U",
-    "name": "Traveling Merchant",
+    "name": "Venditrice Itinerante",
     "image": "cTR_10_000850_00_TABINOGYOUSHOUNIN_U.webp",
     "packs": ["Secluded"]
   },
@@ -12474,7 +12474,7 @@
     "set": "A4a",
     "number": 84,
     "rarity": "SR",
-    "name": "Traveling Merchant",
+    "name": "Venditrice Itinerante",
     "image": "cTR_20_000850_00_TABINOGYOUSHOUNIN_SR.webp",
     "packs": ["Secluded"]
   },
@@ -15106,7 +15106,7 @@
     "set": "A4b",
     "number": 308,
     "rarity": "U",
-    "name": "Eevee Bag",
+    "name": "Borsa Eevee",
     "image": "cTR_10_000670_00_IIBUINOBAKKU_U.webp",
     "packs": ["Deluxe"]
   },
@@ -15114,7 +15114,7 @@
     "set": "A4b",
     "number": 309,
     "rarity": "U",
-    "name": "Eevee Bag",
+    "name": "Borsa Eevee",
     "image": "cTR_10_000670_01_IIBUINOBAKKU_U.webp",
     "packs": ["Deluxe"]
   },
@@ -15122,7 +15122,7 @@
     "set": "A4b",
     "number": 310,
     "rarity": "U",
-    "name": "Elemental Switch",
+    "name": "Scambio Elementale",
     "image": "cTR_10_000710_00_EREMENTARUTSUKEKAE_U.webp",
     "packs": ["Deluxe"]
   },
@@ -15130,7 +15130,7 @@
     "set": "A4b",
     "number": 311,
     "rarity": "U",
-    "name": "Elemental Switch",
+    "name": "Scambio Elementale",
     "image": "cTR_10_000710_01_EREMENTARUTSUKEKAE_U.webp",
     "packs": ["Deluxe"]
   },
@@ -15186,7 +15186,7 @@
     "set": "A4b",
     "number": 318,
     "rarity": "U",
-    "name": "Electrical Cord",
+    "name": "Prolunga",
     "image": "cTR_10_000620_00_EREKIKORD_U.webp",
     "packs": ["Deluxe"]
   },
@@ -15194,7 +15194,7 @@
     "set": "A4b",
     "number": 319,
     "rarity": "U",
-    "name": "Electrical Cord",
+    "name": "Prolunga",
     "image": "cTR_10_000620_01_EREKIKORD_U.webp",
     "packs": ["Deluxe"]
   },
@@ -15298,7 +15298,7 @@
     "set": "A4b",
     "number": 332,
     "rarity": "U",
-    "name": "Lyra",
+    "name": "Cetra",
     "image": "cTR_10_000770_00_KOTONE_U.webp",
     "packs": ["Deluxe"]
   },
@@ -15306,7 +15306,7 @@
     "set": "A4b",
     "number": 333,
     "rarity": "U",
-    "name": "Lyra",
+    "name": "Cetra",
     "image": "cTR_10_000770_01_KOTONE_U.webp",
     "packs": ["Deluxe"]
   },
@@ -15330,7 +15330,7 @@
     "set": "A4b",
     "number": 336,
     "rarity": "U",
-    "name": "Silver",
+    "name": "Argento",
     "image": "cTR_10_000780_00_SILVER_U.webp",
     "packs": ["Deluxe"]
   },
@@ -15338,7 +15338,7 @@
     "set": "A4b",
     "number": 337,
     "rarity": "U",
-    "name": "Silver",
+    "name": "Argento",
     "image": "cTR_10_000780_01_SILVER_U.webp",
     "packs": ["Deluxe"]
   },
@@ -16288,7 +16288,7 @@
     "set": "PROMO-A",
     "number": 81,
     "rarity": "RR",
-    "name": "Ultra Necrozma ex",
+    "name": "Ultra Necrozma-ex",
     "image": "cPK_90_007310_00_NECROZMAULTRANECROZMAex_RR.webp",
     "packs": ["Vol. 9"]
   },
@@ -18264,7 +18264,7 @@
     "set": "B1",
     "number": 213,
     "rarity": "U",
-    "name": "Prank Spinner",
+    "name": "Ruota della Sfortuna",
     "image": "cTR_10_000870_00_ITAZURAROULETTE_U.webp",
     "packs": ["Mega Blaziken"]
   },
@@ -18280,7 +18280,7 @@
     "set": "B1",
     "number": 215,
     "rarity": "U",
-    "name": "Hitting Hammer",
+    "name": "Martello Debilitante",
     "image": "cTR_10_000890_00_HITHAMMER_U.webp",
     "packs": ["Mega Gyarados"]
   },
@@ -18296,7 +18296,7 @@
     "set": "B1",
     "number": 217,
     "rarity": "U",
-    "name": "Flame Patch",
+    "name": "Distintivo Fiamma",
     "image": "cTR_10_000910_00_FUREIMUPACCHI_U.webp",
     "packs": ["Mega Blaziken"]
   },
@@ -18312,7 +18312,7 @@
     "set": "B1",
     "number": 219,
     "rarity": "U",
-    "name": "Heavy Helmet",
+    "name": "Casco Pesante",
     "image": "cTR_10_000930_00_BABYMET_U.webp",
     "packs": ["Mega Gyarados"]
   },
@@ -18320,7 +18320,7 @@
     "set": "B1",
     "number": 220,
     "rarity": "U",
-    "name": "Lucky Mittens",
+    "name": "Fortunguanti",
     "image": "cTR_10_000940_00_LUCKYMITTENS_U.webp",
     "packs": ["Mega Altaria"]
   },
@@ -18328,7 +18328,7 @@
     "set": "B1",
     "number": 221,
     "rarity": "U",
-    "name": "Marlon",
+    "name": "Ciprian",
     "image": "cTR_10_000950_00_SHIZUI_U.webp",
     "packs": ["Mega Gyarados"]
   },
@@ -18344,7 +18344,7 @@
     "set": "B1",
     "number": 223,
     "rarity": "U",
-    "name": "May",
+    "name": "Vera",
     "image": "cTR_10_000970_00_HARUKA_U.webp",
     "packs": ["Mega Blaziken"]
   },
@@ -18688,7 +18688,7 @@
     "set": "B1",
     "number": 266,
     "rarity": "SR",
-    "name": "Marlon",
+    "name": "Ciprian",
     "image": "cTR_20_000950_00_SHIZUI_SR.webp",
     "packs": ["Mega Gyarados"]
   },
@@ -18704,7 +18704,7 @@
     "set": "B1",
     "number": 268,
     "rarity": "SR",
-    "name": "May",
+    "name": "Vera",
     "image": "cTR_20_000970_00_HARUKA_SR.webp",
     "packs": ["Mega Blaziken"]
   },
@@ -19208,7 +19208,7 @@
     "set": "B1",
     "number": 331,
     "rarity": "UR",
-    "name": "Flame Patch",
+    "name": "Distintivo Fiamma",
     "image": "cTR_20_000910_00_FUREIMUPACCHI_UR.webp",
     "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
   },
@@ -19737,7 +19737,7 @@
     "number": 66,
     "rarity": "U",
     "image": "cTR_10_001010_00_CITRONNORYUKKU_U.webp",
-    "name": "Clemont’s Backpack",
+    "name": "Zaino di Lem",
     "packs": ["Crimson Blaze"]
   },
   {
@@ -19745,7 +19745,7 @@
     "number": 67,
     "rarity": "U",
     "image": "cTR_10_001020_00_SOUJYUKUEKISU_U.webp",
-    "name": "Quick-Grow Extract",
+    "name": "Fialetta di Fertilizzante",
     "packs": ["Crimson Blaze"]
   },
   {
@@ -19753,7 +19753,7 @@
     "number": 68,
     "rarity": "U",
     "image": "cTR_10_001030_00_CITRON_U.webp",
-    "name": "Clemont",
+    "name": "Lem",
     "packs": ["Crimson Blaze"]
   },
   {
@@ -19857,7 +19857,7 @@
     "number": 81,
     "rarity": "SR",
     "image": "cTR_20_001030_00_CITRON_SR.webp",
-    "name": "Clemont",
+    "name": "Lem",
     "packs": ["Crimson Blaze"]
   },
   {
@@ -20033,7 +20033,7 @@
     "number": 103,
     "rarity": "UR",
     "image": "cTR_20_001020_00_SOUJYUKUEKISU_UR.webp",
-    "name": "Quick-Grow Extract",
+    "name": "Fialetta di Fertilizzante",
     "packs": ["Crimson Blaze"]
   },
   {
@@ -21209,7 +21209,7 @@
     "number": 147,
     "rarity": "U",
     "image": "cTR_10_001080_00_MAMORINOPONCHO_U.webp",
-    "name": "Protective Poncho",
+    "name": "Poncho Protettivo",
     "packs": ["Gardevoir"]
   },
   {
@@ -21241,7 +21241,7 @@
     "number": 151,
     "rarity": "U",
     "image": "cTR_10_001120_00_JAGURA_U.webp",
-    "name": "Juggler",
+    "name": "Giocoliere",
     "packs": ["Gardevoir"]
   },
   {
@@ -21257,7 +21257,7 @@
     "number": 153,
     "rarity": "U",
     "image": "cTR_10_001140_00_TORENINGUERIA_U.webp",
-    "name": "Training Area",
+    "name": "Campo di Allenamento",
     "packs": ["Gardevoir"]
   },
   {
@@ -21265,7 +21265,7 @@
     "number": 154,
     "rarity": "U",
     "image": "cTR_10_001150_00_HAJIMARINOHEIGEN_U.webp",
-    "name": "Starting Plains",
+    "name": "Pianura degli Esordi",
     "packs": ["Gardevoir"]
   },
   {
@@ -21273,7 +21273,7 @@
     "number": 155,
     "rarity": "U",
     "image": "cTR_10_001160_00_FUSHIGINAHIROBA_U.webp",
-    "name": "Peculiar Plaza",
+    "name": "Piazza Arcana",
     "packs": ["Gardevoir"]
   },
   {
@@ -21569,7 +21569,7 @@
     "number": 192,
     "rarity": "SR",
     "image": "cTR_20_001120_00_JAGURA_SR.webp",
-    "name": "Juggler",
+    "name": "Giocoliere",
     "packs": ["Gardevoir"]
   },
   {
@@ -21905,7 +21905,7 @@
     "number": 234,
     "rarity": "UR",
     "image": "cTR_20_001080_00_MAMORINOPONCHO_UR.webp",
-    "name": "Protective Poncho",
+    "name": "Poncho Protettivo",
     "packs": ["Gardevoir"]
   },
   {
@@ -24258,7 +24258,7 @@
     "number": 65,
     "rarity": "U",
     "image": "cTR_10_001230_00_IJIWARULETTER_U.webp",
-    "name": "Nasty Notice",
+    "name": "Avviso Molesto",
     "packs": ["Mega Shine"]
   },
   {
@@ -24290,7 +24290,7 @@
     "number": 69,
     "rarity": "U",
     "image": "cTR_10_001270_00_HAIKINGUCOURSE_U.webp",
-    "name": "Hiking Trail",
+    "name": "Percorso Escursionistico",
     "packs": ["Mega Shine"]
   },
   {
@@ -25874,7 +25874,7 @@
     "number": 150,
     "rarity": "U",
     "image": "cTR_10_001310_00_TAXIDRIVER_U.webp",
-    "name": "Cabbie",
+    "name": "Tassista",
     "packs": ["Pulsing Aura"]
   },
   {
@@ -25898,7 +25898,7 @@
     "number": 153,
     "rarity": "U",
     "image": "cTR_10_001340_00_AMAKUKAORUMORI_U.webp",
-    "name": "Fragrant Forest",
+    "name": "Foresta Profumata",
     "packs": ["Pulsing Aura"]
   },
   {
@@ -25906,7 +25906,7 @@
     "number": 154,
     "rarity": "U",
     "image": "cTR_10_001350_00_INISHIENOTOUGIJYOU_U.webp",
-    "name": "Arena of Antiquity",
+    "name": "Arena Antica",
     "packs": ["Pulsing Aura"]
   },
   {
@@ -25914,7 +25914,7 @@
     "number": 155,
     "rarity": "U",
     "image": "cTR_10_001360_00_KEKKAINOFIELD_U.webp",
-    "name": "Bounded Field",
+    "name": "Campo Delimitato",
     "packs": ["Pulsing Aura"]
   },
   {
@@ -26202,7 +26202,7 @@
     "number": 191,
     "rarity": "SR",
     "image": "cTR_20_001310_00_TAXIDRIVER_SR.webp",
-    "name": "Cabbie",
+    "name": "Tassista",
     "packs": ["Pulsing Aura"]
   },
   {
@@ -27122,7 +27122,7 @@
     "number": 72,
     "rarity": "U",
     "image": "cTR_10_001400_00_OLIMHAKASE_U.webp",
-    "name": "Professor Sada",
+    "name": "Prof.ssa Olim",
     "packs": ["Paradox Drive"]
   },
   {
@@ -27130,7 +27130,7 @@
     "number": 73,
     "rarity": "U",
     "image": "cTR_10_001410_00_FUTUHAKASE_U.webp",
-    "name": "Professor Turo",
+    "name": "Professor Turum",
     "packs": ["Paradox Drive"]
   },
   {
@@ -27242,7 +27242,7 @@
     "number": 87,
     "rarity": "SR",
     "image": "cTR_20_001400_00_OLIMHAKASE_SR.webp",
-    "name": "Professor Sada",
+    "name": "Prof.ssa Olim",
     "packs": ["Paradox Drive"]
   },
   {
@@ -27250,7 +27250,7 @@
     "number": 88,
     "rarity": "SR",
     "image": "cTR_20_001410_00_FUTUHAKASE_SR.webp",
-    "name": "Professor Turo",
+    "name": "Professor Turum",
     "packs": ["Paradox Drive"]
   },
   {
@@ -27930,7 +27930,7 @@
     "number": 64,
     "rarity": "U",
     "image": "cTR_10_001430_00_CHIISANAFUUSEN_U.webp",
-    "name": "Small Balloon",
+    "name": "Piccolo Palloncino",
     "packs": ["Everyday Wonders"]
   },
   {
@@ -27938,7 +27938,7 @@
     "number": 65,
     "rarity": "U",
     "image": "cTR_10_001440_00_YUUGANAMANTO_U.webp",
-    "name": "Elegant Cape",
+    "name": "Mantello Elegante",
     "packs": ["Everyday Wonders"]
   },
   {
@@ -27946,7 +27946,7 @@
     "number": 66,
     "rarity": "U",
     "image": "cTR_10_001450_00_KAMITSURE_U.webp",
-    "name": "Elesa",
+    "name": "Camelia",
     "packs": ["Everyday Wonders"]
   },
   {
@@ -27954,7 +27954,7 @@
     "number": 67,
     "rarity": "U",
     "image": "cTR_10_001460_00_KOINUDAISUKIGARL_U.webp",
-    "name": "Puppy-Loving Girl",
+    "name": "Amante dei Cuccioli",
     "packs": ["Everyday Wonders"]
   },
   {
@@ -27970,7 +27970,7 @@
     "number": 69,
     "rarity": "U",
     "image": "cTR_10_001480_00_KODOMOBEYA_U.webp",
-    "name": "Kid’s Room",
+    "name": "Cameretta",
     "packs": ["Everyday Wonders"]
   },
   {
@@ -28082,7 +28082,7 @@
     "number": 83,
     "rarity": "SR",
     "image": "cTR_20_001450_00_KAMITSURE_SR.webp",
-    "name": "Elesa",
+    "name": "Camelia",
     "packs": ["Everyday Wonders"]
   },
   {
@@ -28090,7 +28090,7 @@
     "number": 84,
     "rarity": "SR",
     "image": "cTR_20_001460_00_KOINUDAISUKIGARL_SR.webp",
-    "name": "Puppy-Loving Girl",
+    "name": "Amante dei Cuccioli",
     "packs": ["Everyday Wonders"]
   },
   {
@@ -28266,7 +28266,7 @@
     "number": 106,
     "rarity": "UR",
     "image": "cTR_20_001430_00_CHIISANAFUUSEN_UR.webp",
-    "name": "Small Balloon",
+    "name": "Piccolo Palloncino",
     "packs": ["Everyday Wonders"]
   },
   {
@@ -29434,7 +29434,7 @@
     "number": 146,
     "rarity": "C",
     "image": "cTR_10_001500_00_TSUMENOKASEKI_C.webp",
-    "name": "Claw Fossil",
+    "name": "Fossilunghia",
     "packs": ["Ruler of the Skies"]
   },
   {
@@ -29442,7 +29442,7 @@
     "number": 147,
     "rarity": "C",
     "image": "cTR_10_001510_00_NEKKONOKASEKI_C.webp",
-    "name": "Root Fossil",
+    "name": "Radifossile",
     "packs": ["Ruler of the Skies"]
   },
   {
@@ -29450,7 +29450,7 @@
     "number": 148,
     "rarity": "U",
     "image": "cTR_10_001520_00_INCHIKIBARI_U.webp",
-    "name": "Deceptive Needle",
+    "name": "Lancetta Infida",
     "packs": ["Ruler of the Skies"]
   },
   {
@@ -29458,7 +29458,7 @@
     "number": 149,
     "rarity": "U",
     "image": "cTR_10_001530_00_KURIAVEIL_U.webp",
-    "name": "Clear Veil",
+    "name": "Velo Trasparente",
     "packs": ["Ruler of the Skies"]
   },
   {
@@ -29466,7 +29466,7 @@
     "number": 150,
     "rarity": "U",
     "image": "cTR_10_001540_00_SAIKIKKA_U.webp",
-    "name": "Psychic",
+    "name": "Sensitivo",
     "packs": ["Ruler of the Skies"]
   },
   {
@@ -29474,7 +29474,7 @@
     "number": 151,
     "rarity": "U",
     "image": "cTR_10_001550_00_SYAGA_U.webp",
-    "name": "Drayden",
+    "name": "Aristide",
     "packs": ["Ruler of the Skies"]
   },
   {
@@ -29498,7 +29498,7 @@
     "number": 154,
     "rarity": "U",
     "image": "cTR_10_001580_00_IYASHINOUMIBE_U.webp",
-    "name": "Soothing Shore",
+    "name": "Litorale Confortante",
     "packs": ["Ruler of the Skies"]
   },
   {
@@ -29506,7 +29506,7 @@
     "number": 155,
     "rarity": "U",
     "image": "cTR_10_001590_00_NIJIIRONODOUKUTSU_U.webp",
-    "name": "Rainbow Cave",
+    "name": "Caverna Arcobaleno",
     "packs": ["Ruler of the Skies"]
   },
   {
@@ -29786,7 +29786,7 @@
     "number": 190,
     "rarity": "SR",
     "image": "cTR_20_001540_00_SAIKIKKA_SR.webp",
-    "name": "Psychic",
+    "name": "Sensitivo",
     "packs": ["Ruler of the Skies"]
   },
   {
@@ -29794,7 +29794,7 @@
     "number": 191,
     "rarity": "SR",
     "image": "cTR_20_001550_00_SYAGA_SR.webp",
-    "name": "Drayden",
+    "name": "Aristide",
     "packs": ["Ruler of the Skies"]
   },
   {
@@ -30666,7 +30666,7 @@
     "number": 67,
     "rarity": "U",
     "image": "cTR_10_001600_00_ROCKETDANNODOROBOUMASHIN_U.webp",
-    "name": "Team Rocket’s Thieving Machine",
+    "name": "Ladrobot del Team Rocket",
     "packs": ["Team Rocket"]
   },
   {
@@ -30674,7 +30674,7 @@
     "number": 68,
     "rarity": "U",
     "image": "cTR_10_001610_00_ROCKETDANNOBETOBETOBAZOOKA_U.webp",
-    "name": "Team Rocket’s Goo-zooka",
+    "name": "Sparacolla del Team Rocket",
     "packs": ["Team Rocket"]
   },
   {
@@ -30682,7 +30682,7 @@
     "number": 69,
     "rarity": "U",
     "image": "cTR_10_001620_00_ROCKETDANNOKENKYUUIN_U.webp",
-    "name": "Team Rocket’s Researcher",
+    "name": "Ricercatrice del Team Rocket",
     "packs": ["Team Rocket"]
   },
   {
@@ -30690,7 +30690,7 @@
     "number": 70,
     "rarity": "U",
     "image": "cTR_10_001630_00_ROCKETDANNODAISAKUSEN_U.webp",
-    "name": "Team Rocket’s Master Plan",
+    "name": "Grande Piano del Team Rocket",
     "packs": ["Team Rocket"]
   },
   {
@@ -30698,7 +30698,7 @@
     "number": 71,
     "rarity": "U",
     "image": "cTR_10_001640_00_ROCKETDANNOBOSS_U.webp",
-    "name": "Team Rocket’s Boss",
+    "name": "Capo Team Rocket",
     "packs": ["Team Rocket"]
   },
   {
@@ -30706,7 +30706,7 @@
     "number": 72,
     "rarity": "U",
     "image": "cTR_10_001650_00_GAMECENTER_U.webp",
-    "name": "Arcade",
+    "name": "Centro Giochi",
     "packs": ["Team Rocket"]
   },
   {
@@ -30810,7 +30810,7 @@
     "number": 85,
     "rarity": "SR",
     "image": "cTR_20_001620_00_ROCKETDANNOKENKYUUIN_SR.webp",
-    "name": "Team Rocket’s Researcher",
+    "name": "Ricercatrice del Team Rocket",
     "packs": ["Team Rocket"]
   },
   {
@@ -30818,7 +30818,7 @@
     "number": 86,
     "rarity": "SR",
     "image": "cTR_20_001630_00_ROCKETDANNODAISAKUSEN_SR.webp",
-    "name": "Team Rocket’s Master Plan",
+    "name": "Grande Piano del Team Rocket",
     "packs": ["Team Rocket"]
   },
   {
@@ -30826,7 +30826,7 @@
     "number": 87,
     "rarity": "SR",
     "image": "cTR_20_001640_00_ROCKETDANNOBOSS_SR.webp",
-    "name": "Team Rocket’s Boss",
+    "name": "Capo Team Rocket",
     "packs": ["Team Rocket"]
   },
   {
@@ -30882,7 +30882,7 @@
     "number": 94,
     "rarity": "IM",
     "image": "cTR_20_001630_01_ROCKETDANNODAISAKUSEN_IM.webp",
-    "name": "Team Rocket’s Master Plan",
+    "name": "Grande Piano del Team Rocket",
     "packs": ["Team Rocket"]
   },
   {
@@ -31010,7 +31010,7 @@
     "number": 110,
     "rarity": "UR",
     "image": "cTR_20_001610_00_ROCKETDANNOBETOBETOBAZOOKA_UR.webp",
-    "name": "Team Rocket’s Goo-zooka",
+    "name": "Sparacolla del Team Rocket",
     "packs": ["Team Rocket"]
   },
   {
@@ -32618,7 +32618,7 @@
     "number": 201,
     "rarity": "U",
     "image": "cTR_10_001020_00_SOUJYUKUEKISU_U.webp",
-    "name": "Quick-Grow Extract",
+    "name": "Fialetta di Fertilizzante",
     "packs": ["Deluxe Pack Mega"]
   },
   {
@@ -32634,7 +32634,7 @@
     "number": 203,
     "rarity": "U",
     "image": "cTR_10_000910_00_FUREIMUPACCHI_U.webp",
-    "name": "Flame Patch",
+    "name": "Distintivo Fiamma",
     "packs": ["Deluxe Pack Mega"]
   },
   {
@@ -32642,7 +32642,7 @@
     "number": 204,
     "rarity": "U",
     "image": "cTR_10_001520_00_INCHIKIBARI_U.webp",
-    "name": "Deceptive Needle",
+    "name": "Lancetta Infida",
     "packs": ["Deluxe Pack Mega"]
   },
   {
@@ -32658,7 +32658,7 @@
     "number": 206,
     "rarity": "U",
     "image": "cTR_10_001430_00_CHIISANAFUUSEN_U.webp",
-    "name": "Small Balloon",
+    "name": "Piccolo Palloncino",
     "packs": ["Deluxe Pack Mega"]
   },
   {
@@ -32682,7 +32682,7 @@
     "number": 209,
     "rarity": "U",
     "image": "cTR_10_001080_00_MAMORINOPONCHO_U.webp",
-    "name": "Protective Poncho",
+    "name": "Poncho Protettivo",
     "packs": ["Deluxe Pack Mega"]
   },
   {
@@ -32698,7 +32698,7 @@
     "number": 211,
     "rarity": "U",
     "image": "cTR_10_001440_00_YUUGANAMANTO_U.webp",
-    "name": "Elegant Cape",
+    "name": "Mantello Elegante",
     "packs": ["Deluxe Pack Mega"]
   },
   {
@@ -32738,7 +32738,7 @@
     "number": 216,
     "rarity": "U",
     "image": "cTR_10_001460_00_KOINUDAISUKIGARL_U.webp",
-    "name": "Puppy-Loving Girl",
+    "name": "Amante dei Cuccioli",
     "packs": ["Deluxe Pack Mega"]
   },
   {
@@ -32754,7 +32754,7 @@
     "number": 218,
     "rarity": "U",
     "image": "cTR_10_001030_00_CITRON_U.webp",
-    "name": "Clemont",
+    "name": "Lem",
     "packs": ["Deluxe Pack Mega"]
   },
   {
@@ -32770,7 +32770,7 @@
     "number": 220,
     "rarity": "U",
     "image": "cTR_10_000970_00_HARUKA_U.webp",
-    "name": "May",
+    "name": "Vera",
     "packs": ["Deluxe Pack Mega"]
   },
   {
@@ -32826,7 +32826,7 @@
     "number": 227,
     "rarity": "U",
     "image": "cTR_10_001340_00_AMAKUKAORUMORI_U.webp",
-    "name": "Fragrant Forest",
+    "name": "Foresta Profumata",
     "packs": ["Deluxe Pack Mega"]
   },
   {
@@ -32834,7 +32834,7 @@
     "number": 228,
     "rarity": "U",
     "image": "cTR_10_001350_00_INISHIENOTOUGIJYOU_U.webp",
-    "name": "Arena of Antiquity",
+    "name": "Arena Antica",
     "packs": ["Deluxe Pack Mega"]
   },
   {
@@ -32842,7 +32842,7 @@
     "number": 229,
     "rarity": "U",
     "image": "cTR_10_001580_00_IYASHINOUMIBE_U.webp",
-    "name": "Soothing Shore",
+    "name": "Litorale Confortante",
     "packs": ["Deluxe Pack Mega"]
   },
   {
@@ -32850,7 +32850,7 @@
     "number": 230,
     "rarity": "U",
     "image": "cTR_10_001360_00_KEKKAINOFIELD_U.webp",
-    "name": "Bounded Field",
+    "name": "Campo Delimitato",
     "packs": ["Deluxe Pack Mega"]
   },
   {
@@ -32866,7 +32866,7 @@
     "number": 232,
     "rarity": "U",
     "image": "cTR_10_001140_00_TORENINGUERIA_U.webp",
-    "name": "Training Area",
+    "name": "Campo di Allenamento",
     "packs": ["Deluxe Pack Mega"]
   },
   {
@@ -32874,7 +32874,7 @@
     "number": 233,
     "rarity": "U",
     "image": "cTR_10_001590_00_NIJIIRONODOUKUTSU_U.webp",
-    "name": "Rainbow Cave",
+    "name": "Caverna Arcobaleno",
     "packs": ["Deluxe Pack Mega"]
   },
   {
@@ -32882,7 +32882,7 @@
     "number": 234,
     "rarity": "U",
     "image": "cTR_10_001270_00_HAIKINGUCOURSE_U.webp",
-    "name": "Hiking Trail",
+    "name": "Percorso Escursionistico",
     "packs": ["Deluxe Pack Mega"]
   },
   {
@@ -32890,7 +32890,7 @@
     "number": 235,
     "rarity": "U",
     "image": "cTR_10_001150_00_HAJIMARINOHEIGEN_U.webp",
-    "name": "Starting Plains",
+    "name": "Pianura degli Esordi",
     "packs": ["Deluxe Pack Mega"]
   },
   {
@@ -32898,7 +32898,7 @@
     "number": 236,
     "rarity": "U",
     "image": "cTR_10_001160_00_FUSHIGINAHIROBA_U.webp",
-    "name": "Peculiar Plaza",
+    "name": "Piazza Arcana",
     "packs": ["Deluxe Pack Mega"]
   },
   {
@@ -33946,7 +33946,7 @@
     "number": 367,
     "rarity": "U",
     "image": "cTR_10_001020_01_SOUJYUKUEKISU_U.webp",
-    "name": "Quick-Grow Extract",
+    "name": "Fialetta di Fertilizzante",
     "packs": ["Deluxe Pack Mega"]
   },
   {
@@ -33962,7 +33962,7 @@
     "number": 369,
     "rarity": "U",
     "image": "cTR_10_000910_01_FUREIMUPACCHI_U.webp",
-    "name": "Flame Patch",
+    "name": "Distintivo Fiamma",
     "packs": ["Deluxe Pack Mega"]
   },
   {
@@ -33970,7 +33970,7 @@
     "number": 370,
     "rarity": "U",
     "image": "cTR_10_001520_01_INCHIKIBARI_U.webp",
-    "name": "Deceptive Needle",
+    "name": "Lancetta Infida",
     "packs": ["Deluxe Pack Mega"]
   },
   {
@@ -33986,7 +33986,7 @@
     "number": 372,
     "rarity": "U",
     "image": "cTR_10_001430_01_CHIISANAFUUSEN_U.webp",
-    "name": "Small Balloon",
+    "name": "Piccolo Palloncino",
     "packs": ["Deluxe Pack Mega"]
   },
   {
@@ -34010,7 +34010,7 @@
     "number": 375,
     "rarity": "U",
     "image": "cTR_10_001080_01_MAMORINOPONCHO_U.webp",
-    "name": "Protective Poncho",
+    "name": "Poncho Protettivo",
     "packs": ["Deluxe Pack Mega"]
   },
   {
@@ -34026,7 +34026,7 @@
     "number": 377,
     "rarity": "U",
     "image": "cTR_10_001440_01_YUUGANAMANTO_U.webp",
-    "name": "Elegant Cape",
+    "name": "Mantello Elegante",
     "packs": ["Deluxe Pack Mega"]
   },
   {
@@ -34066,7 +34066,7 @@
     "number": 382,
     "rarity": "U",
     "image": "cTR_10_001460_01_KOINUDAISUKIGARL_U.webp",
-    "name": "Puppy-Loving Girl",
+    "name": "Amante dei Cuccioli",
     "packs": ["Deluxe Pack Mega"]
   },
   {
@@ -34082,7 +34082,7 @@
     "number": 384,
     "rarity": "U",
     "image": "cTR_10_001030_01_CITRON_U.webp",
-    "name": "Clemont",
+    "name": "Lem",
     "packs": ["Deluxe Pack Mega"]
   },
   {
@@ -34098,7 +34098,7 @@
     "number": 386,
     "rarity": "U",
     "image": "cTR_10_000970_01_HARUKA_U.webp",
-    "name": "May",
+    "name": "Vera",
     "packs": ["Deluxe Pack Mega"]
   },
   {
@@ -34154,7 +34154,7 @@
     "number": 393,
     "rarity": "U",
     "image": "cTR_10_001340_01_AMAKUKAORUMORI_U.webp",
-    "name": "Fragrant Forest",
+    "name": "Foresta Profumata",
     "packs": ["Deluxe Pack Mega"]
   },
   {
@@ -34162,7 +34162,7 @@
     "number": 394,
     "rarity": "U",
     "image": "cTR_10_001350_01_INISHIENOTOUGIJYOU_U.webp",
-    "name": "Arena of Antiquity",
+    "name": "Arena Antica",
     "packs": ["Deluxe Pack Mega"]
   },
   {
@@ -34170,7 +34170,7 @@
     "number": 395,
     "rarity": "U",
     "image": "cTR_10_001580_01_IYASHINOUMIBE_U.webp",
-    "name": "Soothing Shore",
+    "name": "Litorale Confortante",
     "packs": ["Deluxe Pack Mega"]
   },
   {
@@ -34178,7 +34178,7 @@
     "number": 396,
     "rarity": "U",
     "image": "cTR_10_001360_01_KEKKAINOFIELD_U.webp",
-    "name": "Bounded Field",
+    "name": "Campo Delimitato",
     "packs": ["Deluxe Pack Mega"]
   },
   {
@@ -34194,7 +34194,7 @@
     "number": 398,
     "rarity": "U",
     "image": "cTR_10_001140_01_TORENINGUERIA_U.webp",
-    "name": "Training Area",
+    "name": "Campo di Allenamento",
     "packs": ["Deluxe Pack Mega"]
   },
   {
@@ -34202,7 +34202,7 @@
     "number": 399,
     "rarity": "U",
     "image": "cTR_10_001590_01_NIJIIRONODOUKUTSU_U.webp",
-    "name": "Rainbow Cave",
+    "name": "Caverna Arcobaleno",
     "packs": ["Deluxe Pack Mega"]
   },
   {
@@ -34210,7 +34210,7 @@
     "number": 400,
     "rarity": "U",
     "image": "cTR_10_001270_01_HAIKINGUCOURSE_U.webp",
-    "name": "Hiking Trail",
+    "name": "Percorso Escursionistico",
     "packs": ["Deluxe Pack Mega"]
   },
   {
@@ -34218,7 +34218,7 @@
     "number": 401,
     "rarity": "U",
     "image": "cTR_10_001150_01_HAJIMARINOHEIGEN_U.webp",
-    "name": "Starting Plains",
+    "name": "Pianura degli Esordi",
     "packs": ["Deluxe Pack Mega"]
   },
   {
@@ -34226,7 +34226,7 @@
     "number": 402,
     "rarity": "U",
     "image": "cTR_10_001160_01_FUSHIGINAHIROBA_U.webp",
-    "name": "Peculiar Plaza",
+    "name": "Piazza Arcana",
     "packs": ["Deluxe Pack Mega"]
   },
   {
@@ -34386,7 +34386,7 @@
     "number": 422,
     "rarity": "SR",
     "image": "cTR_20_001450_01_KAMITSURE_SR.webp",
-    "name": "Elesa",
+    "name": "Camelia",
     "packs": ["Deluxe Pack Mega"]
   },
   {
@@ -35650,7 +35650,7 @@
     "number": 121,
     "rarity": "U",
     "image": "cTR_10_001680_00_GOLDSPRAY_U.webp",
-    "name": "Max Repel",
+    "name": "Repellente Max",
     "packs": ["Dual Fusion Mega Mewtwo X"]
   },
   {
@@ -35690,7 +35690,7 @@
     "number": 126,
     "rarity": "U",
     "image": "cTR_10_001730_00_GREENNOCHOUHATSU_U.webp",
-    "name": "Blue’s Provocation",
+    "name": "Provocazione di Blu",
     "packs": ["Dual Fusion Mega Mewtwo X"]
   },
   {
@@ -35698,7 +35698,7 @@
     "number": 127,
     "rarity": "U",
     "image": "cTR_10_001740_00_SERENANOSENTAKU_U.webp",
-    "name": "Serena’s Choice",
+    "name": "Scelta di Serena",
     "packs": ["Dual Fusion Pikachu"]
   },
   {
@@ -35714,7 +35714,7 @@
     "number": 129,
     "rarity": "U",
     "image": "cTR_10_001760_00_FRIENDLYSHOPNOONIISAN_U.webp",
-    "name": "Poké Mart Guy",
+    "name": "Commesso del Pokémon-Market",
     "packs": ["Dual Fusion Pikachu"]
   },
   {
@@ -35722,7 +35722,7 @@
     "number": 130,
     "rarity": "U",
     "image": "cTR_10_001770_00_HOPETRAINER_U.webp",
-    "name": "Rising Star",
+    "name": "Giovane Speranza",
     "packs": ["Dual Fusion Mega Mewtwo X"]
   },
   {
@@ -35730,7 +35730,7 @@
     "number": 131,
     "rarity": "U",
     "image": "cTR_10_001780_00_SABIRETASUTANDO_U.webp",
-    "name": "Abandoned Station",
+    "name": "Distributore Abbandonato",
     "packs": ["Dual Fusion Mega Mewtwo X"]
   },
   {
@@ -36009,7 +36009,7 @@
     "number": 166,
     "rarity": "SR",
     "image": "cTR_20_001730_00_GREENNOCHOUHATSU_SR.webp",
-    "name": "Blue’s Provocation",
+    "name": "Provocazione di Blu",
     "packs": ["Dual Fusion Mega Mewtwo X"]
   },
   {
@@ -36017,7 +36017,7 @@
     "number": 167,
     "rarity": "SR",
     "image": "cTR_20_001740_00_SERENANOSENTAKU_SR.webp",
-    "name": "Serena’s Choice",
+    "name": "Scelta di Serena",
     "packs": ["Dual Fusion Pikachu"]
   },
   {
@@ -36033,7 +36033,7 @@
     "number": 169,
     "rarity": "SR",
     "image": "cTR_20_001760_00_FRIENDLYSHOPNOONIISAN_SR.webp",
-    "name": "Poké Mart Guy",
+    "name": "Commesso del Pokémon-Market",
     "packs": ["Dual Fusion Pikachu"]
   },
   {
@@ -36041,7 +36041,7 @@
     "number": 170,
     "rarity": "SR",
     "image": "cTR_20_001770_00_HOPETRAINER_SR.webp",
-    "name": "Rising Star",
+    "name": "Giovane Speranza",
     "packs": ["Dual Fusion Mega Mewtwo X"]
   },
   {
@@ -36486,7 +36486,7 @@
     "number": 9,
     "rarity": "U",
     "image": "cTR_90_001790_00_GENOMECONVERTERY_U.webp",
-    "name": "Genome Converter Y",
+    "name": "Convertitore Genomico Y",
     "packs": ["C Series Vol. 1"]
   },
   {
