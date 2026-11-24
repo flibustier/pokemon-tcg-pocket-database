@@ -1,0 +1,2433 @@
+[
+  {
+    "set": "A3",
+    "number": 1,
+    "rarity": "C",
+    "name": "아라리",
+    "image": "cPK_10_005820_00_TAMATAMA_C.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 2,
+    "rarity": "R",
+    "name": "알로라나시",
+    "image": "cPK_10_005830_00_ALOLANASSY_R.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 3,
+    "rarity": "C",
+    "name": "비구술",
+    "image": "cPK_10_005840_00_AMETAMA_C.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 4,
+    "rarity": "U",
+    "name": "비나방",
+    "image": "cPK_10_005850_00_AMEMOTH_U.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 5,
+    "rarity": "C",
+    "name": "마라카치",
+    "image": "cPK_10_005860_00_MARACACCHI_C.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 6,
+    "rarity": "C",
+    "name": "딱정곤",
+    "image": "cPK_10_005870_00_KABURUMO_C.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 7,
+    "rarity": "C",
+    "name": "나목령",
+    "image": "cPK_10_005880_00_BOKUREI_C.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 8,
+    "rarity": "U",
+    "name": "대로트",
+    "image": "cPK_10_005890_00_OHROT_U.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 9,
+    "rarity": "C",
+    "name": "나몰빼미",
+    "image": "cPK_10_005900_00_MOKUROH_C.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 10,
+    "rarity": "C",
+    "name": "나몰빼미",
+    "image": "cPK_10_005910_00_MOKUROH_C.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 11,
+    "rarity": "U",
+    "name": "빼미스로우",
+    "image": "cPK_10_005920_00_FUKUTHROW_U.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 12,
+    "rarity": "RR",
+    "name": "모크나이퍼 ex",
+    "image": "cPK_10_005930_00_JUNAIPERex_RR.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 13,
+    "rarity": "C",
+    "name": "턱지충이",
+    "image": "cPK_10_005940_00_AGOJIMUSHI_C.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 14,
+    "rarity": "C",
+    "name": "짜랑랑",
+    "image": "cPK_10_005950_00_KARIKIRI_C.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 15,
+    "rarity": "U",
+    "name": "라란티스",
+    "image": "cPK_10_005960_00_LALANTES_U.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 16,
+    "rarity": "C",
+    "name": "자마슈",
+    "image": "cPK_10_005970_00_NEMASYU_C.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 17,
+    "rarity": "U",
+    "name": "마셰이드",
+    "image": "cPK_10_005980_00_MASHADE_U.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 18,
+    "rarity": "C",
+    "name": "달콤아",
+    "image": "cPK_10_005990_00_AMAKAJI_C.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 19,
+    "rarity": "U",
+    "name": "달무리나",
+    "image": "cPK_10_006000_00_AMAMAIKO_U.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 20,
+    "rarity": "R",
+    "name": "달코퀸",
+    "image": "cPK_10_006010_00_AMAJO_R.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 21,
+    "rarity": "C",
+    "name": "꼬시레",
+    "image": "cPK_10_006020_00_KOSOKUMUSHI_C.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 22,
+    "rarity": "R",
+    "name": "갑주무사",
+    "image": "cPK_10_006030_00_GUSOKUMUSHA_R.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 23,
+    "rarity": "RR",
+    "name": "타타륜 ex",
+    "image": "cPK_10_006040_00_DADARINex_RR.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 24,
+    "rarity": "R",
+    "name": "카푸브루루",
+    "image": "cPK_10_006050_00_KAPU-BULUL_R.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 25,
+    "rarity": "C",
+    "name": "가디",
+    "image": "cPK_10_006060_00_GARDIE_C.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 26,
+    "rarity": "U",
+    "name": "윈디",
+    "image": "cPK_10_006070_00_WINDIE_U.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 27,
+    "rarity": "U",
+    "name": "알로라텅구리",
+    "image": "cPK_10_006080_00_ALOLAGARAGARA_U.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 28,
+    "rarity": "C",
+    "name": "불화살빈",
+    "image": "cPK_10_006090_00_HINOYAKOMA_C.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 29,
+    "rarity": "R",
+    "name": "파이어로",
+    "image": "cPK_10_006100_00_FIARROW_R.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 30,
+    "rarity": "C",
+    "name": "냐오불",
+    "image": "cPK_10_006110_00_NYABBY_C.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 31,
+    "rarity": "C",
+    "name": "냐오불",
+    "image": "cPK_10_006120_00_NYABBY_C.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 32,
+    "rarity": "U",
+    "name": "냐오히트",
+    "image": "cPK_10_006130_00_NYAHEAT_U.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 33,
+    "rarity": "RR",
+    "name": "어흥염 ex",
+    "image": "cPK_10_006140_00_GAOGAENex_RR.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 34,
+    "rarity": "U",
+    "name": "춤추새",
+    "image": "cPK_10_006150_00_ODORIDORIMERAMERASTYLE_U.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 35,
+    "rarity": "C",
+    "name": "야도뇽",
+    "image": "cPK_10_006160_00_YATOUMORI_C.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 36,
+    "rarity": "C",
+    "name": "염뉴트",
+    "image": "cPK_10_006170_00_ENNEWT_C.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 37,
+    "rarity": "R",
+    "name": "폭거북스",
+    "image": "cPK_10_006180_00_BAKUGAMES_R.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 38,
+    "rarity": "C",
+    "name": "알로라모래두지",
+    "image": "cPK_10_006190_00_ALOLASAND_C.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 39,
+    "rarity": "U",
+    "name": "알로라고지",
+    "image": "cPK_10_006200_00_ALOLASANDPAN_U.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 40,
+    "rarity": "C",
+    "name": "알로라식스테일",
+    "image": "cPK_10_006210_00_ALOLAROKON_C.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 41,
+    "rarity": "R",
+    "name": "알로라나인테일",
+    "image": "cPK_10_006220_00_ALOLAKYUKON_R.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 42,
+    "rarity": "C",
+    "name": "셀러",
+    "image": "cPK_10_006230_00_SHELLDER_C.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 43,
+    "rarity": "U",
+    "name": "파르셀",
+    "image": "cPK_10_006240_00_PARSHEN_U.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 44,
+    "rarity": "U",
+    "name": "라프라스",
+    "image": "cPK_10_006250_00_LAPLACE_U.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 45,
+    "rarity": "C",
+    "name": "누리공",
+    "image": "cPK_10_006260_00_ASHIMARI_C.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 46,
+    "rarity": "C",
+    "name": "누리공",
+    "image": "cPK_10_006270_00_ASHIMARI_C.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 47,
+    "rarity": "U",
+    "name": "키요공",
+    "image": "cPK_10_006280_00_OSYAMARI_U.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 48,
+    "rarity": "R",
+    "name": "누리레느",
+    "image": "cPK_10_006290_00_ASHIRENE_R.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 49,
+    "rarity": "RR",
+    "name": "모단단게 ex",
+    "image": "cPK_10_006300_00_KEKENKANIex_RR.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 50,
+    "rarity": "C",
+    "name": "약어리",
+    "image": "cPK_10_006310_00_YOWASHITANDOKUNOSUGATA_C.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 51,
+    "rarity": "RR",
+    "name": "약어리 ex",
+    "image": "cPK_10_006320_00_YOWASHIMURETASUGATA_RR.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 52,
+    "rarity": "C",
+    "name": "물거미",
+    "image": "cPK_10_006330_00_SHIZUKUMO_C.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 53,
+    "rarity": "U",
+    "name": "깨비물거미",
+    "image": "cPK_10_006340_00_ONISHIZUKUMO_U.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 54,
+    "rarity": "C",
+    "name": "해무기",
+    "image": "cPK_10_006350_00_NAMAKOBUSHI_C.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 55,
+    "rarity": "C",
+    "name": "치갈기",
+    "image": "cPK_10_006360_00_HAGIGISHIRI_C.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 56,
+    "rarity": "R",
+    "name": "카푸느지느",
+    "image": "cPK_10_006370_00_KAPU-REHIRE_R.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 57,
+    "rarity": "C",
+    "name": "피카츄",
+    "image": "cPK_10_006380_00_PIKACHU_C.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 58,
+    "rarity": "RR",
+    "name": "알로라라이츄 ex",
+    "image": "cPK_10_006390_00_ALOLARAICHUex_RR.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 59,
+    "rarity": "C",
+    "name": "알로라꼬마돌",
+    "image": "cPK_10_006400_00_ALOLAISITSUBUTE_C.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 60,
+    "rarity": "U",
+    "name": "알로라데구리",
+    "image": "cPK_10_006410_00_ALOLAGOLONE_U.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 61,
+    "rarity": "R",
+    "name": "알로라딱구리",
+    "image": "cPK_10_006420_00_ALOLAGOLONYA_R.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 62,
+    "rarity": "C",
+    "name": "목도리키텔",
+    "image": "cPK_10_006430_00_ERIKITERU_C.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 63,
+    "rarity": "C",
+    "name": "일레도리자드",
+    "image": "cPK_10_006440_00_ELEZARD_C.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 64,
+    "rarity": "U",
+    "name": "전지충이",
+    "image": "cPK_10_006450_00_DENDIMUSHI_U.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 65,
+    "rarity": "R",
+    "name": "투구뿌논",
+    "image": "cPK_10_006460_00_KUWAGANNON_R.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 66,
+    "rarity": "R",
+    "name": "춤추새",
+    "image": "cPK_10_006470_00_ODORIDORIPACHIPACHISTYLE_R.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 67,
+    "rarity": "C",
+    "name": "토게데마루",
+    "image": "cPK_10_006480_00_TOGEDEMARU_C.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 68,
+    "rarity": "R",
+    "name": "카푸꼬꼬꼭",
+    "image": "cPK_10_006490_00_KAPU-KOKEKO_R.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 69,
+    "rarity": "U",
+    "name": "마임맨",
+    "image": "cPK_10_006500_00_BARRIERD_U.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 70,
+    "rarity": "U",
+    "name": "깜까미",
+    "image": "cPK_10_006510_00_YAMIRAMI_U.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 71,
+    "rarity": "C",
+    "name": "피그점프",
+    "image": "cPK_10_006520_00_BANEBOO_C.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 72,
+    "rarity": "U",
+    "name": "피그킹",
+    "image": "cPK_10_006530_00_BOOPIG_U.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 73,
+    "rarity": "C",
+    "name": "루나톤",
+    "image": "cPK_10_006540_00_LUNATONE_C.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 74,
+    "rarity": "C",
+    "name": "어둠대신",
+    "image": "cPK_10_006550_00_KAGEBOUZU_C.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 75,
+    "rarity": "C",
+    "name": "다크펫",
+    "image": "cPK_10_006560_00_JUPPETA_C.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 76,
+    "rarity": "U",
+    "name": "춤추새",
+    "image": "cPK_10_006570_00_ODORIDORIFURAFURASTYLE_U.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 77,
+    "rarity": "U",
+    "name": "춤추새",
+    "image": "cPK_10_006580_00_ODORIDORIMAIMAISTYLE_U.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 78,
+    "rarity": "C",
+    "name": "에블리",
+    "image": "cPK_10_006590_00_ABULY_C.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 79,
+    "rarity": "C",
+    "name": "에리본",
+    "image": "cPK_10_006600_00_ABURIBBON_C.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 80,
+    "rarity": "R",
+    "name": "큐아링",
+    "image": "cPK_10_006610_00_CUWAWA_R.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 81,
+    "rarity": "C",
+    "name": "모래꿍",
+    "image": "cPK_10_006620_00_SUNABA_C.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 82,
+    "rarity": "R",
+    "name": "모래성이당",
+    "image": "cPK_10_006630_00_SIRODETHNA_R.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 83,
+    "rarity": "C",
+    "name": "따라큐",
+    "image": "cPK_10_006640_00_MIMIKKYU_C.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 84,
+    "rarity": "R",
+    "name": "카푸나비나",
+    "image": "cPK_10_006650_00_KAPU-TETEFU_R.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 85,
+    "rarity": "C",
+    "name": "코스모그",
+    "image": "cPK_10_006660_00_COSMOG_C.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 86,
+    "rarity": "U",
+    "name": "코스모움",
+    "image": "cPK_10_006670_00_COSMOVUM_U.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 87,
+    "rarity": "RR",
+    "name": "루나아라 ex",
+    "image": "cPK_10_006680_00_LUNALAex_RR.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 88,
+    "rarity": "R",
+    "name": "네크로즈마",
+    "image": "cPK_10_006690_00_NECROZMA_R.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 89,
+    "rarity": "C",
+    "name": "탕구리",
+    "image": "cPK_10_006700_00_KARAKARA_C.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 90,
+    "rarity": "C",
+    "name": "마크탕",
+    "image": "cPK_10_006710_00_MAKUNOSHITA_C.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 91,
+    "rarity": "U",
+    "name": "하리뭉",
+    "image": "cPK_10_006720_00_HARITEYAMA_U.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 92,
+    "rarity": "C",
+    "name": "솔록",
+    "image": "cPK_10_006730_00_SOLROCK_C.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 93,
+    "rarity": "C",
+    "name": "두더류",
+    "image": "cPK_10_006740_00_MOGUREW_C.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 94,
+    "rarity": "C",
+    "name": "으랏차",
+    "image": "cPK_10_006750_00_DOKKORER_C.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 95,
+    "rarity": "U",
+    "name": "토쇠골",
+    "image": "cPK_10_006760_00_DOTEKKOTSU_U.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 96,
+    "rarity": "R",
+    "name": "노보청",
+    "image": "cPK_10_006770_00_ROUBUSHIN_R.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 97,
+    "rarity": "C",
+    "name": "오기지게",
+    "image": "cPK_10_006780_00_MAKENKANI_C.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 98,
+    "rarity": "C",
+    "name": "암멍이",
+    "image": "cPK_10_006790_00_IWANKO_C.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 99,
+    "rarity": "C",
+    "name": "암멍이",
+    "image": "cPK_10_006800_00_IWANKO_C.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 100,
+    "rarity": "R",
+    "name": "루가루암",
+    "image": "cPK_10_006810_00_LUGARUGANMAHIRUNOSUGATA_R.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 101,
+    "rarity": "R",
+    "name": "루가루암",
+    "image": "cPK_10_006820_00_LUGARUGANMAYONAKANOSUGATA_R.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 102,
+    "rarity": "C",
+    "name": "머드나기",
+    "image": "cPK_10_006830_00_DOROBANKO_C.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 103,
+    "rarity": "U",
+    "name": "만마드",
+    "image": "cPK_10_006840_00_BANBADORO_U.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 104,
+    "rarity": "RR",
+    "name": "내던숭이 ex",
+    "image": "cPK_10_006850_00_NAGETUKESARUex_RR.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 105,
+    "rarity": "U",
+    "name": "메테노",
+    "image": "cPK_10_006860_00_METENOAKAIRONOCORE_U.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 106,
+    "rarity": "C",
+    "name": "알로라꼬렛",
+    "image": "cPK_10_006870_00_ALOLAKORATTA_C.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 107,
+    "rarity": "U",
+    "name": "알로라레트라",
+    "image": "cPK_10_006880_00_ALOLARATTA_U.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 108,
+    "rarity": "C",
+    "name": "알로라나옹",
+    "image": "cPK_10_006890_00_ALOLANYARTH_C.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 109,
+    "rarity": "R",
+    "name": "알로라페르시온",
+    "image": "cPK_10_006900_00_ALOLAPERSIAN_R.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 110,
+    "rarity": "C",
+    "name": "알로라질퍽이",
+    "image": "cPK_10_006910_00_ALOLABETBETER_C.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 111,
+    "rarity": "RR",
+    "name": "알로라질뻐기 ex",
+    "image": "cPK_10_006920_00_ALOLABETBETONex_RR.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 112,
+    "rarity": "R",
+    "name": "앱솔",
+    "image": "cPK_10_006930_00_ABSOL_R.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 113,
+    "rarity": "C",
+    "name": "깨봉이",
+    "image": "cPK_10_006940_00_YABUKURON_C.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 114,
+    "rarity": "U",
+    "name": "더스트나",
+    "image": "cPK_10_006950_00_DUSTDAS_U.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 115,
+    "rarity": "C",
+    "name": "시마사리",
+    "image": "cPK_10_006960_00_HIDOIDE_C.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 116,
+    "rarity": "C",
+    "name": "더시마사리",
+    "image": "cPK_10_006970_00_DOHIDOIDE_C.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 117,
+    "rarity": "C",
+    "name": "알로라디그다",
+    "image": "cPK_10_006980_00_ALOLADIGDA_C.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 118,
+    "rarity": "C",
+    "name": "알로라닥트리오",
+    "image": "cPK_10_006990_00_ALOLADUGTRIO_C.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 119,
+    "rarity": "U",
+    "name": "몰드류",
+    "image": "cPK_10_007000_00_DORYUZU_U.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 120,
+    "rarity": "U",
+    "name": "슈바르고",
+    "image": "cPK_10_007010_00_CHEVARGO_U.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 121,
+    "rarity": "R",
+    "name": "클레피",
+    "image": "cPK_10_007020_00_CLEFFY_R.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 122,
+    "rarity": "RR",
+    "name": "솔가레오 ex",
+    "image": "cPK_10_007030_00_SOLGALEOex_RR.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 123,
+    "rarity": "R",
+    "name": "마기아나",
+    "image": "cPK_10_007040_00_MAGEARNA_R.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 124,
+    "rarity": "R",
+    "name": "할비롱",
+    "image": "cPK_10_007050_00_JIJILONG_R.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 125,
+    "rarity": "C",
+    "name": "짜랑꼬",
+    "image": "cPK_10_007060_00_JYARAKO_C.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 126,
+    "rarity": "U",
+    "name": "짜랑고우",
+    "image": "cPK_10_007070_00_JYARANGO_U.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 127,
+    "rarity": "R",
+    "name": "짜랑고우거",
+    "image": "cPK_10_007080_00_JYARARANGA_R.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 128,
+    "rarity": "U",
+    "name": "켄타로스",
+    "image": "cPK_10_007090_00_KENTAUROS_U.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 129,
+    "rarity": "C",
+    "name": "에나비",
+    "image": "cPK_10_007100_00_ENECO_C.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 130,
+    "rarity": "U",
+    "name": "델케티",
+    "image": "cPK_10_007110_00_ENEKORORO_U.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 131,
+    "rarity": "C",
+    "name": "화살꼬빈",
+    "image": "cPK_10_007120_00_YAYAKOMA_C.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 132,
+    "rarity": "U",
+    "name": "루차불",
+    "image": "cPK_10_007130_00_LUCHABULL_U.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 133,
+    "rarity": "C",
+    "name": "콕코구리",
+    "image": "cPK_10_007140_00_TSUTSUKERA_C.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 134,
+    "rarity": "C",
+    "name": "크라파",
+    "image": "cPK_10_007150_00_KERARAPPA_C.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 135,
+    "rarity": "U",
+    "name": "왕큰부리",
+    "image": "cPK_10_007160_00_DODEKABASHI_U.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 136,
+    "rarity": "C",
+    "name": "영구스",
+    "image": "cPK_10_007170_00_YOUNGOOSE_C.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 137,
+    "rarity": "C",
+    "name": "형사구스",
+    "image": "cPK_10_007180_00_DEKAGOOSE_C.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 138,
+    "rarity": "C",
+    "name": "포곰곰",
+    "image": "cPK_10_007190_00_NUIKOGUMA_C.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 139,
+    "rarity": "R",
+    "name": "이븐곰",
+    "image": "cPK_10_007200_00_KITERUGUMA_R.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 140,
+    "rarity": "R",
+    "name": "하랑우탄",
+    "image": "cPK_10_007210_00_YAREYUUTAN_R.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 141,
+    "rarity": "U",
+    "name": "자말라",
+    "image": "cPK_10_007220_00_NEKKOARA_U.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 142,
+    "rarity": "U",
+    "name": "큰 말라사다",
+    "image": "cTR_10_000460_00_OOKIIMARASADA_U.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 143,
+    "rarity": "U",
+    "name": "물고기네트",
+    "image": "cTR_10_000470_00_OSAKANANETTO_U.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 144,
+    "rarity": "U",
+    "name": "이상한사탕",
+    "image": "cTR_10_000480_00_FUSHIGINAAME_U.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 145,
+    "rarity": "U",
+    "name": "로토무도감",
+    "image": "cTR_10_000490_00_ROTOMUZUKAN_U.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 146,
+    "rarity": "U",
+    "name": "독바늘",
+    "image": "cTR_10_000500_00_DOKUBARI_U.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 147,
+    "rarity": "U",
+    "name": "리프망토",
+    "image": "cTR_10_000510_00_LEAFMANTO_U.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 148,
+    "rarity": "U",
+    "name": "아세로라",
+    "image": "cTR_10_000520_00_ACEROLA_U.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 149,
+    "rarity": "U",
+    "name": "일리마",
+    "image": "cTR_10_000530_00_ILIMA_U.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 150,
+    "rarity": "U",
+    "name": "키아웨",
+    "image": "cTR_10_000540_00_KAKI_U.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 151,
+    "rarity": "U",
+    "name": "구즈마",
+    "image": "cTR_10_000550_00_GUZUMA_U.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 152,
+    "rarity": "U",
+    "name": "수련",
+    "image": "cTR_10_000560_00_SUIREN_U.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 153,
+    "rarity": "U",
+    "name": "마마네",
+    "image": "cTR_10_000570_00_MAMANE_U.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 154,
+    "rarity": "U",
+    "name": "마오",
+    "image": "cTR_10_000580_00_MAO_U.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 155,
+    "rarity": "U",
+    "name": "릴리에",
+    "image": "cTR_10_000590_00_LILIE_U.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 156,
+    "rarity": "AR",
+    "name": "알로라나시",
+    "image": "cPK_20_005830_00_ALOLANASSY_AR.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 157,
+    "rarity": "AR",
+    "name": "자마슈",
+    "image": "cPK_20_005970_00_NEMASYU_AR.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 158,
+    "rarity": "AR",
+    "name": "달코퀸",
+    "image": "cPK_20_006010_00_AMAJO_AR.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 159,
+    "rarity": "AR",
+    "name": "카푸브루루",
+    "image": "cPK_20_006050_00_KAPU-BULUL_AR.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 160,
+    "rarity": "AR",
+    "name": "알로라텅구리",
+    "image": "cPK_20_006080_00_ALOLAGARAGARA_AR.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 161,
+    "rarity": "AR",
+    "name": "폭거북스",
+    "image": "cPK_20_006180_00_BAKUGAMES_AR.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 162,
+    "rarity": "AR",
+    "name": "알로라식스테일",
+    "image": "cPK_20_006210_00_ALOLAROKON_AR.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 163,
+    "rarity": "AR",
+    "name": "해무기",
+    "image": "cPK_20_006350_00_NAMAKOBUSHI_AR.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 164,
+    "rarity": "AR",
+    "name": "카푸느지느",
+    "image": "cPK_20_006370_00_KAPU-REHIRE_AR.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 165,
+    "rarity": "AR",
+    "name": "춤추새",
+    "image": "cPK_20_006470_00_ODORIDORIPACHIPACHISTYLE_AR.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 166,
+    "rarity": "AR",
+    "name": "카푸꼬꼬꼭",
+    "image": "cPK_20_006490_00_KAPU-KOKEKO_AR.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 167,
+    "rarity": "AR",
+    "name": "에블리",
+    "image": "cPK_20_006590_00_ABULY_AR.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 168,
+    "rarity": "AR",
+    "name": "큐아링",
+    "image": "cPK_20_006610_00_CUWAWA_AR.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 169,
+    "rarity": "AR",
+    "name": "모래꿍",
+    "image": "cPK_20_006620_00_SUNABA_AR.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 170,
+    "rarity": "AR",
+    "name": "카푸나비나",
+    "image": "cPK_20_006650_00_KAPU-TETEFU_AR.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 171,
+    "rarity": "AR",
+    "name": "코스모그",
+    "image": "cPK_20_006660_00_COSMOG_AR.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 172,
+    "rarity": "AR",
+    "name": "암멍이",
+    "image": "cPK_20_006790_00_IWANKO_AR.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 173,
+    "rarity": "AR",
+    "name": "만마드",
+    "image": "cPK_20_006840_00_BANBADORO_AR.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 174,
+    "rarity": "AR",
+    "name": "메테노",
+    "image": "cPK_20_006860_00_METENOAKAIRONOCORE_AR.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 175,
+    "rarity": "AR",
+    "name": "마기아나",
+    "image": "cPK_20_007040_00_MAGEARNA_AR.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 176,
+    "rarity": "AR",
+    "name": "할비롱",
+    "image": "cPK_20_007050_00_JIJILONG_AR.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 177,
+    "rarity": "AR",
+    "name": "콕코구리",
+    "image": "cPK_20_007140_00_TSUTSUKERA_AR.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 178,
+    "rarity": "AR",
+    "name": "이븐곰",
+    "image": "cPK_20_007200_00_KITERUGUMA_AR.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 179,
+    "rarity": "AR",
+    "name": "자말라",
+    "image": "cPK_20_007220_00_NEKKOARA_AR.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 180,
+    "rarity": "SR",
+    "name": "모크나이퍼 ex",
+    "image": "cPK_20_005930_00_JUNAIPERex_SR.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 181,
+    "rarity": "SR",
+    "name": "타타륜 ex",
+    "image": "cPK_20_006040_00_DADARINex_SR.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 182,
+    "rarity": "SR",
+    "name": "어흥염 ex",
+    "image": "cPK_20_006140_00_GAOGAENex_SR.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 183,
+    "rarity": "SR",
+    "name": "모단단게 ex",
+    "image": "cPK_20_006300_00_KEKENKANIex_SR.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 184,
+    "rarity": "SR",
+    "name": "약어리 ex",
+    "image": "cPK_20_006320_00_YOWASHIMURETASUGATA_SR.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 185,
+    "rarity": "SR",
+    "name": "알로라라이츄 ex",
+    "image": "cPK_20_006390_00_ALOLARAICHUex_SR.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 186,
+    "rarity": "SR",
+    "name": "루나아라 ex",
+    "image": "cPK_20_006680_00_LUNALAex_SR.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 187,
+    "rarity": "SR",
+    "name": "내던숭이 ex",
+    "image": "cPK_20_006850_00_NAGETUKESARUex_SR.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 188,
+    "rarity": "SR",
+    "name": "알로라질뻐기 ex",
+    "image": "cPK_20_006920_00_ALOLABETBETONex_SR.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 189,
+    "rarity": "SR",
+    "name": "솔가레오 ex",
+    "image": "cPK_20_007030_00_SOLGALEOex_SR.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 190,
+    "rarity": "SR",
+    "name": "아세로라",
+    "image": "cTR_20_000520_00_ACEROLA_SR.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 191,
+    "rarity": "SR",
+    "name": "일리마",
+    "image": "cTR_20_000530_00_ILIMA_SR.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 192,
+    "rarity": "SR",
+    "name": "키아웨",
+    "image": "cTR_20_000540_00_KAKI_SR.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 193,
+    "rarity": "SR",
+    "name": "구즈마",
+    "image": "cTR_20_000550_00_GUZUMA_SR.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 194,
+    "rarity": "SR",
+    "name": "수련",
+    "image": "cTR_20_000560_00_SUIREN_SR.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 195,
+    "rarity": "SR",
+    "name": "마마네",
+    "image": "cTR_20_000570_00_MAMANE_SR.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 196,
+    "rarity": "SR",
+    "name": "마오",
+    "image": "cTR_20_000580_00_MAO_SR.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 197,
+    "rarity": "SR",
+    "name": "릴리에",
+    "image": "cTR_20_000590_00_LILIE_SR.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 198,
+    "rarity": "SAR",
+    "name": "모크나이퍼 ex",
+    "image": "cPK_20_005930_01_JUNAIPERex_SAR.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 199,
+    "rarity": "SAR",
+    "name": "타타륜 ex",
+    "image": "cPK_20_006040_01_DADARINex_SAR.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 200,
+    "rarity": "SAR",
+    "name": "어흥염 ex",
+    "image": "cPK_20_006140_01_GAOGAENex_SAR.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 201,
+    "rarity": "SAR",
+    "name": "모단단게 ex",
+    "image": "cPK_20_006300_01_KEKENKANIex_SAR.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 202,
+    "rarity": "SAR",
+    "name": "약어리 ex",
+    "image": "cPK_20_006320_01_YOWASHIMURETASUGATA_SAR.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 203,
+    "rarity": "SAR",
+    "name": "알로라라이츄 ex",
+    "image": "cPK_20_006390_01_ALOLARAICHUex_SAR.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 204,
+    "rarity": "SAR",
+    "name": "루나아라 ex",
+    "image": "cPK_20_006680_01_LUNALAex_SAR.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 205,
+    "rarity": "SAR",
+    "name": "내던숭이 ex",
+    "image": "cPK_20_006850_01_NAGETUKESARUex_SAR.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 206,
+    "rarity": "SAR",
+    "name": "알로라질뻐기 ex",
+    "image": "cPK_20_006920_01_ALOLABETBETONex_SAR.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 207,
+    "rarity": "SAR",
+    "name": "솔가레오 ex",
+    "image": "cPK_20_007030_01_SOLGALEOex_SAR.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 208,
+    "rarity": "IM",
+    "name": "구즈마",
+    "image": "cTR_20_000550_01_GUZUMA_IM.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 209,
+    "rarity": "IM",
+    "name": "릴리에",
+    "image": "cTR_20_000590_01_LILIE_IM.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 210,
+    "rarity": "S",
+    "name": "이상해씨",
+    "image": "cPK_20_000010_01_FUSHIGIDANE_S.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 211,
+    "rarity": "S",
+    "name": "이상해풀",
+    "image": "cPK_20_000020_00_FUSHIGISOU_S.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 212,
+    "rarity": "S",
+    "name": "이상해꽃",
+    "image": "cPK_20_000030_00_FUSHIGIBANA_S.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 213,
+    "rarity": "S",
+    "name": "아라리",
+    "image": "cPK_20_005820_00_TAMATAMA_S.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 214,
+    "rarity": "S",
+    "name": "나시",
+    "image": "cPK_20_002160_01_NASSY_S.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 215,
+    "rarity": "S",
+    "name": "꼬부기",
+    "image": "cPK_20_000530_01_ZENIGAME_S.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 216,
+    "rarity": "S",
+    "name": "어니부기",
+    "image": "cPK_20_000540_00_KAMEIL_S.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 217,
+    "rarity": "S",
+    "name": "거북왕",
+    "image": "cPK_20_000550_00_KAMEX_S.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 218,
+    "rarity": "S",
+    "name": "별가사리",
+    "image": "cPK_20_000740_00_HITODEMAN_S.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 219,
+    "rarity": "S",
+    "name": "아쿠스타",
+    "image": "cPK_20_000750_00_STARMIE_S.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 220,
+    "rarity": "S",
+    "name": "고오스",
+    "image": "cPK_20_004550_00_GHOS_S.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 221,
+    "rarity": "S",
+    "name": "고우스트",
+    "image": "cPK_20_001210_00_GHOST_S.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 222,
+    "rarity": "S",
+    "name": "팬텀",
+    "image": "cPK_20_001220_00_GANGAR_S.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 223,
+    "rarity": "S",
+    "name": "알통몬",
+    "image": "cPK_20_001430_00_WANRIKY_S.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 224,
+    "rarity": "S",
+    "name": "근육몬",
+    "image": "cPK_20_001440_00_GORIKY_S.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 225,
+    "rarity": "S",
+    "name": "괴력몬",
+    "image": "cPK_20_005020_00_KAIRIKY_S.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 226,
+    "rarity": "S",
+    "name": "탕구리",
+    "image": "cPK_20_001510_01_KARAKARA_S.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 227,
+    "rarity": "S",
+    "name": "텅구리",
+    "image": "cPK_20_001520_00_GARAGARA_S.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 228,
+    "rarity": "S",
+    "name": "푸린",
+    "image": "cPK_20_005750_00_PURIN_S.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 229,
+    "rarity": "S",
+    "name": "푸크린",
+    "image": "cPK_20_005760_01_PUKURIN_S.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 230,
+    "rarity": "SSR",
+    "name": "이상해꽃 ex",
+    "image": "cPK_20_000040_01_FUSHIGIBANAex_SSR.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 231,
+    "rarity": "SSR",
+    "name": "나시 ex",
+    "image": "cPK_20_000230_01_NASSYex_SSR.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 232,
+    "rarity": "SSR",
+    "name": "거북왕 ex",
+    "image": "cPK_20_000560_01_KAMEXex_SSR.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 233,
+    "rarity": "SSR",
+    "name": "아쿠스타 ex",
+    "image": "cPK_20_000760_01_STARMIEex_SSR.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 234,
+    "rarity": "SSR",
+    "name": "팬텀 ex",
+    "image": "cPK_20_001230_02_GANGARex_SSR.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 235,
+    "rarity": "SSR",
+    "name": "괴력몬 ex",
+    "image": "cPK_20_001460_02_KAIRIKYex_SSR.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 236,
+    "rarity": "SSR",
+    "name": "텅구리 ex",
+    "image": "cPK_20_001530_01_GARAGARAex_SSR.webp",
+    "packs": [
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 237,
+    "rarity": "SSR",
+    "name": "푸크린 ex",
+    "image": "cPK_20_001950_02_PUKURINex_SSR.webp",
+    "packs": [
+      "Solgaleo"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 238,
+    "rarity": "UR",
+    "name": "루나아라 ex",
+    "image": "cPK_20_006680_02_LUNALAex_UR.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  },
+  {
+    "set": "A3",
+    "number": 239,
+    "rarity": "UR",
+    "name": "솔가레오 ex",
+    "image": "cPK_20_007030_02_SOLGALEOex_UR.webp",
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ]
+  }
+]

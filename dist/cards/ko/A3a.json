@@ -1,0 +1,1032 @@
+[
+  {
+    "set": "A3a",
+    "number": 1,
+    "rarity": "C",
+    "name": "치릴리",
+    "image": "cPK_10_007430_00_CHURINE_C.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 2,
+    "rarity": "C",
+    "name": "드레디어",
+    "image": "cPK_10_007440_00_DREDEAR_C.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 3,
+    "rarity": "C",
+    "name": "나몰빼미",
+    "image": "cPK_10_007450_00_MOKUROH_C.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 4,
+    "rarity": "U",
+    "name": "빼미스로우",
+    "image": "cPK_10_007460_00_FUKUTHROW_U.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 5,
+    "rarity": "R",
+    "name": "모크나이퍼",
+    "image": "cPK_10_007470_00_JUNAIPER_R.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 6,
+    "rarity": "RR",
+    "name": "매시붕 ex",
+    "image": "cPK_10_007480_00_MASSIVOONex_RR.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 7,
+    "rarity": "U",
+    "name": "페로코체",
+    "image": "cPK_10_007490_00_PHEROACHE_U.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 8,
+    "rarity": "C",
+    "name": "종이신도",
+    "image": "cPK_10_007250_00_KAMITURUGI_C.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 9,
+    "rarity": "U",
+    "name": "두파팡",
+    "image": "cPK_10_007260_00_ZUGADOON_U.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 10,
+    "rarity": "C",
+    "name": "만타인",
+    "image": "cPK_10_007500_00_MANTAIN_C.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 11,
+    "rarity": "C",
+    "name": "샤프니아",
+    "image": "cPK_10_007510_00_KIBANHA_C.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 12,
+    "rarity": "U",
+    "name": "샤크니아",
+    "image": "cPK_10_007520_00_SAMEHADER_U.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 13,
+    "rarity": "C",
+    "name": "꼬링크",
+    "image": "cPK_10_007530_00_KOLINK_C.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 14,
+    "rarity": "C",
+    "name": "럭시오",
+    "image": "cPK_10_007540_00_LUXIO_C.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 15,
+    "rarity": "R",
+    "name": "렌트라",
+    "image": "cPK_10_007550_00_RENTORAR_R.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 16,
+    "rarity": "C",
+    "name": "줄뮤마",
+    "image": "cPK_10_007560_00_SHIMAMA_C.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 17,
+    "rarity": "C",
+    "name": "제브라이카",
+    "image": "cPK_10_007570_00_ZEBRAIKA_C.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 18,
+    "rarity": "C",
+    "name": "에몽가",
+    "image": "cPK_10_007580_00_EMOLGA_C.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 19,
+    "rarity": "RR",
+    "name": "카푸꼬꼬꼭 ex",
+    "image": "cPK_10_007420_00_KAPU-KOKEKOex_RR.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 20,
+    "rarity": "U",
+    "name": "전수목",
+    "image": "cPK_10_007270_00_DENJYUMOKU_U.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 21,
+    "rarity": "R",
+    "name": "제라오라",
+    "image": "cPK_10_007410_00_ZERAORA_R.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 22,
+    "rarity": "C",
+    "name": "삐삐",
+    "image": "cPK_10_007590_00_PIPPI_C.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 23,
+    "rarity": "U",
+    "name": "픽시",
+    "image": "cPK_10_007600_00_PIXY_U.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 24,
+    "rarity": "C",
+    "name": "나목령",
+    "image": "cPK_10_007610_00_BOKUREI_C.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 25,
+    "rarity": "C",
+    "name": "대로트",
+    "image": "cPK_10_007620_00_OHROT_C.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 26,
+    "rarity": "C",
+    "name": "자마슈",
+    "image": "cPK_10_007630_00_NEMASYU_C.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 27,
+    "rarity": "R",
+    "name": "마셰이드",
+    "image": "cPK_10_007640_00_MASHADE_R.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 28,
+    "rarity": "C",
+    "name": "요가랑",
+    "image": "cPK_10_007650_00_ASANAN_C.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 29,
+    "rarity": "U",
+    "name": "요가램",
+    "image": "cPK_10_007660_00_CHAREM_U.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 30,
+    "rarity": "C",
+    "name": "오뚝군",
+    "image": "cPK_10_007670_00_YAJILON_C.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 31,
+    "rarity": "U",
+    "name": "점토도리",
+    "image": "cPK_10_007680_00_NENDOLL_U.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 32,
+    "rarity": "C",
+    "name": "암멍이",
+    "image": "cPK_10_007690_00_IWANKO_C.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 33,
+    "rarity": "RR",
+    "name": "루가루암 ex",
+    "image": "cPK_10_007700_00_LUGARUGANTASOGARENOSUGATA_RR.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 34,
+    "rarity": "C",
+    "name": "내던숭이",
+    "image": "cPK_10_007710_00_NAGETUKESARU_C.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 35,
+    "rarity": "C",
+    "name": "모래꿍",
+    "image": "cPK_10_007720_00_SUNABA_C.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 36,
+    "rarity": "U",
+    "name": "모래성이당",
+    "image": "cPK_10_007730_00_SIRODETHNA_U.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 37,
+    "rarity": "C",
+    "name": "알로라나옹",
+    "image": "cPK_10_007740_00_ALOLANYARTH_C.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 38,
+    "rarity": "U",
+    "name": "알로라페르시온",
+    "image": "cPK_10_007750_00_ALOLAPERSIAN_U.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 39,
+    "rarity": "C",
+    "name": "깜눈크",
+    "image": "cPK_10_007760_00_MEGUROCO_C.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 40,
+    "rarity": "C",
+    "name": "악비르",
+    "image": "cPK_10_007770_00_WARUVILE_C.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 41,
+    "rarity": "U",
+    "name": "악비아르",
+    "image": "cPK_10_007780_00_WARUVIAL_U.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 42,
+    "rarity": "R",
+    "name": "텅비드",
+    "image": "cPK_10_007790_00_UTUROID_R.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 43,
+    "rarity": "RR",
+    "name": "악식킹 ex",
+    "image": "cPK_10_007800_00_AKUZIKINGex_RR.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 44,
+    "rarity": "C",
+    "name": "베베놈",
+    "image": "cPK_10_007370_00_BEVENOM_C.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 45,
+    "rarity": "R",
+    "name": "아고용",
+    "image": "cPK_10_007810_00_AGOYON_R.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 46,
+    "rarity": "C",
+    "name": "알로라디그다",
+    "image": "cPK_10_007820_00_ALOLADIGDA_C.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 47,
+    "rarity": "RR",
+    "name": "알로라닥트리오 ex",
+    "image": "cPK_10_007830_00_ALOLADUGTRIOex_RR.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 48,
+    "rarity": "C",
+    "name": "가보리",
+    "image": "cPK_10_007840_00_COKODORA_C.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 49,
+    "rarity": "C",
+    "name": "갱도라",
+    "image": "cPK_10_007850_00_KODORA_C.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 50,
+    "rarity": "U",
+    "name": "보스로라",
+    "image": "cPK_10_007860_00_BOSSGODORA_U.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 51,
+    "rarity": "C",
+    "name": "철시드",
+    "image": "cPK_10_007870_00_TESSEED_C.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 52,
+    "rarity": "U",
+    "name": "너트령",
+    "image": "cPK_10_007880_00_NUTREY_U.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 53,
+    "rarity": "U",
+    "name": "차곡차곡",
+    "image": "cPK_10_007300_00_TUNDETUNDE_U.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 54,
+    "rarity": "C",
+    "name": "요테리",
+    "image": "cPK_10_007890_00_YORTERRIE_C.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 55,
+    "rarity": "C",
+    "name": "하데리어",
+    "image": "cPK_10_007900_00_HERDERRIE_C.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 56,
+    "rarity": "U",
+    "name": "바랜드",
+    "image": "cPK_10_007910_00_MOOLAND_U.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 57,
+    "rarity": "C",
+    "name": "포곰곰",
+    "image": "cPK_10_007380_00_NUIKOGUMA_C.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 58,
+    "rarity": "U",
+    "name": "이븐곰",
+    "image": "cPK_10_007920_00_KITERUGUMA_U.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 59,
+    "rarity": "C",
+    "name": "하랑우탄",
+    "image": "cPK_10_007930_00_YAREYUUTAN_C.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 60,
+    "rarity": "U",
+    "name": "타입:널",
+    "image": "cPK_10_007940_00_TYPENULL_U.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 61,
+    "rarity": "R",
+    "name": "실버디",
+    "image": "cPK_10_007950_00_SILVADY_R.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 62,
+    "rarity": "R",
+    "name": "철화구야",
+    "image": "cPK_10_007960_00_TEKKAGUYA_R.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 63,
+    "rarity": "U",
+    "name": "비스트월",
+    "image": "cTR_10_000600_00_BISUTOWORU_U.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 64,
+    "rarity": "U",
+    "name": "벌레회피스프레이",
+    "image": "cTR_10_000610_00_MUSHIYOKESUPUREI_U.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 65,
+    "rarity": "U",
+    "name": "일렉트릭코드",
+    "image": "cTR_10_000620_00_EREKIKORD_U.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 66,
+    "rarity": "U",
+    "name": "비스트나이트",
+    "image": "cTR_10_000630_00_BISUTONAITO_U.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 67,
+    "rarity": "U",
+    "name": "글라디오",
+    "image": "cTR_10_000640_00_GLAZIO_U.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 68,
+    "rarity": "U",
+    "name": "핸섬",
+    "image": "cTR_10_000650_00_HANDSOME_U.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 69,
+    "rarity": "U",
+    "name": "루자미네",
+    "image": "cTR_10_000660_00_LUSAMINE_U.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 70,
+    "rarity": "AR",
+    "name": "나몰빼미",
+    "image": "cPK_20_007450_00_MOKUROH_AR.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 71,
+    "rarity": "AR",
+    "name": "페로코체",
+    "image": "cPK_20_007490_00_PHEROACHE_AR.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 72,
+    "rarity": "AR",
+    "name": "두파팡",
+    "image": "cPK_20_007260_00_ZUGADOON_AR.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 73,
+    "rarity": "AR",
+    "name": "알로라나옹",
+    "image": "cPK_20_007740_00_ALOLANYARTH_AR.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 74,
+    "rarity": "AR",
+    "name": "실버디",
+    "image": "cPK_20_007950_00_SILVADY_AR.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 75,
+    "rarity": "AR",
+    "name": "철화구야",
+    "image": "cPK_20_007960_00_TEKKAGUYA_AR.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 76,
+    "rarity": "SR",
+    "name": "매시붕 ex",
+    "image": "cPK_20_007480_00_MASSIVOONex_SR.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 77,
+    "rarity": "SR",
+    "name": "카푸꼬꼬꼭 ex",
+    "image": "cPK_20_007420_00_KAPU-KOKEKOex_SR.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 78,
+    "rarity": "SR",
+    "name": "루가루암 ex",
+    "image": "cPK_20_007700_00_LUGARUGANex_SR.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 79,
+    "rarity": "SR",
+    "name": "악식킹 ex",
+    "image": "cPK_20_007800_00_AKUZIKINGex_SR.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 80,
+    "rarity": "SR",
+    "name": "알로라닥트리오 ex",
+    "image": "cPK_20_007830_00_ALOLADUGTRIOex_SR.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 81,
+    "rarity": "SR",
+    "name": "글라디오",
+    "image": "cTR_20_000640_00_GLAZIO_SR.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 82,
+    "rarity": "SR",
+    "name": "핸섬",
+    "image": "cTR_20_000650_00_HANDSOME_SR.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 83,
+    "rarity": "SR",
+    "name": "루자미네",
+    "image": "cTR_20_000660_00_LUSAMINE_SR.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 84,
+    "rarity": "SAR",
+    "name": "카푸꼬꼬꼭 ex",
+    "image": "cPK_20_007420_01_KAPU-KOKEKOex_SAR.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 85,
+    "rarity": "SAR",
+    "name": "루가루암 ex",
+    "image": "cPK_20_007700_01_LUGARUGANex_SAR.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 86,
+    "rarity": "SAR",
+    "name": "악식킹 ex",
+    "image": "cPK_20_007800_01_AKUZIKINGex_SAR.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 87,
+    "rarity": "SAR",
+    "name": "알로라닥트리오 ex",
+    "image": "cPK_20_007830_01_ALOLADUGTRIOex_SAR.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 88,
+    "rarity": "IM",
+    "name": "매시붕 ex",
+    "image": "cPK_20_007480_01_MASSIVOONex_IM.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 89,
+    "rarity": "S",
+    "name": "가디",
+    "image": "cPK_20_000390_00_GARDIE_S.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 90,
+    "rarity": "S",
+    "name": "윈디",
+    "image": "cPK_20_000400_00_WINDIE_S.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 91,
+    "rarity": "S",
+    "name": "개구마르",
+    "image": "cPK_20_000870_00_KEROMATSU_S.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 92,
+    "rarity": "S",
+    "name": "개굴반장",
+    "image": "cPK_20_000880_00_GEKOGASHIRA_S.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 93,
+    "rarity": "S",
+    "name": "개굴닌자",
+    "image": "cPK_20_000890_00_GEKKOUGA_S.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 94,
+    "rarity": "S",
+    "name": "루주라",
+    "image": "cPK_20_001270_00_ROUGELA_S.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 95,
+    "rarity": "S",
+    "name": "구구",
+    "image": "cPK_20_001860_00_POPPO_S.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 96,
+    "rarity": "S",
+    "name": "피죤",
+    "image": "cPK_20_001870_00_PIGEON_S.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 97,
+    "rarity": "S",
+    "name": "피죤투",
+    "image": "cPK_20_001880_01_PIGEOT_S.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 98,
+    "rarity": "S",
+    "name": "프테라",
+    "image": "cPK_20_002080_00_PTERA_S.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 99,
+    "rarity": "SSR",
+    "name": "세레비 ex",
+    "image": "cPK_20_002170_02_CELEBIex_SSR.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 100,
+    "rarity": "SSR",
+    "name": "윈디 ex",
+    "image": "cPK_20_000410_01_WINDIEex_SSR.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 101,
+    "rarity": "SSR",
+    "name": "프테라 ex",
+    "image": "cPK_20_002590_02_PTERAex_SSR.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 102,
+    "rarity": "SSR",
+    "name": "피죤투 ex",
+    "image": "cPK_20_002720_01_PIGEOTex_SSR.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  },
+  {
+    "set": "A3a",
+    "number": 103,
+    "rarity": "UR",
+    "name": "텅비드",
+    "image": "cPK_20_007790_00_UTUROID_UR.webp",
+    "packs": [
+      "Extradimensional"
+    ]
+  }
+]

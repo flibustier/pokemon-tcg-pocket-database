@@ -1,0 +1,1102 @@
+[
+  {
+    "set": "B4a",
+    "number": 1,
+    "rarity": "C",
+    "image": "cPK_10_021190_00_BARUBEAT_C.webp",
+    "name": "電螢蟲",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 2,
+    "rarity": "C",
+    "image": "cPK_10_021200_00_ILLUMISE_C.webp",
+    "name": "甜甜螢",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 3,
+    "rarity": "C",
+    "image": "cPK_10_021210_00_TSUTARJA_C.webp",
+    "name": "藤藤蛇",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 4,
+    "rarity": "U",
+    "image": "cPK_10_021220_00_JANOVY_U.webp",
+    "name": "青藤蛇",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 5,
+    "rarity": "R",
+    "image": "cPK_10_021230_00_JALORDA_R.webp",
+    "name": "君主蛇",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 6,
+    "rarity": "C",
+    "image": "cPK_10_021240_00_ROCKETDANNOBOOBER_C.webp",
+    "name": "火箭隊的鴨嘴火獸",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 7,
+    "rarity": "RR",
+    "image": "cPK_10_021250_00_ROCKETDANNOFIREex_RR.webp",
+    "name": "火箭隊的火焰鳥ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 8,
+    "rarity": "C",
+    "image": "cPK_10_021260_00_ROCKETDANNODELVIL_C.webp",
+    "name": "火箭隊的戴魯比",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 9,
+    "rarity": "C",
+    "image": "cPK_10_021270_00_ROCKETDANNOHELLGAR_C.webp",
+    "name": "火箭隊的黑魯加",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 10,
+    "rarity": "C",
+    "image": "cPK_10_021170_00_FOKKO_C.webp",
+    "name": "火狐狸",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 11,
+    "rarity": "U",
+    "image": "cPK_10_021280_00_TAIRENAR_U.webp",
+    "name": "長尾火狐",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 12,
+    "rarity": "R",
+    "image": "cPK_10_021290_00_MAHOXY_R.webp",
+    "name": "妖火紅狐",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 13,
+    "rarity": "U",
+    "image": "cPK_10_021100_00_ROCKETDANNOLAPLACE_U.webp",
+    "name": "火箭隊的拉普拉斯",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 14,
+    "rarity": "RR",
+    "image": "cPK_10_021300_00_ROCKETDANNOFREEZERex_RR.webp",
+    "name": "火箭隊的急凍鳥ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 15,
+    "rarity": "C",
+    "image": "cPK_10_021110_00_CAMOME_C.webp",
+    "name": "長翅鷗",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 16,
+    "rarity": "U",
+    "image": "cPK_10_021310_00_PELIPPER_U.webp",
+    "name": "大嘴鷗",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 17,
+    "rarity": "C",
+    "image": "cPK_10_021320_00_HISUIBASSRAO_C.webp",
+    "name": "洗翠 野蠻鱸魚",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 18,
+    "rarity": "U",
+    "image": "cPK_10_021330_00_HISUIIDAITOU_U.webp",
+    "name": "洗翠 幽尾玄魚",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 19,
+    "rarity": "C",
+    "image": "cPK_10_021340_00_ROCKETDANNOBIRIRIDAMA_C.webp",
+    "name": "火箭隊的霹靂電球",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 20,
+    "rarity": "U",
+    "image": "cPK_10_021350_00_ROCKETDANNOMARUMINE_U.webp",
+    "name": "火箭隊的頑皮雷彈",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 21,
+    "rarity": "RR",
+    "image": "cPK_10_021360_00_ROCKETDANNOTHUNDERex_RR.webp",
+    "name": "火箭隊的閃電鳥ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 22,
+    "rarity": "C",
+    "image": "cPK_10_021370_00_SHIMAMA_C.webp",
+    "name": "斑斑馬",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 23,
+    "rarity": "U",
+    "image": "cPK_10_021380_00_ZEBRAIKA_U.webp",
+    "name": "雷電斑馬",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 24,
+    "rarity": "C",
+    "image": "cPK_10_021390_00_ROCKETDANNOBACHINUNI_C.webp",
+    "name": "火箭隊的啪嚓海膽",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 25,
+    "rarity": "C",
+    "image": "cPK_10_021400_00_ROCKETDANNOYADON_C.webp",
+    "name": "火箭隊的呆呆獸",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 26,
+    "rarity": "RR",
+    "image": "cPK_10_021410_00_ROCKETDANNOYADOKINGex_RR.webp",
+    "name": "火箭隊的呆呆王ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 27,
+    "rarity": "C",
+    "image": "cPK_10_021420_00_ROCKETDANNOSLEEPE_C.webp",
+    "name": "火箭隊的催眠貘",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 28,
+    "rarity": "U",
+    "image": "cPK_10_021430_00_ROCKETDANNOSLEEPER_U.webp",
+    "name": "火箭隊的引夢貘人",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 29,
+    "rarity": "C",
+    "image": "cPK_10_021440_00_ROCKETDANNOBARRIERD_C.webp",
+    "name": "火箭隊的魔牆人偶",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 30,
+    "rarity": "R",
+    "image": "cPK_10_021450_00_ROCKETDANNOMEWTWO_R.webp",
+    "name": "火箭隊的超夢",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 31,
+    "rarity": "C",
+    "image": "cPK_10_021460_00_NYASPER_C.webp",
+    "name": "妙喵",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 32,
+    "rarity": "U",
+    "image": "cPK_10_021180_00_NYAONIX_U.webp",
+    "name": "超能妙喵",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 33,
+    "rarity": "U",
+    "image": "cPK_10_021470_00_YAREYUUTAN_U.webp",
+    "name": "智揮猩",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 34,
+    "rarity": "C",
+    "image": "cPK_10_021480_00_COLLECUREI_C.webp",
+    "name": "索財靈",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 35,
+    "rarity": "C",
+    "image": "cPK_10_021490_00_KARAKARA_C.webp",
+    "name": "卡拉卡拉",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 36,
+    "rarity": "U",
+    "image": "cPK_10_021130_00_GARAGARA_U.webp",
+    "name": "嘎啦嘎啦",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 37,
+    "rarity": "R",
+    "image": "cPK_10_021500_00_LANDLOS_R.webp",
+    "name": "土地雲",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 38,
+    "rarity": "C",
+    "image": "cPK_10_021510_00_ROCKETDANNOARBO_C.webp",
+    "name": "火箭隊的阿柏蛇",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 39,
+    "rarity": "U",
+    "image": "cPK_10_021520_00_ROCKETDANNOARBOK_U.webp",
+    "name": "火箭隊的阿柏怪",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 40,
+    "rarity": "C",
+    "image": "cPK_10_021530_00_ROCKETDANNOBETBETER_C.webp",
+    "name": "火箭隊的臭泥",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 41,
+    "rarity": "U",
+    "image": "cPK_10_021540_00_ROCKETDANNOBETBETON_U.webp",
+    "name": "火箭隊的臭臭泥",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 42,
+    "rarity": "C",
+    "image": "cPK_10_021550_00_ROCKETDANNODOGARS_C.webp",
+    "name": "火箭隊的瓦斯彈",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 43,
+    "rarity": "RR",
+    "image": "cPK_10_021560_00_ROCKETDANNOMATADOGASex_RR.webp",
+    "name": "火箭隊的雙彈瓦斯ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 44,
+    "rarity": "C",
+    "image": "cPK_10_021570_00_ROCKETDANNONYULA_C.webp",
+    "name": "火箭隊的狃拉",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 45,
+    "rarity": "C",
+    "image": "cPK_10_021580_00_TOGEDEMARU_C.webp",
+    "name": "托戈德瑪爾",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 46,
+    "rarity": "C",
+    "image": "cPK_10_021590_00_ZOUDOU_C.webp",
+    "name": "銅象",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 47,
+    "rarity": "U",
+    "image": "cPK_10_021600_00_DAIOUDOU_U.webp",
+    "name": "大王銅象",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 48,
+    "rarity": "C",
+    "image": "cPK_10_021610_00_ROCKETDANNOKANUCHAN_C.webp",
+    "name": "火箭隊的小鍛匠",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 49,
+    "rarity": "U",
+    "image": "cPK_10_021620_00_ROCKETDANNONAKANUCHAN_U.webp",
+    "name": "火箭隊的巧鍛匠",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 50,
+    "rarity": "R",
+    "image": "cPK_10_021630_00_ROCKETDANNODEKANUCHAN_R.webp",
+    "name": "火箭隊的巨鍛匠",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 51,
+    "rarity": "U",
+    "image": "cPK_10_021640_00_SURFUGO_U.webp",
+    "name": "賽富豪",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 52,
+    "rarity": "C",
+    "image": "cPK_10_021140_00_FUKAMARU_C.webp",
+    "name": "圓陸鯊",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 53,
+    "rarity": "U",
+    "image": "cPK_10_021150_00_GABITE_U.webp",
+    "name": "尖牙陸鯊",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 54,
+    "rarity": "R",
+    "image": "cPK_10_021650_00_GABURIAS_R.webp",
+    "name": "烈咬陸鯊",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 55,
+    "rarity": "U",
+    "image": "cPK_10_021660_00_DURALUDON_U.webp",
+    "name": "鋁鋼龍",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 56,
+    "rarity": "R",
+    "image": "cPK_10_021670_00_BRIDURAS_R.webp",
+    "name": "鋁鋼橋龍",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 57,
+    "rarity": "U",
+    "image": "cPK_10_021680_00_REGIDORAGO_U.webp",
+    "name": "雷吉鐸拉戈",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 58,
+    "rarity": "C",
+    "image": "cPK_10_021690_00_ROCKETDANNOKORATTA_C.webp",
+    "name": "火箭隊的小拉達",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 59,
+    "rarity": "RR",
+    "image": "cPK_10_021700_00_ROCKETDANNORATTAex_RR.webp",
+    "name": "火箭隊的拉達ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 60,
+    "rarity": "C",
+    "image": "cPK_10_021710_00_ROCKETDANNONYARTH_C.webp",
+    "name": "火箭隊的喵喵",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 61,
+    "rarity": "U",
+    "image": "cPK_10_021720_00_ROCKETDANNOPERSIAN_U.webp",
+    "name": "火箭隊的貓老大",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 62,
+    "rarity": "C",
+    "image": "cPK_10_021730_00_ROCKETDANNOKAKUREON_C.webp",
+    "name": "火箭隊的變隱龍",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 63,
+    "rarity": "R",
+    "image": "cPK_10_021740_00_PINPUKU_R.webp",
+    "name": "小福蛋",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 64,
+    "rarity": "C",
+    "image": "cPK_10_021750_00_TRIMMIEN_C.webp",
+    "name": "多麗米亞",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 65,
+    "rarity": "C",
+    "image": "cPK_10_021760_00_GOURTON_C.webp",
+    "name": "愛吃豚",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 66,
+    "rarity": "C",
+    "image": "cPK_10_021770_00_PERFUTON_C.webp",
+    "name": "飄香豚",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 67,
+    "rarity": "U",
+    "image": "cTR_10_001600_00_ROCKETDANNODOROBOUMASHIN_U.webp",
+    "name": "火箭隊的竊盜機",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 68,
+    "rarity": "U",
+    "image": "cTR_10_001610_00_ROCKETDANNOBETOBETOBAZOOKA_U.webp",
+    "name": "火箭隊的黏黏炮",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 69,
+    "rarity": "U",
+    "image": "cTR_10_001620_00_ROCKETDANNOKENKYUUIN_U.webp",
+    "name": "火箭隊的研究員",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 70,
+    "rarity": "U",
+    "image": "cTR_10_001630_00_ROCKETDANNODAISAKUSEN_U.webp",
+    "name": "火箭隊的大作戰",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 71,
+    "rarity": "U",
+    "image": "cTR_10_001640_00_ROCKETDANNOBOSS_U.webp",
+    "name": "火箭隊的老大",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 72,
+    "rarity": "U",
+    "image": "cTR_10_001650_00_GAMECENTER_U.webp",
+    "name": "電子遊樂場",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 73,
+    "rarity": "AR",
+    "image": "cPK_20_021290_00_MAHOXY_AR.webp",
+    "name": "妖火紅狐",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 74,
+    "rarity": "AR",
+    "image": "cPK_20_021430_00_ROCKETDANNOSLEEPER_AR.webp",
+    "name": "火箭隊的引夢貘人",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 75,
+    "rarity": "AR",
+    "image": "cPK_20_021630_00_ROCKETDANNODEKANUCHAN_AR.webp",
+    "name": "火箭隊的巨鍛匠",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 76,
+    "rarity": "AR",
+    "image": "cPK_20_021730_00_ROCKETDANNOKAKUREON_AR.webp",
+    "name": "火箭隊的變隱龍",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 77,
+    "rarity": "AR",
+    "image": "cPK_20_021740_00_PINPUKU_AR.webp",
+    "name": "小福蛋",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 78,
+    "rarity": "AR",
+    "image": "cPK_20_021760_00_GOURTON_AR.webp",
+    "name": "愛吃豚",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 79,
+    "rarity": "SR",
+    "image": "cPK_20_021250_00_ROCKETDANNOFIREex_SR.webp",
+    "name": "火箭隊的火焰鳥ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 80,
+    "rarity": "SR",
+    "image": "cPK_20_021300_00_ROCKETDANNOFREEZERex_SR.webp",
+    "name": "火箭隊的急凍鳥ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 81,
+    "rarity": "SR",
+    "image": "cPK_20_021360_00_ROCKETDANNOTHUNDERex_SR.webp",
+    "name": "火箭隊的閃電鳥ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 82,
+    "rarity": "SR",
+    "image": "cPK_20_021410_00_ROCKETDANNOYADOKINGex_SR.webp",
+    "name": "火箭隊的呆呆王ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 83,
+    "rarity": "SR",
+    "image": "cPK_20_021560_00_ROCKETDANNOMATADOGASex_SR.webp",
+    "name": "火箭隊的雙彈瓦斯ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 84,
+    "rarity": "SR",
+    "image": "cPK_20_021700_00_ROCKETDANNORATTAex_SR.webp",
+    "name": "火箭隊的拉達ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 85,
+    "rarity": "SR",
+    "image": "cTR_20_001620_00_ROCKETDANNOKENKYUUIN_SR.webp",
+    "name": "火箭隊的研究員",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 86,
+    "rarity": "SR",
+    "image": "cTR_20_001630_00_ROCKETDANNODAISAKUSEN_SR.webp",
+    "name": "火箭隊的大作戰",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 87,
+    "rarity": "SR",
+    "image": "cTR_20_001640_00_ROCKETDANNOBOSS_SR.webp",
+    "name": "火箭隊的老大",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 88,
+    "rarity": "SAR",
+    "image": "cPK_20_021250_01_ROCKETDANNOFIREex_SAR.webp",
+    "name": "火箭隊的火焰鳥ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 89,
+    "rarity": "SAR",
+    "image": "cPK_20_021300_01_ROCKETDANNOFREEZERex_SAR.webp",
+    "name": "火箭隊的急凍鳥ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 90,
+    "rarity": "SAR",
+    "image": "cPK_20_021360_01_ROCKETDANNOTHUNDERex_SAR.webp",
+    "name": "火箭隊的閃電鳥ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 91,
+    "rarity": "SAR",
+    "image": "cPK_20_021410_01_ROCKETDANNOYADOKINGex_SAR.webp",
+    "name": "火箭隊的呆呆王ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 92,
+    "rarity": "SAR",
+    "image": "cPK_20_021560_01_ROCKETDANNOMATADOGASex_SAR.webp",
+    "name": "火箭隊的雙彈瓦斯ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 93,
+    "rarity": "SAR",
+    "image": "cPK_20_021700_01_ROCKETDANNORATTAex_SAR.webp",
+    "name": "火箭隊的拉達ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 94,
+    "rarity": "IM",
+    "image": "cTR_20_001630_01_ROCKETDANNODAISAKUSEN_IM.webp",
+    "name": "火箭隊的大作戰",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 95,
+    "rarity": "S",
+    "image": "cPK_20_019110_01_ROKON_S.webp",
+    "name": "六尾",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 96,
+    "rarity": "S",
+    "image": "cPK_20_019120_00_KYUKON_S.webp",
+    "name": "九尾",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 97,
+    "rarity": "S",
+    "image": "cPK_20_019130_00_TOSAKINTO_S.webp",
+    "name": "角金魚",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 98,
+    "rarity": "S",
+    "image": "cPK_20_019140_00_AZUMAO_S.webp",
+    "name": "金魚王",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 99,
+    "rarity": "S",
+    "image": "cPK_20_014200_01_ELESON_S.webp",
+    "name": "毒電嬰",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 100,
+    "rarity": "S",
+    "image": "cPK_20_014400_00_YABACHA_S.webp",
+    "name": "來悲茶",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 101,
+    "rarity": "S",
+    "image": "cPK_20_014410_00_POTDEATH_S.webp",
+    "name": "怖思壺",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 102,
+    "rarity": "S",
+    "image": "cPK_20_014780_00_KUCHEAT_S.webp",
+    "name": "大嘴娃",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 103,
+    "rarity": "S",
+    "image": "cPK_20_014980_00_SUBAME_S.webp",
+    "name": "傲骨燕",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 104,
+    "rarity": "S",
+    "image": "cPK_20_014990_00_OHSUBAME_S.webp",
+    "name": "大王燕",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 105,
+    "rarity": "SSR",
+    "image": "cPK_20_013190_02_MEGALIZARDONYex_SSR.webp",
+    "name": "超級噴火龍Yex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 106,
+    "rarity": "SSR",
+    "image": "cPK_20_014210_02_STRINDERex_SSR.webp",
+    "name": "顫弦蠑螈ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 107,
+    "rarity": "SSR",
+    "image": "cPK_20_014390_02_MIMIKKYUex_SSR.webp",
+    "name": "謎擬Ｑex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 108,
+    "rarity": "SSR",
+    "image": "cPK_20_014790_02_MEGAKUCHEATex_SSR.webp",
+    "name": "超級大嘴娃ex",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 109,
+    "rarity": "UR",
+    "image": "cPK_20_021640_00_SURFUGO_UR.webp",
+    "name": "賽富豪",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  {
+    "set": "B4a",
+    "number": 110,
+    "rarity": "UR",
+    "image": "cTR_20_001610_00_ROCKETDANNOBETOBETOBAZOOKA_UR.webp",
+    "name": "火箭隊的黏黏炮",
+    "packs": [
+      "Team Rocket"
+    ]
+  }
+]

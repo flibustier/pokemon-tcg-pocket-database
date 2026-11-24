@@ -1,0 +1,2342 @@
+[
+  {
+    "set": "B2",
+    "number": 1,
+    "rarity": "C",
+    "image": "cPK_10_013670_00_REDIBA_C.webp",
+    "name": "芭瓢蟲",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 2,
+    "rarity": "C",
+    "image": "cPK_10_013680_00_REDIAN_C.webp",
+    "name": "安瓢蟲",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 3,
+    "rarity": "C",
+    "image": "cPK_10_013690_00_TSUBOTSUBO_C.webp",
+    "name": "壺壺",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 4,
+    "rarity": "C",
+    "image": "cPK_10_013700_00_ROSELIA_C.webp",
+    "name": "毒薔薇",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 5,
+    "rarity": "R",
+    "image": "cPK_10_013710_00_ROSERADE_R.webp",
+    "name": "羅絲雷朵",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 6,
+    "rarity": "C",
+    "image": "cPK_10_013720_00_SABONEA_C.webp",
+    "name": "刺球仙人掌",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 7,
+    "rarity": "U",
+    "image": "cPK_10_013730_00_NOCTUS_U.webp",
+    "name": "夢歌仙人掌",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 8,
+    "rarity": "C",
+    "image": "cPK_10_013740_00_HARIMARON_C.webp",
+    "name": "哈力栗",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 9,
+    "rarity": "U",
+    "image": "cPK_10_013750_00_HARIBORG_U.webp",
+    "name": "胖胖哈力",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 10,
+    "rarity": "R",
+    "image": "cPK_10_013760_00_BRIGARRON_R.webp",
+    "name": "布里卡隆",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 11,
+    "rarity": "C",
+    "image": "cPK_10_013770_00_KOFUKIMUSHI_C.webp",
+    "name": "粉蝶蟲",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 12,
+    "rarity": "C",
+    "image": "cPK_10_013780_00_KOFUURAI_C.webp",
+    "name": "粉蝶蛹",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 13,
+    "rarity": "U",
+    "image": "cPK_10_013790_00_VIVIYON_U.webp",
+    "name": "彩粉蝶",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 14,
+    "rarity": "R",
+    "image": "cPK_10_013800_00_MASSIVOON_R.webp",
+    "name": "爆肌蚊",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 15,
+    "rarity": "C",
+    "image": "cPK_10_013810_00_HIMENKA_C.webp",
+    "name": "幼棉棉",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 16,
+    "rarity": "U",
+    "image": "cPK_10_013820_00_WATASHIRAGA_U.webp",
+    "name": "白蓬蓬",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 17,
+    "rarity": "RR",
+    "image": "cPK_10_013830_00_OGERPONMIDORINOMENex_RR.webp",
+    "name": "厄鬼椪 碧草面具ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 18,
+    "rarity": "U",
+    "image": "cPK_10_013840_00_ALOLAGARAGARA_U.webp",
+    "name": "阿羅拉 嘎啦嘎啦",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 19,
+    "rarity": "R",
+    "image": "cPK_10_013850_00_RESHIRAM_R.webp",
+    "name": "萊希拉姆",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 20,
+    "rarity": "C",
+    "image": "cPK_10_013860_00_SHISHIKO_C.webp",
+    "name": "小獅獅",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 21,
+    "rarity": "U",
+    "image": "cPK_10_013870_00_KAENJISHI_U.webp",
+    "name": "火炎獅",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 22,
+    "rarity": "U",
+    "image": "cPK_10_013880_00_ODORIDORI_U.webp",
+    "name": "花舞鳥",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 23,
+    "rarity": "RR",
+    "image": "cPK_10_013890_00_ZUGADOONex_RR.webp",
+    "name": "砰頭小丑ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 24,
+    "rarity": "C",
+    "image": "cPK_10_013900_00_HIBANNY_C.webp",
+    "name": "炎兔兒",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 25,
+    "rarity": "U",
+    "image": "cPK_10_013910_00_RABBIFUTO_U.webp",
+    "name": "騰蹴小將",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 26,
+    "rarity": "R",
+    "image": "cPK_10_013920_00_ACEBURN_R.webp",
+    "name": "閃焰王牌",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 27,
+    "rarity": "R",
+    "image": "cPK_10_013930_00_OGERPONKAMADONOMEN_R.webp",
+    "name": "厄鬼椪 火灶面具",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 28,
+    "rarity": "C",
+    "image": "cPK_10_013940_00_ALOLAROKON_C.webp",
+    "name": "阿羅拉 六尾",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 29,
+    "rarity": "RR",
+    "image": "cPK_10_013950_00_ALOLAKYUKONex_RR.webp",
+    "name": "阿羅拉 九尾ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 30,
+    "rarity": "C",
+    "image": "cPK_10_013960_00_GALARBARRIERD_C.webp",
+    "name": "伽勒爾 魔牆人偶",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 31,
+    "rarity": "U",
+    "image": "cPK_10_013970_00_GALARBARRIKOHRU_U.webp",
+    "name": "伽勒爾 踏冰人偶",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 32,
+    "rarity": "U",
+    "image": "cPK_10_013980_00_DELIBIRD_U.webp",
+    "name": "信使鳥",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 33,
+    "rarity": "C",
+    "image": "cPK_10_013990_00_MIZUGOROU_C.webp",
+    "name": "水躍魚",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 34,
+    "rarity": "U",
+    "image": "cPK_10_014000_00_NUMACRAW_U.webp",
+    "name": "沼躍魚",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 35,
+    "rarity": "R",
+    "image": "cPK_10_014010_00_LAGLARGE_R.webp",
+    "name": "巨沼怪",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 36,
+    "rarity": "RR",
+    "image": "cPK_10_014020_00_MEGALAGLARGEex_RR.webp",
+    "name": "超級巨沼怪ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 37,
+    "rarity": "C",
+    "image": "cPK_10_014030_00_VANIPETI_C.webp",
+    "name": "迷你冰",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 38,
+    "rarity": "C",
+    "image": "cPK_10_014040_00_VANIRICH_C.webp",
+    "name": "多多冰",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 39,
+    "rarity": "U",
+    "image": "cPK_10_014050_00_BAIVANILLA_U.webp",
+    "name": "雙倍多多冰",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 40,
+    "rarity": "C",
+    "image": "cPK_10_014060_00_FREEGEO_C.webp",
+    "name": "幾何雪花",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 41,
+    "rarity": "U",
+    "image": "cPK_10_014070_00_AMARUS_U.webp",
+    "name": "冰雪龍",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 42,
+    "rarity": "R",
+    "image": "cPK_10_014080_00_AMARURUGA_R.webp",
+    "name": "冰雪巨龍",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 43,
+    "rarity": "C",
+    "image": "cPK_10_014090_00_KAMUKAME_C.webp",
+    "name": "咬咬龜",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 44,
+    "rarity": "U",
+    "image": "cPK_10_014100_00_KAJIRIGAME_U.webp",
+    "name": "暴噬龜",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 45,
+    "rarity": "C",
+    "image": "cPK_10_014110_00_UU_C.webp",
+    "name": "古月鳥",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 46,
+    "rarity": "C",
+    "image": "cPK_10_014120_00_SASIKAMASU_C.webp",
+    "name": "刺梭魚",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 47,
+    "rarity": "C",
+    "image": "cPK_10_014130_00_KAMASUJAW_C.webp",
+    "name": "戽斗尖梭",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 48,
+    "rarity": "R",
+    "image": "cPK_10_014140_00_OGERPONIDONOMEN_R.webp",
+    "name": "厄鬼椪 水井面具",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 49,
+    "rarity": "C",
+    "image": "cPK_10_014150_00_PIKACHU_C.webp",
+    "name": "皮卡丘",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 50,
+    "rarity": "R",
+    "image": "cPK_10_014160_00_ALOLARAICHU_R.webp",
+    "name": "阿羅拉 雷丘",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 51,
+    "rarity": "R",
+    "image": "cPK_10_014170_00_THUNDER_R.webp",
+    "name": "閃電鳥",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 52,
+    "rarity": "C",
+    "image": "cPK_10_014180_00_PRASLE_C.webp",
+    "name": "正電拍拍",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 53,
+    "rarity": "C",
+    "image": "cPK_10_014190_00_MINUN_C.webp",
+    "name": "負電拍拍",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 54,
+    "rarity": "C",
+    "image": "cPK_10_014200_00_ELESON_C.webp",
+    "name": "毒電嬰",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 55,
+    "rarity": "RR",
+    "image": "cPK_10_014210_00_STRINDERex_RR.webp",
+    "name": "顫弦蠑螈ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 56,
+    "rarity": "C",
+    "image": "cPK_10_014220_00_ZUPIKA_C.webp",
+    "name": "光蚪仔",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 57,
+    "rarity": "U",
+    "image": "cPK_10_014230_00_HARABARIE_U.webp",
+    "name": "電肚蛙",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 58,
+    "rarity": "C",
+    "image": "cPK_10_014240_00_GALARPONYTA_C.webp",
+    "name": "伽勒爾 小火馬",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 59,
+    "rarity": "U",
+    "image": "cPK_10_014250_00_GALARGALLOP_U.webp",
+    "name": "伽勒爾 烈焰馬",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 60,
+    "rarity": "C",
+    "image": "cPK_10_014260_00_SONANS_C.webp",
+    "name": "果然翁",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 61,
+    "rarity": "C",
+    "image": "cPK_10_014270_00_BULU_C.webp",
+    "name": "布魯",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 62,
+    "rarity": "U",
+    "image": "cPK_10_014280_00_GRANBULU_U.webp",
+    "name": "布魯皇",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 63,
+    "rarity": "C",
+    "image": "cPK_10_014290_00_RALTS_C.webp",
+    "name": "拉魯拉絲",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 64,
+    "rarity": "U",
+    "image": "cPK_10_014300_00_KIRLIA_U.webp",
+    "name": "奇魯莉安",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 65,
+    "rarity": "R",
+    "image": "cPK_10_014310_00_SIRNIGHT_R.webp",
+    "name": "沙奈朵",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 66,
+    "rarity": "RR",
+    "image": "cPK_10_014320_00_MEGASIRNIGHTex_RR.webp",
+    "name": "超級沙奈朵ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 67,
+    "rarity": "C",
+    "image": "cPK_10_014330_00_HITOMOSHI_C.webp",
+    "name": "燭光靈",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 68,
+    "rarity": "U",
+    "image": "cPK_10_014340_00_LAMPLER_U.webp",
+    "name": "燈火幽靈",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 69,
+    "rarity": "R",
+    "image": "cPK_10_014350_00_CHANDELA_R.webp",
+    "name": "水晶燈火靈",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 70,
+    "rarity": "U",
+    "image": "cPK_10_014360_00_MELOETTA_U.webp",
+    "name": "美洛耶塔",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 71,
+    "rarity": "C",
+    "image": "cPK_10_014370_00_BAKECCHA_C.webp",
+    "name": "南瓜精",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 72,
+    "rarity": "R",
+    "image": "cPK_10_014380_00_PUMPJIN_R.webp",
+    "name": "南瓜怪人",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 73,
+    "rarity": "RR",
+    "image": "cPK_10_014390_00_MIMIKKYUex_RR.webp",
+    "name": "謎擬Ｑex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 74,
+    "rarity": "C",
+    "image": "cPK_10_014400_00_YABACHA_C.webp",
+    "name": "來悲茶",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 75,
+    "rarity": "U",
+    "image": "cPK_10_014410_00_POTDEATH_U.webp",
+    "name": "怖思壺",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 76,
+    "rarity": "C",
+    "image": "cPK_10_014420_00_YESSAN_C.webp",
+    "name": "愛管侍",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 77,
+    "rarity": "C",
+    "image": "cPK_10_014430_00_SAND_C.webp",
+    "name": "穿山鼠",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 78,
+    "rarity": "C",
+    "image": "cPK_10_014440_00_SANDPAN_C.webp",
+    "name": "穿山王",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 79,
+    "rarity": "C",
+    "image": "cPK_10_014450_00_WANRIKY_C.webp",
+    "name": "腕力",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 80,
+    "rarity": "C",
+    "image": "cPK_10_014460_00_GORIKY_C.webp",
+    "name": "豪力",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 81,
+    "rarity": "U",
+    "image": "cPK_10_014470_00_KAIRIKY_U.webp",
+    "name": "怪力",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 82,
+    "rarity": "C",
+    "image": "cPK_10_014480_00_KARAKARA_C.webp",
+    "name": "卡拉卡拉",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 83,
+    "rarity": "C",
+    "image": "cPK_10_014490_00_ASANAN_C.webp",
+    "name": "瑪沙那",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 84,
+    "rarity": "U",
+    "image": "cPK_10_014500_00_CHAREM_U.webp",
+    "name": "恰雷姆",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 85,
+    "rarity": "C",
+    "image": "cPK_10_014510_00_DANGORO_C.webp",
+    "name": "石丸子",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 86,
+    "rarity": "U",
+    "image": "cPK_10_014520_00_GANTLE_U.webp",
+    "name": "地幔岩",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 87,
+    "rarity": "RR",
+    "image": "cPK_10_014530_00_GIGAIATHex_RR.webp",
+    "name": "龐岩怪ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 88,
+    "rarity": "C",
+    "image": "cPK_10_014540_00_MOGUREW_C.webp",
+    "name": "螺釘地鼠",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 89,
+    "rarity": "U",
+    "image": "cPK_10_014550_00_CHIGORAS_U.webp",
+    "name": "寶寶暴龍",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 90,
+    "rarity": "R",
+    "image": "cPK_10_014560_00_GACHIGORAS_R.webp",
+    "name": "怪顎龍",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 91,
+    "rarity": "C",
+    "image": "cPK_10_014570_00_NAGETUKESARU_C.webp",
+    "name": "投擲猴",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 92,
+    "rarity": "U",
+    "image": "cPK_10_014580_00_TAIRETSU_U.webp",
+    "name": "列陣兵",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 93,
+    "rarity": "R",
+    "image": "cPK_10_014590_00_OGERPONISHIZUENOMEN_R.webp",
+    "name": "厄鬼椪 礎石面具",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 94,
+    "rarity": "C",
+    "image": "cPK_10_014600_00_ALOLANYARTH_C.webp",
+    "name": "阿羅拉 喵喵",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 95,
+    "rarity": "U",
+    "image": "cPK_10_014610_00_ALOLAPERSIAN_U.webp",
+    "name": "阿羅拉 貓老大",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 96,
+    "rarity": "C",
+    "image": "cPK_10_014620_00_ALOLABETBETER_C.webp",
+    "name": "阿羅拉 臭泥",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 97,
+    "rarity": "R",
+    "image": "cPK_10_014630_00_ALOLABETBETON_R.webp",
+    "name": "阿羅拉 臭臭泥",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 98,
+    "rarity": "C",
+    "image": "cPK_10_014640_00_GALARJIGUZAGUMA_C.webp",
+    "name": "伽勒爾 蛇紋熊",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 99,
+    "rarity": "U",
+    "image": "cPK_10_014650_00_GALARMASSUGUMA_U.webp",
+    "name": "伽勒爾 直衝熊",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 100,
+    "rarity": "R",
+    "image": "cPK_10_014660_00_GALARTACHIFUSAGUMA_R.webp",
+    "name": "伽勒爾 堵攔熊",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 101,
+    "rarity": "C",
+    "image": "cPK_10_014670_00_SKUNPUU_C.webp",
+    "name": "臭鼬噗",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 102,
+    "rarity": "U",
+    "image": "cPK_10_014680_00_SKUTANK_U.webp",
+    "name": "坦克臭鼬",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 103,
+    "rarity": "R",
+    "image": "cPK_10_014690_00_MIKARUGE_R.webp",
+    "name": "花岩怪",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 104,
+    "rarity": "C",
+    "image": "cPK_10_014700_00_CHORONEKO_C.webp",
+    "name": "扒手貓",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 105,
+    "rarity": "U",
+    "image": "cPK_10_014710_00_LEPARDAS_U.webp",
+    "name": "酷豹",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 106,
+    "rarity": "C",
+    "image": "cPK_10_014720_00_ZURUGGU_C.webp",
+    "name": "滑滑小子",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 107,
+    "rarity": "U",
+    "image": "cPK_10_014730_00_ZURUZUKIN_U.webp",
+    "name": "頭巾混混",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 108,
+    "rarity": "R",
+    "image": "cPK_10_014740_00_YVELTAL_R.webp",
+    "name": "伊裴爾塔爾",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 109,
+    "rarity": "R",
+    "image": "cPK_10_014750_00_AKUZIKING_R.webp",
+    "name": "惡食大王",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 110,
+    "rarity": "C",
+    "image": "cPK_10_014760_00_GALARNYARTH_C.webp",
+    "name": "伽勒爾 喵喵",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 111,
+    "rarity": "R",
+    "image": "cPK_10_014770_00_GALARNYAIKING_R.webp",
+    "name": "伽勒爾 喵頭目",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 112,
+    "rarity": "C",
+    "image": "cPK_10_014780_00_KUCHEAT_C.webp",
+    "name": "大嘴娃",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 113,
+    "rarity": "RR",
+    "image": "cPK_10_014790_00_MEGAKUCHEATex_RR.webp",
+    "name": "超級大嘴娃ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 114,
+    "rarity": "U",
+    "image": "cPK_10_014800_00_DORYUZU_U.webp",
+    "name": "龍頭地鼠",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 115,
+    "rarity": "C",
+    "image": "cPK_10_014810_00_TESSEED_C.webp",
+    "name": "種子鐵球",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 116,
+    "rarity": "C",
+    "image": "cPK_10_014820_00_NUTREY_C.webp",
+    "name": "堅果啞鈴",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 117,
+    "rarity": "U",
+    "image": "cPK_10_014830_00_GALARMAGGYO_U.webp",
+    "name": "伽勒爾 泥巴魚",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 118,
+    "rarity": "C",
+    "image": "cPK_10_014840_00_HITOTSUKI_C.webp",
+    "name": "獨劍鞘",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 119,
+    "rarity": "U",
+    "image": "cPK_10_014850_00_NIDANGILL_U.webp",
+    "name": "雙劍鞘",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 120,
+    "rarity": "R",
+    "image": "cPK_10_014860_00_GILLGARD_R.webp",
+    "name": "堅盾劍怪",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 121,
+    "rarity": "C",
+    "image": "cPK_10_014870_00_TATSUBAY_C.webp",
+    "name": "寶貝龍",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 122,
+    "rarity": "U",
+    "image": "cPK_10_014880_00_KOMORUU_U.webp",
+    "name": "甲殼龍",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 123,
+    "rarity": "R",
+    "image": "cPK_10_014890_00_BOHMANDER_R.webp",
+    "name": "暴飛龍",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 124,
+    "rarity": "C",
+    "image": "cPK_10_014900_00_NYARTH_C.webp",
+    "name": "喵喵",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 125,
+    "rarity": "C",
+    "image": "cPK_10_014910_00_PERSIAN_C.webp",
+    "name": "貓老大",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 126,
+    "rarity": "U",
+    "image": "cPK_10_014920_00_GARURA_U.webp",
+    "name": "袋獸",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 127,
+    "rarity": "RR",
+    "image": "cPK_10_014930_00_MEGAGARURAex_RR.webp",
+    "name": "超級袋獸ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 128,
+    "rarity": "C",
+    "image": "cPK_10_014940_00_OTACHI_C.webp",
+    "name": "尾立",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 129,
+    "rarity": "C",
+    "image": "cPK_10_014950_00_OOTACHI_C.webp",
+    "name": "大尾立",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 130,
+    "rarity": "U",
+    "image": "cPK_10_014960_00_DOBLE_U.webp",
+    "name": "圖圖犬",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 131,
+    "rarity": "R",
+    "image": "cPK_10_014970_00_LUGIA_R.webp",
+    "name": "洛奇亞",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 132,
+    "rarity": "C",
+    "image": "cPK_10_014980_00_SUBAME_C.webp",
+    "name": "傲骨燕",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 133,
+    "rarity": "R",
+    "image": "cPK_10_014990_00_OHSUBAME_R.webp",
+    "name": "大王燕",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 134,
+    "rarity": "C",
+    "image": "cPK_10_015000_00_NAMAKERO_C.webp",
+    "name": "懶人獺",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 135,
+    "rarity": "U",
+    "image": "cPK_10_015010_00_YARUKIMONO_U.webp",
+    "name": "過動猿",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 136,
+    "rarity": "R",
+    "image": "cPK_10_015020_00_KEKKING_R.webp",
+    "name": "請假王",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 137,
+    "rarity": "C",
+    "image": "cPK_10_015030_00_PATCHEEL_C.webp",
+    "name": "晃晃斑",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 138,
+    "rarity": "R",
+    "image": "cPK_10_015040_00_TORNELOS_R.webp",
+    "name": "龍捲雲",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 139,
+    "rarity": "C",
+    "image": "cPK_10_015050_00_HORUBEE_C.webp",
+    "name": "掘掘兔",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 140,
+    "rarity": "U",
+    "image": "cPK_10_015060_00_HORUDO_U.webp",
+    "name": "掘地兔",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 141,
+    "rarity": "U",
+    "image": "cPK_10_015070_00_TRIMMIEN_U.webp",
+    "name": "多麗米亞",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 142,
+    "rarity": "C",
+    "image": "cPK_10_015080_00_WAKKANEZUMI_C.webp",
+    "name": "一對鼠",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 143,
+    "rarity": "U",
+    "image": "cPK_10_015090_00_IKKANEZUMI_U.webp",
+    "name": "一家鼠",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 144,
+    "rarity": "C",
+    "image": "cTR_10_001050_00_AGONOKASEKI_C.webp",
+    "name": "顎之化石",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 145,
+    "rarity": "U",
+    "image": "cTR_10_001060_00_ATARITSUKIAISU_U.webp",
+    "name": "可抽獎的冰棒",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 146,
+    "rarity": "C",
+    "image": "cTR_10_001070_00_HIRENOKASEKI_C.webp",
+    "name": "鰭之化石",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 147,
+    "rarity": "U",
+    "image": "cTR_10_001080_00_MAMORINOPONCHO_U.webp",
+    "name": "守護披風",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 148,
+    "rarity": "U",
+    "image": "cTR_10_001090_00_METARUKOABARIA_U.webp",
+    "name": "金屬核心屏障",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 149,
+    "rarity": "U",
+    "image": "cTR_10_001100_00_CARNE_U.webp",
+    "name": "卡露妮",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 150,
+    "rarity": "U",
+    "image": "cTR_10_001110_00_KANKOUKYAKU_U.webp",
+    "name": "觀光客",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 151,
+    "rarity": "U",
+    "image": "cTR_10_001120_00_JAGURA_U.webp",
+    "name": "雜耍藝人",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 152,
+    "rarity": "U",
+    "image": "cTR_10_001130_00_NEZU_U.webp",
+    "name": "聶梓",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 153,
+    "rarity": "U",
+    "image": "cTR_10_001140_00_TORENINGUERIA_U.webp",
+    "name": "訓練區",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 154,
+    "rarity": "U",
+    "image": "cTR_10_001150_00_HAJIMARINOHEIGEN_U.webp",
+    "name": "起始平原",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 155,
+    "rarity": "U",
+    "image": "cTR_10_001160_00_FUSHIGINAHIROBA_U.webp",
+    "name": "神奇廣場",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 156,
+    "rarity": "AR",
+    "image": "cPK_20_013720_00_SABONEA_AR.webp",
+    "name": "刺球仙人掌",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 157,
+    "rarity": "AR",
+    "image": "cPK_20_013710_00_ROSERADE_AR.webp",
+    "name": "羅絲雷朵",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 158,
+    "rarity": "AR",
+    "image": "cPK_20_013790_00_VIVIYON_AR.webp",
+    "name": "彩粉蝶",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 159,
+    "rarity": "AR",
+    "image": "cPK_20_013800_00_MASSIVOON_AR.webp",
+    "name": "爆肌蚊",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 160,
+    "rarity": "AR",
+    "image": "cPK_20_013850_00_RESHIRAM_AR.webp",
+    "name": "萊希拉姆",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 161,
+    "rarity": "AR",
+    "image": "cPK_20_013880_00_ODORIDORI_AR.webp",
+    "name": "花舞鳥",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 162,
+    "rarity": "AR",
+    "image": "cPK_20_013900_00_HIBANNY_AR.webp",
+    "name": "炎兔兒",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 163,
+    "rarity": "AR",
+    "image": "cPK_20_014080_00_AMARURUGA_AR.webp",
+    "name": "冰雪巨龍",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 164,
+    "rarity": "AR",
+    "image": "cPK_20_014110_00_UU_AR.webp",
+    "name": "古月鳥",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 165,
+    "rarity": "AR",
+    "image": "cPK_20_014190_00_MINUN_AR.webp",
+    "name": "負電拍拍",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 166,
+    "rarity": "AR",
+    "image": "cPK_20_014200_00_ELESON_AR.webp",
+    "name": "毒電嬰",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 167,
+    "rarity": "AR",
+    "image": "cPK_20_014240_00_GALARPONYTA_AR.webp",
+    "name": "伽勒爾 小火馬",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 168,
+    "rarity": "AR",
+    "image": "cPK_20_014270_00_BULU_AR.webp",
+    "name": "布魯",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 169,
+    "rarity": "AR",
+    "image": "cPK_20_014420_00_YESSAN_AR.webp",
+    "name": "愛管侍",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 170,
+    "rarity": "AR",
+    "image": "cPK_20_014430_00_SAND_AR.webp",
+    "name": "穿山鼠",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 171,
+    "rarity": "AR",
+    "image": "cPK_20_014560_00_GACHIGORAS_AR.webp",
+    "name": "怪顎龍",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 172,
+    "rarity": "AR",
+    "image": "cPK_20_014580_00_TAIRETSU_AR.webp",
+    "name": "列陣兵",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 173,
+    "rarity": "AR",
+    "image": "cPK_20_014630_00_ALOLABETBETON_AR.webp",
+    "name": "阿羅拉 臭臭泥",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 174,
+    "rarity": "AR",
+    "image": "cPK_20_014700_00_CHORONEKO_AR.webp",
+    "name": "扒手貓",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 175,
+    "rarity": "AR",
+    "image": "cPK_20_014740_00_YVELTAL_AR.webp",
+    "name": "伊裴爾塔爾",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 176,
+    "rarity": "AR",
+    "image": "cPK_20_014660_00_GALARTACHIFUSAGUMA_AR.webp",
+    "name": "伽勒爾 堵攔熊",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 177,
+    "rarity": "AR",
+    "image": "cPK_20_014770_00_GALARNYAIKING_AR.webp",
+    "name": "伽勒爾 喵頭目",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 178,
+    "rarity": "AR",
+    "image": "cPK_20_014890_00_BOHMANDER_AR.webp",
+    "name": "暴飛龍",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 179,
+    "rarity": "AR",
+    "image": "cPK_20_015000_00_NAMAKERO_AR.webp",
+    "name": "懶人獺",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 180,
+    "rarity": "SR",
+    "image": "cPK_20_013830_00_OGERPONMIDORINOMENex_SR.webp",
+    "name": "厄鬼椪 碧草面具ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 181,
+    "rarity": "SR",
+    "image": "cPK_20_013890_00_ZUGADOONex_SR.webp",
+    "name": "砰頭小丑ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 182,
+    "rarity": "SR",
+    "image": "cPK_20_013950_00_ALOLAKYUKONex_SR.webp",
+    "name": "阿羅拉 九尾ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 183,
+    "rarity": "SR",
+    "image": "cPK_20_014020_00_MEGALAGLARGEex_SR.webp",
+    "name": "超級巨沼怪ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 184,
+    "rarity": "SR",
+    "image": "cPK_20_014210_00_STRINDERex_SR.webp",
+    "name": "顫弦蠑螈ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 185,
+    "rarity": "SR",
+    "image": "cPK_20_014320_00_MEGASIRNIGHTex_SR.webp",
+    "name": "超級沙奈朵ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 186,
+    "rarity": "SR",
+    "image": "cPK_20_014390_00_MIMIKKYUex_SR.webp",
+    "name": "謎擬Ｑex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 187,
+    "rarity": "SR",
+    "image": "cPK_20_014530_00_GIGAIATHex_SR.webp",
+    "name": "龐岩怪ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 188,
+    "rarity": "SR",
+    "image": "cPK_20_014790_00_MEGAKUCHEATex_SR.webp",
+    "name": "超級大嘴娃ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 189,
+    "rarity": "SR",
+    "image": "cPK_20_014930_00_MEGAGARURAex_SR.webp",
+    "name": "超級袋獸ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 190,
+    "rarity": "SR",
+    "image": "cTR_20_001100_00_CARNE_SR.webp",
+    "name": "卡露妮",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 191,
+    "rarity": "SR",
+    "image": "cTR_20_001110_00_KANKOUKYAKU_SR.webp",
+    "name": "觀光客",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 192,
+    "rarity": "SR",
+    "image": "cTR_20_001120_00_JAGURA_SR.webp",
+    "name": "雜耍藝人",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 193,
+    "rarity": "SR",
+    "image": "cTR_20_001130_00_NEZU_SR.webp",
+    "name": "聶梓",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 194,
+    "rarity": "SAR",
+    "image": "cPK_20_013830_01_OGERPONMIDORINOMENex_SAR.webp",
+    "name": "厄鬼椪 碧草面具ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 195,
+    "rarity": "SAR",
+    "image": "cPK_20_013890_01_ZUGADOONex_SAR.webp",
+    "name": "砰頭小丑ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 196,
+    "rarity": "SAR",
+    "image": "cPK_20_013950_01_ALOLAKYUKONex_SAR.webp",
+    "name": "阿羅拉 九尾ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 197,
+    "rarity": "SAR",
+    "image": "cPK_20_014020_01_MEGALAGLARGEex_SAR.webp",
+    "name": "超級巨沼怪ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 198,
+    "rarity": "SAR",
+    "image": "cPK_20_014210_01_STRINDERex_SAR.webp",
+    "name": "顫弦蠑螈ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 199,
+    "rarity": "SAR",
+    "image": "cPK_20_014390_01_MIMIKKYUex_SAR.webp",
+    "name": "謎擬Ｑex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 200,
+    "rarity": "SAR",
+    "image": "cPK_20_014530_01_GIGAIATHex_SAR.webp",
+    "name": "龐岩怪ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 201,
+    "rarity": "SAR",
+    "image": "cPK_20_014790_01_MEGAKUCHEATex_SAR.webp",
+    "name": "超級大嘴娃ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 202,
+    "rarity": "SAR",
+    "image": "cPK_20_014930_01_MEGAGARURAex_SAR.webp",
+    "name": "超級袋獸ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 203,
+    "rarity": "IM",
+    "image": "cPK_20_014320_01_MEGASIRNIGHTex_IM.webp",
+    "name": "超級沙奈朵ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 204,
+    "rarity": "IM",
+    "image": "cPK_20_014900_00_NYARTH_IM.webp",
+    "name": "喵喵",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 205,
+    "rarity": "S",
+    "image": "cPK_20_008600_00_MONJARA_S.webp",
+    "name": "蔓藤怪",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 206,
+    "rarity": "S",
+    "image": "cPK_20_008880_01_BUBY_S.webp",
+    "name": "鴨嘴寶寶",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 207,
+    "rarity": "S",
+    "image": "cPK_20_003040_00_BOOBER_S.webp",
+    "name": "鴨嘴火獸",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 208,
+    "rarity": "S",
+    "image": "cPK_20_008970_00_TATTU_S.webp",
+    "name": "墨海馬",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 209,
+    "rarity": "S",
+    "image": "cPK_20_008980_00_SEADRA_S.webp",
+    "name": "海刺龍",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 210,
+    "rarity": "S",
+    "image": "cPK_20_010420_01_TAMANTA_S.webp",
+    "name": "小球飛魚",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 211,
+    "rarity": "S",
+    "image": "cPK_20_000810_00_OMNITE_S.webp",
+    "name": "菊石獸",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 212,
+    "rarity": "S",
+    "image": "cPK_20_000820_00_OMSTAR_S.webp",
+    "name": "多刺菊石獸",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 213,
+    "rarity": "S",
+    "image": "cPK_20_009220_01_PICHU_S.webp",
+    "name": "皮丘",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 214,
+    "rarity": "S",
+    "image": "cPK_20_001130_00_PIPPI_S.webp",
+    "name": "皮皮",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 215,
+    "rarity": "S",
+    "image": "cPK_20_001140_00_PIXY_S.webp",
+    "name": "皮可西",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 216,
+    "rarity": "S",
+    "image": "cPK_20_010200_00_LATIAS_S.webp",
+    "name": "拉帝亞斯",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 217,
+    "rarity": "S",
+    "image": "cPK_20_010550_01_LATIOS_S.webp",
+    "name": "拉帝歐斯",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 218,
+    "rarity": "S",
+    "image": "cPK_20_001540_00_SAWAMULAR_S.webp",
+    "name": "飛腿郎",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 219,
+    "rarity": "S",
+    "image": "cPK_20_001550_00_EBIWALAR_S.webp",
+    "name": "快拳郎",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 220,
+    "rarity": "S",
+    "image": "cPK_20_001580_00_KABUTO_S.webp",
+    "name": "化石盔",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 221,
+    "rarity": "S",
+    "image": "cPK_20_001590_00_KABUTOPS_S.webp",
+    "name": "鐮刀盔",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 222,
+    "rarity": "S",
+    "image": "cPK_20_009550_00_GOMAZOU_S.webp",
+    "name": "小小象",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 223,
+    "rarity": "S",
+    "image": "cPK_20_009570_00_BALKIE_S.webp",
+    "name": "無畏小子",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 224,
+    "rarity": "S",
+    "image": "cPK_20_002730_00_KENTAUROS_S.webp",
+    "name": "肯泰羅",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 225,
+    "rarity": "SSR",
+    "image": "cPK_20_008050_02_BOOSTERex_SSR.webp",
+    "name": "火伊布ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 226,
+    "rarity": "SSR",
+    "image": "cPK_20_008900_04_HOUOUex_SSR.webp",
+    "name": "鳳王ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 227,
+    "rarity": "SSR",
+    "image": "cPK_20_008990_02_KINGDRAex_SSR.webp",
+    "name": "刺龍王ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 228,
+    "rarity": "SSR",
+    "image": "cPK_20_009390_02_EIFIEex_SSR.webp",
+    "name": "太陽伊布ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 229,
+    "rarity": "SSR",
+    "image": "cPK_20_008280_02_NYMPHIAex_SSR.webp",
+    "name": "仙子伊布ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 230,
+    "rarity": "SSR",
+    "image": "cPK_20_009560_02_DONFANex_SSR.webp",
+    "name": "頓甲ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 231,
+    "rarity": "SSR",
+    "image": "cPK_20_009680_02_BRACKYex_SSR.webp",
+    "name": "月亮伊布ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 232,
+    "rarity": "SSR",
+    "image": "cPK_20_010050_04_LUGIAex_SSR.webp",
+    "name": "洛奇亞ex",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 233,
+    "rarity": "UR",
+    "image": "cPK_20_014360_00_MELOETTA_UR.webp",
+    "name": "美洛耶塔",
+    "packs": [
+      "Gardevoir"
+    ]
+  },
+  {
+    "set": "B2",
+    "number": 234,
+    "rarity": "UR",
+    "image": "cTR_20_001080_00_MAMORINOPONCHO_UR.webp",
+    "name": "守護披風",
+    "packs": [
+      "Gardevoir"
+    ]
+  }
+]

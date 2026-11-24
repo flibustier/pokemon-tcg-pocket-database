@@ -1,0 +1,3398 @@
+[
+  {
+    "set": "B1",
+    "number": 1,
+    "rarity": "C",
+    "name": "凱羅斯",
+    "image": "cPK_10_010830_00_KAILIOS_C.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 2,
+    "rarity": "RR",
+    "name": "超級凱羅斯ex",
+    "image": "cPK_10_010840_00_MEGAKAILIOSex_RR.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 3,
+    "rarity": "C",
+    "name": "刺尾蟲",
+    "image": "cPK_10_010850_00_KEMUSSO_C.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 4,
+    "rarity": "C",
+    "name": "甲殼繭",
+    "image": "cPK_10_010860_00_KARASALIS_C.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 5,
+    "rarity": "R",
+    "name": "狩獵鳳蝶",
+    "image": "cPK_10_010870_00_AGEHUNT_R.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 6,
+    "rarity": "C",
+    "name": "盾甲繭",
+    "image": "cPK_10_010880_00_MAYULD_C.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 7,
+    "rarity": "R",
+    "name": "毒粉蛾",
+    "image": "cPK_10_010890_00_DOKUCALE_R.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 8,
+    "rarity": "C",
+    "name": "橡實果",
+    "image": "cPK_10_010900_00_TANEBOH_C.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 9,
+    "rarity": "U",
+    "name": "長鼻葉",
+    "image": "cPK_10_010910_00_KONOHANA_U.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 10,
+    "rarity": "R",
+    "name": "狡猾天狗",
+    "image": "cPK_10_010920_00_DIRTENG_R.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 11,
+    "rarity": "C",
+    "name": "蘑蘑菇",
+    "image": "cPK_10_010930_00_KINOCOCO_C.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 12,
+    "rarity": "U",
+    "name": "斗笠菇",
+    "image": "cPK_10_010940_00_KINOGASSA_U.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 13,
+    "rarity": "C",
+    "name": "花椰猴",
+    "image": "cPK_10_010950_00_YANAPPU_C.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 14,
+    "rarity": "C",
+    "name": "花椰猿",
+    "image": "cPK_10_010960_00_YANAKKIE_C.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 15,
+    "rarity": "C",
+    "name": "木棉球",
+    "image": "cPK_10_010970_00_MONMEN_C.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 16,
+    "rarity": "RR",
+    "name": "風妖精ex",
+    "image": "cPK_10_010980_00_ELFUUNex_RR.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 17,
+    "rarity": "C",
+    "name": "百合根娃娃",
+    "image": "cPK_10_010990_00_CHURINE_C.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 18,
+    "rarity": "R",
+    "name": "裙兒小姐",
+    "image": "cPK_10_011000_00_DREDEAR_R.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 19,
+    "rarity": "C",
+    "name": "沙鈴仙人掌",
+    "image": "cPK_10_011010_00_MARACACCHI_C.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 20,
+    "rarity": "R",
+    "name": "畢力吉翁",
+    "image": "cPK_10_011020_00_VIRIZION_R.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 21,
+    "rarity": "C",
+    "name": "坐騎小羊",
+    "image": "cPK_10_011030_00_MEECLE_C.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 22,
+    "rarity": "C",
+    "name": "坐騎山羊",
+    "image": "cPK_10_011040_00_GOGOAT_C.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 23,
+    "rarity": "C",
+    "name": "小木靈",
+    "image": "cPK_10_011050_00_BOKUREI_C.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 24,
+    "rarity": "U",
+    "name": "朽木妖",
+    "image": "cPK_10_011060_00_OHROT_U.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 25,
+    "rarity": "C",
+    "name": "敲音猴",
+    "image": "cPK_10_011070_00_SARUNORI_C.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 26,
+    "rarity": "U",
+    "name": "啪咚猴",
+    "image": "cPK_10_011080_00_BACHINKEY_U.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 27,
+    "rarity": "R",
+    "name": "轟擂金剛猩",
+    "image": "cPK_10_011090_00_GORIRANDER_R.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 28,
+    "rarity": "C",
+    "name": "卡蒂狗",
+    "image": "cPK_10_011100_00_GARDIE_C.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 29,
+    "rarity": "U",
+    "name": "風速狗",
+    "image": "cPK_10_011110_00_WINDIE_U.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 30,
+    "rarity": "C",
+    "name": "小火馬",
+    "image": "cPK_10_011120_00_PONYTA_C.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 31,
+    "rarity": "RR",
+    "name": "烈焰馬ex",
+    "image": "cPK_10_011130_00_GALLOPex_RR.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 32,
+    "rarity": "R",
+    "name": "鳳王",
+    "image": "cPK_10_011140_00_HOUOU_R.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 33,
+    "rarity": "C",
+    "name": "火稚雞",
+    "image": "cPK_10_011150_00_ACHAMO_C.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 34,
+    "rarity": "U",
+    "name": "力壯雞",
+    "image": "cPK_10_011160_00_WAKASYAMO_U.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 35,
+    "rarity": "R",
+    "name": "火焰雞",
+    "image": "cPK_10_011170_00_BURSYAMO_R.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 36,
+    "rarity": "RR",
+    "name": "超級火焰雞ex",
+    "image": "cPK_10_011180_00_MEGABURSYAMOex_RR.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 37,
+    "rarity": "C",
+    "name": "爆香猴",
+    "image": "cPK_10_011190_00_BAOPPU_C.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 38,
+    "rarity": "C",
+    "name": "爆香猿",
+    "image": "cPK_10_011200_00_BAOKKIE_C.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 39,
+    "rarity": "C",
+    "name": "火紅不倒翁",
+    "image": "cPK_10_011210_00_DARUMAKKA_C.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 40,
+    "rarity": "U",
+    "name": "達摩狒狒",
+    "image": "cPK_10_011220_00_HIHIDARUMA_U.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 41,
+    "rarity": "C",
+    "name": "燭光靈",
+    "image": "cPK_10_011230_00_HITOMOSHI_C.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 42,
+    "rarity": "U",
+    "name": "燈火幽靈",
+    "image": "cPK_10_011240_00_LAMPLER_U.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 43,
+    "rarity": "R",
+    "name": "水晶燈火靈",
+    "image": "cPK_10_011250_00_CHANDELA_R.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 44,
+    "rarity": "C",
+    "name": "熔蟻獸",
+    "image": "cPK_10_011260_00_KUITARAN_C.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 45,
+    "rarity": "C",
+    "name": "小獅獅",
+    "image": "cPK_10_011270_00_SHISHIKO_C.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 46,
+    "rarity": "R",
+    "name": "火炎獅",
+    "image": "cPK_10_011280_00_KAENJISHI_R.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 47,
+    "rarity": "U",
+    "name": "爆焰龜獸",
+    "image": "cPK_10_011290_00_BAKUGAMES_U.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 48,
+    "rarity": "C",
+    "name": "可達鴨",
+    "image": "cPK_10_011300_00_KODUCK_C.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 49,
+    "rarity": "C",
+    "name": "哥達鴨",
+    "image": "cPK_10_011310_00_GOLDUCK_C.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 50,
+    "rarity": "C",
+    "name": "鯉魚王",
+    "image": "cPK_10_011320_00_KOIKING_C.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 51,
+    "rarity": "R",
+    "name": "暴鯉龍",
+    "image": "cPK_10_011330_00_GYARADOS_R.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 52,
+    "rarity": "RR",
+    "name": "超級暴鯉龍ex",
+    "image": "cPK_10_011340_00_MEGAGYARADOSex_RR.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 53,
+    "rarity": "C",
+    "name": "蓮葉童子",
+    "image": "cPK_10_011350_00_HASSBOH_C.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 54,
+    "rarity": "U",
+    "name": "蓮帽小童",
+    "image": "cPK_10_011360_00_HASUBRERO_U.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 55,
+    "rarity": "R",
+    "name": "樂天河童",
+    "image": "cPK_10_011370_00_RUNPAPPA_R.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 56,
+    "rarity": "C",
+    "name": "吼吼鯨",
+    "image": "cPK_10_011380_00_HOERUKO_C.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 57,
+    "rarity": "R",
+    "name": "吼鯨王",
+    "image": "cPK_10_011390_00_WHALOH_R.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 58,
+    "rarity": "C",
+    "name": "龍蝦小兵",
+    "image": "cPK_10_011400_00_HEIGANI_C.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 59,
+    "rarity": "U",
+    "name": "鐵螯龍蝦",
+    "image": "cPK_10_011410_00_SHIZARIGER_U.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 60,
+    "rarity": "C",
+    "name": "愛心魚",
+    "image": "cPK_10_011420_00_LOVECUS_C.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 61,
+    "rarity": "C",
+    "name": "冷水猴",
+    "image": "cPK_10_011430_00_HIYAPPU_C.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 62,
+    "rarity": "C",
+    "name": "冷水猿",
+    "image": "cPK_10_011440_00_HIYAKKIE_C.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 63,
+    "rarity": "C",
+    "name": "圓蝌蚪",
+    "image": "cPK_10_011450_00_OTAMARO_C.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 64,
+    "rarity": "C",
+    "name": "藍蟾蜍",
+    "image": "cPK_10_011460_00_GAMAGARU_C.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 65,
+    "rarity": "U",
+    "name": "蟾蜍王",
+    "image": "cPK_10_011470_00_GAMAGEROGE_U.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 66,
+    "rarity": "U",
+    "name": "原蓋海龜",
+    "image": "cPK_10_011480_00_PROTOGA_U.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 67,
+    "rarity": "R",
+    "name": "肋骨海龜",
+    "image": "cPK_10_011490_00_ABAGOURA_R.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 68,
+    "rarity": "C",
+    "name": "輕飄飄",
+    "image": "cPK_10_011500_00_PURURILL_C.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 69,
+    "rarity": "R",
+    "name": "胖嘟嘟",
+    "image": "cPK_10_011510_00_BURUNGEL_R.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 70,
+    "rarity": "R",
+    "name": "凱路迪歐",
+    "image": "cPK_10_011520_00_KELDEOITSUMONOSUGATA_R.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 71,
+    "rarity": "C",
+    "name": "呱呱泡蛙",
+    "image": "cPK_10_011530_00_KEROMATSU_C.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 72,
+    "rarity": "U",
+    "name": "呱頭蛙",
+    "image": "cPK_10_011540_00_GEKOGASHIRA_U.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 73,
+    "rarity": "RR",
+    "name": "甲賀忍蛙ex",
+    "image": "cPK_10_011550_00_GEKKOUGAex_RR.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 74,
+    "rarity": "C",
+    "name": "冰寶",
+    "image": "cPK_10_011560_00_KACHIKOHRU_C.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 75,
+    "rarity": "U",
+    "name": "冰岩怪",
+    "image": "cPK_10_011570_00_CREBASE_U.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 76,
+    "rarity": "C",
+    "name": "咬咬龜",
+    "image": "cPK_10_011580_00_KAMUKAME_C.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 77,
+    "rarity": "U",
+    "name": "暴噬龜",
+    "image": "cPK_10_011590_00_KAJIRIGAME_U.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 78,
+    "rarity": "C",
+    "name": "刺梭魚",
+    "image": "cPK_10_011600_00_SASIKAMASU_C.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 79,
+    "rarity": "U",
+    "name": "戽斗尖梭",
+    "image": "cPK_10_011610_00_KAMASUJAW_U.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 80,
+    "rarity": "R",
+    "name": "冰砌鵝",
+    "image": "cPK_10_011620_00_KORIPPO_R.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 81,
+    "rarity": "RR",
+    "name": "雷伊布ex",
+    "image": "cPK_10_011630_00_THUNDERSex_RR.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 82,
+    "rarity": "C",
+    "name": "咩利羊",
+    "image": "cPK_10_011640_00_MERRIEP_C.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 83,
+    "rarity": "U",
+    "name": "茸茸羊",
+    "image": "cPK_10_011650_00_MOKOKO_U.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 84,
+    "rarity": "R",
+    "name": "電龍",
+    "image": "cPK_10_011660_00_DENRYU_R.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 85,
+    "rarity": "RR",
+    "name": "超級電龍ex",
+    "image": "cPK_10_011670_00_MEGADENRYUex_RR.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 86,
+    "rarity": "C",
+    "name": "小貓怪",
+    "image": "cPK_10_011680_00_KOLINK_C.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 87,
+    "rarity": "U",
+    "name": "勒克貓",
+    "image": "cPK_10_011690_00_LUXIO_U.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 88,
+    "rarity": "R",
+    "name": "倫琴貓",
+    "image": "cPK_10_011700_00_RENTORAR_R.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 89,
+    "rarity": "C",
+    "name": "帕奇利茲",
+    "image": "cPK_10_011710_00_PACHIRISU_C.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 90,
+    "rarity": "C",
+    "name": "斑斑馬",
+    "image": "cPK_10_011720_00_SHIMAMA_C.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 91,
+    "rarity": "U",
+    "name": "雷電斑馬",
+    "image": "cPK_10_011730_00_ZEBRAIKA_U.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 92,
+    "rarity": "C",
+    "name": "電電蟲",
+    "image": "cPK_10_011740_00_BACHURU_C.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 93,
+    "rarity": "U",
+    "name": "電蜘蛛",
+    "image": "cPK_10_011750_00_DENTULA_U.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 94,
+    "rarity": "C",
+    "name": "咚咚鼠",
+    "image": "cPK_10_011760_00_DEDENNE_C.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 95,
+    "rarity": "C",
+    "name": "來電汪",
+    "image": "cPK_10_011770_00_WANPACHI_C.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 96,
+    "rarity": "U",
+    "name": "逐電犬",
+    "image": "cPK_10_011780_00_PULSEWAN_U.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 97,
+    "rarity": "C",
+    "name": "天然雀",
+    "image": "cPK_10_011790_00_NATY_C.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 98,
+    "rarity": "U",
+    "name": "天然鳥",
+    "image": "cPK_10_011800_00_NATIO_U.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 99,
+    "rarity": "C",
+    "name": "夢妖",
+    "image": "cPK_10_011810_00_MUMA_C.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 100,
+    "rarity": "U",
+    "name": "夢妖魔",
+    "image": "cPK_10_011820_00_MUMARGI_U.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 101,
+    "rarity": "C",
+    "name": "勾魂眼",
+    "image": "cPK_10_011830_00_YAMIRAMI_C.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 102,
+    "rarity": "RR",
+    "name": "超級七夕青鳥ex",
+    "image": "cPK_10_011840_00_MEGATYLTALISex_RR.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 103,
+    "rarity": "C",
+    "name": "夜巡靈",
+    "image": "cPK_10_011850_00_YOMAWARU_C.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 104,
+    "rarity": "U",
+    "name": "彷徨夜靈",
+    "image": "cPK_10_011860_00_SAMAYOURU_U.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 105,
+    "rarity": "R",
+    "name": "黑夜魔靈",
+    "image": "cPK_10_011870_00_YONOIR_R.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 106,
+    "rarity": "R",
+    "name": "基拉祈",
+    "image": "cPK_10_011880_00_JIRACHI_R.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 107,
+    "rarity": "C",
+    "name": "飄飄球",
+    "image": "cPK_10_011890_00_FUWANTE_C.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 108,
+    "rarity": "U",
+    "name": "隨風球",
+    "image": "cPK_10_011900_00_FUWARIDE_U.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 109,
+    "rarity": "R",
+    "name": "鈴鐺響",
+    "image": "cPK_10_011910_00_LISYAN_R.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 110,
+    "rarity": "C",
+    "name": "哭哭面具",
+    "image": "cPK_10_011920_00_DESUMASU_C.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 111,
+    "rarity": "R",
+    "name": "死神棺",
+    "image": "cPK_10_011930_00_DESUKARN_R.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 112,
+    "rarity": "C",
+    "name": "哥德寶寶",
+    "image": "cPK_10_011940_00_GOTHIMU_C.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 113,
+    "rarity": "U",
+    "name": "哥德小童",
+    "image": "cPK_10_011950_00_GOTHIMIRU_U.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 114,
+    "rarity": "R",
+    "name": "哥德小姐",
+    "image": "cPK_10_011960_00_GOTHIRUSELLE_R.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 115,
+    "rarity": "C",
+    "name": "粉香香",
+    "image": "cPK_10_011970_00_SHUSHUPU_C.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 116,
+    "rarity": "U",
+    "name": "芳香精",
+    "image": "cPK_10_011980_00_FREFUWAN_U.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 117,
+    "rarity": "C",
+    "name": "綿綿泡芙",
+    "image": "cPK_10_011990_00_PEROPPAFU_C.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 118,
+    "rarity": "U",
+    "name": "胖甜妮",
+    "image": "cPK_10_012000_00_PEROREAM_U.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 119,
+    "rarity": "C",
+    "name": "小碎鑽",
+    "image": "cPK_10_012010_00_MELECIE_C.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 120,
+    "rarity": "R",
+    "name": "鑰圈兒",
+    "image": "cPK_10_012020_00_CLEFFY_R.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 121,
+    "rarity": "RR",
+    "name": "愛管侍ex",
+    "image": "cPK_10_012030_00_YESSANMESUNOSUGATA_RR.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 122,
+    "rarity": "C",
+    "name": "穿山鼠",
+    "image": "cPK_10_012040_00_SAND_C.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 123,
+    "rarity": "U",
+    "name": "穿山王",
+    "image": "cPK_10_012050_00_SANDPAN_U.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 124,
+    "rarity": "RR",
+    "name": "快拳郎ex",
+    "image": "cPK_10_012060_00_EBIWALARex_RR.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 125,
+    "rarity": "C",
+    "name": "樹才怪",
+    "image": "cPK_10_012070_00_USOKKIE_C.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 126,
+    "rarity": "C",
+    "name": "幕下力士",
+    "image": "cPK_10_012080_00_MAKUNOSHITA_C.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 127,
+    "rarity": "U",
+    "name": "鐵掌力士",
+    "image": "cPK_10_012090_00_HARITEYAMA_U.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 128,
+    "rarity": "C",
+    "name": "沙河馬",
+    "image": "cPK_10_012100_00_HIPPOPOTAS_C.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 129,
+    "rarity": "U",
+    "name": "河馬獸",
+    "image": "cPK_10_012110_00_KABALDON_U.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 130,
+    "rarity": "C",
+    "name": "黑眼鱷",
+    "image": "cPK_10_012120_00_MEGUROCO_C.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 131,
+    "rarity": "U",
+    "name": "混混鱷",
+    "image": "cPK_10_012130_00_WARUVILE_U.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 132,
+    "rarity": "R",
+    "name": "流氓鱷",
+    "image": "cPK_10_012140_00_WARUVIAL_R.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 133,
+    "rarity": "U",
+    "name": "始祖小鳥",
+    "image": "cPK_10_012150_00_ARCHEN_U.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 134,
+    "rarity": "R",
+    "name": "始祖大鳥",
+    "image": "cPK_10_012160_00_ARCHEOS_R.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 135,
+    "rarity": "C",
+    "name": "泥偶小人",
+    "image": "cPK_10_012170_00_GOBIT_C.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 136,
+    "rarity": "R",
+    "name": "泥偶巨人",
+    "image": "cPK_10_012180_00_GOLOOG_R.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 137,
+    "rarity": "R",
+    "name": "代拉基翁",
+    "image": "cPK_10_012190_00_TERRAKION_R.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 138,
+    "rarity": "C",
+    "name": "頑皮熊貓",
+    "image": "cPK_10_012200_00_YANCHAM_C.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 139,
+    "rarity": "C",
+    "name": "好勝蟹",
+    "image": "cPK_10_012210_00_MAKENKANI_C.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 140,
+    "rarity": "U",
+    "name": "好勝毛蟹",
+    "image": "cPK_10_012220_00_KEKENKANI_U.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 141,
+    "rarity": "C",
+    "name": "童偶熊",
+    "image": "cPK_10_012230_00_NUIKOGUMA_C.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 142,
+    "rarity": "U",
+    "name": "穿著熊",
+    "image": "cPK_10_012240_00_KITERUGUMA_U.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 143,
+    "rarity": "C",
+    "name": "沙丘娃",
+    "image": "cPK_10_012250_00_SUNABA_C.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 144,
+    "rarity": "U",
+    "name": "噬沙堡爺",
+    "image": "cPK_10_012260_00_SIRODETHNA_U.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 145,
+    "rarity": "C",
+    "name": "小炭仔",
+    "image": "cPK_10_012270_00_TANDON_C.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 146,
+    "rarity": "U",
+    "name": "大炭車",
+    "image": "cPK_10_012280_00_TOROGGON_U.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 147,
+    "rarity": "R",
+    "name": "巨炭山",
+    "image": "cPK_10_012290_00_SEKITANZAN_R.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 148,
+    "rarity": "C",
+    "name": "黑暗鴉",
+    "image": "cPK_10_012300_00_YAMIKARASU_C.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 149,
+    "rarity": "R",
+    "name": "烏鴉頭頭",
+    "image": "cPK_10_012310_00_DONGKARASU_R.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 150,
+    "rarity": "U",
+    "name": "阿勃梭魯",
+    "image": "cPK_10_012320_00_ABSOL_U.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 151,
+    "rarity": "RR",
+    "name": "超級阿勃梭魯ex",
+    "image": "cPK_10_012330_00_MEGAABSOLex_RR.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 152,
+    "rarity": "C",
+    "name": "鉗尾蠍",
+    "image": "cPK_10_012340_00_SCORUPI_C.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 153,
+    "rarity": "U",
+    "name": "龍王蠍",
+    "image": "cPK_10_012350_00_DORAPION_U.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 154,
+    "rarity": "R",
+    "name": "達克萊伊",
+    "image": "cPK_10_012360_00_DARKRAI_R.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 155,
+    "rarity": "C",
+    "name": "單首龍",
+    "image": "cPK_10_012370_00_MONOZU_C.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 156,
+    "rarity": "U",
+    "name": "雙首暴龍",
+    "image": "cPK_10_012380_00_DIHEAD_U.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 157,
+    "rarity": "R",
+    "name": "三首惡龍",
+    "image": "cPK_10_012390_00_SAZANDORA_R.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 158,
+    "rarity": "R",
+    "name": "流氓熊貓",
+    "image": "cPK_10_012400_00_GORONDA_R.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 159,
+    "rarity": "C",
+    "name": "垃垃藻",
+    "image": "cPK_10_012410_00_KUZUMO_C.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 160,
+    "rarity": "RR",
+    "name": "毒藻龍ex",
+    "image": "cPK_10_012420_00_DRAMIDOROex_RR.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 161,
+    "rarity": "C",
+    "name": "好壞星",
+    "image": "cPK_10_012430_00_HIDOIDE_C.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 162,
+    "rarity": "U",
+    "name": "超壞星",
+    "image": "cPK_10_012440_00_DOHIDOIDE_U.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 163,
+    "rarity": "C",
+    "name": "搗蛋小妖",
+    "image": "cPK_10_012450_00_BEROBA_C.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 164,
+    "rarity": "U",
+    "name": "詐唬魔",
+    "image": "cPK_10_012460_00_GIMOH_U.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 165,
+    "rarity": "R",
+    "name": "長毛巨魔",
+    "image": "cPK_10_012470_00_OHLONGE_R.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 166,
+    "rarity": "C",
+    "name": "種子鐵球",
+    "image": "cPK_10_012480_00_TESSEED_C.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 167,
+    "rarity": "U",
+    "name": "堅果啞鈴",
+    "image": "cPK_10_012490_00_NUTREY_U.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 168,
+    "rarity": "C",
+    "name": "鐵蟻",
+    "image": "cPK_10_012500_00_AIANT_C.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 169,
+    "rarity": "R",
+    "name": "勾帕路翁",
+    "image": "cPK_10_012510_00_COBALON_R.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 170,
+    "rarity": "C",
+    "name": "獨劍鞘",
+    "image": "cPK_10_012520_00_HITOTSUKI_C.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 171,
+    "rarity": "U",
+    "name": "雙劍鞘",
+    "image": "cPK_10_012530_00_NIDANGILL_U.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 172,
+    "rarity": "R",
+    "name": "堅盾劍怪",
+    "image": "cPK_10_012540_00_GILLGARDBLADEFORME_R.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 173,
+    "rarity": "C",
+    "name": "美錄坦",
+    "image": "cPK_10_012550_00_MELTAN_C.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 174,
+    "rarity": "RR",
+    "name": "美錄梅塔ex",
+    "image": "cPK_10_012560_00_MELMETALex_RR.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 175,
+    "rarity": "R",
+    "name": "鋼鎧鴉",
+    "image": "cPK_10_012570_00_ARMORGA_R.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 176,
+    "rarity": "C",
+    "name": "赤面龍",
+    "image": "cPK_10_012580_00_CRIMGAN_C.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 177,
+    "rarity": "C",
+    "name": "黏黏寶",
+    "image": "cPK_10_012590_00_NUMERA_C.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 178,
+    "rarity": "U",
+    "name": "黏美兒",
+    "image": "cPK_10_012600_00_NUMEIL_U.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 179,
+    "rarity": "R",
+    "name": "黏美龍",
+    "image": "cPK_10_012610_00_NUMELGON_R.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 180,
+    "rarity": "C",
+    "name": "波波",
+    "image": "cPK_10_012620_00_POPPO_C.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 181,
+    "rarity": "C",
+    "name": "比比鳥",
+    "image": "cPK_10_012630_00_PIGEON_C.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 182,
+    "rarity": "U",
+    "name": "大比鳥",
+    "image": "cPK_10_012640_00_PIGEOT_U.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 183,
+    "rarity": "RR",
+    "name": "肯泰羅ex",
+    "image": "cPK_10_012650_00_KENTAUROSex_RR.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 184,
+    "rarity": "C",
+    "name": "伊布",
+    "image": "cPK_10_012660_00_EIEVUI_C.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 185,
+    "rarity": "C",
+    "name": "長尾怪手",
+    "image": "cPK_10_012670_00_EIPAM_C.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 186,
+    "rarity": "U",
+    "name": "雙尾怪手",
+    "image": "cPK_10_012680_00_ETEBOTH_U.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 187,
+    "rarity": "C",
+    "name": "大奶罐",
+    "image": "cPK_10_012690_00_MILTANK_C.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 188,
+    "rarity": "C",
+    "name": "蛇紋熊",
+    "image": "cPK_10_012700_00_JIGUZAGUMA_C.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 189,
+    "rarity": "U",
+    "name": "直衝熊",
+    "image": "cPK_10_012710_00_MASSUGUMA_U.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 190,
+    "rarity": "C",
+    "name": "咕妞妞",
+    "image": "cPK_10_012720_00_GONYONYO_C.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 191,
+    "rarity": "C",
+    "name": "吼爆彈",
+    "image": "cPK_10_012730_00_DOGOHMB_C.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 192,
+    "rarity": "R",
+    "name": "爆音怪",
+    "image": "cPK_10_012740_00_BAKUONG_R.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 193,
+    "rarity": "C",
+    "name": "向尾喵",
+    "image": "cPK_10_012750_00_ENECO_C.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 194,
+    "rarity": "R",
+    "name": "優雅貓",
+    "image": "cPK_10_012760_00_ENEKORORO_R.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 195,
+    "rarity": "C",
+    "name": "晃晃斑",
+    "image": "cPK_10_012770_00_PATCHEEL_C.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 196,
+    "rarity": "C",
+    "name": "青綿鳥",
+    "image": "cPK_10_012780_00_TYLTTO_C.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 197,
+    "rarity": "R",
+    "name": "七夕青鳥",
+    "image": "cPK_10_012790_00_TYLTALIS_R.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 198,
+    "rarity": "C",
+    "name": "聒噪鳥",
+    "image": "cPK_10_012800_00_PERAP_C.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 199,
+    "rarity": "C",
+    "name": "探探鼠",
+    "image": "cPK_10_012810_00_MINEZUMI_C.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 200,
+    "rarity": "U",
+    "name": "步哨鼠",
+    "image": "cPK_10_012820_00_MIRUHOG_U.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 201,
+    "rarity": "C",
+    "name": "小約克",
+    "image": "cPK_10_012830_00_YORTERRIE_C.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 202,
+    "rarity": "U",
+    "name": "哈約克",
+    "image": "cPK_10_012840_00_HERDERRIE_U.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 203,
+    "rarity": "R",
+    "name": "長毛狗",
+    "image": "cPK_10_012850_00_MOOLAND_R.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 204,
+    "rarity": "C",
+    "name": "毛頭小鷹",
+    "image": "cPK_10_012860_00_WASHIBON_C.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 205,
+    "rarity": "U",
+    "name": "勇士雄鷹",
+    "image": "cPK_10_012870_00_WARRGLE_U.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 206,
+    "rarity": "U",
+    "name": "多麗米亞",
+    "image": "cPK_10_012880_00_TRIMMIENYASEINOSUGATA_U.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 207,
+    "rarity": "U",
+    "name": "多麗米亞",
+    "image": "cPK_10_012880_01_TRIMMIENHEARTCUT_U.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 208,
+    "rarity": "U",
+    "name": "多麗米亞",
+    "image": "cPK_10_012880_02_TRIMMIENKINGDOMCUT_U.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 209,
+    "rarity": "C",
+    "name": "稚山雀",
+    "image": "cPK_10_012890_00_KOKOGARA_C.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 210,
+    "rarity": "U",
+    "name": "藍鴉",
+    "image": "cPK_10_012900_00_AOGARASU_U.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 211,
+    "rarity": "C",
+    "name": "毛辮羊",
+    "image": "cPK_10_012910_00_WOOLUU_C.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 212,
+    "rarity": "U",
+    "name": "毛毛角羊",
+    "image": "cPK_10_012920_00_BAIWOOLUU_U.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 213,
+    "rarity": "U",
+    "name": "惡作劇輪盤",
+    "image": "cTR_10_000870_00_ITAZURAROULETTE_U.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 214,
+    "rarity": "C",
+    "name": "羽毛化石",
+    "image": "cTR_10_000880_00_HANENOKASEKI_C.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 215,
+    "rarity": "U",
+    "name": "重擊錘",
+    "image": "cTR_10_000890_00_HITHAMMER_U.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 216,
+    "rarity": "C",
+    "name": "背蓋化石",
+    "image": "cTR_10_000900_00_FUTANOKASEKI_C.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 217,
+    "rarity": "U",
+    "name": "火補丁",
+    "image": "cTR_10_000910_00_FUREIMUPACCHI_U.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 218,
+    "rarity": "U",
+    "name": "文柚果",
+    "image": "cTR_10_000920_00_OBONNOMI_U.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 219,
+    "rarity": "U",
+    "name": "沉重頭盔",
+    "image": "cTR_10_000930_00_BABYMET_U.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 220,
+    "rarity": "U",
+    "name": "幸運手套",
+    "image": "cTR_10_000940_00_LUCKYMITTENS_U.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 221,
+    "rarity": "U",
+    "name": "西子伊",
+    "image": "cTR_10_000950_00_SHIZUI_U.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 222,
+    "rarity": "U",
+    "name": "哈拉",
+    "image": "cTR_10_000960_00_HALA_U.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 223,
+    "rarity": "U",
+    "name": "小遙",
+    "image": "cTR_10_000970_00_HARUKA_U.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 224,
+    "rarity": "U",
+    "name": "梅麗莎",
+    "image": "cTR_10_000980_00_MELISSA_U.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 225,
+    "rarity": "U",
+    "name": "模仿少女",
+    "image": "cTR_10_000990_00_MONOMANEMUSUME_U.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 226,
+    "rarity": "U",
+    "name": "琉琪亞",
+    "image": "cTR_10_001000_00_RUCHIA_U.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 227,
+    "rarity": "AR",
+    "name": "狩獵鳳蝶",
+    "image": "cPK_20_010870_00_AGEHUNT_AR.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 228,
+    "rarity": "AR",
+    "name": "坐騎小羊",
+    "image": "cPK_20_011030_00_MEECLE_AR.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 229,
+    "rarity": "AR",
+    "name": "轟擂金剛猩",
+    "image": "cPK_20_011090_00_GORIRANDER_AR.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 230,
+    "rarity": "AR",
+    "name": "卡蒂狗",
+    "image": "cPK_20_011100_00_GARDIE_AR.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 231,
+    "rarity": "AR",
+    "name": "水晶燈火靈",
+    "image": "cPK_20_011250_00_CHANDELA_AR.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 232,
+    "rarity": "AR",
+    "name": "鯉魚王",
+    "image": "cPK_20_011320_00_KOIKING_AR.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 233,
+    "rarity": "AR",
+    "name": "樂天河童",
+    "image": "cPK_20_011370_00_RUNPAPPA_AR.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 234,
+    "rarity": "AR",
+    "name": "胖嘟嘟",
+    "image": "cPK_20_011510_00_BURUNGEL_AR.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 235,
+    "rarity": "AR",
+    "name": "凱路迪歐",
+    "image": "cPK_20_011520_00_KELDEOITSUMONOSUGATA_AR.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 236,
+    "rarity": "AR",
+    "name": "冰砌鵝",
+    "image": "cPK_20_011620_00_KORIPPO_AR.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 237,
+    "rarity": "AR",
+    "name": "倫琴貓",
+    "image": "cPK_20_011700_00_RENTORAR_AR.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 238,
+    "rarity": "AR",
+    "name": "死神棺",
+    "image": "cPK_20_011930_00_DESUKARN_AR.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 239,
+    "rarity": "AR",
+    "name": "哥德寶寶",
+    "image": "cPK_20_011940_00_GOTHIMU_AR.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 240,
+    "rarity": "AR",
+    "name": "幕下力士",
+    "image": "cPK_20_012080_00_MAKUNOSHITA_AR.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 241,
+    "rarity": "AR",
+    "name": "河馬獸",
+    "image": "cPK_20_012110_00_KABALDON_AR.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 242,
+    "rarity": "AR",
+    "name": "始祖大鳥",
+    "image": "cPK_20_012160_00_ARCHEOS_AR.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 243,
+    "rarity": "AR",
+    "name": "頑皮熊貓",
+    "image": "cPK_20_012200_00_YANCHAM_AR.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 244,
+    "rarity": "AR",
+    "name": "烏鴉頭頭",
+    "image": "cPK_20_012310_00_DONGKARASU_AR.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 245,
+    "rarity": "AR",
+    "name": "三首惡龍",
+    "image": "cPK_20_012390_00_SAZANDORA_AR.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 246,
+    "rarity": "AR",
+    "name": "鋼鎧鴉",
+    "image": "cPK_20_012570_00_ARMORGA_AR.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 247,
+    "rarity": "AR",
+    "name": "黏黏寶",
+    "image": "cPK_20_012590_00_NUMERA_AR.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 248,
+    "rarity": "AR",
+    "name": "優雅貓",
+    "image": "cPK_20_012760_00_ENEKORORO_AR.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 249,
+    "rarity": "AR",
+    "name": "長毛狗",
+    "image": "cPK_20_012850_00_MOOLAND_AR.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 250,
+    "rarity": "AR",
+    "name": "毛頭小鷹",
+    "image": "cPK_20_012860_00_WASHIBON_AR.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 251,
+    "rarity": "SR",
+    "name": "超級凱羅斯ex",
+    "image": "cPK_20_010840_00_MEGAKAILIOSex_SR.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 252,
+    "rarity": "SR",
+    "name": "風妖精ex",
+    "image": "cPK_20_010980_00_ELFUUNex_SR.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 253,
+    "rarity": "SR",
+    "name": "烈焰馬ex",
+    "image": "cPK_20_011130_00_GALLOPex_SR.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 254,
+    "rarity": "SR",
+    "name": "超級火焰雞ex",
+    "image": "cPK_20_011180_00_MEGABURSYAMOex_SR.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 255,
+    "rarity": "SR",
+    "name": "超級暴鯉龍ex",
+    "image": "cPK_20_011340_00_MEGAGYARADOSex_SR.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 256,
+    "rarity": "SR",
+    "name": "甲賀忍蛙ex",
+    "image": "cPK_20_011550_00_GEKKOUGAex_SR.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 257,
+    "rarity": "SR",
+    "name": "雷伊布ex",
+    "image": "cPK_20_011630_00_THUNDERSex_SR.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 258,
+    "rarity": "SR",
+    "name": "超級電龍ex",
+    "image": "cPK_20_011670_00_MEGADENRYUex_SR.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 259,
+    "rarity": "SR",
+    "name": "超級七夕青鳥ex",
+    "image": "cPK_20_011840_00_MEGATYLTALISex_SR.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 260,
+    "rarity": "SR",
+    "name": "愛管侍ex",
+    "image": "cPK_20_012030_00_YESSANMESUNOSUGATA_SR.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 261,
+    "rarity": "SR",
+    "name": "快拳郎ex",
+    "image": "cPK_20_012060_00_EBIWALARex_SR.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 262,
+    "rarity": "SR",
+    "name": "超級阿勃梭魯ex",
+    "image": "cPK_20_012330_00_MEGAABSOLex_SR.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 263,
+    "rarity": "SR",
+    "name": "毒藻龍ex",
+    "image": "cPK_20_012420_00_DRAMIDOROex_SR.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 264,
+    "rarity": "SR",
+    "name": "美錄梅塔ex",
+    "image": "cPK_20_012560_00_MELMETALex_SR.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 265,
+    "rarity": "SR",
+    "name": "肯泰羅ex",
+    "image": "cPK_20_012650_00_KENTAUROSex_SR.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 266,
+    "rarity": "SR",
+    "name": "西子伊",
+    "image": "cTR_20_000950_00_SHIZUI_SR.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 267,
+    "rarity": "SR",
+    "name": "哈拉",
+    "image": "cTR_20_000960_00_HALA_SR.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 268,
+    "rarity": "SR",
+    "name": "小遙",
+    "image": "cTR_20_000970_00_HARUKA_SR.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 269,
+    "rarity": "SR",
+    "name": "梅麗莎",
+    "image": "cTR_20_000980_00_MELISSA_SR.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 270,
+    "rarity": "SR",
+    "name": "模仿少女",
+    "image": "cTR_20_000990_00_MONOMANEMUSUME_SR.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 271,
+    "rarity": "SR",
+    "name": "琉琪亞",
+    "image": "cTR_20_001000_00_RUCHIA_SR.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 272,
+    "rarity": "SAR",
+    "name": "超級凱羅斯ex",
+    "image": "cPK_20_010840_01_MEGAKAILIOSex_SAR.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 273,
+    "rarity": "SAR",
+    "name": "風妖精ex",
+    "image": "cPK_20_010980_01_ELFUUNex_SAR.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 274,
+    "rarity": "SAR",
+    "name": "烈焰馬ex",
+    "image": "cPK_20_011130_01_GALLOPex_SAR.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 275,
+    "rarity": "SAR",
+    "name": "甲賀忍蛙ex",
+    "image": "cPK_20_011550_01_GEKKOUGAex_SAR.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 276,
+    "rarity": "SAR",
+    "name": "雷伊布ex",
+    "image": "cPK_20_011630_01_THUNDERSex_SAR.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 277,
+    "rarity": "SAR",
+    "name": "超級電龍ex",
+    "image": "cPK_20_011670_01_MEGADENRYUex_SAR.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 278,
+    "rarity": "SAR",
+    "name": "愛管侍ex",
+    "image": "cPK_20_012030_01_YESSANMESUNOSUGATA_SAR.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 279,
+    "rarity": "SAR",
+    "name": "快拳郎ex",
+    "image": "cPK_20_012060_01_EBIWALARex_SAR.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 280,
+    "rarity": "SAR",
+    "name": "超級阿勃梭魯ex",
+    "image": "cPK_20_012330_01_MEGAABSOLex_SAR.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 281,
+    "rarity": "SAR",
+    "name": "毒藻龍ex",
+    "image": "cPK_20_012420_01_DRAMIDOROex_SAR.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 282,
+    "rarity": "SAR",
+    "name": "美錄梅塔ex",
+    "image": "cPK_20_012560_01_MELMETALex_SAR.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 283,
+    "rarity": "SAR",
+    "name": "肯泰羅ex",
+    "image": "cPK_20_012650_01_KENTAUROSex_SAR.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 284,
+    "rarity": "IM",
+    "name": "超級火焰雞ex",
+    "image": "cPK_20_011180_01_MEGABURSYAMOex_IM.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 285,
+    "rarity": "IM",
+    "name": "超級暴鯉龍ex",
+    "image": "cPK_20_011340_01_MEGAGYARADOSex_IM.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 286,
+    "rarity": "IM",
+    "name": "超級七夕青鳥ex",
+    "image": "cPK_20_011840_01_MEGATYLTALISex_IM.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 287,
+    "rarity": "S",
+    "name": "喇叭芽",
+    "image": "cPK_20_000180_00_MADATSUBOMI_S.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 288,
+    "rarity": "S",
+    "name": "口呆花",
+    "image": "cPK_20_000190_00_UTSUDON_S.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 289,
+    "rarity": "S",
+    "name": "大食花",
+    "image": "cPK_20_000200_00_UTSUBOT_S.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 290,
+    "rarity": "S",
+    "name": "木木梟",
+    "image": "cPK_20_005910_00_MOKUROH_S.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 291,
+    "rarity": "S",
+    "name": "投羽梟",
+    "image": "cPK_20_007460_00_FUKUTHROW_S.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 292,
+    "rarity": "S",
+    "name": "火焰鳥",
+    "image": "cPK_20_000460_00_FIRE_S.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 293,
+    "rarity": "S",
+    "name": "火斑喵",
+    "image": "cPK_20_006110_00_NYABBY_S.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 294,
+    "rarity": "S",
+    "name": "炎熱喵",
+    "image": "cPK_20_006130_00_NYAHEAT_S.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 295,
+    "rarity": "S",
+    "name": "蚊香蝌蚪",
+    "image": "cPK_20_010330_00_NYOROMO_S.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 296,
+    "rarity": "S",
+    "name": "蚊香君",
+    "image": "cPK_20_000600_00_NYOROZO_S.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 297,
+    "rarity": "S",
+    "name": "蚊香泳士",
+    "image": "cPK_20_000610_00_NYOROBON_S.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 298,
+    "rarity": "S",
+    "name": "急凍鳥",
+    "image": "cPK_20_000830_00_FREEZER_S.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 299,
+    "rarity": "S",
+    "name": "瑪納霏",
+    "image": "cPK_20_003310_01_MANAPHY_S.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 300,
+    "rarity": "S",
+    "name": "球球海獅",
+    "image": "cPK_20_006260_00_ASHIMARI_S.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 301,
+    "rarity": "S",
+    "name": "花漾海獅",
+    "image": "cPK_20_008180_00_OSYAMARI_S.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 302,
+    "rarity": "S",
+    "name": "閃電鳥",
+    "image": "cPK_20_001030_00_THUNDER_S.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 303,
+    "rarity": "S",
+    "name": "花舞鳥",
+    "image": "cPK_20_006470_01_ODORIDORIPACHIPACHISTYLE_S.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 304,
+    "rarity": "S",
+    "name": "捷拉奧拉",
+    "image": "cPK_20_007410_00_ZERAORA_S.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 305,
+    "rarity": "S",
+    "name": "催眠貘",
+    "image": "cPK_20_001240_00_SLEEPE_S.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 306,
+    "rarity": "S",
+    "name": "引夢貘人",
+    "image": "cPK_20_001250_00_SLEEPER_S.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 307,
+    "rarity": "S",
+    "name": "小拳石",
+    "image": "cPK_20_001470_00_ISITSUBUTE_S.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 308,
+    "rarity": "S",
+    "name": "隆隆石",
+    "image": "cPK_20_002570_00_GOLONE_S.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 309,
+    "rarity": "S",
+    "name": "隆隆岩",
+    "image": "cPK_20_002580_00_GOLONYA_S.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 310,
+    "rarity": "S",
+    "name": "岩狗狗",
+    "image": "cPK_20_006790_01_IWANKO_S.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 311,
+    "rarity": "S",
+    "name": "阿羅拉 地鼠",
+    "image": "cPK_20_006980_00_ALOLADIGDA_S.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 312,
+    "rarity": "S",
+    "name": "喵喵",
+    "image": "cPK_20_001960_01_NYARTH_S.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 313,
+    "rarity": "S",
+    "name": "貓老大",
+    "image": "cPK_20_001970_00_PERSIAN_S.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 314,
+    "rarity": "S",
+    "name": "嘟嘟",
+    "image": "cPK_20_001990_00_DODO_S.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 315,
+    "rarity": "S",
+    "name": "嘟嘟利",
+    "image": "cPK_20_002000_00_DODORIO_S.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 316,
+    "rarity": "S",
+    "name": "大牙狸",
+    "image": "cPK_20_004160_01_BIPPA_S.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 317,
+    "rarity": "SSR",
+    "name": "狙射樹梟ex",
+    "image": "cPK_20_005930_02_JUNAIPERex_SSR.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 318,
+    "rarity": "SSR",
+    "name": "熾焰咆哮虎ex",
+    "image": "cPK_20_006140_02_GAOGAENex_SSR.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 319,
+    "rarity": "SSR",
+    "name": "帕路奇亞ex",
+    "image": "cPK_20_003300_04_PALKIAex_SSR.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 320,
+    "rarity": "SSR",
+    "name": "西獅海壬ex",
+    "image": "cPK_20_008190_02_ASHIRENEex_SSR.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 321,
+    "rarity": "SSR",
+    "name": "皮卡丘ex",
+    "image": "cPK_20_005410_02_PIKACHUex_SSR.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 322,
+    "rarity": "SSR",
+    "name": "卡璞・鳴鳴ex",
+    "image": "cPK_20_007420_02_KAPU-KOKEKOex_SSR.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 323,
+    "rarity": "SSR",
+    "name": "鬃岩狼人ex",
+    "image": "cPK_20_007700_02_LUGARUGANex_SSR.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 324,
+    "rarity": "SSR",
+    "name": "投擲猴ex",
+    "image": "cPK_20_006850_02_NAGETUKESARUex_SSR.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 325,
+    "rarity": "SSR",
+    "name": "阿羅拉 三地鼠ex",
+    "image": "cPK_20_007830_02_ALOLADUGTRIOex_SSR.webp",
+    "packs": [
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 326,
+    "rarity": "SSR",
+    "name": "帝牙盧卡ex",
+    "image": "cPK_20_004000_04_DIALGAex_SSR.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 327,
+    "rarity": "SSR",
+    "name": "大尾狸ex",
+    "image": "cPK_20_005790_02_BEADARUex_SSR.webp",
+    "packs": [
+      "Mega Altaria"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 328,
+    "rarity": "SSR",
+    "name": "阿爾宙斯ex",
+    "image": "cPK_20_004950_04_ARCEUSex_SSR.webp",
+    "packs": [
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 329,
+    "rarity": "UR",
+    "name": "裙兒小姐",
+    "image": "cPK_20_011000_00_DREDEAR_UR.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 330,
+    "rarity": "UR",
+    "name": "鑰圈兒",
+    "image": "cPK_20_012020_00_CLEFFY_UR.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  },
+  {
+    "set": "B1",
+    "number": 331,
+    "rarity": "UR",
+    "name": "火補丁",
+    "image": "cTR_20_000910_00_FUREIMUPACCHI_UR.webp",
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ]
+  }
+]
