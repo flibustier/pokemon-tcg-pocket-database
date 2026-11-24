@@ -13,7 +13,7 @@
         "es": "Genes Formidables",
         "it": "Geni Supremi",
         "ja": "最強の遺伝子",
-        "ko": "최강의유전자"
+        "ko": "최강의 유전자"
       },
       "packs": ["Charizard", "Mewtwo", "Pikachu"]
     },
@@ -23,14 +23,14 @@
       "count": 86,
       "name": {
         "en": "Mythical Island",
-        "ja": "幻想のいる島",
+        "ja": "幻のいる島",
         "fr": "L'Île Fabuleuse",
         "de": "Mysteriöse Insel",
         "es": "La Isla Singular",
         "it": "L'Isola Misteriosa",
         "pt": "Ilha Mítica",
-        "zh": "幻遊鳥",
-        "ko": "환상이있는섬"
+        "zh": "幻遊島",
+        "ko": "환상이 있는 섬"
       },
       "packs": ["Mew"]
     },
@@ -43,7 +43,11 @@
         "fr": "Choc Spatio-Temporel",
         "de": "Kollision von Raum und Zeit",
         "es": "Pugna Espaciotemporal",
-        "it": "Scontro Spaziotemporale"
+        "it": "Scontro Spaziotemporale",
+        "pt": "Embate do Tempo e Espaço",
+        "ja": "時空の激闘",
+        "ko": "시공의 격투",
+        "zh": "時空激鬥"
       },
       "packs": ["Dialga", "Palkia"]
     },
@@ -56,7 +60,11 @@
         "fr": "Lumière Triomphale",
         "es": "Luz Triunfal",
         "de": "Licht des Triumphs",
-        "it": "Luce Trionfale"
+        "it": "Luce Trionfale",
+        "pt": "Luz Triunfante",
+        "ja": "超克の光",
+        "ko": "초극의 빛",
+        "zh": "超克之光"
       },
       "packs": ["Arceus"]
     },
@@ -69,7 +77,11 @@
         "fr": "Réjouissances Rayonnantes",
         "de": "Glänzendes Festival",
         "es": "Festival Brillante",
-        "it": "Tripudio Splendente"
+        "it": "Tripudio Splendente",
+        "pt": "Festival Brilhante",
+        "ja": "シャイニングハイ",
+        "ko": "샤이닝 하이",
+        "zh": "嗨放異彩"
       },
       "packs": ["Shining"]
     },
@@ -82,7 +94,11 @@
         "fr": "Gardiens Astraux",
         "de": "Hüter des Firmaments",
         "es": "Guardianes Celestiales",
-        "it": "Guardiani Astrali"
+        "it": "Guardiani Astrali",
+        "pt": "Guardiões Celestiais",
+        "ja": "双天の守護者",
+        "ko": "쌍천의 수호자",
+        "zh": "雙天之守護者"
       },
       "packs": ["Lunala", "Solgaleo"]
     },
@@ -95,7 +111,11 @@
         "fr": "Crise Interdimensionnelle",
         "de": "Dimensionale Krise",
         "es": "Crisis Dimensional",
-        "it": "Crisi Ultradimensionale"
+        "it": "Crisi Ultradimensionale",
+        "pt": "Crise Extradimensional",
+        "ja": "異次元クライシス",
+        "ko": "이차원 크라이시스",
+        "zh": "異次元危機"
       },
       "packs": ["Extradimensional"]
     },
@@ -108,7 +128,11 @@
         "fr": "La Clairière d'Évoli",
         "de": "Evoli-Hain",
         "es": "Arboleda de Eevee",
-        "it": "Il Bosco di Eevee"
+        "it": "Il Bosco di Eevee",
+        "pt": "Bosque dos Eevee",
+        "ja": "イーブイガーデン",
+        "ko": "이브이 가든",
+        "zh": "伊布花園"
       },
       "packs": ["Eevee"]
     },
@@ -121,7 +145,11 @@
         "fr": "Sagesse entre Ciel et Mer",
         "de": "Weisheit von Meer und Himmel",
         "es": "Saber Marino y Celeste",
-        "it": "La Via del Cielo e del Mare"
+        "it": "La Via del Cielo e del Mare",
+        "pt": "Sabedoria dos Céus e Mares",
+        "ja": "空と海の導き",
+        "ko": "하늘과 바다의 인도",
+        "zh": "天與海的指引"
       },
       "packs": ["Ho-Oh", "Lugia"]
     },
@@ -134,7 +162,11 @@
         "fr": "Source Secrète",
         "de": "Verborgene Quelle",
         "es": "Manantial Oculto",
-        "it": "Sorgenti Recondite"
+        "it": "Sorgenti Recondite",
+        "pt": "Nascentes Reclusas",
+        "ja": "未知なる水域",
+        "ko": "미지의 수역",
+        "zh": "未知水域"
       },
       "packs": ["Secluded"]
     },
@@ -147,7 +179,11 @@
         "fr": "Booster de Luxe ex",
         "de": "Deluxepack-ex",
         "es": "Sobre Deluxe ex",
-        "it": "Busta Deluxe ex"
+        "it": "Busta Deluxe ex",
+        "pt": "Pacote Deluxe ex",
+        "ja": "ハイクラスパックex",
+        "ko": "하이클래스팩 ex",
+        "zh": "高級擴充包 ex"
       },
       "packs": ["Deluxe"]
     },
@@ -158,7 +194,13 @@
       "name": {
         "en": "Promo A",
         "fr": "Promo-A",
-        "de": "PROMO-A"
+        "de": "PROMO-A",
+        "es": "Promo-A",
+        "it": "Promo-A",
+        "pt": "Promo-A",
+        "ja": "PROMO-A",
+        "ko": "PROMO-A",
+        "zh": "PROMO-A"
       },
       "packs": [
         "Vol. 1",
@@ -187,7 +229,11 @@
         "fr": "Méga-Ascension",
         "de": "Mega-Aufstieg",
         "es": "Megaascenso",
-        "it": "Mega Ascesa"
+        "it": "Mega Ascesa",
+        "pt": "Mega Ascensão",
+        "ja": "メガライジング",
+        "ko": "메가라이징",
+        "zh": "超級崛起"
       },
       "packs": ["Mega Altaria", "Mega Blaziken", "Mega Gyarados"]
     },
@@ -200,7 +246,11 @@
         "fr": "Embrasement Écarlate",
         "de": "Feuerrote Flammen",
         "es": "Fuego Carmesí",
-        "it": "Fiamme Cremisi"
+        "it": "Fiamme Cremisi",
+        "pt": "Chama Carmesim",
+        "ja": "紅蓮ブレイズ",
+        "ko": "홍련 블레이즈",
+        "zh": "紅蓮烈焰"
       },
       "packs": ["Crimson Blaze"]
     },
@@ -213,7 +263,11 @@
         "fr": "Parade Onirique",
         "de": "Traumhafte Parade",
         "es": "Desfile de Ensueño",
-        "it": "Parata Fantasmagorica"
+        "it": "Parata Fantasmagorica",
+        "pt": "Desfile Onírico",
+        "ja": "夢幻パレード",
+        "ko": "몽환 퍼레이드",
+        "zh": "幻夢遊行"
       },
       "packs": ["Gardevoir"]
     },
@@ -224,7 +278,13 @@
       "name": {
         "en": "Paldean Wonders",
         "fr": "Merveilles de Paldea",
-        "de": "Wundervolles Paldea"
+        "de": "Wundervolles Paldea",
+        "es": "Encantos de Paldea",
+        "it": "Meraviglie di Paldea",
+        "pt": "Maravilhas de Paldea",
+        "ja": "パルデアワンダー",
+        "ko": "팔데아 원더",
+        "zh": "帕底亞驚奇"
       },
       "packs": ["Paldean"]
     },
@@ -235,7 +295,13 @@
       "name": {
         "en": "Mega Shine",
         "fr": "Méga-Rayonnement",
-        "de": "Mega-Schillern"
+        "de": "Mega-Schillern",
+        "es": "Megavariocolor",
+        "it": "Mega Splendore",
+        "pt": "Mega Brilho",
+        "ja": "シャイニングメガ",
+        "ko": "샤이닝 메가",
+        "zh": "超級異彩"
       },
       "packs": ["Mega Shine"]
     },
@@ -246,7 +312,13 @@
       "name": {
         "en": "Pulsing Aura",
         "fr": "Aura Palpitante",
-        "de": "Pulsierende Aura"
+        "de": "Pulsierende Aura",
+        "es": "Aura Pulsante",
+        "it": "Aura Pulsante",
+        "pt": "Aura Pulsante",
+        "ja": "波動ビート",
+        "ko": "파동 비트",
+        "zh": "波導奏動"
       },
       "packs": ["Pulsing Aura"]
     },
@@ -257,7 +329,13 @@
       "name": {
         "en": "Paradox Drive",
         "fr": "Propulsion Paradoxe",
-        "de": "Paradoxansturm"
+        "de": "Paradoxansturm",
+        "es": "Impulso Paradójico",
+        "it": "Assalto dei Paradossi",
+        "pt": "Impulso Paradoxal",
+        "ja": "進撃パラドックス",
+        "ko": "진격 패러독스",
+        "zh": "進擊悖謬"
       },
       "packs": ["Paradox Drive"]
     },
@@ -268,7 +346,13 @@
       "name": {
         "en": "Everyday Wonders",
         "fr": "Jours Heureux",
-        "de": "Wunder des Alltags"
+        "de": "Wunder des Alltags",
+        "es": "Maravillas Cotidianas",
+        "it": "Giorni Giocondi",
+        "pt": "Encantos Cotidianos",
+        "ja": "ミラクルデイズ",
+        "ko": "미라클 데이즈",
+        "zh": "奇跡日常"
       },
       "packs": ["Everyday Wonders"]
     },
@@ -279,7 +363,13 @@
       "name": {
         "en": "Ruler of the Skies",
         "fr": "Domination Céleste",
-        "de": "Herrscher der Lüfte"
+        "de": "Herrscher der Lüfte",
+        "es": "Dominador de los Cielos",
+        "it": "Sovrano dei Cieli",
+        "pt": "Mestre dos Céus",
+        "ja": "天空の支配者",
+        "ko": "천공의 지배자",
+        "zh": "天空主宰"
       },
       "packs": ["Ruler of the Skies"]
     },
@@ -290,7 +380,13 @@
       "name": {
         "en": "Team Rocket’s Ambition",
         "fr": "L’Ambition de la Team Rocket",
-        "de": "Team Rockets Pläne"
+        "de": "Team Rockets Pläne",
+        "es": "La Ambición del Team Rocket",
+        "it": "I Loschi Piani del Team Rocket",
+        "pt": "Ambições da Equipe Rocket",
+        "ja": "ロケット団の野望",
+        "ko": "로켓단의 야망",
+        "zh": "火箭隊的野心"
       },
       "packs": ["Team Rocket"]
     },
@@ -301,7 +397,13 @@
       "name": {
         "en": "Deluxe Pack: Mega",
         "fr": "Booster de Luxe Méga",
-        "de": "Deluxepack: Mega"
+        "de": "Deluxepack: Mega",
+        "es": "Sobre Deluxe Mega",
+        "it": "Busta Deluxe Mega",
+        "pt": "Pacote Deluxe Mega",
+        "ja": "ハイクラスパックMEGA",
+        "ko": "하이클래스팩 MEGA",
+        "zh": "高級擴充包 MEGA"
       },
       "packs": ["Deluxe Pack Mega"]
     },
@@ -311,7 +413,13 @@
       "name": {
         "en": "Promo B",
         "fr": "Promo-B",
-        "de": "PROMO-B"
+        "de": "PROMO-B",
+        "es": "Promo-B",
+        "it": "Promo-B",
+        "pt": "Promo-B",
+        "ja": "PROMO-B",
+        "ko": "PROMO-B",
+        "zh": "PROMO-B"
       },
       "packs": [
         "B Series Vol. 1",
@@ -338,7 +446,13 @@
       "name": {
         "en": "Dual Fusion",
         "fr": "Fusion Double",
-        "de": "Duale Fusion"
+        "de": "Duale Fusion",
+        "es": "Fusión Dual",
+        "it": "Fusione Duale",
+        "pt": "Fusão Dupla",
+        "ja": "デュアルフュージョン",
+        "ko": "듀얼 퓨전",
+        "zh": "雙元融合"
       },
       "packs": ["Dual Fusion Mega Mewtwo X", "Dual Fusion Pikachu"]
     },
@@ -348,7 +462,13 @@
       "name": {
         "en": "Promo C",
         "fr": "Promo-C",
-        "de": "PROMO-C"
+        "de": "PROMO-C",
+        "es": "Promo-C",
+        "it": "Promo-C",
+        "pt": "Promo-C",
+        "ja": "PROMO-C",
+        "ko": "PROMO-C",
+        "zh": "PROMO-C"
       },
       "packs": ["C Series Vol. 1"]
     }
@@ -361,7 +481,13 @@
       "name": {
         "en": "Special Pack: First Partners",
         "fr": "Premiers Partenaires",
-        "de": "Erste Partner"
+        "de": "Erste Partner",
+        "es": "Primeros Compañeros",
+        "it": "Primi Amici",
+        "pt": "Parceiros Iniciais",
+        "ja": "はじまりのパートナー",
+        "ko": "첫 파트너",
+        "zh": "最初的夥伴"
       },
       "packs": ["First Partners"]
     }
