@@ -213,7 +213,7 @@ Here is an example of a set object (`sets.json`):
     "es": "Genes Formidables",
     "it": "Geni Supremi",
     "ja": "最強の遺伝子",
-    "ko": "최강의유전자"
+    "ko": "최강의 유전자"
   },
   "packs": ["Charizard", "Mewtwo", "Pikachu"]
 }
