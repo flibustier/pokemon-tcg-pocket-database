@@ -8,6 +8,8 @@
 
 > You’re consulting the v2 of this dataset. If you wish to see older version of this README, please refer to the [v1 branch](https://github.com/flibustier/pokemon-tcg-pocket-database/tree/v1). Please refer to the [changelog](https://github.com/flibustier/pokemon-tcg-pocket-database/blob/main/CHANGELOG.md#2.0.0) for the migration guide.
 
+**[Browse all the sets and cards online](https://flibustier.github.io/pokemon-tcg-pocket-database/)**
+
 ## Overview
 
 This npm package provides a database of Pokemon Trading Card Game Pocket cards and sets (Pokemon TCG Pocket).

@@ -1,0 +1,34 @@
+---
+import CardExplorer from "../../components/CardExplorer.vue";
+import Base from "../../layouts/Base.astro";
+import { cards, rarities, sets } from "../../lib/data";
+import { formatNumber, pack } from "../../lib/shared";
+
+const options = sets.map(({ code, series, name, releaseDate }) => ({
+  code,
+  series,
+  name: name.en!,
+  releaseDate,
+}));
+---
+
+<Base
+  title="All cards, Pokémon TCG Pocket Database"
+  description={`Search the ${formatNumber(cards.length)} cards of Pokémon TCG Pocket by name, set, element, rarity, type or stage.`}
+  nav="cards"
+>
+  <h1>All cards</h1>
+  <CardExplorer
+    client:load
+    initial={JSON.stringify(cards.slice(0, 60).map(pack))}
+    total={cards.length}
+    rarities={rarities}
+    sets={options}
+  />
+</Base>
+
+<style>
+  h1 {
+    padding: clamp(1.5rem, 4vw, 3rem) 0 1.75rem;
+  }
+</style>

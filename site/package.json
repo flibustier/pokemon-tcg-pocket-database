@@ -1,0 +1,23 @@
+{
+  "name": "pokemon-tcg-pocket-database-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "check": "astro check"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.6",
+    "@astrojs/vue": "^7.1.6",
+    "@fontsource-variable/gabarito": "^5.3.0",
+    "@fontsource-variable/martian-mono": "^5.3.0",
+    "astro": "^7.4.13",
+    "vue": "^3.5.46"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.12",
+    "typescript": "~5.9"
+  }
+}

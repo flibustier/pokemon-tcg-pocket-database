@@ -1,0 +1,302 @@
+---
+import Barcode from "../components/Barcode.astro";
+import BarcodePreview from "../components/BarcodePreview.astro";
+import Base from "../layouts/Base.astro";
+import { cards, languages, series, sets, version } from "../lib/data";
+import { capitalize, ELEMENTS, formatDate, formatNumber, LANGUAGES, logoUrl, setUrl, url } from "../lib/shared";
+
+const largest = Math.max(...sets.map((set) => set.cards.length));
+const latest = sets.filter(({ code }) => !/^(PROMO|SP)/.test(code)).at(-1)!;
+
+// Newest first. Promos and special packs are released along with a set, they come after it.
+const isPromo = (code: string) => code.startsWith("PROMO");
+const shelves = series
+  .toSorted((a, b) => Number(a.name.length > 1) - Number(b.name.length > 1) || b.name.localeCompare(a.name))
+  .map(({ name, sets }) => ({
+    name: name.length === 1 ? `Series ${name}` : `${name} packs`,
+    count: sets.reduce((sum, set) => sum + set.cards.length, 0),
+    sets: sets.toSorted(
+      (a, b) => Number(isPromo(a.code)) - Number(isPromo(b.code)) || b.releaseDate.localeCompare(a.releaseDate),
+    ),
+  }));
+
+const CDN = "https://cdn.jsdelivr.net/npm/pokemon-tcg-pocket-database/dist";
+const files = [
+  ["cards.json", "Set, number, name, rarity, image and packs of every card"],
+  ["cards.extra.json", "The same, with element, type, stage, HP, weakness and retreat cost"],
+  ["sets.json", "Sets by series, with release dates and names in nine languages"],
+  ["rarities.json", "Labels, symbols, and the cost to craft or trade"],
+  ["pullRates.json", "Odds of each rarity, by set, kind of pack and slot"],
+];
+---
+
+<Base
+  title="Pokémon TCG Pocket Database: every set and card"
+  description={`Browse all ${formatNumber(cards.length)} cards and ${sets.length} sets of Pokémon TCG Pocket, from an open JSON database.`}
+  nav="sets"
+>
+  <div class="hero">
+    <h1>Every card in Pokémon TCG Pocket</h1>
+    <div class="aside">
+      <p>
+        {formatNumber(cards.length)} cards and {sets.length} sets, up to{" "}
+        <a href={setUrl(latest.code)} data-set-name={latest.code}>{latest.name.en}</a>. Each line below is one card:{" "}
+        <span class="with-mouse">hover to see it.</span><span class="with-finger">touch it.</span>
+      </p>
+      <form action={url("/cards/")} role="search">
+        <label class="visually-hidden" for="q">Search cards</label>
+        <input class="field" id="q" name="q" type="search" placeholder="Search a card" autocomplete="off" />
+        <button class="button solid">Search</button>
+      </form>
+    </div>
+  </div>
+
+  <ul class="legend" aria-label="Colors of the lines">
+    {[...ELEMENTS, "trainer"].map((element) => <li class={`el-${element}`}>{capitalize(element)}</li>)}
+    <li class="height">Taller is rarer</li>
+  </ul>
+
+  {
+    shelves.map((shelf) => (
+      <section>
+        <div class="shelf">
+          <h2>{shelf.name}</h2>
+          <p class="muted">
+            {shelf.sets.length} {shelf.sets.length === 1 ? "set" : "sets"}, {formatNumber(shelf.count)} cards
+          </p>
+        </div>
+        <ol>
+          {shelf.sets.map((set) => (
+            <li>
+              <a class="set" href={setUrl(set.code)}>
+                <img
+                  src={logoUrl(set.code)}
+                  data-set-logo={set.code}
+                  alt=""
+                  width="256"
+                  height="113"
+                  loading="lazy"
+                />
+                <span class="text">
+                  <span class="name" data-set-name={set.code}>{set.name.en}</span>
+                  <span class="mono muted">
+                    {set.code} · {set.cards.length} cards
+                    <br />
+                    {formatDate(set.releaseDate, "short")}
+                  </span>
+                </span>
+              </a>
+              <div class="code">
+                <Barcode set={set.code} cards={set.cards} scale={largest} />
+              </div>
+            </li>
+          ))}
+        </ol>
+      </section>
+    ))
+  }
+
+  <section class="data" id="data">
+    <div>
+      <h2>Use the data</h2>
+      <p>
+        Everything here comes from JSON files, on npm or over HTTP. Card names are available in {
+          languages.map((code) => LANGUAGES[code]).join(", ")
+        }.
+      </p>
+      <pre><code>npm install pokemon-tcg-pocket-database</code></pre>
+      <p class="muted">
+        Version {version}.{" "}<a href="https://github.com/flibustier/pokemon-tcg-pocket-database#readme">Read the docs</a>
+      </p>
+    </div>
+    <dl>
+      {
+        files.map(([file, description]) => (
+          <div>
+            <dt>
+              <a class="mono" href={`${CDN}/${file}`}>
+                {file}
+              </a>
+            </dt>
+            <dd class="muted">{description}</dd>
+          </div>
+        ))
+      }
+    </dl>
+  </section>
+
+  <BarcodePreview />
+</Base>
+
+<style>
+  .hero {
+    display: grid;
+    grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr);
+    gap: 1.5rem 4rem;
+    align-items: end;
+    padding: clamp(2rem, 6vw, 5rem) 0 2.5rem;
+  }
+  .hero h1 {
+    max-width: 12em;
+  }
+  .aside {
+    display: grid;
+    gap: 1.25rem;
+  }
+  form {
+    display: flex;
+    gap: 0.5rem;
+  }
+  form input {
+    flex: 1;
+    min-width: 0;
+  }
+  .with-finger {
+    display: none;
+  }
+  @media (hover: none) {
+    .with-mouse {
+      display: none;
+    }
+    .with-finger {
+      display: inline;
+    }
+  }
+  .legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem 1.1rem;
+    margin: 0;
+    padding: 1rem 0;
+    border-top: 1px solid var(--line);
+    list-style: none;
+    font-size: 0.9375rem;
+  }
+  .legend li::before {
+    content: "";
+    display: inline-block;
+    width: 4px;
+    height: 0.8em;
+    margin-right: 0.45em;
+    background: var(--element);
+  }
+  .legend .height {
+    margin-left: auto;
+    color: var(--muted);
+  }
+  .legend .height::before {
+    content: none;
+  }
+
+  section {
+    margin-top: 3.5rem;
+  }
+  .legend + section {
+    margin-top: 1.5rem;
+  }
+  .shelf {
+    display: flex;
+    align-items: baseline;
+    gap: 1rem;
+    margin-bottom: 0.5rem;
+  }
+  ol {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  ol li {
+    display: grid;
+    grid-template-columns: 22rem 1fr;
+    gap: 1.5rem;
+    align-items: center;
+    padding: 0.75rem 0;
+    border-bottom: 1px solid var(--line);
+  }
+  .set {
+    display: grid;
+    grid-template-columns: 8.5rem 1fr;
+    gap: 1.25rem;
+    align-items: center;
+    text-decoration: none;
+  }
+  .set img {
+    width: 100%;
+    height: auto;
+  }
+  .text {
+    display: grid;
+    gap: 0.2rem;
+  }
+  .name {
+    font-weight: 600;
+    line-height: 1.15;
+  }
+  .set:hover .name {
+    text-decoration: underline;
+    text-underline-offset: 0.2em;
+    text-decoration-thickness: 1px;
+  }
+  .code {
+    height: 4rem;
+  }
+
+  .data {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1.5fr);
+    gap: 2rem 4rem;
+    margin-top: 6rem;
+  }
+  .data > div {
+    display: grid;
+    gap: 1rem;
+    align-content: start;
+  }
+  pre {
+    margin: 0;
+    padding: 0.9rem 1rem;
+    overflow-x: auto;
+    border-radius: var(--radius);
+    background: var(--sunken);
+  }
+  dl {
+    margin: 0;
+  }
+  dl div {
+    display: grid;
+    grid-template-columns: 11rem 1fr;
+    gap: 0.25rem 1rem;
+    align-items: baseline;
+    padding: 0.7rem 0;
+    border-bottom: 1px solid var(--line);
+  }
+  dd {
+    margin: 0;
+  }
+
+  @media (max-width: 60rem) {
+    ol li {
+      grid-template-columns: 1fr;
+      gap: 0.5rem;
+      padding: 1rem 0;
+    }
+    .set {
+      grid-template-columns: 7rem 1fr;
+    }
+    .code {
+      height: 3.25rem;
+    }
+    .hero,
+    .data {
+      grid-template-columns: 1fr;
+    }
+    .legend .height {
+      margin: 0;
+    }
+  }
+  @media (max-width: 40rem) {
+    dl div {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
