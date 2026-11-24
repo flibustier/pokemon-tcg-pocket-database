@@ -1464,7 +1464,7 @@
     "number": 147,
     "rarity": "U",
     "image": "cTR_10_001080_00_MAMORINOPONCHO_U.webp",
-    "name": "Protective Poncho",
+    "name": "Poncho Protettivo",
     "packs": [
       "Gardevoir"
     ]
@@ -1504,7 +1504,7 @@
     "number": 151,
     "rarity": "U",
     "image": "cTR_10_001120_00_JAGURA_U.webp",
-    "name": "Juggler",
+    "name": "Giocoliere",
     "packs": [
       "Gardevoir"
     ]
@@ -1524,7 +1524,7 @@
     "number": 153,
     "rarity": "U",
     "image": "cTR_10_001140_00_TORENINGUERIA_U.webp",
-    "name": "Training Area",
+    "name": "Campo di Allenamento",
     "packs": [
       "Gardevoir"
     ]
@@ -1534,7 +1534,7 @@
     "number": 154,
     "rarity": "U",
     "image": "cTR_10_001150_00_HAJIMARINOHEIGEN_U.webp",
-    "name": "Starting Plains",
+    "name": "Pianura degli Esordi",
     "packs": [
       "Gardevoir"
     ]
@@ -1544,7 +1544,7 @@
     "number": 155,
     "rarity": "U",
     "image": "cTR_10_001160_00_FUSHIGINAHIROBA_U.webp",
-    "name": "Peculiar Plaza",
+    "name": "Piazza Arcana",
     "packs": [
       "Gardevoir"
     ]
@@ -1914,7 +1914,7 @@
     "number": 192,
     "rarity": "SR",
     "image": "cTR_20_001120_00_JAGURA_SR.webp",
-    "name": "Juggler",
+    "name": "Giocoliere",
     "packs": [
       "Gardevoir"
     ]
@@ -2334,7 +2334,7 @@
     "number": 234,
     "rarity": "UR",
     "image": "cTR_20_001080_00_MAMORINOPONCHO_UR.webp",
-    "name": "Protective Poncho",
+    "name": "Poncho Protettivo",
     "packs": [
       "Gardevoir"
     ]

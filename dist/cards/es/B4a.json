@@ -664,7 +664,7 @@
     "number": 67,
     "rarity": "U",
     "image": "cTR_10_001600_00_ROCKETDANNODOROBOUMASHIN_U.webp",
-    "name": "Team Rocket’s Thieving Machine",
+    "name": "Robomatón del Team Rocket",
     "packs": [
       "Team Rocket"
     ]
@@ -674,7 +674,7 @@
     "number": 68,
     "rarity": "U",
     "image": "cTR_10_001610_00_ROCKETDANNOBETOBETOBAZOOKA_U.webp",
-    "name": "Team Rocket’s Goo-zooka",
+    "name": "Babazuca del Team Rocket",
     "packs": [
       "Team Rocket"
     ]
@@ -694,7 +694,7 @@
     "number": 70,
     "rarity": "U",
     "image": "cTR_10_001630_00_ROCKETDANNODAISAKUSEN_U.webp",
-    "name": "Team Rocket’s Master Plan",
+    "name": "Plan Maestro del Team Rocket",
     "packs": [
       "Team Rocket"
     ]
@@ -704,7 +704,7 @@
     "number": 71,
     "rarity": "U",
     "image": "cTR_10_001640_00_ROCKETDANNOBOSS_U.webp",
-    "name": "Team Rocket’s Boss",
+    "name": "Jefe del Team Rocket",
     "packs": [
       "Team Rocket"
     ]
@@ -714,7 +714,7 @@
     "number": 72,
     "rarity": "U",
     "image": "cTR_10_001650_00_GAMECENTER_U.webp",
-    "name": "Arcade",
+    "name": "Salón Recreativo",
     "packs": [
       "Team Rocket"
     ]
@@ -854,7 +854,7 @@
     "number": 86,
     "rarity": "SR",
     "image": "cTR_20_001630_00_ROCKETDANNODAISAKUSEN_SR.webp",
-    "name": "Team Rocket’s Master Plan",
+    "name": "Plan Maestro del Team Rocket",
     "packs": [
       "Team Rocket"
     ]
@@ -864,7 +864,7 @@
     "number": 87,
     "rarity": "SR",
     "image": "cTR_20_001640_00_ROCKETDANNOBOSS_SR.webp",
-    "name": "Team Rocket’s Boss",
+    "name": "Jefe del Team Rocket",
     "packs": [
       "Team Rocket"
     ]
@@ -934,7 +934,7 @@
     "number": 94,
     "rarity": "IM",
     "image": "cTR_20_001630_01_ROCKETDANNODAISAKUSEN_IM.webp",
-    "name": "Team Rocket’s Master Plan",
+    "name": "Plan Maestro del Team Rocket",
     "packs": [
       "Team Rocket"
     ]
@@ -1094,7 +1094,7 @@
     "number": 110,
     "rarity": "UR",
     "image": "cTR_20_001610_00_ROCKETDANNOBETOBETOBAZOOKA_UR.webp",
-    "name": "Team Rocket’s Goo-zooka",
+    "name": "Babazuca del Team Rocket",
     "packs": [
       "Team Rocket"
     ]

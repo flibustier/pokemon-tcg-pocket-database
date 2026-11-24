@@ -3073,7 +3073,7 @@
     "set": "A4b",
     "number": 308,
     "rarity": "U",
-    "name": "Eevee Bag",
+    "name": "Borsa Eevee",
     "image": "cTR_10_000670_00_IIBUINOBAKKU_U.webp",
     "packs": [
       "Deluxe"
@@ -3083,7 +3083,7 @@
     "set": "A4b",
     "number": 309,
     "rarity": "U",
-    "name": "Eevee Bag",
+    "name": "Borsa Eevee",
     "image": "cTR_10_000670_01_IIBUINOBAKKU_U.webp",
     "packs": [
       "Deluxe"
@@ -3093,7 +3093,7 @@
     "set": "A4b",
     "number": 310,
     "rarity": "U",
-    "name": "Elemental Switch",
+    "name": "Scambio Elementale",
     "image": "cTR_10_000710_00_EREMENTARUTSUKEKAE_U.webp",
     "packs": [
       "Deluxe"
@@ -3103,7 +3103,7 @@
     "set": "A4b",
     "number": 311,
     "rarity": "U",
-    "name": "Elemental Switch",
+    "name": "Scambio Elementale",
     "image": "cTR_10_000710_01_EREMENTARUTSUKEKAE_U.webp",
     "packs": [
       "Deluxe"
@@ -3173,7 +3173,7 @@
     "set": "A4b",
     "number": 318,
     "rarity": "U",
-    "name": "Electrical Cord",
+    "name": "Prolunga",
     "image": "cTR_10_000620_00_EREKIKORD_U.webp",
     "packs": [
       "Deluxe"
@@ -3183,7 +3183,7 @@
     "set": "A4b",
     "number": 319,
     "rarity": "U",
-    "name": "Electrical Cord",
+    "name": "Prolunga",
     "image": "cTR_10_000620_01_EREKIKORD_U.webp",
     "packs": [
       "Deluxe"
@@ -3313,7 +3313,7 @@
     "set": "A4b",
     "number": 332,
     "rarity": "U",
-    "name": "Lyra",
+    "name": "Cetra",
     "image": "cTR_10_000770_00_KOTONE_U.webp",
     "packs": [
       "Deluxe"
@@ -3323,7 +3323,7 @@
     "set": "A4b",
     "number": 333,
     "rarity": "U",
-    "name": "Lyra",
+    "name": "Cetra",
     "image": "cTR_10_000770_01_KOTONE_U.webp",
     "packs": [
       "Deluxe"
@@ -3353,7 +3353,7 @@
     "set": "A4b",
     "number": 336,
     "rarity": "U",
-    "name": "Silver",
+    "name": "Argento",
     "image": "cTR_10_000780_00_SILVER_U.webp",
     "packs": [
       "Deluxe"
@@ -3363,7 +3363,7 @@
     "set": "A4b",
     "number": 337,
     "rarity": "U",
-    "name": "Silver",
+    "name": "Argento",
     "image": "cTR_10_000780_01_SILVER_U.webp",
     "packs": [
       "Deluxe"

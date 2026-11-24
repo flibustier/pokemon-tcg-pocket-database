@@ -2203,7 +2203,7 @@
     "set": "B1",
     "number": 213,
     "rarity": "U",
-    "name": "Prank Spinner",
+    "name": "Ruleta Jugarreta",
     "image": "cTR_10_000870_00_ITAZURAROULETTE_U.webp",
     "packs": [
       "Mega Blaziken"
@@ -2223,7 +2223,7 @@
     "set": "B1",
     "number": 215,
     "rarity": "U",
-    "name": "Hitting Hammer",
+    "name": "Mazo Golpeador",
     "image": "cTR_10_000890_00_HITHAMMER_U.webp",
     "packs": [
       "Mega Gyarados"
@@ -2243,7 +2243,7 @@
     "set": "B1",
     "number": 217,
     "rarity": "U",
-    "name": "Flame Patch",
+    "name": "Refuerzo Fuego",
     "image": "cTR_10_000910_00_FUREIMUPACCHI_U.webp",
     "packs": [
       "Mega Blaziken"
@@ -2263,7 +2263,7 @@
     "set": "B1",
     "number": 219,
     "rarity": "U",
-    "name": "Heavy Helmet",
+    "name": "Casco Pesado",
     "image": "cTR_10_000930_00_BABYMET_U.webp",
     "packs": [
       "Mega Gyarados"
@@ -2273,7 +2273,7 @@
     "set": "B1",
     "number": 220,
     "rarity": "U",
-    "name": "Lucky Mittens",
+    "name": "Manoplas Suerte",
     "image": "cTR_10_000940_00_LUCKYMITTENS_U.webp",
     "packs": [
       "Mega Altaria"
@@ -2283,7 +2283,7 @@
     "set": "B1",
     "number": 221,
     "rarity": "U",
-    "name": "Marlon",
+    "name": "Ciprián",
     "image": "cTR_10_000950_00_SHIZUI_U.webp",
     "packs": [
       "Mega Gyarados"
@@ -2303,7 +2303,7 @@
     "set": "B1",
     "number": 223,
     "rarity": "U",
-    "name": "May",
+    "name": "Aura",
     "image": "cTR_10_000970_00_HARUKA_U.webp",
     "packs": [
       "Mega Blaziken"
@@ -2733,7 +2733,7 @@
     "set": "B1",
     "number": 266,
     "rarity": "SR",
-    "name": "Marlon",
+    "name": "Ciprián",
     "image": "cTR_20_000950_00_SHIZUI_SR.webp",
     "packs": [
       "Mega Gyarados"
@@ -2753,7 +2753,7 @@
     "set": "B1",
     "number": 268,
     "rarity": "SR",
-    "name": "May",
+    "name": "Aura",
     "image": "cTR_20_000970_00_HARUKA_SR.webp",
     "packs": [
       "Mega Blaziken"
@@ -3387,7 +3387,7 @@
     "set": "B1",
     "number": 331,
     "rarity": "UR",
-    "name": "Flame Patch",
+    "name": "Refuerzo Fuego",
     "image": "cTR_20_000910_00_FUREIMUPACCHI_UR.webp",
     "packs": [
       "Mega Altaria",

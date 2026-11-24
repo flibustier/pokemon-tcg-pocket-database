@@ -1212,7 +1212,7 @@
     "number": 121,
     "rarity": "U",
     "image": "cTR_10_001680_00_GOLDSPRAY_U.webp",
-    "name": "Max Repel",
+    "name": "Repelente Máximo",
     "packs": [
       "Dual Fusion Mega Mewtwo X"
     ]
@@ -1263,7 +1263,7 @@
     "number": 126,
     "rarity": "U",
     "image": "cTR_10_001730_00_GREENNOCHOUHATSU_U.webp",
-    "name": "Blue’s Provocation",
+    "name": "Provocación de Azul",
     "packs": [
       "Dual Fusion Mega Mewtwo X"
     ]
@@ -1273,7 +1273,7 @@
     "number": 127,
     "rarity": "U",
     "image": "cTR_10_001740_00_SERENANOSENTAKU_U.webp",
-    "name": "Serena’s Choice",
+    "name": "Elección de Serena",
     "packs": [
       "Dual Fusion Pikachu"
     ]
@@ -1293,7 +1293,7 @@
     "number": 129,
     "rarity": "U",
     "image": "cTR_10_001760_00_FRIENDLYSHOPNOONIISAN_U.webp",
-    "name": "Poké Mart Guy",
+    "name": "Chico de la Tienda Pokémon",
     "packs": [
       "Dual Fusion Pikachu"
     ]
@@ -1303,7 +1303,7 @@
     "number": 130,
     "rarity": "U",
     "image": "cTR_10_001770_00_HOPETRAINER_U.webp",
-    "name": "Rising Star",
+    "name": "Entrenadores Promesa",
     "packs": [
       "Dual Fusion Mega Mewtwo X"
     ]
@@ -1313,7 +1313,7 @@
     "number": 131,
     "rarity": "U",
     "image": "cTR_10_001780_00_SABIRETASUTANDO_U.webp",
-    "name": "Abandoned Station",
+    "name": "Estación Abandonada",
     "packs": [
       "Dual Fusion Mega Mewtwo X"
     ]
@@ -1660,7 +1660,7 @@
     "number": 166,
     "rarity": "SR",
     "image": "cTR_20_001730_00_GREENNOCHOUHATSU_SR.webp",
-    "name": "Blue’s Provocation",
+    "name": "Provocación de Azul",
     "packs": [
       "Dual Fusion Mega Mewtwo X"
     ]
@@ -1670,7 +1670,7 @@
     "number": 167,
     "rarity": "SR",
     "image": "cTR_20_001740_00_SERENANOSENTAKU_SR.webp",
-    "name": "Serena’s Choice",
+    "name": "Elección de Serena",
     "packs": [
       "Dual Fusion Pikachu"
     ]
@@ -1690,7 +1690,7 @@
     "number": 169,
     "rarity": "SR",
     "image": "cTR_20_001760_00_FRIENDLYSHOPNOONIISAN_SR.webp",
-    "name": "Poké Mart Guy",
+    "name": "Chico de la Tienda Pokémon",
     "packs": [
       "Dual Fusion Pikachu"
     ]
@@ -1700,7 +1700,7 @@
     "number": 170,
     "rarity": "SR",
     "image": "cTR_20_001770_00_HOPETRAINER_SR.webp",
-    "name": "Rising Star",
+    "name": "Entrenadores Promesa",
     "packs": [
       "Dual Fusion Mega Mewtwo X"
     ]

@@ -1531,7 +1531,7 @@
     "set": "A4",
     "number": 151,
     "rarity": "U",
-    "name": "Elemental Switch",
+    "name": "Permuta Elemental",
     "image": "cTR_10_000710_00_EREMENTARUTSUKEKAE_U.webp",
     "packs": [
       "Lugia"
@@ -1541,7 +1541,7 @@
     "set": "A4",
     "number": 152,
     "rarity": "U",
-    "name": "Squirt Bottle",
+    "name": "Squirgadera",
     "image": "cTR_10_000720_00_ZEHIGAMEJOURO_U.webp",
     "packs": [
       "Lugia"
@@ -1551,7 +1551,7 @@
     "set": "A4",
     "number": 153,
     "rarity": "U",
-    "name": "Steel Apron",
+    "name": "Peto de Acero",
     "image": "cTR_10_000730_00_GOUTETUNOMAEKAKE_U.webp",
     "packs": [
       "Ho-Oh"
@@ -1561,7 +1561,7 @@
     "set": "A4",
     "number": 154,
     "rarity": "U",
-    "name": "Dark Pendant",
+    "name": "Colgante Sombrío",
     "image": "cTR_10_000740_00_DARKPENDANTO_U.webp",
     "packs": [
       "Ho-Oh"
@@ -1592,7 +1592,7 @@
     "set": "A4",
     "number": 157,
     "rarity": "U",
-    "name": "Lyra",
+    "name": "Lira",
     "image": "cTR_10_000770_00_KOTONE_U.webp",
     "packs": [
       "Lugia"
@@ -1602,7 +1602,7 @@
     "set": "A4",
     "number": 158,
     "rarity": "U",
-    "name": "Silver",
+    "name": "Plata",
     "image": "cTR_10_000780_00_SILVER_U.webp",
     "packs": [
       "Ho-Oh"
@@ -1612,7 +1612,7 @@
     "set": "A4",
     "number": 159,
     "rarity": "U",
-    "name": "Fisher",
+    "name": "Pescador",
     "image": "cTR_10_000790_00_FISHER_U.webp",
     "packs": [
       "Lugia"
@@ -1992,7 +1992,7 @@
     "set": "A4",
     "number": 197,
     "rarity": "SR",
-    "name": "Lyra",
+    "name": "Lira",
     "image": "cTR_20_000770_00_KOTONE_SR.webp",
     "packs": [
       "Lugia"
@@ -2002,7 +2002,7 @@
     "set": "A4",
     "number": 198,
     "rarity": "SR",
-    "name": "Silver",
+    "name": "Plata",
     "image": "cTR_20_000780_00_SILVER_SR.webp",
     "packs": [
       "Ho-Oh"
@@ -2012,7 +2012,7 @@
     "set": "A4",
     "number": 199,
     "rarity": "SR",
-    "name": "Fisher",
+    "name": "Pescador",
     "image": "cTR_20_000790_00_FISHER_SR.webp",
     "packs": [
       "Lugia"
