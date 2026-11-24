@@ -5,6 +5,7 @@ import {
   mkdirSync,
   openSync,
   readSync,
+  rmSync,
   statSync,
 } from "fs";
 import { extname, join } from "path";
@@ -12,6 +13,7 @@ import { extname, join } from "path";
 import sets from "../dist/sets.json";
 import allCards from "../dist/cards.json";
 const IMAGE_DIRECTORY = "../dist/images";
+const MISSINGS_FILE = join(__dirname, "../missings.txt");
 
 const DEFAULT_HEADERS = {
   "User-Agent":
@@ -51,7 +53,6 @@ const isValidWebpFile = (filePath: string): boolean => {
 
 const LANGUAGES = [
   "en_US",
-  /*
   "fr_FR",
   "es_ES",
   "de_DE",
@@ -60,7 +61,6 @@ const LANGUAGES = [
   "ja_JP",
   "ko_KR",
   "zh_TW",
-  */
 ];
 
 interface Card {
@@ -120,6 +120,9 @@ const downloadImage = async (card: Card, maxRetries = 3) => {
   }
 };
 
+// The host refuses scripted requests: retrying is pointless
+class ForbiddenError extends Error {}
+
 const downloadSetImage = async (
   url: string,
   path: string,
@@ -128,6 +131,9 @@ const downloadSetImage = async (
   for (let attempt = 1; attempt <= maxRetries; attempt++) {
     try {
       const result = await fetch(url, { headers: DEFAULT_HEADERS });
+      if (result.status === 403) {
+        throw new ForbiddenError(`HTTP 403 ${result.statusText}`);
+      }
       if (!result.ok) {
         throw new Error(`HTTP ${result.status} ${result.statusText}`);
       }
@@ -149,7 +155,7 @@ const downloadSetImage = async (
       await Bun.write(path, uint8);
       return;
     } catch (err) {
-      if (attempt === maxRetries) {
+      if (err instanceof ForbiddenError || attempt === maxRetries) {
         throw err;
       }
       console.warn(
@@ -181,6 +187,9 @@ const downloadImages = async () => {
   }
 
   if (process.env.ASSETS_SET_IMAGES_ENDPOINT) {
+    const missings: string[] = [];
+    let forbidden = false;
+
     for (const set of Object.values(sets).flat()) {
       console.info(`Starting download of set ${set.code}`);
       for (const lang of LANGUAGES) {
@@ -190,19 +199,33 @@ const downloadImages = async () => {
             : capitalize(set.code)
         }_${lang}.webp`;
         const path = join(__dirname, IMAGE_DIRECTORY, "sets", setImageName);
-        if (!isValidWebpFile(path)) {
-          try {
-            await downloadSetImage(
-              `${process.env.ASSETS_SET_IMAGES_ENDPOINT}/${setImageName}`,
-              path,
-            );
-            console.log(`Downloaded ${setImageName}`);
-            await sleep(100);
-          } catch (err) {
-            console.error(`Failed to download ${setImageName}: ${err}`);
-          }
+        if (isValidWebpFile(path)) continue;
+
+        const url = `${process.env.ASSETS_SET_IMAGES_ENDPOINT}/${setImageName}`;
+        if (forbidden) {
+          missings.push(url);
+          continue;
+        }
+        try {
+          await downloadSetImage(url, path);
+          console.log(`Downloaded ${setImageName}`);
+          await sleep(100);
+        } catch (err) {
+          console.error(`Failed to download ${setImageName}: ${err}`);
+          missings.push(url);
+          forbidden = err instanceof ForbiddenError;
         }
       }
+    }
+
+    if (missings.length > 0) {
+      await Bun.write(MISSINGS_FILE, missings.join("\n") + "\n");
+      console.warn(
+        `${missings.length} set logo(s) missing, URLs written to missings.txt. ` +
+          "Save them from your browser, then run `bun run import-logos [directory]` (default: ~/Downloads)",
+      );
+    } else {
+      rmSync(MISSINGS_FILE, { force: true });
     }
   }
 
