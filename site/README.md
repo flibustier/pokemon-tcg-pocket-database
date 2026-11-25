@@ -1,8 +1,8 @@
 # Website
 
-The site of the database: all the sets and cards of `../dist`, on <https://flibustier.github.io/pokemon-tcg-pocket-database/>.
+The site of the database: all the sets and cards of `../dist`, on <https://cards.pokemon-tcg.exchange/>.
 
-GitHub Pages serves the `gh-pages` branch, which only holds the built pages. `.github/workflows/pages.yml` builds it again each time `dist/` or `site/` changes on `main`.
+GitHub Pages serves the `gh-pages` branch, which only holds the built pages. The domain is in `public/CNAME`. `.github/workflows/pages.yml` builds it again each time `dist/` or `site/` changes on `main`.
 
 Built with [Astro](https://astro.build), and a [Vue](https://vuejs.org) island for the card explorer.
 

@@ -3,8 +3,7 @@ import sitemap from "@astrojs/sitemap";
 import vue from "@astrojs/vue";
 
 export default defineConfig({
-  site: "https://flibustier.github.io",
-  base: "/pokemon-tcg-pocket-database",
+  site: "https://cards.pokemon-tcg.exchange",
   trailingSlash: "always",
   integrations: [vue(), sitemap()],
   vite: {
