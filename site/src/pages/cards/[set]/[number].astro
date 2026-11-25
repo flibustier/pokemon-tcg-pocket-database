@@ -59,6 +59,8 @@ const names = [
     .map((lang) => [lang, translatedNames.get(lang)!.get(id)!]),
 ] as [string, string][];
 const type = TYPES[card.type] ?? capitalize(card.type);
+// Promo cards are not on pokemon-tcg.exchange
+const tradeable = rarity.tradeable && !set.code.startsWith("PROMO");
 const number = card.number > 0 ? `${card.number} / ${set.cards.length}` : String(card.number);
 ---
 
@@ -200,6 +202,16 @@ const number = card.number > 0 ? `${card.number} / ${set.cards.length}` : String
         </div>
       </dl>
 
+      {
+        tradeable && (
+          <a class="button solid trade" href="https://pokemon-tcg.exchange/">
+            <span>
+              Trade <span data-set-name={set.code}>{setName}</span> cards with other players
+            </span>
+          </a>
+        )
+      }
+
       <section>
         <h2>Names</h2>
         <dl class="names">
@@ -312,6 +324,14 @@ const number = card.number > 0 ? `${card.number} / ${set.cards.length}` : String
   }
   .facts dd {
     font-weight: 500;
+  }
+  .trade {
+    justify-self: start;
+    height: auto;
+    min-height: 2.5rem;
+    padding-block: 0.4rem;
+    white-space: normal;
+    text-align: center;
   }
   .list {
     display: flex;
