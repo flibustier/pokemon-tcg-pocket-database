@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cards.pokemon-tcg.exchange/sitemap-index.xml
