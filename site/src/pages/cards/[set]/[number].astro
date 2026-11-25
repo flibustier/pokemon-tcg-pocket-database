@@ -1,5 +1,6 @@
 ---
 import ElementIcon from "../../../components/ElementIcon.vue";
+import ExchangeLogo from "../../../components/ExchangeLogo.astro";
 import RaritySymbol from "../../../components/RaritySymbol.vue";
 import Base from "../../../layouts/Base.astro";
 import {
@@ -12,6 +13,7 @@ import {
   translatedNames,
   type CardSet,
 } from "../../../lib/data";
+import { exchangeUrl } from "../../../lib/exchange";
 import {
   capitalize,
   cardId,
@@ -204,7 +206,8 @@ const number = card.number > 0 ? `${card.number} / ${set.cards.length}` : String
 
       {
         tradeable && (
-          <a class="button solid trade" href="https://pokemon-tcg.exchange/">
+          <a class="button solid trade" href={exchangeUrl(setName)}>
+            <ExchangeLogo />
             <span>
               Trade <span data-set-name={set.code}>{setName}</span> cards with other players
             </span>
@@ -331,7 +334,9 @@ const number = card.number > 0 ? `${card.number} / ${set.cards.length}` : String
     min-height: 2.5rem;
     padding-block: 0.4rem;
     white-space: normal;
-    text-align: center;
+  }
+  .trade :global(svg) {
+    flex: none;
   }
   .list {
     display: flex;
