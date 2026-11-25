@@ -1,10 +1,11 @@
 {
   "name": "pokemon-tcg-pocket-database",
-  "version": "2.13.2",
+  "version": "2.14.0",
   "description": "Pokemon TCG Pocket complete cards and sets JSON database",
   "files": [
     "dist/*.json",
     "dist/cards/*.json",
+    "dist/cards/*/*.json",
     "dist/images/rarities/*"
   ],
   "scripts": {
