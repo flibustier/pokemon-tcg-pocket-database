@@ -96,10 +96,9 @@ const json = `https://cdn.jsdelivr.net/npm/pokemon-tcg-pocket-database/dist/card
                   </tr>
                 </thead>
                 <tbody>
-                  {/* The slots of B2a and B2b are numbered from 0, the others from 1 */}
-                  {Object.values(slots).map((odds, i) => (
+                  {Object.entries(slots).map(([slot, odds]) => (
                     <tr>
-                      <th scope="row">{i + 1}</th>
+                      <th scope="row">{slot}</th>
                       {raritiesOf(slots).map((code) => (
                         <td>{odds[code] ? `${odds[code]}%` : <span class="muted">–</span>}</td>
                       ))}
