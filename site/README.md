@@ -16,3 +16,4 @@ bun run build # every page, in dist/
 - Data is read from `../dist` when building. A new set needs no change here, and neither does a new `cards.xx.json` language: add its name to `LANGUAGES` in `src/lib/shared.ts` if it is not there.
 - Set logos, packs and rarities come from `../dist/images`, through links in `public/images`.
 - Card images are not in this repository, they come from `cdn.pokemon-tcg.exchange`.
+- Visits are counted without cookies by [GoatCounter](https://www.goatcounter.com), on `analytics.cards.pokemon-tcg.exchange`. Local ones are not.
